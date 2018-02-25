@@ -1,0 +1,2844 @@
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION
+PICES SCIENTIFIC REPORT  
+No. 50, 2016
+PICES SCIENTIFIC REPORT No. 50,  2016
+ISBN  978-1-927797-21-1
+ISSN 1198-273X
+Spatial Ecology of Marine Top Predators 
+in the North Pacific: 
+Tools for Integrating across Datasets and 
+Identifying High Use Areas
+ 
+ 
+ 
+PICES PUBLICATIONS 
+ 
+ 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+ 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+ 
+ 
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which 
+document the administrative and scientific activities 
+of the Organization, and its formal decisions, by 
+calendar year.   
+ 
+PICES SCIENTIFIC REPORTS – include 
+proceedings of PICES workshops, final reports of 
+PICES expert groups, data reports and planning 
+reports. 
+ 
+PICES TECHNICAL REPORTS – are on-line 
+reports published on data/monitoring activities that 
+require frequent updates. 
+ 
+SPECIAL PUBLICATIONS – are products that 
+are destined for general or specific audiences. 
+ 
+JOURNAL SPECIAL ISSUES – are peer-
+reviewed publications resulting from symposia 
+and Annual Meeting scientific sessions and 
+workshops that are published in conjunction with 
+commercial scientific journals.   
+ 
+BOOKS – are peer-reviewed, journal-quality 
+publications of broad interest. 
+ 
+PICES PRESS – is a semi-annual newsletter 
+providing timely updates on the state of the 
+ocean/climate in the North Pacific, with highlights of 
+current research and associated activities of PICES. 
+ 
+ABSTRACT BOOKS – are prepared for PICES 
+Annual Meetings and symposia (co-)organized by 
+PICES. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For further information on our publications, visit PICES at www.pices.int. 
+ 
+Front cover figure 
+Photo of a Short-tailed Albatross, Phoebastria albatrus, taken in the Bering Sea during the 2013 cruise 
+aboard the T/S Oshoro-maru.  Credit: Bungo Nishizawa, Hokkaido University.       
+ 
+ 
+PICES SCIENTIFIC REPORTS 
+ 
+ 
+ 
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+scientific content of these publications are not generally conducted. 
+ 
+Printed copies of Scientific Reports are available upon request from 
+ 
+PICES Secretariat 
+P.O. Box 6000 
+Sidney, British Columbia 
+Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int 
+ 
+ 
+On-line versions of PICES Scientific Reports can be found at: meetings.pices.int/publications/scientific-reports  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report was developed under the guidance of the PICES Science Board and its Biological Oceanography 
+Committee.  The views expressed in this report are those of participating scientists under their responsibilities. 
+ 
+ 
+ 
+This document should be cited as follows: 
+ 
+Watanuki, Y., Suryan, R.M., Sasaki, H., Yamamoto, T., Hazen, E.L., Renner, M., Santora, J.A., O’Hara, P.D. 
+and Sydeman, W.J. (Eds.) 2016. Spatial Ecology of Marine Top Predators in the North Pacific: Tools for 
+Integrating across Datasets and Identifying High Use Areas. PICES Sci. Rep. No. 50, 55 pp.  
+Continued on inside back page 
+PICES Scientific Reports 
+ 
+ 
+Hargreaves, N.B., Hunter, J.R., Sugimoto, T. and Wada, T. 
+(Eds.) 1993.  Coastal Pelagic Fishes (Report of Working 
+Group 3); Subarctic Gyre (Report of Working Group 6).  
+PICES Sci. Rep. No. 1, 130 pp. 
+Talley, L.D. and Nagata, Y. (Eds.) 1995.  The Okhotsk Sea 
+and Oyashio Region (Report of Working Group 1).  
+PICES Sci. Rep. No. 2, 227 pp. 
+Anonymous. 1995.  Report of the PICES-STA Workshop on 
+Monitoring Subarctic North Pacific Variability.  PICES 
+Sci. Rep. No. 3, 94 pp. 
+Hargreaves, N.B. (Ed.) 1996. Science Plan, Implementation 
+Plan (Report of the PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity).  
+PICES Sci. Rep. No. 4, 64 pp. 
+LeBlond, P.H. and Endoh, M. (Eds.) 1996.  Modelling of the 
+Subarctic North Pacific Circulation (Report of Working 
+Group 7).  PICES Sci. Rep. No. 5, 91 pp. 
+Anonymous. 1996. Proceedings of the Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. 
+6, 426 pp. 
+Beamish, R.J., Hollowed, A.B., Perry, R.I., Radchenko, V.I., 
+Yoo, S. and Terazaki, M. (Eds.) 1997.  Summary of the 
+Workshop on Conceptual/Theoretical Studies and Model 
+Development and the 1996 MODEL, BASS and REX 
+Task Team Reports.  PICES Sci. Rep. No. 7, 93 pp. 
+Nagata, Y. and Lobanov, V.B. (Eds.) 1998.  Multilingual 
+Nomenclature of Place and Oceanographic Names in the 
+Region of the Okhotsk Sea.  PICES Sci. Rep. No. 8, 57 
+pp. (Reprint from MIRC Science Report, No. 1, 1998) 
+Hollowed, A.B., Ikeda, T., Radchenko, V.I. and Wada, T. 
+(Organizers) 1998.  PICES Climate Change and Carrying 
+Capacity Workshop on the Development of Cooperative 
+Research in Coastal Regions of the North Pacific.  
+PICES Sci. Rep. No. 9, 59 pp. 
+Freeland, H.J., Peterson, W.T. and Tyler, A. (Eds.) 1999.  
+Proceedings of the 1998 Science Board Symposium on 
+The Impacts of the 1997/98 El Niño Event on the North 
+Pacific Ocean and Its Marginal Seas.  PICES Sci. Rep. 
+No. 10, 110 pp. 
+Dugdale, R.C., Hay, D.E., McFarlane, G.A., Taft, B.A. and 
+Yoo, S. (Eds.) 1999.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Summary of the 1998 MODEL, MONITOR and REX 
+Workshops, and Task Team Reports.  PICES Sci. Rep. 
+No. 11, 88 pp. 
+Lobanov, V.B., Nagata, Y. and Riser, S.C. (Eds.) 1999.  
+Proceedings of the Second PICES Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. 
+12, 203 pp. 
+Danchenkov, M.A., Aubrey, D.G. and Hong, G.H. 2000.  
+Bibliography of the Oceanography of the Japan/East Sea.  
+PICES Sci. Rep. No. 13, 99 pp. 
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. 
+Predation by Marine Birds and Mammals in the 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. 
+14, 168 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2000.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 1999 MONITOR and 
+REX Workshops, and the 2000 MODEL Workshop on 
+Lower Trophic Level Modelling.  PICES Sci. Rep. No. 15, 
+148 pp. 
+Stehr, C.M. and Horiguchi, T. (Eds.) 2001.  Environmental 
+Assessment of Vancouver Harbour Data Report for the 
+PICES MEQ Practical Workshop.  PICES Sci. Rep. No. 
+16, 213 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2001.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 2000 BASS, MODEL, 
+MONITOR and REX Workshops, and the 2001 BASS/ 
+MODEL Workshop.  PICES Sci. Rep. No. 17, 125 pp. 
+Alexander, V., Bychkov, A.S., Livingston, P. and McKinnell, 
+S.M. (Eds.) 2001.  Proceedings of the PICES/CoML/IPRC 
+Workshop on “Impact of Climate Variability on Observation 
+and Prediction of Ecosystem and Biodiversity Changes in 
+the North Pacific”.  PICES Sci. Rep. No. 18, 210 pp. 
+Otto, R.S. and Jamieson, G.S. (Eds.) 2001.  Commercially 
+Important Crabs, Shrimps and Lobsters of the North 
+Pacific Ocean.  PICES Sci. Rep. No. 19, 79 pp. 
+Batchelder, H.P., McFarlane, G.A., Megrey, B.A., Mackas, 
+D.L. and Peterson, W.T. (Eds.) 2002.  PICES-GLOBEC 
+International Program on Climate Change and Carrying 
+Capacity: Report of the 2001 BASS/MODEL, MONITOR 
+and REX Workshops, and the 2002 MODEL/REX 
+Workshop.  PICES Sci. Rep. No. 20, 176 pp. 
+Miller, C.B. (Ed.) 2002.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Report of the PICES 2002 Volunteer Observing Ship 
+Workshop.  PICES Sci. Rep. No. 21, 38 pp. 
+Perry, R.I., Livingston, P. and Bychkov, A.S. (Eds.) 2002.  
+PICES Science: The First Ten Years and a Look to the 
+Future.  PICES Sci. Rep. No. 22, 102 pp. 
+Taylor, F.J.R. and Trainer, V.L. (Eds.) 2002.  Harmful Algal 
+Blooms in the PICES Region of the North Pacific.  
+PICES Sci. Rep. No. 23, 152 pp. 
+Feely, R.A. (Ed.) 2003.  CO
+2
+ in the North Pacific Ocean (Working 
+Group 13 Final Report).  PICES Sci. Rep. No. 24, 49 pp. 
+Aydin, K.Y., McFarlane, G.A., King, J.R. and Megrey, B.A. 
+(Eds.)  2003. PICES-GLOBEC International Program on 
+Climate Change and Carrying Capacity:  The BASS/ 
+MODEL Report on Trophic Models of the Subarctic 
+Pacific Basin Ecosystems.  PICES Sci. Rep. No. 25, 93 pp. 
+McKinnell, S.M. (Ed.) 2004.  Proceedings of the Third 
+Workshop on the Okhotsk Sea and Adjacent Areas.  
+PICES Sci. Rep. No. 26, 275 pp. 
+Kishi, M.J. (Ed.) 2004.  Report of the MODEL Task Team 
+Second Workshop to Develop a Marine Ecosystem Model 
+of the North Pacific Ocean including Pelagic Fishes. 
+PICES Sci. Rep. No. 27, 49 pp. 
+King, J.R. (Ed.)  2005.  Report of the Study Group on the 
+Fisheries and Ecosystem Responses to Recent Regime 
+Shifts. PICES Sci. Rep. No. 28, 162 pp. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 50 
+2016 
+ 
+ 
+ 
+ 
+ 
+ 
+Spatial Ecology of Marine Top Predators in  
+the North Pacific:  
+Tools for Integrating across  
+Datasets and Identifying High Use Areas 
+ 
+ 
+ 
+Edited by  
+Yutaka Watanuki, Robert M. Suryan, Hiroko Sasaki, Takashi Yamamoto, Elliott L. Hazen,  
+Martin Renner, Jarrod A. Santora, Patrick D. O’Hara and William J. Sydeman 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 2016 
+North Pacific Marine Science Organization (PICES) 
+P.O. Box 6000, Sidney, BC, V8L 4B2, Canada  
+E-mail:  secretariat@pices.int 
+www.pices.int 
+ 
+ 
+PICES Scientific Report No. 50 iii 
+Table of Contents 
+ 
+Acknowledgements ....................................................................................................................................... v 
+Summary .................................................................................................................................................... vii 
+1 Introduction ............................................................................................................................................ 1 
+2 Integrating Tracking and Ship-based Survey Data ....................................................................................... 5 
+2.1 Introduction ................................................................................................................................. 5 
+2.2 Biases ........................................................................................................................................... 6 
+2.3 Case studies ................................................................................................................................. 6 
+2.4 Data integration ........................................................................................................................ 11 
+2.5 Conclusions ............................................................................................................................... 12 
+3 Strengths and Limitations of Habitat Modeling .......................................................................................... 13 
+3.1 Introduction ............................................................................................................................... 13 
+3.2 Innate limitation: Biology of organisms .................................................................................... 15 
+3.3 Response variables .................................................................................................................... 16 
+3.4 Explanatory variables ................................................................................................................ 20 
+3.5 Selection of the models .............................................................................................................. 23 
+3.6 Scales and seasonal and regional variations............................................................................. 26 
+3.7 Case studies in the North Pacific and adjacent seas ................................................................. 27 
+4 Applications ........................................................................................................................................... 31 
+5 References ............................................................................................................................................. 32 
+Appendix    PICES Annual Meeting Topic Session and Workshop Summaries Linked to the Goals of  
+                    the Spatial Ecology Project (2012–2014) ............................................................................... 45 
+ 
+
+PICES Scientific Report No. 50 v 
+Acknowledgements 
+We would like to thank Drs. R. Ream, K. Morgan, A.W. Trites, K. Hattori, T. Tamura, G. Hunt, and  
+H. Murase for their advice and discussion throughout the 3-year project of AP-MBM, Drs. A. Peña, and  
+S. Ju for their comments and kind editorial corrections of the draft, and PICES members, especially to the 
+BIO Committee for their support. Section 2 was based on BIO Workshop (W3) on “Marine bird and 
+mammal spatial ecology” held at PICES-2013. Section 3 was based on the BIO Topic Session (S2) on 
+“Strengths and limitations of habitat modeling: Techniques, data sources, and predictive capabilities” held 
+at PICES-2014.  Preparation and arrangement of Section 3 was partly supported by Green Network of 
+Excellence Program (led by T. Kikuchi) funded by the Ministry of Education, Culture, Sports, Science, and 
+Technology, Japan. 
+ 
+ 
+  
+PICES Scientific Report No. 50 vii 
+Summary 
+There are many applications and uses of spatial distributional data on marine birds and mammals in the 
+North Pacific, including the design of pelagic marine protected areas, assessments of ecosystem health, 
+modeling top-down effects of marine predators on food web dynamics, and projected future distributions 
+of rare or threatened populations and species under climate change.  Distributional data come in many 
+different flavors, including ship-based observations of density and remotely-sensed tracking and 
+movement data.  These data provide complementary perspectives on species distributions but should not 
+be combined for a variety of reasons including different spatial and temporal scales and resolution.  There 
+are many high quality datasets on marine birds and mammals in the North Pacific available for analyses, 
+including the North Pacific Pelagic Seabird Database and the Seabird Tracking Database.  More 
+information is becoming available all the time. 
+Because ship-based and tracking observations are not spatially and temporally comprehensive, species–
+habitat models (i.e., coupling of apparent spatial distributions with biophysical factors that predict species 
+distributions) are necessary.  There are many different and highly technical approaches to habitat 
+modeling or species distribution modeling; composite model output may provide optimal information, but 
+this depends on the goals of study.  
+ 
+ 
+ 
+Section 1  Introduction 
+PICES Scientific Report No. 50 1 
+1 Introduction 
+Marine birds and mammals (MBMs) are important marine top predators that consume substantial 
+amounts of zooplankton and micronekton in the North Pacific (Hunt et al., 2000).  These taxa are of 
+considerable conservation and management interest, yet are vulnerable to changes in marine food web 
+structure and function as well as a variety of anthropogenic impacts, from contaminants to competition 
+from fisheries.  Marine birds and mammals are resilient, in part because they are highly mobile. 
+Importantly, this feature of their life history can be relatively easily observed and tracked to determine 
+their spatial distribution and abundance.  Owing to their conspicuousness, MBMs can be spontaneous 
+sentinels of ecosystem change, a feature that makes them of critical importance to monitoring and 
+assessing the “health” of the North Pacific. 
+MBMs are not distributed evenly across the seascape but tend to aggregate at various temporal and spatial 
+scales due to physical forces, biochemical factors, prey distribution, and behavioral and social factors.  
+The coupling (i.e., spatio-temporal associations) of their distributions at sea with biological and physical 
+factors (hereafter referred to as biophysical factors) is a subject of great interest and importance (Coyle et 
+al., 1992; Hunt et al., 1993, and many others).  Habitat models are a specific form of spatial ecological 
+modeling that couples observed locations of organisms with biophysical factors that co-occur in space 
+and time.  These models have been variously referred to as bioclimatic models, climate envelopes, 
+ecological niche models (ENMs), species distribution models (SDMs), and resource selection functions 
+(RSFs) (Elith and Leathwick, 2009).   
+MBMs are relatively large and conspicuous marine organisms, making data collection on their 
+distribution and movement relatively easy to accomplish, and providing useful information for marine 
+spatial planning and management (Hyrenback et al., 2000; Louzao et al., 2006; Worm et al., 2003; 
+Hooker, 2008).  Additionally, the identification of biological hot spots (i.e., regions where abundance 
+and/or biodiversity are relatively high) based on distribution and movement patterns, and elucidating the 
+underlying biophysical mechanisms that drive these hot spots, is critical for fisheries management and the 
+conservation of MBMs.  
+Over the past several decades, a wide variety of research programs have collected ship-based 
+observational and individual-based tracking data of MBMs throughout the North Pacific.  Observational 
+survey data are essentially bird counts, controlling for area covered, and these data are collected from 
+ships or aircraft.  Tracking involves monitoring the movement birds using devices or “tags” attached to 
+individual birds which are deployed then recovered (data stored internally, using GPS or position of the 
+sun), or they are devices that send out signals which can be used to derive position (radio telemetry), or 
+signals that are picked up by satellite systems.  Tracking data is typically composed of locations at 
+specific times.  Portions of these data have been compiled into large databases.  The U.S. Geological 
+Introduction Section 1 
+2 PICES Scientific Report No. 50 
+Survey’s North Pacific Pelagic Seabird Database
+1
+ contains over 350,000 ship-based survey transects and 
+observations of 17 million birds and a quarter of a million marine mammals spanning 40 years (Fig. 1.1).  
+The Birdlife International global Seabird Tracking Database
+2
+ contains, for the North Pacific alone, 
+250,000 locations from 11 species spanning 15 years (Fig. 1.2).  Many more survey and tracking datasets 
+exist, however, and need to be integrated for more complete coverage of all PICES regions.  Although 
+comprehensive, these databases are not complete as there remains a large number datasets in the PICES 
+region that have yet not been integrated into these two databases, and therefore, these data are largely 
+unavailable to PICES marine scientists.  
+ 
+ 
+Fig. 1.1 The U.S. Geological Survey’s North Pacific Pelagic Seabird Database contains over 350,000 vessel-based 
+survey transects for birds and mammals spanning 40 years. 
+ 
+Fig. 1.2 The Birdlife International’s Seabird Tracking Database contains 250,000 locations from 11 species of 
+individually tracked seabirds spanning 15 years. 
+                                                      
+1
+ http://alaska.usgs.gov/science/biology/nppsd/index.php 
+2
+ http://www.seabirdtracking.org/ 
+Section 1  Introduction 
+PICES Scientific Report No. 50 3 
+Over the last decade, the Advisory Panel on Marine Birds and Mammals (AP-MBM) has organized 
+sessions and workshops on spatial ecology of marine birds and mammals.  At the 2004 PICES Annual 
+Meeting (Honolulu, USA), AP-MBM convened a Topic Session on “Hot spots and their use by migratory 
+species and top predators in the North Pacific”.  Selected papers from the session were subsequently 
+published in Deep-Sea Research II (Sydeman et al., 2006).  AP-MBM also convened a Topic Session on 
+“Mechanisms of physical-biological coupling forcing biological hotspots” at PICES-2011 (Khabarovsk, 
+Russia), and selected papers from the session were published in Marine Ecology Progress Series (Hazen 
+et al., 2013b). 
+To further incorporate MBMs into the objectives of PICES’ integrative science program, FUTURE 
+(Forecasting and Understanding Trends, Uncertainty and Responses of North Pacific Marine 
+Ecosystems)
+3
+, AP-MBM proposed to concentrate efforts on MBM spatial ecology and conservation as a 
+priority topic for 2012–2014 activities; three goals or primary objectives were proposed.  These goals can 
+also be linked to other components of PICES (Fig. 1.3).  The primary objectives are to:   
+1) synthesize distribution data on MBMs and their temporal change in the North Pacific based on ship-
+based surveys and remote tracking, 2) examine the biophysical factors associated with the distribution 
+and abundance of MBMs and their ecological/economic (fisheries) hot spots, and 3) provide information 
+on important ecological areas throughout the North Pacific to increase understanding of MBM spatial 
+ecology and to provide information on the sustainable use of marine resources within the organization.  
+Recent AP-MBM activities were focused mainly on the first and second objectives.  There are extensive 
+datasets for marine bird and mammal distribution in the North Pacific, especially from recent decades, 
+with increased ship-based bird and mammal surveys and the proliferation of individual-based electronic 
+tracking studies.  These two methodologies, however, provide different aspects of animal distribution and 
+while complementary, are not easily integrated.  
+ 
+Fig. 1.3 Goals of AP-MBM’s Spatial Ecology project (2012–2014), with links to FUTURE and other groups. 
+                                                      
+3
+ (1) understand how marine ecosystems in the North Pacific respond to climate change and human activities, 
+(2)  forecast ecosystem status based on a contemporary understanding of how nature functions, and (3) communicate 
+new insights to its members, governments, stakeholders and the public. 
+Introduction Section 1 
+4 PICES Scientific Report No. 50 
+Here, we review methodologies and identify the most promising approaches for integrating ship- and 
+individual-based species distribution data.  We also discuss how habitat modeling can be a powerful tool 
+to facilitate the integration of datasets and to examine the factors affecting the distribution of MBMs.  
+Although AP-MBM did not fully accomplish objective 3, the results provide a foundation by which these 
+objectives can be addressed in the future.  To achieve the three objectives described above, AP-MBM 
+organized and convened a series of topic sessions and a workshop on spatial ecology of marine birds and 
+mammals between 2012 and 2014 (see Appendix).  At PICES-2012 (Hiroshima, Japan), AP-MBM 
+organized and convened a BIO/MEQ Topic Session (S6) entitled “Environmental contaminants in marine 
+ecosystems: Seabirds and marine mammals as sentinels of ecosystem health”.  In this session AP-MBM 
+tried to identify spatial patterns and geographic areas of concern for pollutants or other stressors using 
+bio-indicator species, and explored mechanisms of transport and fate of contaminants in marine 
+ecosystems.  The AP also discussed health risks for certain predators and human consumers.  At PICES-
+2013 (Nanaimo, Canada), AP-MBM held a BIO Workshop (W3) on “Marine bird and mammal spatial 
+ecology” in which 29 participants representing data holders, analysts and data users attended.  Topics 
+discussed were:  1) existing datasets and gaps, 2) applications, and 3) data integration.  A primary goal of 
+the workshop was to assess techniques to compile and integrate ship-based marine bird and mammal 
+surveys with individual tracking datasets and to determine how best to model species distribution and 
+habitat use.  Furthermore, AP-MBM convened a BIO Topic Session (S2), entitled “Strengths and 
+limitations of habitat modeling: Techniques, data sources, and predictive capabilities” at PICES-2014 
+(Yeosu, Korea).  A wide variety of taxa were represented in the presentations, including deep-sea sponges 
+and corals, zooplankton, krill, squids, seabirds and marine mammals.  A primary objective of the session 
+was to examine factors causing biases, identify the direction of biases, discuss techniques for mitigating 
+or accounting for biases, and create a best practices guide for using habitat modeling approaches to 
+predict the distribution of marine organisms in dynamic marine environments. 
+In Section 2, the outcomes of the workshop held at PICES-2013 are summarized, and we discuss 
+challenges and limitations that are particular for ship-based survey and tracking data using two case 
+studies as illustration.  In Section 3, we introduce habitat modeling and discuss the strengths and 
+weaknesses of this approach, and review the types of data that most marine habitat models are based on. 
+ 
+Section 2  Tracking and Ship-based Survey Data 
+PICES Scientific Report No. 50 5 
+2 Integrating Tracking and Ship-based Survey Data 
+2.1 Introduction 
+Individual tracking and ship-based surveys provide valuable insight into the distribution of free-ranging 
+MBMs.  These two data types provide different but complementary perspectives on questions regarding 
+spatial ecology (Camphuysen et al., 2012).  The benefit of using individual tracking data most relevant to 
+spatial ecology is that they are unrestricted by study area boundary, season, time of day, or weather 
+conditions.  With individual tracking one can also determine how movements vary with age and sex of 
+the individuals being tracked (Table 2.1).  The benefits of ship-based surveys, on the other hand, include 
+collecting data with larger sample sizes, on multiple species from a single sampling platform (enabling 
+community analyses based on these data), data on individuals of all life stages, including non-breeding 
+birds, and simultaneous in situ sampling of biophysical variables (often concurrent with MBM 
+observations), permitting fine-scale habitat analyses (Table 2.1).  
+Table 2.1  Comparison of individual tracking vs. ship-based surveys for determining the distribution of birds and 
+mammals at sea. 
+ Variable Individual tracking Ship-based survey 
+Species included Restricted Unrestricted, communities 
+Sample size of individuals Often low Generally high 
+Colony, sex, or bird identification Known, but possibly biased 
+selection 
+Unknown, unbiased selection 
+Age and stage (non-breeders, 
+breeders, pre-breeders, failed 
+breeders, juveniles, etc.) 
+Often limited to age or stage All ages and stages 
+Sampling range and period Unrestricted by study area 
+boundary, season, or time of day 
+Restricted to where and when vessel 
+travels, and daylight 
+Sampling conditions Unlimited Limited 
+Presence vs. absence Presence only Presence and absence 
+Distance from colony Known Unknown 
+Habitat sampling Remote, low resolution, few bio-
+physical variables measured 
+In situ, high resolution, 
+simultaneous, many bio-physical 
+variables measured 
+ 
+Tracking and Ship-based Survey Data Section 2 
+6 PICES Scientific Report No. 50 
+There are many opportunities for tracking and ship-based survey data to be integrated.  However, to date 
+there are few published examples, and most have focused on seabirds.  The combination of tracking and 
+ship-based survey data can initially provide a more robust estimate of at-sea distributions of single 
+species (Priddel et al., 2014; Perrow et al., 2015) or communities (Ballard et al., 2012).  Likewise, 
+tracking studies combined with fisheries bycatch data allow for a similar combination of tracking and in 
+situ observational data (Hyrenbach and Dotson 2003; Zydelis et al., 2011).  In some cases, tracking data 
+and ship-based survey data have been used in synergy to identify marine hot spots (Hyrenbach et al., 
+2006; Hughes et al., 2015; Bennison and Jessopp, 2015; Yamamoto et al., 2015) or to test the accuracy of 
+distribution models based on the other types of data such as projecting foraging range from the colonies 
+(Grecian et al., 2012).  
+Given these complementary strengths, it is clear how advantageous it would be to integrate the two data 
+types to provide a more holistic view of animal distribution.  There are, however, important limitations 
+within each data type that complicate efforts to combine these inherently different data categories. 
+2.2 Biases 
+Being fundamentally different, tracking data and ship-based survey data types also require different 
+assumptions, face different constraints, and present different analytical challenges (Camphuysen et al., 
+2012).  Models can be biased differently depending on whether they are based on ship-based observational 
+survey or tracking of individual animals.  With some exceptions (e.g., Block et al., 2011), individual 
+tracking data are often limited to relatively small sample sizes of individuals.  However, these few 
+individuals can produce tens to hundreds of thousands of locations each.  Additionally these individuals are 
+generally not randomly selected for tagging, and neither is the distribution of the start of tracks and 
+subsequent locations.  A colony effect where at-sea densities of individuals are exaggerated due to transit to 
+or from an onshore attraction (e.g., seabird colonies, pinniped rookeries or haul-outs) is not only a common 
+bias with tracking data, but can also impact ship-based survey data.  Likewise, non-representative sampling 
+of a population or a region is an important concern for both data types.  Fortunately, plausible analytical 
+methods exist to accommodate some of these biases (e.g., Renner et al., 2013; Whitehead and Jonsen, 
+2013).  Ultimately, these potential biases need to be identified and addressed in the respective models before 
+attempts can be made to quantitatively combine distribution surfaces produced by models based on survey 
+and tracking data. 
+2.3 Case studies 
+The effect of different tagging locations vs. ship-based surveys  
+In the California Current System (CCS) off North America, multiple studies have been conducted using 
+different approaches to determine the distribution and abundance of black-footed albatrosses (Phoebastria 
+albatrus).  During an initial satellite tracking study, birds were tagged at their breeding colony on Tern 
+Island in the northwestern Hawaiian Islands (outside the U.S. exclusive economic zone; EEZ) and 12 
+birds were tracked.  They entered and moved throughout the central and northern CCS (Fernández et al., 
+2001; Hyrenbach et al., 2006; Kappes et al., 2010).  In a second satellite tracking study, 36 albatrosses 
+were captured and tagged at Cordell Bank in the central CCS (inside the EEZ) and were tracked 
+throughout the CCS (Guy et al., 2013, Hyrenbach and Hester, unpubl. data; Fig 2.1).  Comparison of 
+Section 2  Tracking and Ship-based Survey Data 
+PICES Scientific Report No. 50 7 
+these two tracking studies show different patterns of albatross distribution with the bias of tagging 
+location evident for birds tagged within the CCS (cf., Fig. 2.1A and 2.1B).  Most albatrosses tagged in the 
+central CCS (the second study) remained within it for a while and then left; the remaining few moved 
+north through the CCS.  In contrast, albatrosses that were tagged outside of the CCS (the first study) 
+entered it at different locations but primarily used continental shelf break habitat in the central and 
+northern CCS (Fig. 2.1B).  Overall, the distribution of birds tagged outside of the CCS (Fig. 2.1B) 
+showed more similarity to the distribution determined by ship-based surveys (Fig. 2.1C).  This example 
+highlights differential habitat use based on tagging locations that need to be accounted for either through 
+sampling design with deployment strategies or quantitatively in the analyses (Whitehead and Jonsen, 
+2013).  
+ 
+ 
+Fig. 2.1 Distribution data from satellite tracking of individuals and ship-based surveys for black-footed albatrosses 
+in the California Current System (CCS: grey line indicates the exclusive economic zone, EEZ, 200 nm limit off the 
+U.S. west coast).  (A) Distribution from satellite tracking of individual albatrosses tagged both inside and outside 
+outside of the CCS, compared to (B) albatrosses tagged only outside the CCS, and (C) albatrosses sighted from ship-
+based surveys.  Data from Guy et al. (2013). 
+Spatial extent of tracking vs. ship-based surveys   
+Eighty-seven sooty shearwaters (Puffinus griseus) were tracked over 6 years (Adams et al., 2012) and 
+compared to sooty shearwaters observed during 22 years of ship-based surveys in the central CCS 
+(Santora et al., 2011).  Density distribution surfaces were created using a Brownian bridge movement 
+Tracking and Ship-based Survey Data Section 2 
+8 PICES Scientific Report No. 50 
+model (weighted by the number of uplinks per cell and bird) to show a spatial intensity of satellite-
+tracked individuals (Fig. 2.2A) and a kernel density from ship-based surveys (Fig. 2.2B).  Where the 
+spatial extent of the two approaches overlapped, there was reasonable agreement in core areas of high 
+use.  Discrepancies between the two data types resulted from non-contiguous sampling of the ship 
+transects (i.e., gaps between survey lines).  Tagged birds showed higher concentrations nearshore where 
+larger survey vessels were unable to survey because of shallow water depth.  Additionally, there was a 
+much larger overall spatial extent from unrestricted movements of individually tracked birds compared to 
+fixed vessel transects.    
+ 
+Fig. 2.2 Density distribution surfaces of sooty shearwaters from (A) tracking and (B) vessel-based surveys in the 
+central California Current System.  (A) “Spatial intensity” from a Brownian bridge movement model (weighted by 
+the number of uplinks per cell and bird) from 6 years of satellite tracking data from 87 individuals.  (B) Kernel 
+density distribution from 22 years of vessel-based surveys.  Both datasets were collected primarily during spring and 
+summer of each year.  Data from J. Santora, J. Adams, B. Henry and W. Sydeman. 
+Similarly in the Bering Sea, tracking data from black-legged kittiwakes (Rissa tridactyla; 73 individuals, 
+over 200,000 locations) during the breeding season on the Pribilof Islands (Paredes et al., 2014) can be 
+compared to 30 years of ship-based surveys around this colony (over 100,000 records; North Pacific 
+Pelagic Seabird Database).  Comparison of these datasets highlights typical biases in both approaches.  
+The tracking data are biased by 1) location of the colony where birds are tagged since breeding birds are 
+conducting foraging trips to and from the colony (Fig 2.3A) and by 2) breeding stages of birds since 
+chick-rearing birds should make more trips than incubating and non-breeding birds.  Ship-based surveys, 
+on the other hand, include all age classes and breeding and non-breeding individuals and thus provide a 
+more uniform sampling of the entire region (Fig 2.3B).  A fundamental shortcoming of fixed transect 
+surveys, however, is also highlighted in this comparison because in some years breeding birds are found 
+Section 2  Tracking and Ship-based Survey Data 
+PICES Scientific Report No. 50 9 
+to extend their foraging range well beyond the continental shelf break, where very few ship transects 
+occur, and especially at night (Paredes et al., 2012),.  For a more standardized comparison between data 
+types, kernel densities of tracking data can be scaled to breeding colony size and compared to surface 
+distributions from ship-based surveys (Fig. 2.3C, D).  Surface distributions from both data types show 
+high use areas near the colonies and the continental shelf break to the south, but also show differences in 
+higher use of off-shelf for tracking (Fig. 2.3C) and inner shelf for ship-based surveys (Fig. 2.3D); 
+highlighting how well the two data types complement each other.   
+ 
+ 
+Fig. 2.3  Distribution of black-legged kittiwakes around the Pribilof Islands (St. Paul and St. George) in the 
+southeastern Bering Sea from individual tracking and vessel-based surveys.  (A) Individual tracking data from 73 
+kittiwakes and 200,342 GPS locations during three breeding seasons on the Pribilof Islands.  (B) Distribution of 
+kittiwakes from 30 years of vessel-based surveys around the Pribilof Islands.  (C) Kernel density distribution of 
+kittiwakes from tracking data, scaled by breeding population size at each colony.  (D) Surface density of kittiwakes 
+from vessel-based surveys created via kriging.  Data from M. Renner, G. Drew, K. Kuletz. G. Hunt, R. Paredes and 
+J. Piatt. 
+  
+Tracking and Ship-based Survey Data Section 2 
+10 PICES Scientific Report No. 50 
+Significant environmental factors derived from tracking vs. ship-based surveys  
+Short-tailed shearwaters (Puffinus tenuirostris) were tracked using geolocators in the Bering, Chukchi, 
+and Beaufort seas (19–27 birds per year for 2 years; Fig. 2.4A, B, E, F).  In the subsequent two years, 
+ship-based surveys were conducted through this same region in July and September (Fig. 2.4C, G) where 
+16,000–18,000 short-tailed shearwaters were observed each year.  To find important environmental 
+factors explaining the density of short-tailed shearwaters, Generalized Linear Models (GLM) were 
+created using remotely-sensed explanatory environmental variables of sea floor depth, bottom slope, sea 
+surface temperature (SST) and chlorophyll a (Chl-a).  Environmental factors associated with the bird 
+density, based on tracking data and ship-based surveys, were then compared qualitatively (statistical 
+significance level and the sign of the parameter estimates) within and between seasons (July or September). 
+ 
+ 
+Fig. 2.4  Kernel density surfaces (50 × 50 km) and habitat modeling (GLM) results of short-tailed shearwater 
+distribution from individual tracking (geolocation) and ship-based surveys in the Bering Sea during July (A–C) and 
+September (E–F), 2010–2013.  Sign of the parameter estimate and its significance level (*: < 0.05) are shown. 
+Habitat model output for July (D) and September (H) show more similarities between data collection methods than 
+between time periods.  Data from Y. Watanuki, B. Nishizawa, Y. Yamamoto, E. Labunski, K. Kuletz, C. Meathrel 
+and R.A. Phillips. 
+Section 2  Tracking and Ship-based Survey Data 
+PICES Scientific Report No. 50 11 
+Despite some differences in the significance of explanatory variables between tracking and ship-based 
+models (for example, positive relationship between density and depth based on ship-based survey data 
+collected but negative relationship based on tracking data collected, in July), relationships between 
+densities and explanatory variables generally showed more similarity between types of data within 
+seasons rather than between seasons (for example, positive relationship between density and bottom slope 
+in July, and negative in September; Fig. 2.4D, H).   
+Therefore, this basic modeling comparison of a relatively small dataset shows promise in a likely 
+preferred direction for integration of initially creating habitat use models independently, then combining 
+models to produce a unified distribution surface. 
+2.4 Data integration 
+Many studies have used both ship-based and individual tracking data where species and spatial coverage 
+overlap, and although data are typically modeled independently, there have been various levels of 
+integration of model output (Table 2.2).  Tools such as OBIS–SEAMAP provide a dynamic way to 
+visualize multiple datasets and thus provide the initial steps towards integrating modeling efforts (Fujioka 
+et al., 2014) or a combined tracking and survey model.   
+Table 2.2 Examples of studies using both individual tracking and ship-based survey data to model species 
+distribution.  Two of the studies, Louzao et al. (2009) and Thiers et al. (2014), produced separate “side-by-side” 
+models for tracking and survey, not integrated surfaces.  The two other studies combined outputs to produce a 
+distribution showing where kernel densities from tracking differed from modeled distribution from surveys (Benoit-
+Bird et al., 2013). 
+    Input model   
+Study 
+Spatial 
+resolution 
+Tracking Survey Output 
+Louzao et al., 
+2009 
+5 × 5 nm Binomial response: 
+cells containing at 
+least 1 feeding event 
+(GLMMs) 
+Binary presence/ 
+absence variable 
+(GLMs) 
+2 side-by-side models 
+Thiers et al., 
+2014 
+0.25° Logistic regressions 
+(GLMMs) 
+Logistic regressions 
+(GLMMs) 
+2 side-by-side models 
+Benoit-Bird et 
+al., 2013a, b 
+100 m Kernel density Multiple Linear 
+Regression (GLM) – 
+predicted 
+distribution 
+Difference surface: Predicted 
+density from survey – kernel 
+density 
+Yamamoto et 
+al., 2015 
+9 × 9 km At-sea density of 
+groups weighted by 
+colony location 
+(GAMs) 
+Abundance (GAMs) Combined model which 
+incorporates ecological states 
+(groups) (GAM response 
+curves) 
+GLMM = Generalized Linear Mixed Model; GAM = Generalized Additive Model 
+  
+Tracking and Ship-based Survey Data Section 2 
+12 PICES Scientific Report No. 50 
+In some cases, investigators have taken the approach of building distinct models based on the two 
+datasets and then interpreting the resulting model outputs separately (Hyrenbach et al., 2006; Louzao et 
+al., 2009; Thiers et al., 2014).  For instance, Louzao et al. (2009) used ship-based survey data to identify 
+large-scale habitat and then tracking data to identify small-scale feeding habitat of Cory’s shearwater 
+(Calonectris diomedea).  Both datasets were modeled separately, and a comparison of the model results 
+showed differences in the scale of habitat use and highlighted different spatial areas.  Similarly, Thiers et 
+al. (2014) built separate predictive spatial models based on tracking and ship-based survey of frigatebird 
+distributions using Generalized Linear Mixed Models (GLMMs) and suggested that the differences in the 
+resulting distributions reflect breeders and non-breeders.  These studies, however, produced separate 
+“side-by-side” predictive models and did not quantitatively integrate individual tracking and ship-based 
+survey model outputs to produce a single density surface (Table 2.2).   
+Benoit-Bird et al. (2013a) provide examples where density surfaces based on tracking and survey data 
+were merged.  In their study, ship-based survey data for fur seals (Callorhinus ursinus), thick-billed murres 
+(Uria lomvia), and black-legged kittiwakes were modeled using multiple linear regression models with the 
+distribution and density of prey measured with acoustics and hydrographic data collected concurrently to 
+create predicted density surfaces for each species.  Density surfaces based on individual global positioning 
+system (GPS) tracking data were created using Kernel Density Estimators for each species.  Then the 
+density surfaces based on tracking data were subtracted from the predicted density surfaces created by the 
+ship-based survey data regression models to produce a single “difference” layer showing where densities 
+of tracked birds were different from those predicted from the ship-based model.  This comparison also 
+highlights the strong colony/rookery effect of breeding birds and fur seals from colony/rookery-based 
+tracking studies.  Another approach to quantitatively integrating the two data types is to use detailed 
+information from one data source to inform the other.  For example, Yamamoto et al. (2015) used tracking 
+data to model the relative density of groups (e.g., sex, colony, and breeders vs. non-breeders) in the form of 
+Generalized Additive Model (GAM) response curves to weight habitat models from ship-based surveys 
+where group identity was cryptic.  This technique is described in detail in Section 3. 
+2.5 Conclusions 
+Animal distribution determined by ship-based surveys and individual tracking provide different analytical 
+challenges, but ultimately can be highly complementary.  At this point, there is limited possibility for 
+integrating ship-based survey and tracking data prior to modeling efforts because of inherent constraints 
+and biases that vary between the two types of data collection.  Combining output density surfaces is 
+promising.  However, creating a combined density surface requires more complex data-specific 
+treatments prior to integration.  After data-specific treatments are applied, there are considerably more 
+options for quantitative integration of the two data types.  For example, information on area use by 
+tracked individuals of different age, sex, or breeding status can be used to inform age- or stage-specific 
+predictive surfaces from ship-based surveys.  To produce a combined density distribution surface, habitat 
+use models should be first created independently for individual tracking and ship-based surveys, then 
+combined through ensemble or other model averaging approaches to create a single predicted distribution 
+layer from the two datasets.  With the continued use of ships of opportunity for conducting at-sea bird and 
+mammal surveys along with miniaturization and economical production of tracking devices, spatial data 
+for these organisms are accumulating at a rapid pace.  While extensive analyses of distribution, 
+abundance, and habitat use from ship-based surveys and individual tracking have been published 
+independently, integration of these large-scale, complementary datasets will be a major step in developing 
+a more complete understanding of bottom-up processes from local to ocean basin scales. 
+Section 3  Strengths and Limitations of Habitat Modeling 
+PICES Scientific Report No. 50 13 
+3 Strengths and Limitations of Habitat Modeling 
+3.1 Introduction 
+Models for exploring spatial pattern  
+Habitat modeling is a tool used to explore the statistical relationships between the distribution of organisms 
+(presence/absence or the number of organisms in unit area; “response variable”) and biophysical 
+characteristics of their environments (“explanatory variables”) (e.g., Guisan and Zimmermann, 2000; 
+Redfern et al., 2006).  Innate characteristics (age, sex, etc.) of organisms can be explanatory variables.  
+There are two other general approaches for exploring and predicting the spatio-temporal distributions of 
+marine organisms: ecosystem modeling and individual-based models.  Ecosystem modeling involves the 
+parameterization of physical, chemical and biological processes (feeding, growth and reproduction rates) 
+and their interactions in ecosystems, and calculates the densities of producers and primary and secondary 
+consumers at small spatial scales (grid cells usually greater than 4 × 4 km) over the ocean (e.g., Franks, 
+2002; Kishi et al., 2007).  Ecosystem modeling requires information regarding trophic relationships and 
+time series data on density and distribution of organisms to parameterize and evaluate the model 
+performance (Fulton, 2010).  Individual-based modeling, on the other hand, assumes some simple rules to 
+describe the movement of individual organisms (e.g., speed and direction), and estimates the positions of a 
+large number of individuals under given or modelled biophysical conditions (Dorman et al., 2011).  This 
+approach requires knowledge about the rules describing the movement of individuals, which is often unclear 
+for most species.  The latter two approaches can be computationally intensive and require significant 
+knowledge about animal behavior, physiology and/or trophic relationships.  The ecosystem modeling and 
+individual-based model approaches have been rarely applied to MBMs because of the considerable 
+requirements of ecological information, including life history, foraging and prey data.  Furthermore, 
+physiological requirements such as the direct and indirect response to temperature, often used as factors for 
+deciding recruitment and movement of poiko-thermic zooplankton and fish, are uncertain for MBMs.   
+Habitat modeling makes use of integrating multiple empirical datasets and is a simple and useful approach 
+for predicting species habitat preference and response to environmental variability without requiring 
+significant ecological data on organisms and their prey (Fig. 3.1).  The spatial distribution of organisms is 
+easier to record than measuring the consumption/production efficiency, growth rate, reproduction and 
+movement rules.  Habitat modeling is less computational to construct using desktop computers and can be a 
+good starting point to understand the effects of environmental biophysical factors.  However, habitat 
+modeling is a non-deterministic statistical approach based on statistical correlations and spatio-temporal 
+associations, so it is difficult to draw conclusions about the mechanisms driving the distribution.  
+Strengths and Limitations of Habitat Modeling Section 3 
+14 PICES Scientific Report No. 50 
+ 
+Fig. 3.1 Scheme of the habitat model.  R and GIS indicated by the statistical software R and GIS (Geographic 
+Information System) software (e.g., ArcGIS ESRI and Q-gis), respectively.  The details of occurrence and 
+environmental data are described in type of response and environmental variables.  Scale selection indicates the decision 
+of spatial and temporal scales (here only showing spatial scale).  Model approach choice indicates the decision of model 
+approaches depending on the type of response variables (see Section 3.3 for type of response variables).  Model 
+selection indicates the decision of variables in the best models.  After model selection, evaluation of model performance 
+is conducted (see model selection and evaluation in Section 3.5).  AIC = Akaike Information Criterion, ROC = Receiver 
+Operating Characteristic, AUC = Area Under the ROC Curve.  See Table 3.3 for other acronym definitions. 
+Applications and pitfalls of habitat modeling  
+Habitat modeling is a powerful tool to make inference and predictions on the distribution of marine 
+organisms.  Applications include, but are not limited to: 1) finding key factors affecting the distribution of 
+marine organisms (e.g., Guisan and Zimmermann, 2000; Redfern et al., 2006), 2) predicting optimal fishing 
+grounds for efficient and sustainable fisheries (e.g., Santos, 2000; Klemas, 2013), 3) evaluating the impacts 
+of  human activities on individual species or communities (Renner et al., 2013; Bombosch et al., 2014) for 
+marine spatial planning (Humphries and Huettmann, 2014) or for species conservation (Chivers et al., 
+2013), and 4) identifying or projecting shifts in distribution or future potential habitat in the face of climate 
+change (Hazen et al., 2013a; Chust et al., 2014).  
+Habitat models, however, are never perfect, and can often over-fit the data or have poor predictive 
+capabilities (even though they explain most of the deviance).  Habitat modeling predicts the expected 
+distribution of a population based on a limited amount of environmental data collected concurrently with 
+ship-based surveys, remotely sensed data, or modeled oceanographic data to characterize the species’ habitat 
+requirements (Becker et al., 2010; Alabia et al., 2015).  Difficulties with habitat models can arise from 
+Section 3  Strengths and Limitations of Habitat Modeling 
+PICES Scientific Report No. 50 15 
+numerous sources that are not accounted for in the model, such as biases in the underlying surveys (tracking 
+vs. ship-based survey), the sampling time and regions, the lack of key explanatory variables, inappropriate 
+spatial scales, inappropriate extrapolations, behavioral responses, and limits of the modeling algorithms 
+(Elith and Graham, 2009).  Thus evaluation of the strengths and weaknesses of habitat modeling approaches 
+is increasingly important particularly for MBMs, as they live in highly dynamic environments.  
+In this section, we will review the factors that may introduce bias, limit effective inference, and/or reduce 
+performance of habitat modeling, and discuss techniques for mitigating or accounting for these factors. 
+More specifically, we will: 1) review types of response and explanatory variables, 2) clarify the assumptions 
+(biological, statistical, and environmental) that limit the predictive power and bias the outcome of habitat 
+modeling, and 3) discuss how we can mitigate against the biases of model selection by averaging several 
+models (ensemble models). 
+3.2 Innate limitation: Biology of organisms 
+Response that may change across time and space  
+Habitat modeling assumes that species distribution patterns are the direct result of their preference for a 
+specific combination of environmental conditions (Barry and Elith, 2006; Elith and Leathwick, 2009). 
+However, species habitat may be restricted by geographical barriers, inter-specific competition, or the 
+moving ability of a given species that are usually not taken into account in habitat modeling.  Hence, 
+“occupied distributional area” is only a subset of the full “potential geographic distributional area” of a 
+species (Peterson et al., 2011), harkening back to the concepts of realized vs. fundamental niches (Connell, 
+1961).  Failure to occupy such potential areas may also arise from previous extirpation or vagaries of 
+biogeographic history, or simply from the lack of population expansions.  These factors should be 
+considered as a stochastic element for the prediction of species distribution.  Such phenomena are 
+commonly referred to as contingent historical factors in biogeography (Patterson, 1999). 
+Habitat modeling relies heavily on environmental variables to predict species distribution, which makes 
+them vulnerable to behavioral responses of organisms to variation in these environmental conditions 
+particularly when these responses vary across regions, seasons and years.  For example, this is particularly 
+problematic for migratory species which may depart a summer area earlier than a habitat model may predict 
+if it were based on local environmental conditions as explanatory variables alone.  Over larger spatial and 
+time scales, adaptive changes may take place, which are usually not taken into account.  However, 
+increasing evidence suggests that the organisms can respond to ongoing climate change, adapting to new 
+environment by means of phenotypic plasticity without altering their genetic constitution, or by means of 
+genetic changes through the process of evolution (e.g., Bearhop et al., 2005; Parmesan, 2006; Gienapp et al., 
+2008; Visser, 2008; Weimerskirch et al., 2012).  Therefore, the potential adaptive responses (i.e., flexibility 
+of behavioral and physiological responses) of species also should be considered during evaluation of habitat 
+modeling exercises. 
+  
+Strengths and Limitations of Habitat Modeling Section 3 
+16 PICES Scientific Report No. 50 
+Inherent factors: Age, sex, body condition and breeding status  
+Sex-, age-, and condition-related habitat differences have been reported extensively in many species of 
+seabirds (e.g., Forero et al., 2005; Lewis et al., 2005), marine mammals (e.g., Breed et al., 2006; Crawford 
+et al., 2012) and fish (e.g., Sims, 2005; Farley et al., 2007; Wearmouth and Sims, 2008).  These differences 
+in the habitat preference likely relate to physical and biological differences such as body size (Lewis et al., 
+2005; Weimerskirch et al., 2012), competitive exclusion (González-Solís et al., 2000; Forero et al., 2005), 
+energy or nutrient requirements (Ruckstuhl and Neuhaus, 2005), and breeding constraints (Phillips et al., 
+2004; Yamamoto et al., 2011; Crawford et al., 2012; Catry et al., 2013).  However, habitat models often do 
+not include information on sex, age, and condition or breeding status.  With fisheries information, only data 
+for fishable age and sex classes of targeted species may be available.  Individual tracking data may be biased 
+as data typically come from individuals that are most easily tagged (e.g., incubating parents of seabirds, 
+female adult sea turtles on nesting beaches) leading to potentially significant gaps in our understanding of a 
+species’ habitat use (Hazen et al., 2012).  With ship-based surveys of seabirds and marine mammals, age, 
+sex, and condition or breeding status of observed individuals is usually unknown.  
+In some cases age, sex and condition or breeding status can be determined.  For example, age and sex of fish 
+can be identified in fishery logbook or observer data.  Also, information on the spatio-temporal movement 
+of individuals can be obtained in concert with biological data (i.e., sex, age, and condition/breeding status) 
+using recent animal-borne tracking techniques (see review by Burger and Shaffer, 2008; Rutz and Hays, 
+2009).  Sex and age can be treated as fixed explanatory variables.  If the identity of observed individuals is 
+available, it can be treated as a random factor in the habitat model, where modeling algorithms allow.  In 
+this way, the integration of tracking and ship-based data could help resolve this issue (see below). 
+During the breeding season, seabirds and seals have to commute between their colony or rookery and 
+foraging areas.  The position of the colony is therefore a constraint to the distribution for these central place 
+foragers (see Section 3.4).  This constraint can be addressed by adding a colony-effect explanatory variable, 
+comprised of the sum of the inverse distances from all colonies, scaled by the size of colonies (see Renner et 
+al., 2013 for details).  Complicating factors could exist in relation to changes in attendance patterns at the 
+colony over the course of a breeding cycle.  In seabirds, both adults typically attend the colony prior to egg 
+laying, alternate brooding and foraging duties during incubation and early chick rearing, and then both 
+spend most of their time at sea as the chick approaches maturity. 
+3.3 Response variables 
+Sampling techniques  
+Distribution data of marine species are collected using a variety of sampling techniques.  Sampling 
+techniques can be categorized into three types: 1) ship-based and aerial line-transect surveys (we discuss 
+ship-based surveys only), 2) fisheries-dependent data (i.e., log data, observer data, satellite-based detections 
+of fishing light distributions), and 3) animal tracking (Table 3.1).  These techniques likely contain different 
+biases such as the selection of the survey line and season, tagging location of tracked animals, traits of the 
+sample animals, type of fishing activities, and biased sampling of the population.  
+ 
+           a 
+ 
+Table 3.1  Example of response variables.  Materials, sample collecting gear or observational methods, types of variables and presentation of data.  Types of response 
+variables are:  Density/Count, Presence/Absence and Presence-only data.  The limitations of each variable are also noted. 
+Type of gear 
+(survey) Data Materials 
+Type of response 
+variable References Note 
+Boat-sighting (line) Occurrence Whales and dolphins Presence-only and 
+Presence/Absence data 
+Kanaji et al., 2015 Information is limited on the survey line. Not 
+applicable for animals under the water. 
+Boat-sighting (line) Occurrence/ 
+Absence 
+ Dolphins Presence/Absence-data Isojunno et al., 2012  
+Boat-sighting (line) Number of animals Albatrosses Density/Count* Nishizawa et al., 2015  
+Long-line (log) Position of fishing 
+ground 
+Big eye tuna Presence/Absence data Syamusuddin et al., 2013 Cells where fish catch is greater than threshold is 
+denoted as 1; others as 0; 0-cell may be treated as 
+absent. All depends on where the fishing is operated. 
+Fishing (log) CPUE Skipjack tuna Density/Count* Mugo et al., 2010  
+Fishing (log) CPUE Squid Presence/Absence Alabia et al., 2015  
+Trawl net (log) CPUE Benthic invertebrates Density/Count* Rooper et al., 2014 Limit to the place where bottom-trawling is 
+possible. 
+Trawl net (log) Position of harvest 
+and species 
+diversity 
+Benthic invertebrates Presence-only, 
+Presence/Absence  
+Rooper et al., 2014 Cells where species are found is denoted as 1; 
+others as 0; 0-cell may be treated as absent. All 
+depends on where the survey is operated. 
+Trawl net (log) Species diversity Benthic invertebrates Number of species data Rooper et al., 2014  
+Satellite (area) Fishing light (night 
+time lights) 
+Fishing vessel  Presence-only data Zhang et al., 2013,  
+Mugo et al., 2014 
+Snap-shot when satellite is available. 
+Plankton net (fixed 
+point) 
+Abundance Zooplankton Density/Count* Zarauz et al., 2007,                            
+Sasaki et al., unpublished 
+ 
+Acoustic (line) Abundance Zooplankton Density/Count* Santora et al., 2012  
+Tracking (area) Position of animals Sea birds and marine 
+mammals 
+Density/Count*, 
+Presence-only and 
+Presence/Absence data 
+Suryan et al., 2006, 
+Raymond et al., 2015 
+Animals are tracked by telemetry or biologging 
+techniques. Information on place that animals do 
+not use cannot be used.  
+  
+* Density data indicate the number of animals per unit area or CPUE (catch per unit effort) or SPUE (sighting per unit effort).  Effort includes the number of net tows, the 
+number of hooks, filtered water volume, observation time, and the distance of each transect line.  Count data are often used as dependent variables. For this case, the effort is 
+treated as an offset term in habitat models. 
+Section 3 Strengths and Limitations of Habitat Modeling
+PICES Scientific Report No. 50 17
+Strengths and Limitations of Habitat Modeling Section 3 
+18 PICES Scientific Report No. 50 
+1.  The ship-based line transect surveys are often used to study the distribution of marine mammals and 
+seabirds (by sighting), fish (by acoustic survey and trawl samples), phytoplankton (by continuous sampler 
+and automated analyzer) and zooplankton (by the Continuous Plankton Recorder or CPR: Batten et al., 
+2003).  Thus data are limited within a survey area, along survey lines or within surveys swaths (i.e., area of 
+coverage along survey lines).  Given a fixed width of ship-transects (e.g., 300 m from the boat for seabird 
+surveys), and estimates of detectability and flux (Tasker et al., 1984; Spear et al., 1992; Buckland et al., 
+2001), the number of animals observed can be converted into an estimate of density.  The survey line can be 
+systematically determined according to program objectives and surveys.  However, surveys can also be 
+based on ships of opportunity and clustered in space and seasonal coverage.  
+2.  Fisheries logbook data and observer data are used to study the distribution of commercial fishes and 
+squids, benthic marine invertebrates, and bycatch of top predators.  Catch Per Unit Effort (CPUE) is 
+typically used as the response variable.  In many cases, effort with zero catch goes undocumented.  This is 
+considered a challenge for researchers who study the distribution of these commercial species, as this 
+undocumented effort makes it difficult to define a total study area represented by the catch data.  
+3.  Animal tracking based on a satellite-linked platform terminal transmitter (PTT) or global positioning 
+system (GPS) data-logger attached to animals has been used often for studying the distribution and 
+movement of a small portion of the population of large seabird species and marine mammals.  Tracking data 
+can be examined using mixed models on a track-by-track basis, or after aggregating data, e.g., into density 
+per grid cell (Block et al., 2011; Yamamoto et al., 2015).   
+Spatial resolution varies among data collection techniques (Table 3.2).  For line transect data, spatial and 
+temporal resolution can be relatively fine (e.g., as fine as 300 m) and from seconds to 10 minutes.  For point 
+sampling, spatial resolution is usually 0.1–1°.  Fishing log data is usually aggregated over 0.25° ~ 1° × 1° 
+cells and month by fisheries investigations where data collected during a month or so is summarized 
+(Syamsuddin et al., 2013; Robinson et al., 2015).  GPS tracking gives the finest spatio-temporal resolution 
+(1 s, ~10 m) while spatial resolution of PTT-based tracking is broader (day, ~10 km).  Geolocators 
+determine positions based on the timing of sunset and sunrise, providing at most one fix per day with an 
+error of ~100 km, depending on the season and location.   
+Data type  
+Data collected by each of the above techniques can be categorized as one of three types: presence-only, 
+presence/absence, or density/count data.  
+1.  Presence-only data contain sighting information of any number of animals in a cell, but have no 
+information of where a species was not detected or where no survey effort was made.  Thus presence-only 
+data have the least stringent requirements for data quality, and can be acquired from numerous sources 
+including museum records, casual observations, and tracking data.  For example, fishing-lights detected 
+using satellite imagery as an index of squid distributions can be treated as presence-only data as this index of 
+squid location would only be effective inside squid fishing grounds.  
+2.  Presence/absence data contain information where a species was not detected, which does not necessarily 
+imply that it was actually absent.  For example, cetaceans and seals make long dives so often that density 
+cannot be estimated without making assumptions about time spent underwater.  The likelihood of any 
+detection also decreases with distance from the observer, so a recorded absence is somewhat dependent on 
+the local density of the studied organism.  Thus cetacean sightings data are sometimes treated as presence-
+Section 3  Strengths and Limitations of Habitat Modelinga 
+PICES Scientific Report No. 50 19 
+only or presence/absence data.  Logically, tracking techniques provide only presence-only data, as the entire 
+population is not sampled.  However, techniques for creating pseudo-absences for tagging data (i.e., random 
+walk generation techniques, for example) may outperform presence-only approaches, but additional studies 
+are needed to ensure this is the case (VanDerWal et al., 2009; Wingfield et al., 2011; Willis-Norton et al., 
+2015). 
+3.  Density/count data is the number or biomass of animals caught or observed per unit effort, i.e., CPUE. 
+Effort includes the area of net tows for the otter bottom-trawl, the number of hooks for long-line (Mugo et 
+al., 2010; Howell and Kobayashi, 2006), time by the number of hooks for squid jigging, filtered water 
+volume for plankton net sampling, transect line distance by swath width (as area) for marine bird and 
+mammal surveys.  In some cases, CPUE data are treated as presence-only or presence/absence data, such as 
+for bigeye tuna long-line fishing log data (fish per 100 hooks was converted to presence/absence data; 
+Syamsuddin et al., 2013) and for squid jigging data (mass of catch was converted to presence-only data; 
+Alabia et al., 2015).   
+In habitat modeling, presence-only data and presence/absence data are assumed to follow a binomial 
+distribution, while density data tend to follow a highly skewed non-Gaussian distribution such as Poisson, 
+Tweedie or negative binomial (over-dispersed).  These data can also be zero-inflated.  
+The quality of response variable will dictate what kind of predictions can be made.  Presence-only data have 
+the least stringent requirements regarding data quality, and accordingly the interpretation of the predicted 
+distribution may be difficult.  Presence/absence and presence-only models can provide a probability of 
+occurrence, or a simple yes/no of reaching a pre-defined probability threshold.  Models based on density 
+data, on the other hand, provide a density surface that could allow estimates of regional population sizes, 
+population trends over time, and distribution shifts within a species’ range (e.g., Renner et al., 2013).  
+Data type and modeling approaches  
+Depending on the data type, four categories of model approaches are available (Hirzel et al., 2002; Elith and 
+Graham, 2009; Phillips et al., 2006; Panigada et al., 2008; Stockwell and Peters, 1999).  1) Presence-only 
+approach uses environmental data at locations where animals are present.  2) Presence/background 
+approach uses presence-only data and the environmental variables at the locations of species occurrence are 
+compared to the entire survey area.  3) Presence/absence approach uses presence/absence data and assesses 
+the potential ranges using differences in environments between the location of presence and absence 
+(Breiman, 2001; Peterson et al., 2011).  We can make pseudo-absence data through random sampling of 
+absence cells, then use the presence/absence approach for presence-only data (Wisz and Guisan, 2009).   
+4) Density/count approach uses density/count data to assess gradients and non-linear changes in species 
+density across the environmental seascape.  A problem associated with converting count to the density or 
+CPUE is that information on sampling effort variability is lost and probability distributions may not 
+accurately reflect true animal distributions as a result.  To resolve this, sampling effort can be treated as an 
+“offset” term in habitat models (Zuur et al., 2009a). 
+  
+Strengths and Limitations of Habitat Modeling Section 3 
+20 PICES Scientific Report No. 50 
+3.4 Explanatory variables 
+Environmental variables  
+Environmental variables can be dynamic (vary with time) or fixed.  Dynamic environmental variables may 
+vary spatially, temporally, or both.  Sea surface temperature (SST), salinity (SSS), height (SSH), and 
+Chlorophyll a (Chl-a) are dynamic environmental variables that can be collected during ship-based surveys. 
+As well, these variables can be derived from satellite remote sensing or from hydrodynamic and simulated 
+oceanographic models (Table 3.2).  Temporal and spatial variations of these environmental factors are used 
+as an explanatory variable since variability across time (or predictability) and space can be an important 
+proxy for mesoscale processes.  As an example, spatial gradients in SST may indicate hydrographic features 
+such as convergent fronts (Cayula and Cornillon, 1992, 1995, 1996), and marine organism are known to 
+associate with fronts (Scales et al., 2014).  The upwelling index can be calculated by strength and direction 
+of the wind and alongshore wind stress (Bakun, 1973).  The stratification index is calculated as a function of 
+density, salinity and temperature (Ladd and Stabeno, 2012).  
+The resolution of these dynamic environmental variables depends on the sampling tools.  For satellite-
+derived data, the finest spatial resolution is 500 m (e.g., SST and Chl-a) and ranges through 0.25° (slope of 
+SSHa and geostrophic current) to 1° (SSS; Table 3.2).  However, we can scale up (i.e., reduce spatial 
+resolution) using GIS software (e.g., ArcGIS and SeaDAS) to ensure appropriate spatial resolution is used. 
+Temporal scales of satellite data products range from daily to long-term climatology (e.g., SST and Chl-a, 
+Table 3.2).  Data collected during ship-based surveys, such as the density of prey, water turbidity, and 
+salinity, have high spatial and temporal resolution but have the major drawback that predictions over the 
+entire study area tend to be impractical, as data collection is constrained to survey lines.  These explanatory 
+variables can also be aggregated to potentially more suitable larger temporal and spatial scales (see Section 
+3.6). 
+Bathymetry or bottom substrates are examples of static environmental variables which can be derived from 
+bathymetry or other features such as landmarks (seamounts, estuaries or coastlines) (Amante and Eakins, 
+2009).  There are numerous examples of derived static environmental variables such as bottom slope, 
+bottom rugosity (variability in depth or roughness), shelf-break location, distance from shelf-break, distance 
+from seamount, distance from coast, or distance from estuary.  
+Prey  
+Prey is an important environmental factor affecting the distribution of predators, although it is relatively 
+unexplored because prey distribution data are not easy to collect.  Acoustic volume backscatter data can 
+provide a metric of prey density which can be used for habitat modeling (Murase et al., 2002; Hazen et al., 
+2009; Hazen and Johnston, 2010; Benoit-Bird et al., 2011; Hazen et al., 2011).  Murase et al. (2002) found a 
+simple correlation between concentration of cetacean and large aggregation of euphausiids determined by 
+acoustics.  Several studies used acoustic volume backscatter data as input in habitat models and showed 
+non-linear relationships between cetacean abundance and prey density (Friedlaender et al., 2009; Laidre et 
+al., 2010).  Also, volumetric backscatter often is less important than prey patch structure (e.g., density, patch 
+size, patch separation distance) as predators rely on dense aggregations of prey for efficient foraging (Hazen 
+et al., 2007; Benoit-Bird et al., 2013a,b).  Even when prey data are available, the lack of broad spatial 
+coverage severely limits the potential applications of models incorporating prey densities.  
+ 
+ 
+Table 3. 2 Example of explanatory variables.  Spatial and temporal resolution and survey methods are shown. 
+Variable Description Spatial resolution Temporal resolution Method References 
+Bathymetry Water depth and its gradient 500 and 1000 m, 30″, 
+1 ′, 2 ′ and 5′ 
+NA Measurement Skov et al., 2008, 
+Forney et al., 2012 
+Distance from 
+some 
+landmarks 
+e.g., Distance from seamounts and to nest Same as bathymetry NA Calculate distance from 
+some land marks 
+Becker and Beissinger, 
+2003, Nishizawa et al., 
+2015 
+Thermal front Sea surface temperature gradient defined by 
+Cayula and Cornilon (1992,1995,1996) 
+1, 4 and 9 km 
+(satellite) 
+Daily, 3 and 8 days, monthly, 
+seasonal and annual composite, 
+and climatology (satellite) 
+Satellite Etnoyer et al., 2006 
+Distance from 
+oceanic front 
+e.g., Polar Front (defined by Favorite et al., 1976), 
+Subarctic Front (Mizuno and White, 1983), and 
+Kuroshio Extension Front (Kawai, 1969) 
+Same as thermal 
+front 
+Daily, 3 and 8 days, monthly, 
+seasonal and annual composite, 
+and climatology (satellite) 
+Calculate distance from 
+thermal front 
+Oppel et al., 2012, 
+Murase et al., 2014 
+Chlorophyll a 
+concentration 
+Mean Chl-a concentration and its persistency at 
+the surface and at some depth observed 
+Sampling point (in 
+situ) 1, 4 and 9 km 
+(satellite) 
+Real time, daily, 3 and 8 
+days, monthly, seasonal and 
+annual composite, and 
+climatology (satellite) 
+Satellite, water sampling 
+and bouy 
+Oppel et al., 2012, 
+Sasaki et al., 2013 
+Sea 
+temperature 
+Mean sea temperature at some depth (e.g., 
+surface, 50 m and bottom) 
+Sampling point (in 
+situ) 1, 4 and 9 km 
+(satellite) 
+Real time, daily, 3 and 8 
+days, monthly, seasonal and 
+annual composite, and 
+climatology (satellite) 
+Satellite, water sampling 
+and bouy 
+Becker et al., 2010, 
+Kanaji et al., 2015, 
+Alabia et al., 2015 
+Salinity Mean sea salinity at some depth (e.g., surface,  
+50 m and bottom) 
+Sampling point (in 
+situ) and 0.1° (model 
+derived) 
+Real time and 5 days Electronic probe  and 
+model-derived 
+Stoner et al., 2001, 
+Alabia et al., 2015 
+Sea surface 
+height 
+anomaly 
+Anomaly of sea surface height 0.25° Real time and 7 days Satellite Sasaki et al., 2013, 
+Mugo et al., 2014 
+Geostrophic 
+current 
+Geostrophic current 0.25° Real time and 7 days Satellite Mugo et al., 2010 
+ 
+Section 3 Strengths and Limitations of Habitat Modeling
+PICES Scientific Report No. 50 21
+ 
+ 
+Table 3. 2 Continued. 
+Variable Description Spatial resolution Temporal resolution Method References 
+EKE Eddy Kinetic Energy calculated by geostrophic 
+current 
+0.25° Real time and 7 days Satellite Mugo et al., 2010,  
+Santora et al., 2012 
+Duration from 
+sunrise 
+Minutes from local time of sunrise Sampling point (in 
+situ) 
+Minutes Calculated or table Isojunno et al., 2011 
+Tide flow Rate of change of tidal height  Sampling point (in 
+situ) 
+Minutes Calculate the rate from 
+duration between high 
+and low tide 
+Isojunno et al., 2011 
+Mixed layer 
+depth 
+Depth of mixed layer 0.5° Monthly Models Arrizabalaga et al., 
+2014, Su et al., 2011 
+Sediment type Sediment classes in the survey area obtained from 
+the British Geological Survey 
+Sampling point (in 
+situ) 
+NA Geological Survey Macleod et al., 2004 
+Stratification Surface to bottom temperature difference. Depth 
+of maximum density gradient 
+Sampling point (in 
+situ) 
+Real time CTD vertical profiles Zarauz et al., 2007, 
+Sasaki et al., 
+unpublished 
+NA = not applicable, CTD = conductivity, temperature, depth 
+Strengths and Limitations of Habitat Modeling Section 3
+22 PICES Scientific Report No. 50
+Section 3  Strengths and Limitations of Habitat Modeling 
+PICES Scientific Report No. 50 23 
+Spatial CPUE and fishing log data can be also used as explanatory variables although these are often 
+collected at a resolution that is too low to be useful (Torres et al., 2008).  Indeed, dedicated field sampling 
+may be the only way to collect sufficiently high-resolution information on prey.  However, it is often 
+difficult to sample the entire study area.  An alternative technique is to use the modeled spatial pattern of 
+density of prey species that is derived from individual-based models or ecosystem models.  To use modeled 
+prey density surfaces, the model predictions should be evaluated using reference data.  Further, collinearity 
+(some variables are highly correlated) between the predicted density of prey species and other explanatory 
+variables (i.e., variables that were likely used to model prey species) must be checked and accounted for in 
+the final habitat model (see below). 
+Competitor/predator  
+The presence of other species (competitors/predators) can be an important environmental factor affecting 
+species distribution (Franklin, 2010), but is usually not included in the habitat models (Wisz et al., 2013) 
+simply because of a lack of data.  If there is information on biotic interactions between species (e.g., 
+predator–prey, competition, and facilitation), presence/absence or density of the other species can be an 
+explanatory factor.  One approach is to integrate pairwise dependencies using surrogates for biotic 
+interaction gradients and another is to hybridize models with dynamic models (e.g., Sebastian-Gonzelaz et 
+al., 2010).  However, as mentioned in Wisz et al. (2013), biotic interactions are not constant in time and 
+space, and species interact across complex networks.  
+Innate factors  
+As described in Section 3.2, many innate factors influence habitat utilization.  For this reason, age, sex, and 
+condition and breeding status should be used as explanatory variables in habitat models.  Location of the 
+colonies constrains the choice of feeding area in breeding seabirds.  Therefore, distance to the colony should 
+be included as an explanatory variable.  
+Collinearity  
+Environmental variables (SST, SSH, etc.) are often correlated each other.  If so, it is necessary to check for 
+collinearity (highly correlated variables) and eliminate explanatory variables, as necessary, or combine 
+several variables into a single index using Principal Component Analysis (PCA, see Section 3.7). 
+Approaches to test and account for collinearity are discussed in detail in Zuur et al. (2007).  
+3.5 Selection of the models 
+Groups of models  
+The choice of the model depends largely on the type of response variables.  Above, we have summarized the 
+different types of response data.  We will briefly discuss suitable models and model selection for practical 
+usage (see Oppel et al. (2012); Praca et al. (2009); Austin (2007); Araújo and New (2007); Araújo and 
+Guisan (2006) for details).  We also will discuss the biases introduced by the scale of analyses, year and 
+regions, and validation techniques. 
+Habitat models are categorized into four groups, depending on statistical model types: profile methods, 
+regression methods, machine learning methods, and geographic methods (Busby, 1986, 1991; Hastie and 
+Strengths and Limitations of Habitat Modeling  Section 3 
+24 PICES Scientific Report No. 50 
+Tibshirani, 1990; Guisan and Zimmerman, 2000; Breiman, 2001; Hirzel et al., 2002; Wood, 2006; Hijmans 
+and Elith, 2013; Bombosch et al., 2014; Hijmans et al., 2014).  Murase (oral presentation in S2 at PICES- 
+2014)
+4
+ summarized the applicable models for marine organisms (Table 3.3).  
+Table 3.3 Types of habitat modelling approaches and groups of models, revised from Franklin (2009) and Murase et 
+al. (2014) in PICES-2014  presentation S2.  
+Group 
+Approaches 
+Presence/Absence Presence/Background Presence-only Density/Count data 
+Profile  Ecological Niche 
+Factor Analysis 
+(ENFA) 
+Bioclimatic Analysis 
+and Prediction System 
+(BIOCLIM) 
+ 
+   DOMAIN (Extended 
+Domain algorithm to 
+Habitat Modeling) 
+ 
+Regression Generalized Linear 
+Model (GLM) 
+  Generalized Linear 
+Model (GLM) 
+ Generalized Additive 
+Model (GAM) 
+  Generalized Additive 
+Model (GAM) 
+Machine 
+learning 
+Decision Tree (DT) Maximum Entropy 
+Model (MaxEnt) 
+ 
+Decision Tree (DT) 
+ 
+Boosted Regression 
+Tree (BRT) 
+  Boosted Regression 
+Tree (BRT) 
+ 
+Random Forest (RF)   Random Forest (RF) 
+ 
+Artificial Neural 
+Network (ANN) 
+   
+  
+Support Vector 
+Machine (SNM) 
+      
+  
+Model selection and evaluation  
+The best-performing model (or models) is (are) selected using a number of suitable algorithms.  There are 
+numerous techniques to select models.  To choose the best performing model, predictive performance is 
+often used (Peterson, 2005; Peterson et al., 2011).  Although frequently used today, step-wise model 
+selection should not be guided by statistical tests of significance, as this has been widely discredited, 
+producing spurious results (e.g., Mundry and Nunn, 2009).  Alternatively, selecting suitable potential 
+models that fit hypotheses to be tested a priori is a better approach.  
+                                                      
+4
+ http://pices.int/publications/presentations/PICES-2014/2014-S2/S2-1405-Murase.pdf 
+Section 3  Strengths and Limitations of Habitat Modeling 
+PICES Scientific Report No. 50 25 
+There are several statistics that can be used to measure model and/or predictive performance and these 
+include simple correlation, Root Mean Squared Error (RMSE), Akaike Information Criterion (AIC), Area 
+Under the ROC (Receiver Operating Characteristic) Curve (AUC), Leave-One-Out Cross-Validation 
+(LOOCV) or K-fold Cross-Validation (k-fold CV), and the True Skill Statistic (TSS) (Johnson and Omland, 
+2004; Allouche et al., 2006; Elith and Graham, 2009; Elith et al., 2010; James et al., 2013).  To evaluate the 
+predictive performance, first, the model is constructed by using a subset of data (“training”).  Then 
+evaluation (“calibration” or “test”) of the selected model is carried out by using the remaining data that were 
+not used for training (Huberty, 1994; Guisan and Zimmerman, 2000; Franklin, 2010).  For presence-only 
+models, the goal is to test if the model predicts positive value (localities of presence for species) better than a 
+random prediction.  For presence/absence models, the AUC (Redfern et al., 2006) of ROC plot represents an 
+overall measure of the model performance.  AUC ranges from 0 to 1, and 0.5 corresponds to the expected 
+performance of random classifier.  If there is no single model supported by the data, model averaging can be 
+used (Johnson and Omland, 2004). 
+Ensemble prediction  
+Modeling techniques vary in terms of robustness and performance (e.g., Yen et al., 2004; Oppel et al., 2012; 
+Renner et al., 2013), and to address this, ensemble modeling techniques have been developed.  Ensemble 
+models are composed of more than one habitat model, and ensemble predictions are calculated as weighted 
+averages of predictions from each constituent model, with weights assigned to each modeling technique 
+based on its discriminatory power as measured by the evaluation statistic (e.g., AUC).  Predictions by the 
+ensemble model are often more robust than predictions derived from a single model (Araújo and New, 
+2007; Marmion et al., 2009; Thuiller et al., 2009; Oppel et al., 2012).  However, predictions can also suffer 
+as results from good models may be diluted by results from poor models (Peterson et al., 2011).  This could 
+be solved by including only robust models, based on the evaluation statistics, or combination of model 
+outputs via some objective weighting scheme such as weighting based on evaluation statistics (Marmion et 
+al., 2009), or spatial weighting if one model has better performance in specific areas than others.  A second 
+risk is that mixing the results of different methods may create difficult problems of interpretation although it 
+may be not matter much if one is interested primarily in predictive ability.  
+An example for streaked shearwaters (Calonectris leucomelas) is shown in Table 3.3.  The models were 
+based on the position data of tracked individuals using light-based geolocators and included four techniques, 
+Generalized Linear Model (GLM), Generalized Additive Model (GAM), Random Forest (RF), and 
+ensemble model (Yamamoto et al., 2015).  AUC (i.e., assessing the performance of models) and Cross-
+Validation techniques were used to rank the models (Potts and Elith, 2006; Oppel et al., 2012).  
+Furthermore, the Pearson correlation coefficient, and the slope and intercept of a linear regression of the 
+observed vs. predicted values were used to evaluate the bias and consistency of model predictions.  The 
+slope and the intercept of this regression indicate the calibration and the bias of the model, respectively 
+(Phillips and Elith, 2010). 
+In the above analysis, the RF had the highest AUC and highest correlation in the prediction followed by 
+ensemble model, but showed larger calibration error and bias.  The machine learning methods, including 
+RF, usually provide excellent discrimination between areas of presence and absence.  However, when used 
+on spatially independent data, these methods likely suffer proportionally more (e.g., larger biases) from 
+over-fitting than parametric models such as GLM and GAM.  GLM was not applicable in this case, 
+probably because the responses of streaked shearwater to environmental variables are non-linear (i.e., they 
+appear to exhibit a preference for particular ranges of SST; Yamamoto et al., 2011). 
+Strengths and Limitations of Habitat Modeling  Section 3 
+26 PICES Scientific Report No. 50 
+3.6 Scales and seasonal and regional variations 
+Choice of scale  
+Spatial resolution of response variables may be from 100 to 1,000 m (density or presence/absence of 
+seabirds and whales based on tracking and ship-based survey) and 1° × 1° (density or CPUE of tuna species 
+based on logbook or observer data) (Table 3.1) while spatial resolution of explanatory variables may be 
+100 m (re-analyzed temperature and salinity) and 4 km (satellite-based Chl-a) (Table 3.2).  The relative 
+importance of explanatory variables explaining a species’ distribution and abundance can be highly scale 
+dependent (Soberón, 2007).  The appropriate scale may depend on the biology of target organisms, 
+including movement scales, longevity, and sensing ability since all these influence the scale of habitat 
+selection by individual organisms.  
+There are many studies showing that the association between the density of prey and predator depends on 
+the scales of analyses.  For example, the spatial association of murre density with the density of prey 
+(capelin, krill) is weak at the 0.2 to 1 km scale and strong at the 2 to 10 km scale (Schneider and Piatt, 1986; 
+Mehlum et al., 1999).  This indicates that the distribution of murres and prey overlap at a 10 km scale where 
+density of the prey patch is high on average but murres are unable to detect each prey patch at a 0.1 km scale 
+efficiently, presumably because of their sensory constraint and moving ability.  Alternatively, sampling at a 
+larger scale may sometimes significantly reduce the power of inference as important features may be 
+overlooked.  If a fine-scale process such as prey distribution is measured at a large scale, it may not have 
+explanatory power in the model (Torres et al., 2008).  The scales where strong positive associations between 
+prey and predator are observed may depend on the scales of the searching behavior of predators (scales of 
+Area Restricted Search: ARS) and the scales of the spatial organization of prey patches.  Scales of ARS are 
+80–100 km for albatross species (Weimerskirch et al., 2007; Pinaud and Weimerskirch, 2005) and 2–5 km 
+for murres and rhinoceros auklets (Y. Watanuki, unpublished).  Usually, we do not know the scale of prey 
+searching behavior for each species of predators a priori, so analyses should be carried out at various scales 
+to find the one where explanatory power is strongest.  Nishizawa et al. (2016) modeled the distribution of 
+Laysan (Phoebastria immutabilis) and black-footed albatrosses (P. nigripes) at 4 to 80 km scales in the 
+Northwestern Pacific and found a greater coefficient of determination at the 80 km scale than at the 4 km 
+scale.  
+Seasonal and inter-annual variability  
+Organisms may have different responses to environmental variables in different seasons, different years, or 
+under different climate phases (Grebmeier et al., 2006; Moore and Huntington, 2008).  As well, they may 
+respond differently to their environments, depending on their innate life cycle (breeding/foraging season), 
+interactions with other species, and food availability (Hazen et al., 2012).  For example, in the North Pacific, 
+Alabia et al. (2015) found that preferred SST (derived from the models) of neon flying squid 
+(Ommastrephes bartramii) differed between January and February (Northwestern Pacific fishing ground) 
+and June to July (Central Pacific fishing ground).  These sources of temporal variability can be treated as 
+fixed or random effects in a habitat model.  It is often difficult to separate the effects of season, breeding 
+status, and food availability because these factors are often correlated.  Furthermore, the range of 
+environmental factors or explanatory factors (e.g., SST) can change seasonally or over the years.  Fish 
+respond to SST, for example, during the spring when SST may vary between 5 and 15°C, while the response 
+may disappear during the summer when SST is more homogeneous.  So, SST may be included in the best 
+performing model in the spring but not in summer.  
+Section 3  Strengths and Limitations of Habitat Modeling 
+PICES Scientific Report No. 50 27 
+When we are not interested explicitly in the effects of season or year, they can be included as random effects. 
+To construct a model with random effects, there are three general approaches: random intercept, slope or 
+including both (Zuur et al., 2009b).  The random intercept model assumes that the baseline varies among 
+years and seasons.  If the response variables vary with time, a random slope model can be used.  The random 
+intercept and slope models are used when variability occurs in both parameters.  Kanaji et al. (2015) 
+constructed habitat models for short-finned pilot whales (Globicephala melas) in the Northwestern to Central 
+Pacific separately during the summer from 1983–2006.  The predicted distribution looks similar among years, 
+although the inter-annual changes of the Kuroshio might have influenced the whales’ habitat.  Their paper 
+does not describe the differences in the model and those in the explanatory variables in detail among years. 
+Regional variability  
+Organisms show different responses in different regions.  Organisms may adapt to regional or local 
+environments.  Stability (repeatability or persistence) of environmental factors may differ among regions. 
+For example, Torres et al. (2015) constructed habitat models of grey petrels (Procellaria cinerea) using 
+tracking data and oceanographic data from different colonies separately.  Their results indicate that the 
+performance of the model constructed using tracking data collected from birds breeding in the subantarctic 
+at Antipodes Island was high when the model was applied to data collected from birds breeding at 
+Kerguelen Island but the performance of this model was worse when the model was applied to data 
+collected from birds breeding at Marion Island.  The authors argued that the models constructed from birds 
+breeding at the Antipodes and Kerguelen islands might be over-fitted since habitat usage of these 
+populations might be similar.  The potential environment for birds breeding at Marion Island was different 
+from that for birds breeding at the other two  islands, so the accuracy of prediction was poor when the model 
+derived from birds breeding at Antipodes–Kerguelen islands was applied to birds breeding at Marion Island.  
+Another example is the study by Sundblad et al. (2009) who explored environmental factors (Secchi depth, 
+salinity and wave exposure) to explain the distribution of larval northern pike (Esox lucius L.) and roach 
+(Rutilus rutilus L.) in the Baltic Sea.  They constructed a model using data from one area and year, then 
+tested the performance of this model by predicting data collected in a separate area and year, and followed 
+the same procedure in reverse.  They found that model performances were high for both directions for roach 
+larval presence despite an almost opposite relationship between larval presence and wave exposure, 
+suggesting that wave exposure explained minimal variation in larval presence.  For pike larvae, however, the 
+model was less successful when tested with data collected in the other area and year.  Sundblad et al. (2009) 
+speculated that the species-specific difference in model performances is likely due to differences in terms of 
+species ranges along the predictor variables, and emphasize the need to validate model predictions properly.  
+These regional and seasonal differences can be included in species distribution models (SDMs) as fixed or 
+random effects. If researchers are interested in the magnitude of either regional or seasonal effects, these effects 
+must be included as fixed effects in SDMs or separate models must be built for each region and/or season.  
+3.7 Case studies in the North Pacific and adjacent seas 
+Copepods in the Chukchi Sea  
+Temperature, salinity and density of water and the water current are often correlated with each other.  In 
+statistical models, these correlated variables cannot be used together in GLM and GAM.  Several studies 
+Strengths and Limitations of Habitat Modeling  Section 3 
+28 PICES Scientific Report No. 50 
+constructed models after one (or more) of these correlated explanatory variables were removed from the 
+analyses.  Habitat models for zooplankton are good examples (e.g., surface salinity, temperature and Chl-a) 
+(Zarauz et al., 2007, 2008; Silva et al., 2014).  However, when we remove some variables, we may fail to 
+recognize important oceanographic features such as water mass defined by the combination of water 
+properties (e.g., temperature and salinity).  Further specific combinations of water masses in upper and 
+bottom layers cannot be treated as explanatory variables.  To reduce these weaknesses and to catch 
+important features of water masses, we can summarize the variable into a few indices prior to conducting 
+statistical models (see Section 3.4).  
+Sasaki et al. (2016) constructed habitat models using GAM for Arctic copepods collected in the Chukchi 
+Sea during the summer seasons of 2007, 2008 and 2013.  The abundance of copepods, sampled using 
+plankton nets, was the response variable.  To quantify the marine environmental factors affecting copepod 
+distributions, Sasaki et al. (2016) used the depth of the pycnocline (Stockwell and Peters, 1999) and the 
+vertically averaged temperature, salinity, and log-transformed Chl-a concentration above (upper layer) and 
+below (bottom layer) the depth of the pycnocline.  They then compared the performance of two approaches. 
+In the first approach (conventional technique), one of the variables that was correlated with the other was 
+removed to mitigate the collinearity.  In the second approach, Principal Component Analysis (PCA) was 
+used to integrate several physical variables (Fig. 3.2) to produce a composite quantitative index.  The water 
+mass index was scored along the first Principal Component axis that was derived using the depth of the 
+pycnocline and averaged physical factor in upper and bottom layers.  In addition, vertically averaged Chl-a 
+in the upper and bottom layers and the bottom depth were used as environmental variables.  The year was 
+included as a random effect.  All best-fit models explaining abundance of copepods included water mass 
+indices, Chl-a concentration in both layers and bottom depth.  Sasaki et al. (2016) found that the 
+performance (evaluated by R
+2
+ and RMSE) of the best model (ΔAIC > 2.00) based on the water mass index 
+was higher than that of the best model based on conventional methods.   
+  
+Fig. 3.2 a) T-S diagram of Principal Component 1 (PC1).  Colored circles indicate the magnitude of each PC1.  Water 
+mass designations are Alaskan Coastal Water (ACW; salinity < 31.8 and temperature 2–13°C), Bering Shelf Water 
+(BSW; 31.8–33 and 0–10°C), Anadyr Water (AW; 32.3–33.3 and 0–10°C), Bering Shelf Anadyr Water (BSW and AW 
+combined), Ice-Melt Water (IMW; < 30 and < 2°C) and Dense Water (DW; 31–33 and < 0°C).  b) GAM plot of the best 
+model for copepod species: Arctic small (AcopeS).  The vertical axis indicates the estimate smoother for the abundance 
+of copepods.  The horizontal axis shows the explanatory variable: PC1.  From Sasaki et al. (2016). 
+  
+  
+ 
+Arctic small copepods
+  
+ 
+a) 
+b) 
+s(PCA1,7.68) 
+Section 3  Strengths and Limitations of Habitat Modeling 
+PICES Scientific Report No. 50 29 
+Bryde’s and sei whales  
+To explore the differences in habitats between the two species of whales and to identify the boundary of the 
+distribution of these two species, different types of response variables were used.  To investigate the 
+relationship between the occurrence of closely related Bryde’s and sei whales and their environments, 
+Sasaki et al. (2013) used a GLM with binary response based on their occurrence in the Northwestern 
+Pacific.  The data were provided by sighting surveys of the Japanese Whale Research Program during May–
+August in 2004 and 2005.  As the response variables, they used “(binary) rank” (presence of sei whale equal 
+to 1 and presence of Bryde’s whale equal to 0) derived from the occurrence data.  Royle and Dorazio (2008) 
+suggested that detection probability can be related to the “power” of the survey method.  In case of 
+imperfect sightings, detection probability should be calculated prior to categorizing species to rank.  In 
+Sasaki et al.’s (2013) study, perfect detection (all animals are sighted) and identification of Bryde’s or sei 
+whale was required.  Since the data of the species’ absence were not used in their study, the model could not 
+show the condition of the species absence.  Thus prediction in their study shows only the boundary of 
+habitats between both species and does not show the potential habitats of each species.  As the explanatory 
+variables, satellite-derived oceanographic features were used, including SST (°C), sea surface Chl-a (mg  
+m
+–3
+) and sea surface height anomalies (SSHAs; cm) during the survey period, and water depth (m).  The 
+spatial and temporal scales were 4 km and monthly, respectively.  The presence of sei whales was defined as 
+[P(Y = 1)] and that of Bryde’s whales was defined as [P(Y = 0)].  Formulae for the model were as follows: 
+P(Y = 1) = α + β1(SST) +β2(Chl-a) +β3(SSHAs) +β3(water depth), 
+P(Y = 0) = 1 – P(Y = 1). 
+The result of the best-fit model based on AIC, included SST and Chl-a.  The predicted distribution showed a 
+clear separation of potential habitats of the two species and the boundary of habitats moved northward as the 
+season progressed.  Mainly SST contributed to the patterns of habitat use between the two whale species 
+(Fig. 3.3). 
+Strengths and Limitations of Habitat Modeling  Section 3 
+30 PICES Scientific Report No. 50 
+ 
+Fig. 3.3 Probabilities of cetacean occurrence in the Northwestern Pacific in 2004 and 2005.  Colors from blue to red 
+indicate the probability of occurrence and which species (Bryde’s or sei whales) can be found.  Black lines indicate a 
+probability of 50%.  From Sasaki et al. (2013). 
+Currently, the field of habitat modeling is rapidly evolving.  Although much progress has been made, 
+especially on the side of machine learning techniques, much work remains to be done.  For example, we do 
+not have an appropriate method for extracting the distributional information contained in tracking studies 
+and combining them with the density data sampled by the ship-based surveys.  Likewise, combining the 
+properties of tree-based and generalized linear models is a field in which we hope to see much progress in 
+the near future.  Bayesian approaches are not discussed here, but often add flexibility in incorporating 
+multiple processes and data types (Ward et al., 2015; Thorson et al., 2015a, b).  
+ 
+(a) 
+(b) 
+(c) 
+(d) 
+(e) 
+(h) 
+(g) 
+(f) 
+Section 4  Applications 
+PICES Scientific Report No. 50 31 
+4 Applications 
+Intensifying impacts in marine ecosystems worldwide from regional (e.g., fishing, pollution, mineral 
+extraction, and maritime transportation) and global (e.g., climate change) anthropogenic stressors is causing 
+increased public concern for the health of North Pacific marine ecosystems.  These stressors can interact and 
+impacts can be cumulative.  For example, increases in sea surface temperature via global warming can result 
+in changes in primary production via enrichment of waters and fundamentally change food web dynamics. 
+Fundamental changes such as these that stem from global anthropogenic stressors can make marine 
+ecosystems vulnerable to regional-scale human impacts.  The distribution and abundance of MBMs provide 
+valuable insight into how natural and anthropogenic stressors are impacting marine food webs and upper 
+trophic level species.  In this report, we reviewed the type of available data and the potential approaches to 
+model the distribution and abundance MBMs in the North Pacific.  Once reliable and robust models have 
+been developed, they can be used for: 1) understanding and predicting the effects of climatic (“bottom-up” 
+impacts) and anthropogenic impacts on marine ecosystems, and 2) understanding how changes in the 
+distribution and abundance of marine bird and mammal populations influence marine ecosystems through 
+“top-down” (predation and competition) mechanisms.  Moreover, observed and predicted (via models) 
+distribution of seabirds and marine mammals can be used to define ecologically and biologically important 
+areas (EBSAs) and help inform appropriate management of the areas highly vulnerable to anthropogenic 
+impacts.  Thus understanding how and why MBMs distribute themselves as they do should help inform:  
+1) the conservation of populations and species of concern (endangered and threated species), and 2) the 
+design of marine protected areas under the threats of oil and gas developments, pollutants, aquaculture, 
+fisheries, and other anthropogenic threats or stressors. 
+To complement and contribute to the FUTURE program, AP-MBM should continue to work in the field of 
+spatial ecology relative to climate variability and change, and other human impacts.  Continuing to host 
+workshops and topic sessions at PICES Annual Meetings and produce special issues in the primary literature 
+will be one way AP-MBM can continue to contribute in meaningful ways to FUTURE. 
+ 
+References Section 5 
+32 PICES Scientific Report No. 50 
+5 References 
+Adams, J., MacLeod, C., Suryan, R.M., Hyrenbach, K.D. and Harvey, J.T. 2012. Summer-time use of west 
+coast US National Marine Sanctuaries by migrating sooty shearwaters (Puffinus griseus). Biol. Conserv. 
+156: 105–116. 
+Alabia, I.D., Saitoh, S., Mugo, R., Igarashi, H., Ishikawa, Y., Usui, N., Kamachi, M., Awaji, T. and Seito, 
+M. 2015. Seasonal potential fishing ground prediction of neon flying squid (Ommastrephes bartramii) in the 
+western and central North Pacific. Fish. Oceanogr. 24: 190–203. 
+Allouche, O., Tsoar, A. and Kadmon, R., 2006. Assessing the accuracy of species distribution models: 
+prevalence, kappa and the true skill statistic (TSS). J. Appl. Ecol. 43: 1223–1232. 
+Amante, C. and Eakins, B.W. 2009. ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources 
+and Analysis. NOAA Tech. Memo. NESDIS, NGDC-24, 19 pp.  
+Araújo, M.B. and Guisan, A. 2006. Five (or so) challenges for species distribution modeling. J. Biogeogr. 
+33: 1677–1688. 
+Araújo, M.B. and New, M. 2007. Ensemble forecasting of species distributions. Trends Ecol. Evol. 22: 42–47. 
+Arrizabalaga, H., Dufour, F., Kell, L., Merino, G., Ibaibarriaga, L., Chust, G., Irigoien, X., Santiago, J., 
+Murua, H., Fraile, I., Chifflet, M., Goikoetxea, N., Sagarminaga, Y., Aumont, O., Bopp, L., Herrera, M., 
+Fromentin, J.-M., and Bonhomeau, S. 2014. Global habitat preferences of commercially valuable tuna. 
+Deep-Sea Res. II: 113: 102–112, doi:10.1016/j.dsr2.2014.07.00 
+Austin, M. 2007. Species distribution models and ecological theory: A critical assessment and some possible 
+new approaches. Ecol. Modell. 200: 1–19. 
+Bakun, A. 1973. Coastal upwelling indices, west coast of North America, 1946–71. NOAA NMFS Tech. 
+Rep. 673, 103 pp. 
+Ballard, G., Jongsomjit, D., Veloz, S.D. and Ainley, D.G. 2012. Coexistence of mesopredators in an intact 
+polar ocean ecosystem: The basis for defining a Ross Sea marine protected area. Biol. Conserv. 156: 72–82. 
+Barry, S. and Elith, J, 2006. Error and uncertainty in habitat models. J. Appl. Ecol. 43: 413–423. 
+Batten, S.D., Clarke, R.A., Flinkman, J., Hays, G.C., John, E.H., John, A.W.G., Jonas, T.J., Lindley, J.A., 
+Stevens, D.P. and Walne, A.W. 2003. CPR sampling—the technical background, materials and methods, 
+consistency and comparability.  Prog. Oceanogr. 58: 193–215. 
+Bearhop, S., Fiedler, W., Furness, R.W., Votier, S.C., Waldron, S., Newton, J., Bowen, G.J., Berthold, P. 
+and Farnsworth, K. 2005. Assortative mating as a mechanism for rapid evolution of a migratory divide. 
+Science 310: 502–504. 
+Section 5  References 
+PICES Scientific Report No. 50 33 
+Becker, B.H. and Beissinger, S.R. 2003. Scale-dependent habitat selection by a nearshore seabird, the 
+Marbled Murrelet, in a highly dynamic upwelling system. Mar. Ecol. Prog. Ser. 256: 243–255. 
+Becker, E.A., Forney, K.A., Ferguson, M.C., Foley, D.G., Smith, R.C., Barlow, J. and Redfern, J.V. 2010. 
+Comparing California Current cetacean–habitat models developed using in situ and remotely sensed sea 
+surface temperature data. Mar. Ecol. Prog. Ser. 413: 163–183. 
+Bennison, A. and Jessopp, M. 2015. At-sea surveys confirm a North Atlantic biodiversity hotspot. Bird 
+Study 62: 262–266. 
+Benoit-Bird, K.J., Kuletz, K., Heppell, S., Jones, N. and Hoover, B. 2011. Active acoustic examination of 
+the diving behavior of murres foraging on patchy prey. Mar. Ecol. Prog. Ser. 443: 217–235. 
+Benoit-Bird, K.J., Battaile, B.C., Heppell, S.A., Hoover, B., Irons, D., Jones, N., Kuletz, K.J., Nordstrom, 
+C.A., Paredes, R. and Suryan, R.M. 2013a. Prey patch patterns predict habitat use by top marine predators 
+with diverse foraging strategies. PloS One 8: doi.org/10.1371/journal.pone.0053348. 
+Benoit-Bird, K.J., Battaile, B.C., Nordstrom, C.A. and Trites, A.W. 2013b. Foraging behavior of northern 
+fur seals closely matches the hierarchical patch scales of prey. Mar. Ecol. Prog. Ser. 479: 283–302. 
+Block, B.A., Jonsen, I.D., Jorgensen, S.J., Winship, A.J., Shaffer, S.A., Bograd, S.J., Hazen, E.L., Foley, 
+D.G., Breed, G.A., Harrison, A.L., Ganong, J.E., Swithenbank, A., Castleton, M., Dewar, H., Mate, B.R., 
+Shillinger, G.L., Schaefer, K.M., Benson, S.R., Weise, M.J., Henry, R.W. and Costa, D.P. 2011. Tracking 
+apex marine predator movements in a dynamic ocean. Nature 475: 86–90. 
+Bombosch, A., Zitterbart, D.P., Van Opzeeland, I., Frickenhaus, S., Burkhardt, E., Wisz, M.S. and Boebel, 
+O. 2014. Predictive habitat modeling of humpback (Megaptera novaeangliae) and Antarctic minke 
+(Balaenoptera bonaerensis) whales in the Southern Ocean as a planning tool for seismic surveys. Deep-Sea 
+Res. 91: 101–114. 
+Breed, G.A., Bowen, W., McMillan, J. and Leonard, M.L. 2006. Sexual segregation of seasonal foraging 
+habitats in a non-migratory marine mammal. Proc. R. Soc. Lond. B 273: 2319–2326. 
+Breiman, L. 2001. Random forests. Machine Learning 45: 5–32.  
+Buckland, S., Anderson, D., Burnham, K., Laake, J., Borchers, D. and Thomas, L. 2001. Introduction to 
+Distance Sampling Estimating Abundance of Biological Populations. Oxford University Press, Oxford. 
+Burger, A.E. and Shaffer, S.A. 2008. Perspectives in ornithology application of tracking and data-logging 
+technology in research and conservation of seabirds. Auk 125: 253–264. 
+Busby, J.R. 1986. A Biogeoclimatic analysis of Nothofagus cunninghamii (Hook.) Oerst. in southeastern 
+Australia. Austral. J. Ecol. 11: 1–7. 
+Busby, J.R. 1991. BIOCLIM – A bioclimate analysis and prediction system, pp. 64–68 in Nature 
+Conservation: Cost Effective Biological Surveys and Data Analysis edited by C.R. Margules and M.P. 
+Austin, CSIRO, Canberra, Australia. 
+References Section 5 
+34 PICES Scientific Report No. 50 
+Camphuysen, K., Shamoun-Baranes, J., Bouten, W. and Garthe, S. 2012. Identifying ecologically important 
+marine areas for seabirds using behavioural information in combination with distribution patterns. Biol. 
+Conserv. 156: 22–29. 
+Catry, P., Dias, M.P., Phillips, R.A. and Granadeiro, J.P. 2013. Carry-over effects from breeding modulate 
+the annual cycle of a long-distance migrant: an experimental demonstration. Ecology 94: 1230–1235. 
+Cayula, J.F. and Cornillon, P. 1992. Edge detection algorithm for SST images. J. Atmos. Oceanic Technol. 
+9: 67–80. 
+Cayula, J.F. and Cornillon, P. 1995. Multi-image edge detection for SST images. J. Atmos. Oceanic 
+Technol. 12: 821–829. 
+Cayula, J.F. and Cornillon, P. 1996. Cloud detection from a sequence of SST images. Rem. Sensing 
+Environ. 55: 80–88. 
+Chivers, L.S., Lundy, M.G., Colhoun, K., Newton, S.F., Houghton, J.D. and Reid, N. 2013. Identifying 
+optimal feeding habitat and proposed Marine Protected Areas (pMPAs) for the black-legged kittiwake 
+(Rissa tridactyla) suggests a need for complementary management approaches. Biol. Conserv. 164: 73–81. 
+Chust, G., Allen, J., Bopp, L., Schrum, C., Holt, J., Tsiaras, K., Zavatarelli, M., Chifflet, M., Cannaby, H. 
+and Dadou, I. 2014. Biomass changes and trophic amplification of plankton in a warmer ocean. Global 
+Change Biol. 20: 2124–2139. 
+Connell, J.H. 1961. Effects of competition, predation by Thais lapillus, and other factors on natural 
+populations of the barnacle Balanus balanoides. Ecol. Monogr. 31: 61–104. 
+Coyle, K.O., Hunt, G.L. Jr., Decker, M.B. and Weingartner, T.J. 1992. Murre foraging, epipelagic sound 
+scattering and tidal advection over a shoal near St. George Island, Bering Sea. Mar. Ecol. Prog. Ser. 83: 
+1–14. 
+Crawford, J.A., Frost, K.J., Quakenbush, L.T. and Whiting, A. 2012. Different habitat use strategies by 
+subadult and adult ringed seals (Phoca hispida) in the Bering and Chukchi seas. Polar Biol. 35: 241–255. 
+Dorman, J.G., Powell, T.M., Sydeman, W.J. and Bograd, S.J. 2011. Advection and starvation cause krill 
+(Euphausia pacifica) decreases in 2005 Northern California coastal populations: Implications from a model 
+study. Geophys. Res. Lett. 38: L04605. 
+Elith, J. and Graham, C.H. 2009. Do they? How do they? WHY do they differ? On finding reasons for 
+differing performances of species distribution models. Ecography 32: 66–77. 
+Elith, J. and Leathwick, J.R. 2009. Species distribution models: ecological explanation and prediction across 
+space and time. Annu. Rev. Ecol. Evol. Syst. 40: 677–697. 
+Elith, J., Kearney, M. and Phillips, S. 2010. The art of modelling range-shifting species. Methods Ecol. Evol. 
+1: 330–342. 
+Etnoyer, P., Canny, D., Mate, B.R., Morgan, L.E., Ortega-Ortiz, J.G. and Nichols, W.J. 2006. Sea-surface 
+temperature gradients across blue whale and sea turtle foraging trajectories off the Baja California 
+Peninsula, Mexico. Deep-Sea Res. II 53: 340–358. 
+Section 5  References 
+PICES Scientific Report No. 50 35 
+Farley, J.H., Davis, T.L., Gunn, J.S., Clear, N.P. and Preece, A.L. 2007. Demographic patterns of southern 
+bluefin tuna, Thunnus maccoyii, as inferred from direct age data. Fish. Res. 83: 151–161. 
+Favorite, F. 1976. Oceanography of the subarctic Pacific region, 1960–1971. Int. North Pac. Fish. Comm. 
+Bull. 31: 1960–1971. 
+Fernández, P., Anderson, D.J., Sievert, P.R. and Huyvaert, K.P. 2001. Foraging destinations of three low-
+latitude albatross (Phoebastria) species. J. Zool. 254: 391–404. 
+Forero, M.G., González-Solís, J., Hobson, K.A., Donázar, J.A., Bertellotti, M., Blanco, G. and Bortolotti, 
+G.R. 2005. Stable isotopes reveal trophic segregation by sex and age in the southern giant petrel in two 
+different food webs. Mar. Ecol. Prog. Ser. 296: 107–113. 
+Forney, K.A., Ferguson, M.C., Becker, E.A., Fiedler, P.C., Redfern, J.V., Barlow, J., Vilchis, I.L. and 
+Ballance, L.T. 2012. Habitat-based spatial models of cetacean density in the eastern Pacific Ocean. 
+Endangered Species Res. 16: 113–133. 
+Franklin, J. 2010. Mapping Species Distributions: Spatial Inference and Prediction. Cambridge University 
+Press, Cambridge. 
+Franks, P.J. 2002. NPZ models of plankton dynamics: their construction, coupling to physics, and 
+application. J. Oceanogr. 58: 379–387. 
+Friedlaender, A.S., Hazen, E.L., Nowacek, D.P., Halpin, P.N., Ware, C., Weinrich, M.T., Hurst, T. and 
+Wiley, D. 2009. Diel changes in humpback whale Megaptera novaeangliae feeding behavior in response to 
+sand lance Ammodytes spp. behavior and distribution. Mar. Ecol. Prog. Ser. 395: 91–100. 
+Fujioka, E., Kot, C.Y., Wallace, B.P., Best, B.D., Moxley, J., Cleary, J., Donnelly, B. and Halpin, P.N. 
+2014. Data integration for conservation: leveraging multiple data types to advance ecological assessments 
+and habitat modeling for marine megavertebrates using OBIS–SEAMAP. Ecol. Informatics 20: 13–26. 
+Fulton, E.A. 2010. Approaches to end-to-end ecosystem models. J. Mar. Syst. 81: 171–183. 
+Gienapp, P., Teplitsky, C., Alho, J., Mills, J. and Merilä, J. 2008. Climate change and evolution: 
+disentangling environmental and genetic responses. Molecular Ecol. 17: 167–178. 
+González-Solís, J., Croxall, J.P. and Wood, A.G. 2000. Sexual dimorphism and sexual segregation in 
+foraging strategies of northern giant petrels, Macronectes halli, during incubation. Oikos 90: 390–398. 
+Grebmeier, J., Overland, J., Moore, S., Farley, E., Carmack, E., Cooper, L., Frey, K., Helle, J., McLaughlin, 
+F. and McNutt, S. 2006. A major ecosystem shift in the northern Bering Sea. Science 311: 1461–1464. 
+Grecian, W.J., Witt, M.J., Attrill, M.J., Bearhop, S., Godley, B.J., Grémillet, D., Hamer, K.C. and Votier, 
+S.C. 2012. A novel projection technique to identify important at-sea areas for seabird conservation: An 
+example using Northern Gannets breeding in the North East Atlantic. Biol. Conserv. 156: 43–52. 
+Guisan, A. and Zimmermann, N.E. 2000. Predictive habitat distribution models in ecology. Ecol. Modell. 
+135: 147–186. 
+References Section 5 
+36 PICES Scientific Report No. 50 
+Guy, T.J., Jennings, S.L., Suryan, R.M., Melvin, E.F., Bellman, M.A., Balance, L.T., Blackie, B.A., Croll, 
+D.A., Deguchi, T., Geernaert, T.O., Henry, R.W., Hester, M., Hyrenbach, K.D., Jahncke, J., Kappes, M.A., 
+Ozaki, K., Roletto, J., Sato, F., Sydeman, W.J. and Zamon, J.E. 2013. Overlap of North Pacific albatrosses 
+with the U.S. west coast groundfish and shrimp fisheries. Fish. Res. 147: 222–234. 
+Hastie, T.J. and Tibshirani, R.J. 1990. Generalized Additive Models. Chapman and Hall/CRC Press, Boca 
+Raton, USA. 
+Hazen, E.L. and Johnston, D.W. 2010. Meridional patterns in the deep scattering layers and top predator 
+distribution in the central equatorial Pacific. Fish. Oceanogr. 19: 427–433. 
+Hazen, E.L., Friedlaender, A., Wiley, D., Thompson, M., Ware, C. and Weinrich, M. 2007. Three 
+dimensional prey aggregations and fine scale foraging patterns of Humpback whales (Megaptera 
+novaengliae) in Stellwagen Bank Marine Sanctuary, 2007 ICES Annual Science Conference, September 
+17–21, 2007, Helsinki, Finland.  
+Hazen, E.L., Friedlaender, A.S., Thompson, M.A., Ware, C.R., Weinrich, M.T., Halpin, P.N. and Wiley, 
+D.N. 2009. Fine-scale prey aggregations and foraging ecology of humpback whales Megaptera 
+novaeangliae. Mar. Ecol. Prog. Ser. 395: 75–89. 
+Hazen, E.L., Nowacek, D.P., St. Laurent, L., Halpin, P.N. and Moretti, D.J. 2011. The relationship among 
+oceanography, prey fields, and beaked whale foraging habitat in the Tongue of the Ocean. PloS One 6: 
+e19269. 
+Hazen, E.L., Maxwell, S.M., Bailey, H., Bograd, S.J., Hamann, M., Gaspar, P., Godley, B.J. and Shillinger, 
+G.L. 2012. Ontogeny in marine tagging and tracking science: technologies and data gaps. Mar. Ecol. Prog. 
+Ser. 457: 221–240. 
+Hazen, E.L., Jorgensen, S., Rykaczewski, R.R., Bograd, S.J., Foley, D.G., Jonsen, I.D., Shaffer, S.A., 
+Dunne, J.P., Costa, D.P. and Crowder, L.B. 2013a. Predicted habitat shifts of Pacific top predators in a 
+changing climate. Nature Clim. Change 3: 234–238. 
+Hazen, E.L., Suryan, R.M., Santora, J.A., Bograd, S.J., Watanuki, Y. and Wilson, R.P. 2013b. Scales and 
+mechanisms of marine hotspot formation. Mar. Ecol. Prog. Ser. 487: 177–183. 
+Hijmans, R.J. and Elith, J. 2013. Species distribution modeling with R. R package version 0.8-11. 
+Hijmans, R.J., Phillips, S., Leathwick, J. and Elith, J. 2014. Species distribution modeling. R package 
+version 1.0-5.  
+Hirzel, A., Hausser, J., Chessel, D. and Perrin, N. 2002. Ecological-niche factor analysis: how to compute 
+habitat-suitability maps without absence data? Ecology 83: 2027–2036. 
+Hooker, S.K. 2008. Marine reserves and higher top predators, pp. 347–360 in Top Predators in Marine 
+Ecosystems: Their Role in Monitoring and Management edited by I. Boyd, S. Wanless and C.J. 
+Camphuysen, Cambridge University Press, Cambridge.  
+Howell, E.A. and Kobayashi, D.R. 2006. El Niño effects in the Palmyra Atoll region: oceanographic 
+changes and bigeye tuna (Thunnus obesus) catch rate variability. Fish. Oceanogr. 15: 477–489. 
+Section 5  References 
+PICES Scientific Report No. 50 37 
+Huberty, C.J. 1994. Applied Discriminant Analysis. Wiley, New York. 
+Hughes, B.J., Martin, G.R., Giles, A.D. and Dickey, R.C. 2015. Identification of an assembly site for 
+migratory and tropical seabirds in the South Atlantic Ocean. Global Ecol. Conserv. 4: 38–47. 
+Humphries, G.R. and Huettmann, F. 2014. Putting models to a good use: a rapid assessment of Arctic 
+seabird biodiversity indicates potential conflicts with shipping lanes and human activity. Diversity Distrib. 
+20: 478–490. 
+Hunt, G.L. Jr., Harrison, N.M. and Piatt, J.F. 1993. Foraging ecology as related to the distribution of 
+planktivorous auklets in the Bering Sea, pp. 18–26 in The Status, Ecology, and Conservation of Marine 
+Birds of the North Pacific edited by K. Vermeer, K.T. Briggs, K.H. Morgan, D. Siegel-Causey, Canadian 
+Wildlife Service, Ottawa.  
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. Predation by Marine Birds and Mammals in the 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. 14, 168 pp. 
+Hyrenbach, K.D. and Dotson, R.C. 2003. Assessing the susceptibility of female black-footed albatross 
+(Phoebastria nigripes) to longline fisheries during their post-breeding dispersal: an integrated approach. 
+Biol. Conserv. 112: 391–404. 
+Hyrenbach, K.D., Forney, K.A. and Dayton, P.K. 2000. Marine protected areas and ocean basin 
+management. Aquat. Conserv. Mar. Freshwater Ecosyst. 10: 437–458. 
+Hyrenbach, K.D., Keiper, C., Allen, S.G., Ainley, D.G. and Anderson, D.J. 2006. Use of marine sanctuaries 
+by far-ranging predators: commuting flights to the California Current System by breeding Hawaiian 
+albatrosses. Fish. Oceanogr. 15: 95–103. 
+Isojunno, S., Matthiopoulos, J. and Evans, P.G. 2011. Harbour porpoise habitat preferences: robust spatio-
+temporal inferences from opportunistic data. Mar. Ecol. Prog. Ser. 448: 155–170. 
+James, G., Witten, D., Hastie, T. and Tibshirani, R. 2013. An Introduction to Statistical Learning: With 
+Applications in R. Springer, New York. 
+Johnson, J.B. and Omland, K.S. 2004. Model selection in ecology and evolution. Trends Ecol. Evol. 19: 
+101–108. 
+Kanaji, Y., Okazaki, M., Kishiro, T. and Miyashita, T. 2015. Estimation of habitat suitability for the 
+southern form of the short-finned pilot whale (Globicephala macrorhynchus) in the North Pacific. Fish. 
+Oceanogr. 24: 14–25. 
+Kappes, M.A., Shaffer, S.A., Tremblay, Y., Foley, D.G., Palacios, D.M., Robinson, P.W., Bograd, S.J. and 
+Costa, D.P. 2010. Hawaiian albatrosses track interannual variability of marine habitats in the North Pacific. 
+Prog. Oceanogr. 86: 246–260. 
+Kawai, H. 1969. Statistical estimation of isotherms indicative of the Kuroshio axis. Deep-Sea Res. 16: 
+109–115. 
+References Section 5 
+38 PICES Scientific Report No. 50 
+Kishi, M.J., Kashiwai, M., Ware, D.M., Megrey, B.A., Eslinger, D.L., Werner, F.E., Noguchi-Aita, M., 
+Azumaya, T., Fujii, M. and Hashimoto, S. 2007. NEMURO—a lower trophic level model for the North 
+Pacific marine ecosystem. Ecol. Modell. 202: 12–25. 
+Klemas, V. 2013. Fisheries applications of remote sensing: an overview. Fish. Res. 148: 124–136. 
+Ladd, C. and Stabeno, P.J. 2012. Stratification on the Eastern Bering Sea shelf revisited. Deep-Sea Res. II 
+65: 72–83. 
+Laidre, K.L., Heide-Jørgensen, M.P., Heagerty, P., Cossio, A., Bergström, B. and Simon, M. 2010. Spatial 
+associations between large baleen whales and their prey in West Greenland. Mar. Ecol. Prog. Ser. 402: 269–
+284. 
+Lewis, S., Schreiber, E., Daunt, F., Schenk, G.A., Orr, K., Adams, A., Wanless, S. and Hamer, K.C. 2005. 
+Sex-specific foraging behaviour in tropical boobies: does size matter? Ibis 147: 408–414. 
+Louzao, M., Hyrenbach, K.D., Arcos, J.M., Abello, P., Gil de Sola L. and Oro, D. 2006. Oceanographic 
+habitat of an endangered Mediterranean procellariiform: Implications for marine protected areas. Ecol. Appl. 
+16: 1683–1695. 
+Louzao, M., Becares, J., Rodriguez, B., Hyrenbach, K.D., Ruiz, A. and Arcos, J.M. 2009. Combining 
+ship-based surveys and tracking data to identify key marine areas for seabirds. Mar. Ecol. Prog. Ser. 391: 
+183–197. 
+Macleod, K., Fairbairns, R., Gill, A., Fairbairns, B., Gordon, J., Blair-Myers, C. and Parsons, E.C. 2004. 
+Seasonal distribution of minke whales Balaenoptera acutorostrata in relation to physiography and prey off 
+the Isle of Mull, Scotland. Mar. Ecol. Prog. Ser. 277: 263–274.  
+Marmion, M., Parviainen, M., Luoto, M., Heikkinen, R.K. and Thuiller, W. 2009. Evaluation of consensus 
+methods in predictive species distribution modeling. Diversity Distrib. 15: 59–69. 
+Mehlum, F., Klusek, Z. and Decker, M.B. 1999. Scale dependent correlations between the abundance of 
+Brünnich’s guillemots and their prey. J. Animal Ecol. 68: 60–72. 
+Mizuno, K. and White, W.B. 1983. Annual and interannual variability in the Kuroshio current system. J.  
+Phys. Oceanogr. 13: 1847–1867. 
+Moore, S. and Huntington, H. 2008. Arctic marine mammals and climate change: impacts and resilience. 
+Ecol. Appl. 18: 157–165. 
+Mugo, R., Saitoh, S.-I., Nihira, A. and Kuroyama, T. 2010. Habitat characteristics of skipjack tuna 
+(Katsuwonus pelamis) in the western North Pacific: a remote sensing perspective. Fish. Oceanogr. 19: 382–
+396. 
+Mugo, R.M., Saitoh, S.I., Takahashi, F., Nihira, A. and Kuroyama, T. 2014. Evaluating the role of fronts in 
+habitat overlaps between cold and warm water species in the western North Pacific: A proof of concept. 
+Deep-Sea Res. II 107: 29–39. 
+Mundry, R. and Nunn, C.L. 2009. Stepwise model fitting and statistical inference: Turning noise into signal 
+pollution. Amer. Naturalist 173: 119–123. 
+Section 5  References 
+PICES Scientific Report No. 50 39 
+Murase, H., Matsuoka, K., Ichii, T. and Nishiwaki, S. 2002. Relationship between the distribution of 
+euphausiids and baleen whales in the Antarctic (35°E–145°W). Polar Biol. 25: 135–145. 
+Murase, H., Kitakado, T., Kanaji, Y., Sasaki, H., Mitani, Y., Matsuoka, K., Okazaki, M. and Kanda, N. 
+2014. Application of habitat models to highly mobile marine animals – Cetaceans in the North Pacific as 
+case studies. Invited presentation in Topic Session S2, PICES-2014, Yeosu, Korea, October, 16–26, 2014.   
+Nishizawa, B., Ochi, D., Minami, H., Yokawa, K., Saitoh, S.-I. and Watanuki, Y. 2015. Habitats of two 
+albatross species during the non-breeding season in the North Pacific Transition Zone. Mar. Biol. 162: 743–
+752. 
+Oppel, S., Meirinho, A., Ramírez, I., Gardner, B., O’Connell, A.F., Miller, P.I. and Louzao, M. 2012. 
+Comparison of five modeling techniques to predict the spatial distribution and abundance of seabirds. Biol. 
+Conserv. 156: 94–104. 
+Panigada, S., Zanardelli, M., MacKenzie, M., Donovan, C., Mélin, F. and Hammond, P.S. 2008. Modeling 
+habitat preferences for fin whales and striped dolphins in the Pelagos Sanctuary (Western Mediterranean 
+Sea) with physiographic and remote sensing variables. Rem. Sensing Environ. 112: 3400–3412. 
+Paredes, R., Harding, A.M.A., Irons, D.B., Roby, D.D., Suryan, R.M., Orben, R.A., Renner, H., Young, R. 
+and Kitaysky, A. 2012. Proximity to multiple foraging habitats enhances seabirds’ resilience to local food 
+shortages. Mar. Ecol. Prog. Ser. 471: 253–269. 
+Paredes, R., Orben, R.A., Suryan, R.M., Irons, D.B., Roby, D.D., Harding, A.M.A., Young, R.C., Benoit-
+Bird, K., Ladd, C., Renner, H., Heppell, S., Phillips, R.A. and Kitaysky, A. 2014. Foraging responses of 
+black-legged kittiwakes to prolonged food-shortages around colonies on the Bering Sea Shelf. PloS One 9: 
+e92520. 
+Parmesan, C. 2006. Ecological and evolutionary responses to recent climate change. Annu. Rev. Ecol. Evol. 
+Syst. 37: 637–669. 
+Patterson, B.D. 1999. Contingency and determinism in mammalian biogeography: the role of history. J. 
+Mammal. 80: 345–360. 
+Perrow, M.R., Harwood, A.J.P., Skeate, E.R., Praca, E. and Eglington, S.M. 2015. Use of multiple data 
+sources and analytical approaches to derive a marine protected area for a breeding seabird. Biol. Conserv. 
+191: 729–738. 
+Peterson, A.T. 2005. Predicting potential geographic distributions of invading species. Current Sci. 89: 9–9. 
+Peterson, A.T., Soberón, J., Pearson, R.G., Anderson, R.P., Martínez-Meyer, E., Nakamura, M. and Araújo, 
+M.B. 2011. Ecological Niches and Geographic Distributions. Princeton University Press, UK. 
+Phillips, R., Silk, J., Phalan, B., Catry, P. and Croxall, J. 2004. Seasonal sexual segregation in two 
+Thalassarche albatross species: competitive exclusion, reproductive role specialization or foraging niche 
+divergence? Proc. R. Soc. Lond. B  271: 1283–1291. 
+Phillips, S.J., Anderson, R.P. and Schapire, R.E. 2006. Maximum entropy modeling of species geographic 
+distributions. Ecol. Modell. 190: 231–259. 
+References Section 5 
+40 PICES Scientific Report No. 50 
+Phillips, S.J. and Elith, J. 2010. POC plots: calibrating species distribution models with presence-only data. 
+Ecology 91: 2476–2484. 
+Pinaud, D. and Weimerskirch, H. 2005. Scale-dependent habitat use in a long-ranging central place 
+predator. J. Anim. Ecol. 74: 852–863. 
+Potts, J.M. and Elith, J. 2006. Comparing species abundance models. Ecol. Modell. 199: 153–163. 
+Praca, E., Gannier, A., Das, K. and Laran, S. 2009. Modeling the habitat suitability of cetaceans: Example of 
+the sperm whale in the northwestern Mediterranean Sea. Deep-Sea Res. 56: 648–657. 
+Priddel, D., Carlile, N., Portelli, D., Kim, Y. and O’Neill, L. 2014. Pelagic distribution of Gould’s Petrel 
+Pterodroma leucoptera: linking ship-based and beached bird sightings with remote tracking data. Emu 114: 
+360–370. 
+Raymond, B., Lea, M.A., Patterson, T., Andrews-Goff, V., Sharples, R., Charrassin, J.B., Cottin, M., 
+Emmerson, L., Gales, N., Gales, R. and Goldsworthy, S.D. 2015. Important marine habitat off east 
+Antarctica revealed by two decades of multi-species predator tracking. Ecography 38: 121–129. 
+Redfern, J.V., Ferguson, M.C., Becker, E.A., Hyrenbach, K.D., Good, C., Barlow, J., Kaschner, K., 
+Baumgartner, M.F., Forney, K.A., Ballance, L.T., Fauchald, P., Halpin, P., Hamazaki, T., Pershing, A.J., 
+Qian, S.S., Read, A., Reilly, S.B., Torres, L. and Werner, F. 2006. Techniques for cetacean–habitat 
+modeling. Mar. Ecol. Prog. Ser. 310: 271–295. 
+Renner, M., Parrish, J.K., Piatt, J.F., Kuletz, K.J., Edwards, A.E. and Hunt, G.L. Jr. 2013. Modeled 
+distribution and abundance of a pelagic seabird reveal trends in relation to fisheries. Mar. Ecol. Prog. Ser. 
+484: 259–277. 
+Robinson, L., Hobday, A., Possingham, H. and Richardson, A. 2015. Trailing edges projected to move 
+faster than leading edges for large pelagic fish habitats under climate change. Deep-Sea Res II 113: 225–
+234. 
+Rooper, C., Zimmermann, M., Sigler, M. and Hoff, J. 2014. Distribution modeling for deep-sea corals and 
+sponges in Alaska. Presentation in Topic Session S2, PICES-2014, Yeosu, Korea, October 16–26, 2014. 
+Royle, J.A. and Dorazio, R.M. 2008. Hierarchical Modeling and Inference in Ecology. Academic Press, 
+New York. 
+Ruckstuhl, K. and Neuhaus, P. 2005. Sexual Segregation in Vertebrates. Cambridge University Press, 
+Cambridge. 
+Rutz, C. and Hays, G.C. 2009. New frontiers in biologging science. Biol. Lett. 5: 289–292. 
+Santora, J.A., Ralston, S. and Sydeman, W.J. 2011. Spatial organization of krill and seabirds in the central 
+California Current. ICES  J.  Mar. Sci. 68: 1391–1402. 
+Santora, J.A., Sydeman, W.J., Schroeder, I.D., Reiss, C.S., Wells, B.K., Field, J.C., Cossio, A.M. and Loeb, 
+V.J. 2012. Krill space: a comparative assessment of mesoscale structuring in polar and temperate marine 
+ecosystems. ICES J. Mar. Sci. 69: doi:10.1093/icesjms/fss048. 
+Section 5  References 
+PICES Scientific Report No. 50 41 
+Santos, A.M.P. 2000. Fisheries oceanography using satellite and airborne remote sensing methods: a review. 
+Fish. Res. 49: 1–20. 
+Sasaki, H., Murase, H., Kiwada, H., Matsuoka, K., Mitani, Y. and Saitoh, S.-I. 2013. Habitat differentiation 
+between sei (Balaenoptera borealis) and Bryde’s whales (B. brydei) in the western North Pacific. Fish. 
+Oceanogr. 22: 496–508. 
+Sasaki, H., Matsuno, K., Fujiwara, A., Onuka, M., Yamaguchi, A., Ueno, H., Watanuki, Y. and Kikuchi, T. 
+2016. Distribution of Arctic and Pacific copepods and their habitat in the northern Bering Sea and Chukchi 
+seas. Biogeosciences 13: 4555–4567. 
+Scales, K.L., Miller, P.I., Hawkes, L.A., Ingram, S.N., Sims, D.W. and Votier, S.C. 2014. On the Front 
+Line: frontal zones as priority at-sea conservation areas for mobile marine vertebrates. J. Appl. Ecol. 51: 
+1575–1583. 
+Schneider, D.C. and Piatt, J.F. 1986. Scale-dependent correlation of seabirds with schooling fish in a coastal 
+ecosystem. Mar. Ecol. Prog. Ser. 32: 237–246. 
+Sebastián-González, E., Sánchez-Zapata, J.A., Botella, F. and Ovaskainen, O. 2010. Testing the 
+heterospecific attraction hypothesis with time-series data on species co-occurrence. Proc. R. Soc. Lond. B 
+277: 2983–2990. 
+Silva, T., Gislason, A., Licandro, P., Marteinsdóttir, G., Ferreira, A.S.A., Gudmundsson, K. and 
+Astthorsson, O.S. 2014. Long-term changes of euphausiids in shelf and oceanic habitats southwest, south 
+and southeast of Iceland. J. Plankton Res. 36: 1262–1278. 
+Sims, D.W. 2005. Differences in habitat selection and reproductive strategies of male and female sharks, pp. 
+127–147 in Sexual Segregation in Vertebrates: Ecology of the Two Sexes edited by K.E. Ruckstuhl and P. 
+Neuhaus, Cambridge University Press, Cambridge.  
+Skov, H., Humphreys, E., Garthe, S., Geitner, K., Grémillet, D., Hamer, K.C., Hennicke, J., Parner, H. and 
+Wanless, S. 2008. Application of habitat suitability modelling to tracking data of marine animals as a means 
+of analyzing their feeding habitats. Ecol. Modell. 212: 504–512. 
+Soberón, J. 2007. Grinnellian and Eltonian niches and geographic distributions of species. Ecol. Lett. 10: 
+1115–1123. 
+Spear, L.B., Nur, N. and Ainley, D.G. 1992. Estimating absolute densities of flying seabirds using analyses 
+of relative movement. Auk 109: 385–389. 
+Stockwell, D. and Peters, D. 1999. The GARP modeling system: problems and solutions to automated 
+spatial prediction. Int. J. Geogr. Info. Syst. 13: 143–158.  
+Stoner, A.W., Manderson, J.P. and Pessutti, J.P. 2001. Spatially explicit analysis of estuarine habitat for 
+juvenile winter flounder: combining generalized additive models and geographic information systems. Mar. 
+Ecol. Prog. Ser. 213:  253–271. 
+Su, N.J., Sun, C.L., Punt, A.E., Yeh, S.Z. and DiNardo, G. 2011. Modelling the impacts of environmental 
+variation on the distribution of blue marlin, Makaira nigricans, in the Pacific Ocean. ICES J. Mar. Sci. 68: 
+1072–1080. 
+References Section 5 
+42 PICES Scientific Report No. 50 
+Sundblad, G., Härmä, M., Lappalainen, A., Urho, L. and Bergström, U. 2009. Transferability of predictive 
+fish distribution models in two coastal systems. Estuar. Coast. Shelf Sci. 83: 90–96. 
+Suryan, R.M., Sato, F., Balogh, G.R., Hyrenbach, D.K., Sievert, P.R. and Ozaki, K. 2006. Foraging 
+destinations and marine habitat use of short-tailed albatrosses: a multi-scale approach using first-passage 
+time analysis. Deep-Sea Res II 53: 370−386.  
+Syamsuddin, M.L., Saitoh, S.-I., Hirawake, T., Bachri, S. and Harto, A.B. 2013. Effects of El Niño–
+Southern Oscillation events on catches of Bigeye Tuna (Thunnus obesus) in the eastern Indian Ocean off 
+Java. Fish. Bull. 111: 175–188. 
+Sydeman, W.J., Brodeur, R., Grimes, C.B., Bychkov, A.S. and McKinnell, S. 2006. Marine habitat 
+“hotspots” and their use by migratory species and top predators in the North Pacific Ocean. Deep-Sea Res II 
+53: 247–249. 
+Tasker, M.L., Jones, P.H., Dixon, T. and Blake, B.F. 1984. Counting seabirds at sea from ships: a review of 
+methods employed and a suggestion for a standardized approach. Auk 101: 567–577. 
+Thiers, L., Louzao, M., Ridoux, V., Le Corre, M., Jaquemet, S. and Weimerskirch, H. 2014. Combining 
+methods to describe important marine habitats for top predators: Application to identify biological hotspots 
+in tropical waters. PLoS One 9: e115057. 
+Thorson, J.T., Scheuerell, M.D., Shelton, A.O., See, K.E., Skaug, H.J. and Kristensen, K. 2015a. Spatial 
+factor analysis: a new tool for estimating joint species distributions and correlations in species range. 
+Methods Ecol. Evol. 6: 627–637. 
+Thorson, J.T., Skaug, H.J., Kristensen, K., Shelton, A.O., Ward, E.J., Harms, J.H. and Benante, J.A. 2015b. 
+The importance of spatial models for estimating the strength of density dependence. Ecology 96: 1202–
+1212. 
+Thuiller, W., Lafourcade, B., Engler, R. and Araújo, M.B. 2009. BIOMOD–a platform for ensemble 
+forecasting of species distributions. Ecography 32: 369–373. 
+Torres, L.G., Read, A.J. and Halpin, P. 2008. Fine-scale habitat modeling of a top marine predator: do prey 
+data improve predictive capacity? Ecol. Appl. 18: 1702–1717. 
+Torres, L.G., Sutton, P.J., Thompson, D.R., Delord, K., Weimerskirch, H., Sagar, P.M., Sommer, E., Dilley, 
+B.J., Ryan, P.G. and Phillips, R.A. 2015. Poor transferability of species distribution models for a pelagic 
+predator, the grey petrel, indicates contrasting habitat preferences across ocean basins. PloS One 10: 
+e0120014. 
+VanDerWal, J., Shoo, L.P., Graham, C. and Williams, S.E. 2009. Selecting pseudo-absence data for 
+presence-only distribution modeling: how far should you stray from what you know? Ecol. Modell. 220: 
+589–594. 
+Visser, M.E. 2008. Keeping up with a warming world; assessing the rate of adaptation to climate change. 
+Proc. R. Soc. Lond. B 275: 649–659. 
+Section 5  References 
+PICES Scientific Report No. 50 43 
+Ward, E.J., Jannot, J.E., Lee, Y.-W., Ono, K., Shelton, A.O. and Thorson, J.T. 2015. Using spatiotemporal 
+species distribution models to identify temporally evolving hotspots of species co-occurrence. Ecol. Appl. 
+25: 2198–2209. 
+Wearmouth, V.J. and Sims, D.W. 2008. Sexual segregation in marine fish, reptiles, birds and mammals: 
+behaviour patterns, mechanisms and conservation implications. Adv. Mar. Biol. 54: 107–170. 
+Weimerskirch, H., Pinaud, D., Pawlowski, F. and Bost, C.A. 2007. Does prey capture induce area-restricted 
+search? A fine-scale study using GPS in a marine predator, the wandering albatross. Amer. Naturalist 170: 
+734–743. 
+Weimerskirch, H., Louzao, M., de Grissac, S. and Delord, K. 2012. Changes in wind pattern alter albatross 
+distribution and life-history traits. Science 335: 211–214. 
+Whitehead, H. and Jonsen, I.D. 2013. Inferring animal densities from tracking data using Markov chains. 
+Plos One 8: e60901. 
+Willis-Norton, E., Hazen, E.L., Fossette, S., Shillinger, G., Rykaczewski, R.R., Foley, D.G., Dunne, J.P. and 
+Bograd, S.J. 2015. Climate change impacts on leatherback turtle pelagic habitat in the Southeast Pacific. 
+Deep-Sea Res. II 113: 260–267. 
+Wingfield, D.K., Peckham, S.H., Foley, D.G., Palacios, D.M., Lavaniegos, B.E., Durazo, R., Nichols, W.J., 
+Croll, D.A. and Bograd, S.J. 2011. The making of a productivity hotspot in the coastal ocean. PloS One 6: 
+e27874. 
+Wisz, M.S. and Guisan, A. 2009. Do pseudo-absence selection strategies influence species distribution 
+models and their predictions? An information-theoretic approach based on simulated data. BMC Ecology 9: 
+doi: 10.1186/1472-6785-9-8. 
+Wisz, M.S., Pottier, J., Kissling, W.D., Pellissier, L., Lenoir, J., Damgaard, C.F., Dormann, C.F., 
+Forchhammer, M.C., Grytnes, J.A. and Guisan, A. 2013. The role of biotic interactions in shaping 
+distributions and realised assemblages of species: implications for species distribution modeling. Biol. Rev. 
+88: 15–30. 
+Wood, S. 2006. Generalized Additive Models: An Introduction with R. CRC Press, Boca Raton, USA. 
+Worm, B., Lotze, H.K. and Myers, R.A. 2003. Predator diversity hotspots in the blue ocean. Proc. Natl. 
+Acad. Sci. 100: 9884–9888. 
+Yamamoto, T., Takahashi, A., Oka, N., Iida, T., Katsumata, N., Sato, K. and Trathan, P.N. 2011. Foraging 
+areas of streaked shearwaters in relation to seasonal changes in the marine environment of the Northwestern 
+Pacific: inter-colony and sex-related differences. Mar. Ecol. Prog. Ser. 424: 191–204. 
+Yamamoto, T., Watanuki, Y., Hazen, E.L., Nishizawa, B., Sasaki, H. and Takahashi, A. 2015. Statistical 
+integration of tracking and vessel survey data to incorporate life history differences in habitat models. Ecol. 
+Appl. 25: 2349–2406. 
+Yen, P.P., Sydeman, W.J. and Hyrenbach, K.D. 2004. Marine bird and cetacean associations with 
+bathymetric habitats and shallow-water topographies: implications for trophic transfer and conservation. J. 
+Mar. Syst. 50: 79–99. 
+References Section 5 
+44 PICES Scientific Report No. 50 
+Zarauz, L., Irigoien, X., Urtizberea, A. and Gonzalez, M. 2007. Mapping plankton distribution in the Bay of 
+Biscay during three consecutive spring surveys. Mar. Ecol. Prog. Ser. 345: 27–39. 
+Zarauz, L., Irigoien, X. and Fernandes, J.A. 2008. Modeling the influence of abiotic and biotic factors on 
+plankton distribution in the Bay of Biscay, during three consecutive years (2004–06). J. Plankton Res. 30: 
+857–872. 
+Zhang, X., Saitoh, S.I., Hirawake, T., Nakada, S., Koyamada, K., Awaji, T., Ishikawa, Y. and Igarashi, H. 
+2013. An attempt of dissemination of potential fishing zones prediction map of Japanese common squid in 
+the coastal water, southwestern Hokkaido, Japan. Proc. Asia-Pacific Advanced Network 36: 132–141. 
+Zuur, A., Ieno, E.N. and Smith, G.M. 2007. Analysing Ecological Data. Springer Science + Business Media 
+LLC, New York. 
+Zuur, A.F., Ieno, E.N., Walker. N.J., Saveliev, A.A. and Smith, G.M. 2009a. GLM and GAM for count data, 
+in Mixed Effects Models and Extensions in Ecology with R. Springer, New York, pp. 209–243. 
+Zuur, A.F., Ieno, E.N., Walker, N.J., Saveliev, A.A. and Smith, G.M. 2009b. Mixed effects modeling for 
+nested data, in Mixed Effects Models and Extensions in Ecology with R, Springer, New York, pp. 101–142. 
+Zydelis, R., Lewison, R.L., Shaffer, S.A., Moore, J.E., Boustany, A.M., Roberts, J.J., Sims, M., Dunn, D.C., 
+Best, B.D., Tremblay, Y., Kappes, M.A., Halpin, P.N., Costa, D.P. and Crowder, L.B. 2011. Dynamic 
+habitat models: using telemetry data to project fisheries bycatch. Proc. R. Soc. Lond. B 278: 3191–3200. 
+ 
+ 
+Appendix PICES Annual Meeting Topic Session and Workshop Summaries 
+PICES Scientific Report No. 50 45 
+Appendix  
+PICES Annual Meeting Topic Session and Workshop Summaries 
+Linked to the Goals of the Spatial Ecology Project (2012–2014)  
+PICES-2012, Hiroshima, Japan 
+Topic Session on “Environmental contaminants in marine ecosystems: Seabirds and  
+marine mammals as sentinels of ecosystem health” ................................................................................... 46 
+PICES-2013, Nanaimo, Canada 
+Workshop on “Marine bird and mammal spatial ecology” ........................................................................ 48 
+PICES-2014, Yeosu, Korea 
+Topic Session on “Strengths and limitations of habitat modeling:  Techniques, data sources, and 
+predictive capabilities”  .............................................................................................................................. 52 
+PICES-2012 Appendix – PICES Annual Meeting Topic Session and Workshop Summaries  
+46 PICES Scientific Report No. 50 
+PICES-2012, Hiroshima, Japan 
+October 12–21, 2012 
+ 
+BIO/MEQ Topic Session (S6)  
+Environmental contaminants in marine ecosystems: Seabirds and marine mammals as sentinels of 
+ecosystem health  
+ 
+Co-sponsored by: JSPS 
+ 
+Co-convenors: Peter Ross (Canada), Hideshige Takada (Japan) and Yutaka Watanuki (Japan) 
+ 
+Background 
+ 
+Urban and industrial developments in the world’s coastal regions have led to the release of a large number 
+of pollutants (heavy metals, POPs, plastics, oils, radioactive substances) into the marine environment.  In 
+some cases, these have detrimental effects on variety of marine resources in coastal and offshore areas. It 
+is increasingly important to identify sources, subsequent transport through marine physical systems and 
+resulting spatial patterns of these anthropogenic stressors.  Compared to river-lake systems, knowledge of 
+anthropogenic stressors in marine systems is less understood due to difficulties with detection over wide 
+areas and in offshore regions.  As top predators, such as many marine mammals and seabirds, bio-
+magnify some of these pollutants, these organisms can be used as bio-indicators of coastal, marine and/or 
+food web contamination.  The utility of these ‘sentinels’ was discussed at the PICES-2011 MEQ 
+Workshop. This session:  1) identified spatial patterns and geographic areas of concern (high 
+concentrations) of pollutants or other stressors in the PICES region using bio-indicator species,  
+2) examined mechanisms of transport, and ultimate disposition, of contaminants in marine ecosystems, 
+and 3) discussed health risks for certain predators and human consumers.  Review papers, case studies, 
+and innovative methods papers on anthropogenic stressors in marine predators were invited, as well as 
+papers that distinguished between the effects of natural and anthropogenic stressors.  In particular, studies 
+linking predator habitat use with spatial aspects of stressors in the environment and in predators were 
+encouraged.  
+ 
+Summary of presentations 
+ 
+Ten talks (5 from Japan, 2 from Canada, 1 from Korea, 1 from Russia, and 1 from UK,) and 4 posters (all 
+from Russia) were given.  Spatial patterns and interannual changes in POPs (Persistent Organic 
+Pollutants), including PCBs, DDTs, HCHs, and PBDs in marine birds and some terrestrial birds were 
+presented, and their usefulness as bio-indicators was discussed.  A common theme among many of the 
+presentations was the need to consider age and the trophic level as important factors when evaluating and 
+comparing contaminants levels among species or populations.  Case studies of monitoring marine debris 
+ashore and POPs in plastic pellets were also presented.  Forty to 50 people, including bird and mammal 
+researchers, geochemists, and biochemists attended the session and gave useful discussion.  The co-
+convenors discussed the potential for a review paper on the usefulness and limitation of marine birds and 
+mammals as indicators of marine pollutants, and the spatial patterns of POPs shown by them in the 
+PICES region. 
+ 
+ 
+List of papers 
+ 
+Oral presentations 
+Andy Sweetman, John Crosse, Richard Shore, Gloria Pereira and Kevin Jones (Invited) 
+Long term trends in PBDE concentrations in gannet (Morus bassanus) eggs from two UK colonies  
+Appendix – PICES Annual Meeting Topic Session and Workshop Summaries PICES-2012 
+PICES Scientific Report No. 50 47 
+Rei Yamashita, Hideshige Takada, Mai Miyazaki, Takashi Yamamoto, Akinori Takahashi, Maki Yamamoto, Philip 
+N. Trathan and Yutaka Watanuki (Invited) 
+Persistent organic pollutants (POPs) in preen gland oils from streaked shearwaters reflect exposure in overwintering areas  
+Sang Hee Hong, Gi Myung Han, Won Joon Shim, Sung Yong Ha and Nak Won Heo 
+Concentrations and profiles of persistent organic pollutants (POPs) in birds collected from an urbanized coastal region of 
+South Korea  
+Annamalai Subramanian and Shinsuke Tanabe 
+Developing Asian countries as sources of pollutants to the Asia-Pacific region  
+John E. Elliott, Kyle H. Elliott, Melanie F. Guigueno, Laurie K. Wilson, Sandi Lee and Abde Idrissi (Invited) 
+Seabirds are indicators of persistent contaminants in the marine environment: Examples from the Pacific Coast of Canada  
+Peter S. Ross 
+Persistent Organic Pollutants (POPs) in marine mammals: Harmless chemicals or lingering poisons?  
+Vasiliy Yu. Tsygankov, Margarita D. Boyarova, Anna A. Lukashkina, Peter A. Tyupeleev, Ilya А. Shcherbakov, 
+Yuri V. Prikhodko and Olga N. Lukyanova 
+Marine mammals as bioindicators of persistent toxic substance (PTS) contamination in Russian Subarctic marine 
+ecosystems  
+Atsuo Ito, Rei Yamashita, Hideshige Takada, Takashi Yamamoto, Kozue Shiomi, Carlos Zavalaga, Takuya Abe, 
+Shinichi Watanabe, Maki Yamamoto, Katsufumi Sato, Hiromi Kohno, Ken Yoda, Tomohiko Iida and Yutaka 
+Watanuki 
+POPs in the preen gland oil of streaked shearwaters breeding on the islands in Japan reflect marine pollution in western 
+North Pacific  
+Atsuhiko Isobe, Shin’ichiro Kako and Etsuko Nakashima (Invited) 
+Marine/beach plastic litter as a transport vector of pollutants  
+Kosuke Tanaka, Hideshige Takada, Rei Yamashita and Yutaka Watanuki (Invited) 
+Marine plastics: Monitoring matrix for persistent organic pollutants (POPs) and carrier of POPs to seabirds  
+ 
+Poster presentations 
+Andrey S. Neroda, Vasily F. Mishukov, Vladimir A. Goryachev, Denis V. Simonenkov and Anna A. Goncharova 
+Radioactive isotopes in atmospheric aerosols over Russia and the Sea of Japan following the nuclear accident at Fukushima 
+nr. 1 Daiichi nuclear power station in March 2011 
+Tatiana Chizhova, Pavel Tishchenko, Liubov Kondratieva and Takuya Kawanishi 
+Polycyclic aromatic hydrocarbon (PAH) distribution in the Amur River estuary 
+Yulia Koudryashova, Natalia Prokuda, Natalia Khodorenko, Tatiana Chizhova and Pavel Tishchenko 
+PAHs in sediments of rivers of the Primorsky Region, Far East of Russia 
+Mikhail V. Simokon 
+Ecological risk evaluation of metals in the coastal areas of Peter the Great Bay, Japan/East Sea 
+ 
+PICES-2013 Appendix – PICES Annual Meeting Topic Session and Workshop Summaries  
+48 PICES Scientific Report No. 50 
+PICES-2013, Nanaimo, Canada 
+October 11–20, 2013 
+ 
+BIO Workshop (W3)  
+Marine bird and mammal spatial ecology 
+ 
+Co-Convenors: Robert Suryan (USA), William Sydeman (USA), Yutaka Watanuki (Japan) and Rolf Ream 
+(USA)* 
+______________ 
+* Rolf Ream was unable to attend PICES-2013 due to the U.S. government partial shutdown. 
+ 
+Invited Speaker: Martin Renner (Tern Again Consulting, USA) 
+ 
+Background  
+ 
+Marine birds and mammals (MBMs) are highly mobile, yet relatively easily observed and tracked to 
+determine their spatial distribution throughout the North Pacific Ocean. They are important marine top 
+predators that consume substantial amounts of zooplankton and fish, and are susceptible to changes in 
+marine food web structure, productivity, and a variety of anthropogenic impacts.  Therefore, MBMs are 
+highly visible sentinels of ecosystem health and its change.  To incorporate MBMs into ecosystem based 
+management and meet objectives of FUTURE, the PICES Advisory Panel on MBM (AP-MBM) proposed 
+to focus on MBM spatial ecology and conservation as a priority topic for their 2012–2014 activities. 
+ 
+Over the past several decades, a wide variety of research programs have collected observational and 
+tracking data of MBMs throughout the North Pacific.  Portions of these data have been compiled into 
+large databases, such as the North Pacific Pelagic Seabird Database (NPPSD).  Other data sets, however, 
+still need to be integrated for more complete coverage of the PICES regions.  Holding the proposed 
+workshop is an important first step to compiling and integrating these massive datasets.  In February 2012, 
+we held discussions with several of the main data holders/contributors and they expressed broad support 
+for this effort. Workshop invitees were contacted over the past year which included data holders, spatial 
+analysis experts, and end product users.     
+ 
+Summary of the workshop 
+ 
+There were 29 attendees at the workshop (Table 1).  The structure of the workshop was organized to 
+address three main objectives: 1) Datasets, 2) Applications, and 3) Integration. 
+   
+1. Datasets  
+The first four presentations highlighted examples of existing databases that include data representing 
+large spatial scales (100,000s km
+2
+) spanning multiple decades.  Examples of these large databases include 
+the NPPSD that contains over 370,571 records (3 km transect segments) covering 282,035 km
+2 
+spanning 
+1974–2012.  Total counts of organisms include over 17 million seabirds and 241 thousand marine 
+mammals.  Spatial coverage from this dataset is best within or adjacent to the Exclusive Economic Zones 
+of Pacific Rim countries where the majority of cruises have occurred.  Other datasets include additional 
+regions such as the Eastern Tropical Pacific.  Regions of limited vessel survey coverage include the low 
+to mid latitude central and Western Pacific.  Individual tracking data from marine birds and mammals 
+will help to fill some of these gaps, as well as provide greater temporal coverage in some instances, for 
+example during winter. 
+ 
+ 
+Appendix– PICES Annual Meeting Topic Session and Workshop Summaries PICES-2013 
+PICES Scientific Report No. 50 49 
+2. Applications  
+Three presentations provided examples of individual studies describing how distributional patterns of 
+birds (Cassin’s auklets) and whales (minke, sei, and Bryde’s) can change over time, affecting the types of 
+prey that they consume or in response to changing prey distribution and abundance.  A fourth 
+presentation used a larger animal tracking dataset from the Tagging of Pacific Predators (TOPP) program 
+and a cumulative human impact assessment to identify areas of highest cumulative impact.  Interestingly, 
+they found that marine sanctuaries were hotspots for use and risk.  It was also discussed that birds and 
+mammals do not always co-occur in the areas of greatest prey abundance since their relationship with 
+prey is typically non-linear, only requiring enough to satisfy their immediate needs.   
+ 
+3. Integration 
+Three of the four presentations described regional studies in the Western Pacific, Bering Sea, and 
+California Current where both vessel-based survey data and individual tracking data exist for a model 
+species.  One study where only a single vessel cruise through a region in a given year showed how 
+restrictive vessel survey data can be relative to individual tracking.  At the broad scale, there was some 
+coherence in distribution where the ship and bird tracks overlapped.  However, habitat models from 
+vessel- and tracking-based data were quite different.  In other regions, longer time series of repeated 
+vessel-based surveys demonstrate how powerful these datasets are relative to the often shorter-duration 
+tacking datasets.  Presenters agreed that survey and tracking data are very different, yet highly 
+complementary, especially for filling data gaps in perceived species habitat use and seasonal occurrence.  
+A fourth presentation described an approach using tracking and environmental data to model habitat use,  
+producing a density grid that shows similar patterns to density estimates from vessel surveys in regions 
+where vessel and tracking data overlap. 
+ 
+Decisions from the workshop 
+1. Datasets  
+Compiling all available vessel survey and tracking data into single databases for each data type is much 
+needed.  This is, however, an enormous undertaking.  The NPPSD represents one such effort occurring 
+over many years, yet does not include tracking data.  Although there are still many datasets that have yet 
+to be included in this database, the database is extremely comprehensive and represents the best single 
+data source for many species of marine birds and mammals in the North Pacific.  The most 
+comprehensive database for individual tracking data is the Tagging of Pacific Predators, but this database 
+does not include data from multiple independent programs over many years, like the NPPSD.  It was 
+agreed that our group’s effort moving forward should be focused on compiling a list of existing datasets, 
+their temporal and spatial extent, and contact information for the data holder.  This could be used in future 
+efforts to secure much needed funding for integrating these data into central databases and proposing 
+additional studies to fill the spatial or temporal gaps in the data.  
+ 
+2. Applications  
+Comprehensive distribution and abundance maps for the North Pacific are extremely valuable for many 
+scientific and conservation efforts.  In addition, it was noted that such accurate and comprehensive 
+species abundance and distribution maps for marine birds and mammals are unique among marine 
+organisms owing to the relative ease of collecting these data.  Furthermore, because broad scale 
+distribution of micronekton is poorly understood, the distribution and intensity of MBM aggregations 
+may be valuable indicators of key micronekton.  From the AP-MBM perspective, the first application of 
+these data layers is to revisit prey consumption estimates for North Pacific marine birds and mammals 
+(e.g., Hunt et al.)  With more comprehensive distribution and diet information, the spatially explicit prey 
+consumption estimates will be greatly improved over previous efforts, which have received wide usage to 
+date, indicating the value and demand for these efforts. 
+   
+PICES-2013 Appendix – PICES Annual Meeting Topic Session and Workshop Summaries  
+50 PICES Scientific Report No. 50 
+Additional uses for comprehensive marine bird and mammal distribution data include calibrating outputs 
+from regional and basin scale ocean models and projecting future impacts of changing marine ecosystems.  
+This is particularly relevant for identifying conservation hotspots and spatial distribution of contaminants 
+in upper trophic level consumers (e.g., Ross, Watanuki et al.).  
+ 
+An important consideration is to produce distribution data layers in metrics that are most relevant to 
+modelers and other end product users, especially within the PICES community (e.g., FUTURE).  
+ 
+3. Integration 
+The group was unanimous in the conclusion that the two types of data are highly complementary, but for 
+various sampling and empirical reasons it is not prudent to integrate vessel survey and tracking data 
+outright, either quantitatively or qualitatively.  Instead, the two types of data should first be used 
+independently to create habitat use models, then secondarily combined in habitat use models to create a 
+single predicted distribution (or density) layer from the two datasets.   
+ 
+Report outline and section leads:  
+The report documenting AP-MBM’s three-year “spatial ecology” effort will follow the outline of the 
+workshop with the respective section leads.   
+Introduction: R. Suryan (lead), B. Sydeman, R. Ream, Y. Watanuki 
+Chapter 1: Datasets, R. Ream (lead), R. Suryan, with contributions from many others 
+Chapter 2: Integration, R. Suryan (lead), Y. Watanuki, E. Hazen, M. Renner 
+Chapter 3: Habitat Modeling, Y. Watanuki (lead), J. Santora, R. Suryan, E. Hazen, M. Renner  
+Chapter 4: Uses, W. Sydeman (lead), A. Trites 
+ 
+Acknowledgements:  We thank the presenters for taking the time to summarize their data for presentation, 
+travel to attend the workshop, and contribute to a fruitful discussion.  We would especially like to thank 
+those individuals who contributed additional time to analyze new datasets specifically for this workshop.  
+We thank BIO, Science Board and the PICES Secretariat for supporting the workshop and for providing 
+travel for our invited speaker.  
+ 
+Table 1 Workshop W3 attendees. 
+Sonia Batten Canada 
+Douglas Bertram Canada 
+Bryan Black USA 
+Carrie Eischens USA 
+Jerome Fiechter USA 
+Marisol Garcia-Reyes USA 
+Tracee Geernaert USA 
+Kaoru Hattori Japan 
+Elliott L Hazen USA 
+George Hunt USA 
+Trevor Joyce USA 
+Ken Morgan Canada 
+Chad Nordstrom Canada 
+Patrick O’Hara Canada 
+Mayuko Otsuki Japan 
+Corinne Pomerleau Canada 
+Martin Renner USA 
+Appendix– PICES Annual Meeting Topic Session and Workshop Summaries PICES-2013 
+PICES Scientific Report No. 50 51 
+Tamara Russell Canada 
+Ryan Rykaczewski USA 
+Hiroaki Saito Japan 
+Jarrod Santora USA 
+Hiroko Sasaki Japan 
+Huamei Shao Japan 
+Melanie Smith USA 
+William Sydeman USA 
+Tsutomu Tamura Japan 
+Andrew Trites Canada 
+Atsushi Tsuda Japan 
+Yutaka Watanuki Japan 
+ 
+ 
+List of papers 
+ 
+Oral presentations 
+Tracee O. Geernaert 
+Trends in seabird occurrence on Pacific halibut assessment surveys (2002-2012)  
+Lisa T. Ballance, Jay P. Barlow and Trevor W. Joyce 
+At sea marine mammal, seabird, and ecosystem assessment surveys in the eastern Pacific: An overview of Southwest 
+Fisheries Science Center’s 23-year time series  
+Tsutomu Tamura, Kenji Konishi, Koji Matsuoka and Takashi Hakamada 
+Geographical and temporal distribution of common minke, sei and Bryde’s whales in the western North Pacific in relation 
+to prey availability  
+Sara M. Maxwell, Elliott L. Hazen, Steven J. Bograd, Benjamin S. Halpern, Greg A. Breed, Barry Nickel, Nicole M. 
+Teutschel, Larry B. Crowder, Scott Benson, Peter H. Dutton, Helen Bailey, Michelle A., Carey E. Kuhn, Michael J. 
+Weise, Bruce Mate, Scott A. Shaffer, Jason L. Hassrick, Robert W. Henry, Ladd Irvine, Birgitte I. McDonald, 
+Patrick W. Robinson, Barbara A. Block and Daniel P. Costa 
+Understanding spatial overlap of human impacts and marine predator distributions  
+Hiroko Sasaki, Hiroto Murase, Koji Matsuoka, Yoko Mitani and Sei-Ichi Saitoh 
+Seasonal shift of Bryde’s and sei whale habitat in the western North Pacific  
+D.F. Bertram, Dave Mackas, D.W. Welch, W.S. Boyd, J.L. Ryder and A. Hedd 
+Interannual variation in zooplankton prey distribution determines marine breeding distributions of Cassin’s Auklet in the 
+proposed Scott Islands National Marine Wildlife Area in Canada  
+Martin Renner (Invited) 
+Combining tracking and transect data - Issues and possible solutions  
+Yutaka Watanuki, Bungo Nishizawa, Takashi Yamamoto, Elizabeth Labunski, Kathy Kuletz, Catherine Meathrel 
+and R.A. Phillips 
+Distribution of short-tailed shearwaters in the northern North Pacific: A comparison between geolocator-based tracking of 
+individuals and boat-based surveys  
+Jarrod A. Santora, Josh Adams, Bill Henry, K. David Hyrenbach, Jim T. Harvey and David G. Ainley 
+Comparative habitat use and spatial overlap of sooty shearwaters using shipboard surveys and satellite-tracking  
+Helen Bailey, Steven J. Bograd, Elliott L. Hazen, Bruce Mate, Ladd Irvine, Daniel M. Palacios, Karin A. Forney and 
+Evan Howell 
+Whale Watch: Integrating blue whale satellite telemetry and oceanographic data to develop habitat models for conservation 
+management  
+ 
+PICES-2014 Appendix – PICES Annual Meeting Topic Session and Workshop Summaries  
+52 PICES Scientific Report No. 50 
+PICES-2014, Yeosu, Korea 
+October 16–26, 2014 
+BIO Topic Session (S2) 
+Strengths and limitations of habitat modeling:  Techniques, data sources, and predictive capabilities 
+ 
+Co-Convenors: Enyuan Fan (China), Elliott Hazen (USA), Sei-Ichi Saitoh (Japan), William Sydeman 
+(USA), Yutaka Watanuki (Japan) 
+ 
+Invited Speakers: 
+Hiroto Murase (National Research Institute of Far Seas Fisheries, Japan) 
+Martin Renner (University of Washington, USA) 
+ 
+Background 
+ 
+Habitat modeling is a powerful tool used to identify key factors affecting the distribution of marine 
+organisms and underlying mechanisms, to predict optimal fishing grounds, to evaluate human impacts on 
+ecosystems, and to project distribution shifts in the face of climate change. Given their broad application 
+and utility, evaluation of the strengths and weakness of various modeling approaches is becoming 
+increasingly important. Environmental data primarily come from satellite-based SST, SST gradient, SSH, 
+Chl-a and their variation across time, and geographic features such as shelf breaks. Distribution data are 
+collected from various sources, including ship-based line transect surveys, animal tracking, fisheries 
+activities (log data, satellite-based fishing light distribution) and hence contain inevitable biases, including 
+the selection of the survey line and season, tagging location of tracked animals, sample sizes, and type of 
+the fishing activities. Biases are also inherent in the models being used – Generalized linear and additive 
+models (GLMs and GAMs), Random Forests, boosted regression approaches, and Maximum Entropy 
+modeling (MaxEnt). The intention of the session was to examine factors causing biases, identify the 
+direction of biases, discuss techniques for mitigating or accounting for biases, and create a best-
+practices guide for using habitat modeling approaches to predict the distribution of marine organisms in 
+dynamic marine environments. 
+ 
+Summary of presentations 
+ 
+This session was a welcome addition to common themes explored in PICES meetings and focused on 
+mechanisms of habitat modeling analysis rather than focusing on a specific type of study organism. It was 
+well-attended and there was a variety of topics in the presentations, focusing on different ecosystems, 
+trophic levels (coral to whales) and at many different scales – from fine-scale predictions to basin-wide. 
+ 
+In his invited lecture, Dr. Hiroto Murase discussed many of the pros and cons between habitat and 
+mechanistic models. The former is good for understanding static pictures while the latter is better for 
+understanding processes. He used an ensemble of statistical models to predict sei whale abundance in the 
+western Pacific and found a range of both predictive accuracy and overall predicted spatial scales. The 
+take-home message was that for sei-whale sightings data, Machine-learning models (Random Forests and 
+Boosted Regression Trees) and generalized additive models (GAMs) performed best (sequentially). 
+However, satellite tracks from sei whales did not seem to match well with the modeled habitat, 
+highlighting the need for examining both datasets.  
+ 
+The second invited lecture by Dr. Martin Renner focused on the North Pacific seabird database using 
+climatological sightings data. He, like Dr. Murase, used a suite of models, and found that model success 
+varied quite a bit. In fact, the ensemble model performed more poorly than some of the individual models. 
+In addition, Martin presented that kriging may outperform kernel density for filling the gaps between 
+observations.  
+Appendix – PICES Annual Meeting Topic Session and Workshop Summaries PICES-2014 
+PICES Scientific Report No. 50 53 
+Dr. Chris Rooper gave a presentation on the habitat modeling of deep sea corals in the Gulf of Alaska and 
+Bering Strait. Given the zero-inflated nature of the data, he modeled presence/absence and abundance 
+separately in what is termed a hurdle model. He also used a camera sled to groundtruth the trawl catches 
+of corals, finding that the camera sled did a better job sampling corals than the benthic trawls. 
+ 
+Dr. Bill Sydeman gave a talk for Jarrod Santora on mechanistically modeling krill hotspots in the 
+California Current. He showed that ROMS-model based predictions of krill patch size, intensity and 
+persistence were centered at 37° latitude, and intensity and persistence both related well to seabird 
+densities that foraged in the California Current. The contrast between mechanistic, individual based 
+models presented by Bill and the statistical models presented by the other speakers highlighted the need 
+to look at both approaches in concert. 
+ 
+Dr. Hiroko Sasaki gave a talk on predicting zooplankton abundance as a function of the environment. She 
+focused specifically on arctic and Pacific copepods and used GAMMs to predict their distribution relative 
+to environmental variables with year as a random covariate. Interestingly, the habitat envelopes of the two 
+groups of copepods were quite similar, with Pacific copepods having a slightly stronger relationship with 
+temperature. 
+ 
+Dr. Irene Alabia gave a talk on habitat suitability models for neon flying squid in the western Pacific. 
+Rather than using a single model, she used a model ensemble and like Dr. Murase, compared the results 
+from each of the models. The ensemble models were chosen and weighted based on the prediction-based 
+validation. There was also quite a bit of variability among years in model success, potentially because of 
+the nature of the resource (less vs. more densely aggregated). 
+ 
+Dr. Yoon-Kyung Lee presented on a GIS based habitat map for common squid. Her research used a more 
+qualitative method with strong predictive success to sum up the correlations among environmental 
+variables and common squid CPUE on a pixel-by-pixel basis. The weighting of each parameter was 
+decided based on the frequency of catch and each environmental variable and ultimately the habitat 
+envelope data were summed into a habitat probability index. 
+ 
+Dr. Yukiko Inoue presented bycatch models of wandering and black-browed albatross using tag-based 
+and fisheries bycatch data. As bycatch is a function of species distribution and fishing effort, multiple 
+models were used sequentially. Distribution was predicted as a function of environmental variables and 
+predicted for islands without tracking data. Bycatch was predicted in two models: as a function of 
+environmental variables and gear type. Unfortunately, the models showed that bycatch mitigation 
+techniques did not show an across the board reduction in bycatch but more data are likely needed to make 
+a conclusive decision. 
+ 
+Dr. Patrick O’Hara gave a talk on predicting Cassin’s Auklet habitat relative to environmental stressors of 
+microplastics and oil. His models were very robust in predicting both survey and tracking-based 
+distribution of birds. When overlaying the modeled habitat with microplastics, there was little overlap but 
+vessel traffic was directed through important areas. Cassin’s Auklets are of conservation concern for 
+Canada and there are ongoing efforts for spatial management around Triangle Island to protect this 
+important population. 
+ 
+The final talk was given by Dr. Hiromichi Igarashi who created a near-real time model of neon flying 
+squid using ROMS model output. He used a suite of modeling techniques, and created a complex super-
+ensemble, regressing the suite of models against CPUE rather than the common approach of weighted 
+averaging. Using an EOF on the super-ensemble output he was able to decompose the results based on 
+spatio-temporal scale into fine, medium, and large scale. He then was able to highlight how the various 
+scales improved in their predictive capacity, in addition to the single vs. super-ensemble, as a function of 
+good and bad fishing years. 
+ 
+PICES-2014 Appendix – PICES Annual Meeting Topic Session and Workshop Summaries  
+54 PICES Scientific Report No. 50 
+Conclusions 
+ 
+The suite of modeling techniques presented, with some authors using up to 10 different models, 
+highlights the importance of comparing model results. As technological capability continues to increase, 
+more complex multi-model ensembles can improve our predictive capacity. In addition, the talks 
+examined multiple trophic levels from copepods up to marine mammals, highlighting the need for 
+statistical habitat modeling. Finally, the difference between mechanistic (individual-based models) vs. 
+statistical (many presented here) was highlighted by a number of speakers. In fact, the possibility of 
+combining these approaches, e.g., using the habitat model output as an input for mechanistic models was 
+suggested by one of the speakers. This has the potential to greatly improve our capabilities in predicting 
+habitat, including for use in near-real time management of fisheries resources. 
+ 
+This session shows the successes of the Spatial Ecology plan by AP-MBM and will contribute to the 3-
+year project report. 
+ 
+ 
+List of papers 
+ 
+Oral presentations 
+Application of habitat models to highly mobile marine animals – Cetaceans in the North Pacific as case studies 
+(Invited) 
+Hiroto Murase, Toshihide Kitakado, Y u Kanaji, Hiroko Sasaki, Yoko Mitani, Koji Matsuoka, Makoto Okazaki and 
+Naohisa Kanda 
+Crossvalidating approaches to modeling habitat and distribution of seabirds at-sea (Invited) 
+Martin Renner 
+Distribution modeling for deep-sea corals and sponges in Alaska 
+Chris Rooper, Mark Zimmermann, Mike Sigler and Jerry Hoff 
+Modeling temporal variation in krill “hotspots”:  Size, intensity, persistence and coherence with krill predators 
+Jarrod A. Santora, Jeffrey Dorman and William J. Sydeman  
+Prediction of zooplankton community Spatial-Temporal patterns in the Chukchi Sea – Case study using habitat 
+modeling approach 
+Hiroko Sasaki, Kohei Matsuno, Atsushi Yamaguchi, Y utaka Watanuki and Takashi Kikuchi 
+Comparison of habitat suitability models for neon flying squid (Ommastrephes bartramii) in western and central 
+North Pacific 
+Irene Alabia, Sei-Ichi Saitoh, Hiromichi Igarashi, Yoichi Ishikawa, Norihisa Usui, Masafumi Kamachi, Awaji 
+Toshiyuki and Masaki Seito 
+GIS-based potential habitat mapping for Todarodes pacificus (common squid) 
+Yoon-Kyung Lee, Inhye Park, Sang-Woo Kim, Jong-Kuk Choi, Saro Lee and Joo-Hyung Ryu 
+Is seabird bycatch rate affected by the seabird distribution? Estimation of seabird distribution for bycatch risk 
+assessment 
+Y ukiko Inoue, Makoto Okazaki, Maria P. Dias, Cleo Small and Hiroshi Minami 
+Cassin’s Auklet at-sea distribution and exposure to stressors such as ship-source oil pollution and microplastics 
+Patrick D. O’Hara, Ken Morgan, Jamie McDevitt-Irwin, Jean-Pierre W. Desforges, Peter S. Ross and Sean Boyd 
+A multi-model ensemble prediction of habitat suitability index (HSI) models for neon flying squid in central North 
+Pacific by using 3-D ocean data assimilation product 
+Hiromichi Igarashi, Toshiyuki Awaji, Masafumi Kamachi, Yoichi Ishikawa, Norihisa Usui, Masaaki Iiyama, Yosuke 
+Onoue, Mitsuo Sakai, Yoshiki Kato, Irene Alabia, Sei-ichi Saitoh and Masaki Seitoh 
+ 
+ 
+  
+Appendix – PICES Annual Meeting Topic Session and Workshop Summaries PICES-2014 
+PICES Scientific Report No. 50 55 
+Poster presentations 
+Developing the suitable operation prediction model of neon flying squid in the central North Pacific using Satellite 
+images and VMS 
+Yang Liu, Sei-Ichi Saitoh, Hiroki Takegawa and Toru Hirawake 
+Effect of 3-D physical structures on spatial distributions of Japanese common squid in the coastal waters of 
+southwestern Hokkaido, Japan 
+Xun Zhang, Sei-Ichi Saitoh, Toru Hirawake, Satoshi Nakada, Koji Koyamada, Toshiyuki Awaji, Yoichi Ishikawa and 
+Hiromichi Igarashi 
+Habitat model development of Japanese common squid in Japan Sea using satellite remotely sensed data 
+Mariko Dehara, Sei-Ichi Saitoh and Toru Hirawake 
+Predicting the potential invasion in Korean waters of the saltmarsh grass Spartina alterniflora from China – A joint 
+proposal by KIOST and Nanjing University 
+Keun-Hyung Choi and Changyong Wang 
+ 
+Continued from inside back cover 
+Jamieson, G. and Zhang, C.-I. (Eds.)  2005.  Report of the 
+Study Group on Ecosystem-Based Management Science 
+and its Application to the North Pacific.  PICES Sci. 
+Rep. No. 29, 77 pp. 
+Brodeur, R. and Yamamura, O. (Eds.)  2005.  Micronekton of 
+the North Pacific.  PICES Sci. Rep. No. 30, 115 pp. 
+Takeda, S. and Wong, C.S. (Eds.)  2006.  Report of the 2004 
+Workshop on In Situ Iron Enrichment Experiments in the 
+Eastern and Western Subarctic Pacific.  PICES Sci. Rep. 
+No. 31, 187 pp. 
+Miller, C.B. and Ikeda, T. (Eds.)  2006.  Report of the 2005 
+Workshop on Ocean Ecodynamics Comparison in the 
+Subarctic Pacific.  PICES Sci. Rep. No. 32, 103 pp. 
+Kruse, G.H., Livingston, P., Overland, J.E., Jamieson, G.S., 
+McKinnell, S. and Perry, R.I. (Eds.)  2006.  Report of the 
+PICES/NPRB Workshop on Integration of Ecological 
+Indicators of the North Pacific with Emphasis on the 
+Bering Sea.  PICES Sci. Rep. No. 33, 109 pp. 
+Hollowed, A.B., Beamish, R.J., Okey, T.A. and Schirripa, 
+M.J. (Eds.) 2008.  Forecasting Climate Impacts on Future 
+Production of Commercially Exploited Fish and 
+Shellfish. PICES Sci. Rep. No. 34, 101 pp. 
+Beamish, R.J. (Ed.)  2008.  Impacts of Climate and Climate 
+Change on the Key Species in the Fisheries in the North 
+Pacific. PICES Sci. Rep. No. 35, 217 pp. 
+Kashiwai, M. and Kantakov, G.A. (Eds.) 2009.  Proceedings of 
+the Fourth Workshop on the Okhotsk Sea and Adjacent 
+Areas.   PICES Sci. Rep. No. 36, 305 pp. 
+Jamieson, G., Livingston, P. and Zhang, C.-I. (Eds.)  2010.  
+Report of Working Group 19 on Ecosystem-based 
+Management Science and its Application to the North 
+Pacific.  PICES Sci. Rep. No. 37, 166 pp. 
+Pakhomov, E. and Yamamura, O. (Eds.)  2010.  Report of the 
+Advisory Panel on Micronekton Sampling Intercalibration 
+Experiment.  PICES Sci. Rep. No. 38, 108 pp. 
+Makino, M. and Fluharty, D.L. (Eds.) 2011. Report of the 
+Study Group on Human Dimensions. PICES Sci. Rep.  
+No. 39, 40 pp. 
+Foreman, M.G. and Yamanaka, Y. (Eds.) 2011. Report of 
+Working Group 20 on Evaluations of Climate Change 
+Projections.  PICES Sci. Rep. No. 40, 165 pp. 
+McKinnell, S.M., Curchitser, E., Groot, C., Kaeriyama, M. 
+and Myers, K.W. 2012.  PICES Advisory Report on the 
+Decline of Fraser River Sockeye Salmon Oncorhynchus 
+nerka (Steller, 1743) in Relation to Marine Ecology. 
+PICES Sci. Rep. No. 41, 149 pp. 
+Takeda, S., Chai, F. and Nishioka, J. (Eds.) 2013.  Report of 
+Working Group 22 on Iron Supply and its Impact on 
+Biogeochemistry and Ecosystems in the North Pacific 
+Ocean. PICES Sci. Rep. No. 42, 60 pp. 
+Shaw, C.T., Peterson, W.T. and Sun, S. (Eds.) 2013.  Report 
+of Working Group 23 on Comparative Ecology of Krill in 
+Coastal and Oceanic Waters around the Pacific Rim. 
+PICES Sci. Rep. No. 43, 100 pp. 
+Abo, K., Burgetz, I. and Dumbauld, B. (Eds.) 2013. Report of 
+Working Group 24 on Environmental Interactions of 
+Marine Aquaculture.  PICES Sci. Rep. No. 44, 122 pp. 
+Hollowed, A.B., Kim, S., Barange, M. and Loeng, H. (Eds.) 
+2013. Report of the PICES/ICES Working Group on 
+Forecasting Climate Change Impacts on Fish and Shellfish. 
+PICES Sci. Rep. No. 45, 197 pp. 
+Ross, P.S. (Ed.) 2013. Report of the Study Group on Marine 
+Pollutants. PICES Sci. Rep. No. 46, 49 pp. 
+Trainer, V.L. and Yoshida, T. (Eds.) 2014. Proceedings of the 
+Workshop on Economic Impacts of Harmful Algal Blooms 
+on Fisheries and Aquaculture. PICES Sci. Rep. No. 47, 
+85 pp. 
+Kestrup, Åsa M., Smith, D.L. and Therriault, T.W. (Eds.) 
+2015. Report of Working Group 21 on Non-indigenous 
+Aquatic Species. PICES Sci. Rep. No. 48, 176 pp. 
+Curtis, J.M.R. (Ed.) 2015. Report of the Study Group on 
+Biodiversity Conservation. PICES Sci. Rep. No. 49, 61 pp. 
+Watanuki, Y., Suryan, R.M., Sasaki, H., Yamamoto, T., 
+Hazen, E.L., Renner, M., Santora, J.A., O’Hara, P.D. and 
+Sydeman, W.J. (Eds.) 2016. Spatial Ecology of Marine 
+Top Predators in the North Pacific: Tools for Integrating 
+across Datasets and Identifying High Use Areas. PICES 
+Sci. Rep. No. 50, 55 pp. 
+ 
+ 
+ 
+ 
+ 
+PICES SCIENTIFIC REPORTS 
+ 
+ 
+ 
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+scientific content of these publications are not generally conducted. 
+ 
+Printed copies of Scientific Reports are available upon request from 
+ 
+PICES Secretariat 
+P.O. Box 6000 
+Sidney, British Columbia 
+Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int 
+ 
+ 
+On-line versions of PICES Scientific Reports can be found at: meetings.pices.int/publications/scientific-reports  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report was developed under the guidance of the PICES Science Board and its Biological Oceanography 
+Committee.  The views expressed in this report are those of participating scientists under their responsibilities. 
+ 
+ 
+ 
+This document should be cited as follows: 
+ 
+Watanuki, Y., Suryan, R.M., Sasaki, H., Yamamoto, T., Hazen, E.L., Renner, M., Santora, J.A., O’Hara, P.D. 
+and Sydeman, W.J. (Eds.) 2016. Spatial Ecology of Marine Top Predators in the North Pacific: Tools for 
+Integrating across Datasets and Identifying High Use Areas. PICES Sci. Rep. No. 50, 55 pp.  
+Continued on inside back page 
+PICES Scientific Reports 
+ 
+ 
+Hargreaves, N.B., Hunter, J.R., Sugimoto, T. and Wada, T. 
+(Eds.) 1993.  Coastal Pelagic Fishes (Report of Working 
+Group 3); Subarctic Gyre (Report of Working Group 6).  
+PICES Sci. Rep. No. 1, 130 pp. 
+Talley, L.D. and Nagata, Y. (Eds.) 1995.  The Okhotsk Sea 
+and Oyashio Region (Report of Working Group 1).  
+PICES Sci. Rep. No. 2, 227 pp. 
+Anonymous. 1995.  Report of the PICES-STA Workshop on 
+Monitoring Subarctic North Pacific Variability.  PICES 
+Sci. Rep. No. 3, 94 pp. 
+Hargreaves, N.B. (Ed.) 1996. Science Plan, Implementation 
+Plan (Report of the PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity).  
+PICES Sci. Rep. No. 4, 64 pp. 
+LeBlond, P.H. and Endoh, M. (Eds.) 1996.  Modelling of the 
+Subarctic North Pacific Circulation (Report of Working 
+Group 7).  PICES Sci. Rep. No. 5, 91 pp. 
+Anonymous. 1996. Proceedings of the Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. 
+6, 426 pp. 
+Beamish, R.J., Hollowed, A.B., Perry, R.I., Radchenko, V.I., 
+Yoo, S. and Terazaki, M. (Eds.) 1997.  Summary of the 
+Workshop on Conceptual/Theoretical Studies and Model 
+Development and the 1996 MODEL, BASS and REX 
+Task Team Reports.  PICES Sci. Rep. No. 7, 93 pp. 
+Nagata, Y. and Lobanov, V.B. (Eds.) 1998.  Multilingual 
+Nomenclature of Place and Oceanographic Names in the 
+Region of the Okhotsk Sea.  PICES Sci. Rep. No. 8, 57 
+pp. (Reprint from MIRC Science Report, No. 1, 1998) 
+Hollowed, A.B., Ikeda, T., Radchenko, V.I. and Wada, T. 
+(Organizers) 1998.  PICES Climate Change and Carrying 
+Capacity Workshop on the Development of Cooperative 
+Research in Coastal Regions of the North Pacific.  
+PICES Sci. Rep. No. 9, 59 pp. 
+Freeland, H.J., Peterson, W.T. and Tyler, A. (Eds.) 1999.  
+Proceedings of the 1998 Science Board Symposium on 
+The Impacts of the 1997/98 El Niño Event on the North 
+Pacific Ocean and Its Marginal Seas.  PICES Sci. Rep. 
+No. 10, 110 pp. 
+Dugdale, R.C., Hay, D.E., McFarlane, G.A., Taft, B.A. and 
+Yoo, S. (Eds.) 1999.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Summary of the 1998 MODEL, MONITOR and REX 
+Workshops, and Task Team Reports.  PICES Sci. Rep. 
+No. 11, 88 pp. 
+Lobanov, V.B., Nagata, Y. and Riser, S.C. (Eds.) 1999.  
+Proceedings of the Second PICES Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. 
+12, 203 pp. 
+Danchenkov, M.A., Aubrey, D.G. and Hong, G.H. 2000.  
+Bibliography of the Oceanography of the Japan/East Sea.  
+PICES Sci. Rep. No. 13, 99 pp. 
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. 
+Predation by Marine Birds and Mammals in the 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. 
+14, 168 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2000.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 1999 MONITOR and 
+REX Workshops, and the 2000 MODEL Workshop on 
+Lower Trophic Level Modelling.  PICES Sci. Rep. No. 15, 
+148 pp. 
+Stehr, C.M. and Horiguchi, T. (Eds.) 2001.  Environmental 
+Assessment of Vancouver Harbour Data Report for the 
+PICES MEQ Practical Workshop.  PICES Sci. Rep. No. 
+16, 213 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2001.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 2000 BASS, MODEL, 
+MONITOR and REX Workshops, and the 2001 BASS/ 
+MODEL Workshop.  PICES Sci. Rep. No. 17, 125 pp. 
+Alexander, V., Bychkov, A.S., Livingston, P. and McKinnell, 
+S.M. (Eds.) 2001.  Proceedings of the PICES/CoML/IPRC 
+Workshop on “Impact of Climate Variability on Observation 
+and Prediction of Ecosystem and Biodiversity Changes in 
+the North Pacific”.  PICES Sci. Rep. No. 18, 210 pp. 
+Otto, R.S. and Jamieson, G.S. (Eds.) 2001.  Commercially 
+Important Crabs, Shrimps and Lobsters of the North 
+Pacific Ocean.  PICES Sci. Rep. No. 19, 79 pp. 
+Batchelder, H.P., McFarlane, G.A., Megrey, B.A., Mackas, 
+D.L. and Peterson, W.T. (Eds.) 2002.  PICES-GLOBEC 
+International Program on Climate Change and Carrying 
+Capacity: Report of the 2001 BASS/MODEL, MONITOR 
+and REX Workshops, and the 2002 MODEL/REX 
+Workshop.  PICES Sci. Rep. No. 20, 176 pp. 
+Miller, C.B. (Ed.) 2002.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Report of the PICES 2002 Volunteer Observing Ship 
+Workshop.  PICES Sci. Rep. No. 21, 38 pp. 
+Perry, R.I., Livingston, P. and Bychkov, A.S. (Eds.) 2002.  
+PICES Science: The First Ten Years and a Look to the 
+Future.  PICES Sci. Rep. No. 22, 102 pp. 
+Taylor, F.J.R. and Trainer, V.L. (Eds.) 2002.  Harmful Algal 
+Blooms in the PICES Region of the North Pacific.  
+PICES Sci. Rep. No. 23, 152 pp. 
+Feely, R.A. (Ed.) 2003.  CO
+2
+ in the North Pacific Ocean (Working 
+Group 13 Final Report).  PICES Sci. Rep. No. 24, 49 pp. 
+Aydin, K.Y., McFarlane, G.A., King, J.R. and Megrey, B.A. 
+(Eds.)  2003. PICES-GLOBEC International Program on 
+Climate Change and Carrying Capacity:  The BASS/ 
+MODEL Report on Trophic Models of the Subarctic 
+Pacific Basin Ecosystems.  PICES Sci. Rep. No. 25, 93 pp. 
+McKinnell, S.M. (Ed.) 2004.  Proceedings of the Third 
+Workshop on the Okhotsk Sea and Adjacent Areas.  
+PICES Sci. Rep. No. 26, 275 pp. 
+Kishi, M.J. (Ed.) 2004.  Report of the MODEL Task Team 
+Second Workshop to Develop a Marine Ecosystem Model 
+of the North Pacific Ocean including Pelagic Fishes. 
+PICES Sci. Rep. No. 27, 49 pp. 
+King, J.R. (Ed.)  2005.  Report of the Study Group on the 
+Fisheries and Ecosystem Responses to Recent Regime 
+Shifts. PICES Sci. Rep. No. 28, 162 pp. 
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION
+PICES SCIENTIFIC REPORT  
+No. 50, 2016
+PICES SCIENTIFIC REPORT No. 50,  2016
+ISBN  978-1-927797-21-1
+ISSN 1198-273X
+Spatial Ecology of Marine Top Predators 
+in the North Pacific: 
+Tools for Integrating across Datasets and 
+Identifying High Use Areas
+ 
+ 
+ 
+PICES PUBLICATIONS 
+ 
+ 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+ 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+ 
+ 
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which 
+document the administrative and scientific activities 
+of the Organization, and its formal decisions, by 
+calendar year.   
+ 
+PICES SCIENTIFIC REPORTS – include 
+proceedings of PICES workshops, final reports of 
+PICES expert groups, data reports and planning 
+reports. 
+ 
+PICES TECHNICAL REPORTS – are on-line 
+reports published on data/monitoring activities that 
+require frequent updates. 
+ 
+SPECIAL PUBLICATIONS – are products that 
+are destined for general or specific audiences. 
+ 
+JOURNAL SPECIAL ISSUES – are peer-
+reviewed publications resulting from symposia 
+and Annual Meeting scientific sessions and 
+workshops that are published in conjunction with 
+commercial scientific journals.   
+ 
+BOOKS – are peer-reviewed, journal-quality 
+publications of broad interest. 
+ 
+PICES PRESS – is a semi-annual newsletter 
+providing timely updates on the state of the 
+ocean/climate in the North Pacific, with highlights of 
+current research and associated activities of PICES. 
+ 
+ABSTRACT BOOKS – are prepared for PICES 
+Annual Meetings and symposia (co-)organized by 
+PICES. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For further information on our publications, visit PICES at www.pices.int. 
+ 
+Front cover figure 
+Photo of a Short-tailed Albatross, Phoebastria albatrus, taken in the Bering Sea during the 2013 cruise 
+aboard the T/S Oshoro-maru.  Credit: Bungo Nishizawa, Hokkaido University.       

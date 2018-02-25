@@ -1,0 +1,3832 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 24 
+2003 
+ 
+ 
+ 
+ 
+CO
+2
+ in the North Pacific Ocean 
+ 
+ 
+ 
+PICES Working Group 13 
+Final Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+ 
+Richard A. Feely 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2003 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int   Home Page:  http://www.pices.int 
+  
+ 
+  
+ 
+ 
+PICES Working Group 13 
+Final Report 
+ 
+ 
+CO
+2
+ in the North Pacific Ocean 
+ 
+ 
+by 
+ 
+ 
+Richard A. Feely
+1
+, Yukihiro Nojiri
+2
+, Andrew G. Dickson
+3 
+Christopher L. Sabine
+1
+, Marilyn F. Lamb
+1
+ and Tsuneo Ono
+4
+ 
+ 
+ 
+1
+Pacific Marine Environmental Laboratory 
+National Oceanic and Atmospheric Administration 
+7600 Sand Point Way NE 
+Seattle, WA 98115, U.S.A. 
+ 
+ 
+2
+National Institute for Environmental Studies 
+Global Warming Mechanism Laboratory 
+National Institute for Environmental Studies 
+Tsukuba, Ibaraki 305-0053, Japan 
+ 
+ 
+3
+Marine Physical Laboratory 
+Scripps Institution of Oceanography 
+University of California 
+9500 Gilman Drive 
+La Jolla, CA 92093-0244, U.S.A. 
+ 
+ 
+4
+Subarctic Fisheries Oceanography Division 
+Hokkaido National Fisheries Research Institute 
+116 Katsurakoi, Kushiro 085-0802, Japan 
+ 
+ 
+ 
+Contribution No. 2473 from NOAA/ Pacific Marine Environmental Laboratory 
+ 
+  
+ 
+  
+TABLE OF CONTENTS 
+ 
+ 
+ Page 
+ 
+Executive Summary…………………………………………………………………………………… vii 
+ 
+1.0 Introduction…………………………………………………………………………………….. 1 
+ 
+2.0 Synthesis of the WOCE/JGOFS global CO
+2
+ survey data in the North Pacific……..……… 3 
+2.1 Analytical methods………………………………………….……………………………. 3 
+2.1.1 Dissolved inorganic carbon (DIC) analysis……………………………………… 3 
+2.1.2 Total alkalinity (TAlk) analysis………………………………………………….. 4 
+2.1.3 Discrete fCO
+2
+ analysis……………….……………………………………….….. 5 
+2.1.4 pH analysis…………………………………………………..…………………… 5 
+2.2 Crossover comparisons of global CO
+2
+ survey data……………………………………….. 5 
+ 
+3.0 Air-sea CO
+2
+ fluxes……………………………………………………………………………… 11 
+3.1 Data collection…………………………………………………………………………….. 11 
+3.2 Data analysis……………………………………………………………………………… 11 
+3.3 CO
+2
+ fluxes………………………………………………………………………………… 13 
+ 
+4.0 DIC, TAlk and anthropogenic CO
+2
+ distributions in the North Pacific……………………. 15 
+4.1 Distributions of DIC and Talk……………… …………………………………………… 15 
+4.2 Anthropogenic CO
+2
+ distributions……………………………………………………….… 16 
+4.3 Temporal variations in anthropogenic carbon accumulation……………………………… 23 
+ 
+5.0 Biogeochemical and global implications……………………………………………………… 27 
+ 
+6.0 Recommendations for the future of carbon studies within PICES…………………………. 29 
+ 
+7.0 References………………………………………………………………………………………. 31 
+ 
+Appendix A. Summary of PICES Working Group 13 activities (1998-2001)………………….. 37 
+ 
+Appendix B. Results of Working Group 13 method inter-comparison studies………………… 41 
+ 
+Appendix C. Results of Working Group 13 data integration workshops………………………. 47 
+  
+ 
+  
+Executive Summary 
+ 
+The North Pacific Ocean plays a significant role in controlling the long-term fate of CO
+2
+ on Earth.  Much 
+of our understanding of the distribution of anthropogenic CO
+2
+ in the North Pacific stems from intensive 
+work conducted during the decade of the 1990s.  Underway measurements were made for pCO
+2
+ in the 
+northern North Pacific from 1995 to 1999, as part of the Japan-Canada cooperative vessel-of-opportunity 
+program.  In addition, discrete high-quality dissolved inorganic carbon and total alkalinity data were 
+acquired as part of the WOCE/JGOFS Global CO
+2
+ survey in the Pacific Ocean between 1991 and 1999.  
+This research was supported, in part, by the member nations of the North Pacific Marine Science 
+Organization (PICES).  This report describes the research and technical activities of the PICES Working 
+Group 13 on CO
+2
+ in the North Pacific from 1998 through 2001.  The major scientific objectives of the 
+Working Group were to:  (i) synthesize CO
+2
+ data from the North Pacific Ocean;  (ii) determine the 
+sources and sink for CO
+2
+ and their regional fluxes;  and (iii) provide a comprehensive picture of the 
+distribution of anthropogenic carbon dioxide in the region.  The major technical activities included:  (i) 
+supporting international cooperation in exchanges of samples from cruises;  (ii) organizing measurement 
+inter-comparison studies for carbonate parameters in seawater;  and (iii) developing ongoing mechanisms 
+for exchanging data at the international level;  and (iv) sponsoring several meetings and symposia on CO
+2
+ 
+system dynamics in the North Pacific.  We will discuss the implications of these research and technical 
+activities with respect to climate change processes and provide recommendations for future directions by 
+PICES for international cooperation on carbon cycle research in the North Pacific. 
+ 
+ 
+ Richard A. Feely & Yukihiro Nojiri 
+ WG 13 Co-Chairmen 
+  
+ 
+  
+1.0 Introduction 
+ 
+Over the past 200 years, human activities have 
+led to a secular increase in atmospheric CO
+2 
+from about 280 to greater than 365 ppmv 
+(Keeling and Whorf, 2000; Carbon Dioxide 
+Information Analysis Center, 2001).  The impact 
+of the CO
+2
+ increase and that of other 
+“greenhouse” gases on the global climate is at 
+the center of a major international policy debate.  
+Studies of the ocean’s role in the uptake and 
+storage of anthropogenic CO
+2
+ and modulation of 
+future atmospheric CO
+2
+ levels are critical for 
+understanding the global carbon cycle and for 
+the prediction of future climate change.  The 
+North Pacific is an important sink region for 
+atmospheric carbon dioxide in the oceans and, 
+consequently, plays a significant role in 
+controlling the long-term fate of CO
+2
+ on Earth.  
+Some biogeochemical processes relating to the 
+oceanic CO
+2
+ system are peculiar to the North 
+Pacific.  This occurs because (i) the North 
+Pacific is the final destination of circulation of 
+the deep water that contains a high level of 
+preformed nutrients and dissolved inorganic 
+carbon (DIC), and (ii) the North Pacific 
+Intermediate Water stores dissolved CO
+2
+ for 
+more than a few tens of years.   
+ 
+Much of our understanding of the distribution 
+and fate of anthropogenic CO
+2
+ in the North 
+Pacific stems from the high-quality carbon data 
+that were acquired as part of the World Ocean 
+Circulation Experiment (WOCE)/Joint Global 
+Ocean Flux Study (JGOFS) Global CO
+2
+ survey 
+and subsequent cruises.  In addition, underway 
+measurements were made for pCO
+2
+ in the 
+northern North Pacific from 1995 to 1999, as 
+part of the Japan-Canada cooperative vessel of 
+opportunity program.  This research was 
+supported, in part, by the member nations of the 
+North Pacific Marine Science Organization 
+(PICES), through the activities of its Working 
+Group 13. The group played a major role in 
+fostering international cooperation in exchanges 
+of samples from cruises, supporting CO
+2
+ inter-
+comparison studies, and developing strategies 
+for exchanging data at the international level.  
+This report summarizes the research and 
+technical activities that have been conducted by 
+member nations of PICES to synthesize CO
+2
+ 
+data in the North Pacific, and provide a 
+comprehensive picture of the distribution of 
+anthropogenic CO
+2
+ in this region.  Then, the 
+implications of the results with respect to 
+climate change processes in the future are 
+discussed.  Finally, recommendations are made 
+for future directions by PICES for international 
+cooperation on carbon cycle research in the 
+North Pacific. 
+  
+ 
+  
+2.0 Synthesis of the WOCE/JGOFS global CO
+2
+ survey data in the North Pacific 
+ 
+The recently completed WOCE/JGOFS global 
+CO
+2
+ survey conducted during the 1990s 
+produced over 15 times more high-quality 
+carbon measurements than previous survey 
+efforts.  These data are an important asset to the 
+scientific community investigating 
+biogeochemical cycling of carbon species in the 
+oceans.  They are also a significant legacy to 
+future generations of scientists by providing a 
+baseline against which future changes in ocean 
+geochemistry can be assessed.  Most of the data 
+have been reported to national archive facilities.  
+Between 1991 and 1999, carbon system 
+measurements were made on 14 WOCE/JGOFS 
+cruises in the North Pacific Ocean by 
+investigators from 9 different laboratories and 3 
+countries (Fig. 1, Table 1).  At least two of the 
+four inorganic carbon parameters were analyzed 
+on each cruise, with the exception of CGC91 
+and P9.  DIC was measured on all of the cruises, 
+but additional measurements included one or 
+more of the remaining parameters:  TAlk, 
+fugacity of CO
+2
+ ( fCO
+2
+1
+), or pH.  With support 
+from PICES and several federal agencies at the 
+national level, an analysis of this data set was 
+conducted in order to make specific 
+recommendations for the adjustment of the 
+Pacific carbon survey data to produce a 
+uniformly calibrated data set. 
+ 
+2.1 Analytical methods 
+ 
+Analyses of all carbon parameters during the 
+Pacific Ocean CO
+2
+ survey cruises were 
+generally performed following the techniques 
+outlined in the Handbook of methods for the 
+analysis of the various parameters of the carbon 
+dioxide system in seawater (DOE, 1994). 
+ 
+2.1.1 Dissolved inorganic carbon (DIC) 
+analysis 
+ 
+All DIC samples were analyzed by coulometric 
+titration.  The main differences between the 
+various groups were the sample volume and the 
+primary calibration method (Johnson, 1992; 
+Johnson et al., 1985,  1987,  1993,  1998, Ishii et 
+ 
+ 
+ 
+Fig. 1 Station locations for WOCE/JGOFS CO
+2
+ survey cruises in the North Pacific Ocean.  Cruise 
+names are designated in the rectangles.  Circles show crossover locations where carbon measurements 
+were made;  gray lines indicate cruises that had no carbon analyses. 
+ 
+1
+ The fugacity of CO
+2
+ takes into account the non-ideal nature of the gas.  The values of fCO
+2
+ are within 
+0.5-1.5 µatm of the partial pressure of CO
+2
+ in surface waters. 
+  
+Table 1 Summary of the carbon parameters analyzed during the North Pacific Ocean WOCE/JGOFS 
+CO
+2
+ survey (1991-1999). 
+ 
+Carbon Parameters Analyzed 
+Cruise Name Cruise Date 
+DIC TAlk fCO
+2
+ 
+a
+pH 
+Country/ 
+b
+Institute 
+Archived Data
+Location 
+P9 Jul-94 x    Japan/MRI CDIAC 
+P10 Oct-93 x x   USA/Princeton CDIAC 
+P13 Aug-92 x x   USA/SIO CDIAC 
+P14N Jul-93 x x  x USA/UH CDIAC 
+P14S15S Jan-96 x x x x USA/NOAA CDIAC 
+P15N Sep-94 x x   Canada/IOS WHPO/UCSD
+EQS92 Mar-92 x x x x USA/NOAA NOAA 
+P16N Jan-91 x   x USA/NOAA CDIAC 
+P17C May-91 x x   USA/WHOI CDIAC 
+P17N May-93 x x   USA/WHOI CDIAC 
+CGC91 Feb-91 x    USA/NOAA CDIAC 
+P18 Jan-94 x x x x USA/NOAA CDIAC 
+P1 
+c
+99 x x  x Japan/JFA N/A 
+P2 Jan-94 x x   Japan/JFA JODC 
+a 
+Spectrophotometric technique 
+b 
+Lead institute for carbon measurements 
+c 
+Western section 3/99; Eastern section 9/99 
+ 
+Carbon Parameters Analyzed DIC TAlk fCO
+2
+ pH 
+No. of Cruises 14 11 3 6 
+ 
+Cruises with DIC-TAlk pair=11 
+Cruises with DIC-fCO
+2
+ pair=3 
+Cruises with DIC-pH pair=6 
+Cruises with >2 parameters=5 
+Cruises with >3 parameters=3 
+Total number of carbon sample locations=~14,000 
+ 
+al., 1998).  Certified Reference Materials 
+(CRMs) (UNESCO, 1991; Dickson, 1992; 
+Dickson et al., 2003a, b) were used on most 
+cruises as secondary standards for DIC.  
+Certification of the CRM DIC is based on the 
+vacuum extraction/manometric analysis of C. D. 
+Keeling at the Scripps Institution of 
+Oceanography (UNESCO, 1991; Guenther et 
+al., 1994).  Routine shipboard CRM analyses 
+helped verify sample measurement accuracy.  
+Some laboratories reporting their DIC data to the 
+archived data location did not normalize to 
+CRMs. 
+2.1.2 Total alkalinity (TAlk) analysis 
+ 
+All shipboard TAlk measurements were made 
+by potentiometric titration using a computer-
+controlled Dosimat™ titrator and a pH meter 
+(Brewer et al., 1986, Millero et al., 1993, DOE 
+1994, Ono et al., 1998).  The primary analytical 
+differences were the volume of sample analyzed, 
+the use of either an open or closed titration cell, 
+the method for fitting the titration results (i.e. 
+Gran, nonlinear fit, or single point titration), and 
+the calibration methods.  Most groups routinely 
+running CRMs for DIC also analyzed the CRMs 
+  
+for TAlk despite the fact that the CRMs were not 
+certified for TAlk until July 1996.  Batches of 
+CRMs bottled prior to July 1996 were certified 
+by analyzing archived samples.  This allowed 
+post-cruise corrections to be made on many of 
+the shipboard measurements (Lamb et al., 2002). 
+ 
+2.1.3 Discrete fCO
+2
+ analysis 
+ 
+Each aliquot of seawater was equilibrated at a 
+constant temperature of either 4°C or 20°C with 
+a headspace of known initial CO
+2
+ content.  
+Subsequently, the headspace CO
+2
+ concentration 
+was determined by non-dispersive infrared 
+analyzer (NDIR) or by gas chromatography.  
+The initial fCO
+2
+ in the water was determined 
+after correcting for loss or gain of CO
+2
+ during 
+the equilibration process.  This correction can be 
+significant for large initial fCO
+2
+ differences 
+between headspace and water, and for systems 
+with a large headspace to water volume ratio 
+(Wanninkhof and Thoning, 1993; Chen et al., 
+1995). 
+ 
+2.1.4 pH analysis 
+ 
+With the exception of the potentiometric method 
+of pH analysis used on P2, all the North Pacific 
+samples were analyzed by a spectrophotometric 
+method (Clayton and Byrne, 1993), with m-
+cresol purple as the indicator and either scanning 
+or diode array spectrophotometers, and were 
+measured at 25°C, with no conversion made to 
+in situ temperatures.  Since the precision of 
+potentiometric pH is often no better than 0.02 
+pH units (SCOR, 1985), we have used only 
+crossover data in this report that was analyzed 
+spectrophotometrically. 
+ 
+All of the pH values were initially reported on 
+the total hydrogen scale, and were then 
+converted to the seawater scale (pH
+SWS
+) to be 
+consistent with published dissociation constants 
+of carbonic acid.  The seawater scale considers 
+the interaction of hydrogen ions with bisulfate 
+and fluoride ions in seawater, while the total 
+scale only includes the bisulfate contribution 
+(Dickson and Riley, 1979; Dickson and Millero, 
+1987).  The two scales are linked by the 
+following equation: 
+pH
+SWS
+ = pH
+T
+ - log {(1+[SO
+4
+2-
+]
+T
+/K
+HSO4
+ +  
+[F
+-
+]
+T
+/K
+HF
+)/(1 + [SO
+4
+2-
+]
+T
+/K
+HSO4
+)} (1) 
+where pH
+T
+ is the hydrogen ion concentration on 
+the total hydrogen scale, [F
+−
+]
+T 
+and
+ 
+[SO
+4
+2-
+]
+T
+ are 
+the total concentrations of fluoride and sulphate 
+in seawater, and K
+HF
+ and K
+HSO4
+ 
+are the 
+dissociation constants of hydrogen fluoride and 
+sulphate in seawater (Dickson and Riley, 1979).  
+ 
+2.2 Crossover comparisons of global 
+CO
+2
+ survey data 
+ 
+The goal of the crossover comparisons was to 
+produce an accurate data set that was consistent 
+between cruises.  Despite greatly improved 
+analytical techniques, the use of primary and 
+secondary standards, and shore-based analysis of 
+replicate samples for verification of accuracy for 
+some carbon parameters, a few of the cruises 
+still appear to have offsets when compared with 
+other cruises in the same area.  One approach for 
+evaluating the consistency of the cruises was to 
+compare data where cruises crossed or 
+overlapped (Lamb et al., 2002).  A location was 
+considered a crossover if stations from two 
+cruises were within ~100 km of each other.  If 
+more than one station from a particular cruise 
+fell within the 100 km limit, the data were 
+combined for the comparison.  Table 2 provides 
+a summary of the crossovers in the North 
+Pacific.  The crossover analysis is based on the 
+assumption that the deep waters of the Pacific 
+Ocean were constant within the 9 years of this 
+study.  The residence time of Pacific Deep 
+Water is ~500 years (Stuiver et al., 1983), 
+therefore, we can assume that these waters do 
+not change significantly between cruises. For 
+this analysis, only deep-water (>2,000 m) 
+measurements were considered, because shallow 
+water concentrations are highly variable and the 
+penetration of anthropogenic CO
+2
+ could 
+potentially change relationships between the 
+carbon parameters measured at different times.  
+  
+Table 2 Summary of the results of the crossover comparisons for DIC, TAlk fCO
+2
+ and pH during the North Pacific WOCE/JGOFS CO
+2 
+Survey, 
+modeled as a second-order polynomial function (Del Poly) to 3000 dbar ( σ
+3
+). 
+ 
+Crossover 
+# 
+Latitude 
+(°) 
+Longitude 
+(°) 
+Cruise 1 
+Name 
+Cruise 1 
+Stations 
+Cruise 2 
+Name 
+Cruise 2 
+Stations 
+Delta 
+DIC 
+Std Dev 
+DIC 
+Delta 
+TAlk 
+Std Dev 
+TAlk 
+Delta 
+fCO
+2
+ 
+Std 
+Dev 
+fCO
+2
+ 
+Delta 
+pH 
+Std 
+Dev pH 
+1 53N 152W P16N 58,59,66 P17N 78 -9.0 5.1 
+a
+-23.6 5.8 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+2 47N 165E P13 24 P1 42 -2.0 0.7 4.0 2.1 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+3 47N 179E P14N 31 P1 60 0.2 2.6 5.2 1.5 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+4 47N 165W P15N 18 P1 X15 -5.3 2.8 2.3 3.7 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+5 47N 152W P16N 55 P1 X16 -8.3 0.6 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+6 40N 135W CGC91 10 P17N 37,38,45 -7.9 1.5 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+7a 35N 135W CGC91 12 P17N 28 -3.7 5.1 
+b
+ND 
+b
+ND 29.2 2.9 
+b
+ND 
+b
+ND 
+7b 35N 135W CGC91 12 P17C 17 5.7 3.7 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+7c 35N 135W P17N 28 P17C 17 9.4 3.4 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+8 30N 135E P9 21 P2 19,21 1.6 2.4 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+9 30N 148E P10 74,77 P2 37 -2.8 1.0 16.9 9.7 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+10 30N 165E P13 54,55 P2 48,49 -5.5 2.1 12.9 1.2 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+11 30N 178E P14N 63 P2 58 0.5 2.7 8.4 2.4 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+12 30N 165W P15N 52,54 P2 65 -5.7 4.0 14.8 6.7 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+13 30N 152W P16N 30,31,32 P2 70 -7.6 3.0 
+a
+3.2 0.2 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+14 30N 135W P17C 26 P2 78 -3.1 4.6 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+15 5N 110W P18 155,159 EQS92 6 -7.5 4.9 -0.4 1.0 3.4 2.2 
+b
+ND 
+b
+ND 
+16a 0 170W P14S15S 174 EQS92 56 2.8 2.3 -1.7 3.9 22.0 4.8 -0.0036 0.001 
+16b 0 170W P14S15S 174 P15N 112 1.2 0.7 11.0 3.2 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+16c 0 170W P15N 112 EQS92 56 1.5 2.0 -14.6 4.9 
+b
+ND 
+b
+ND 
+b
+ND 
+b
+ND 
+Average Absolute Value 4.6  9.7  18.2  0.0036 
+ 
+Std Dev 3.0  7.2  13.3  0.0000  
+ 
+a 
+Crossovers on which TAlk values were calculated using a combination of DIC and either pH or fCO
+2
+ 
+b 
+ND=No Data 
+ 
+  
+Sixteen crossover locations were identified for 
+analysis of DIC data.  Only 9 locations had 
+measured TAlk values for comparison.  An 
+additional 2 crossover locations were possible 
+by comparing measured TAlk on one cruise to 
+calculated TAlk values from another cruise.  The 
+calculated values were based on the combination 
+of pH-DIC or fCO
+2
+-DIC using the carbonate 
+constants of Mehrbach et al. (1973) as refit by 
+Dickson and Millero (1987), and ancillary 
+constants (e.g., boric acid and nutrients) based 
+on DOE (1994) and Millero (1995).  Just 3 
+crossover locations were available for fCO
+2
+, and 
+only 1 crossover could be used to examine the 
+consistency of the pH data.  Due to the problems 
+associated with fCO
+2
+ comparisons, and because 
+of the paucity of pH crossover locations 
+available, no additional statistical analyses were 
+performed on either of these parameters.   
+ 
+Comparisons between two cruises at the 
+crossover locations were made by fitting the data 
+from each cruise with a 2
+nd
+ order polynomial 
+function, and examining the differences (deltas) 
+between the two curve fits.  Potential density 
+referenced to 3,000 dbar ( σ
+3
+), rather than depth, 
+was chosen as the independent variable for the 
+analysis because water primarily moves along 
+isopycnal surfaces.  The average difference and 
+standard deviation were determined from 
+differences at 10 evenly spaced intervals along 
+the curves.  The number of points and their 
+spread can affect the quality of the polynomial 
+fits over the range.  Differences in the number or 
+distribution of points were notable in less than 
+10% of the DIC and TAlk comparisons 
+examined. 
+ 
+Inspection of the polynomial residuals showed 
+that the 2
+nd
+ order function was inadequate for 
+about 15% of the DIC and TAlk fits.  In some 
+cases, the residual patterns suggested that 
+several different water masses were being 
+examined.  This occurred in areas of the North 
+Pacific Ocean that have a complex vertical 
+structure because of influences from the North 
+Pacific Intermediate water and Pacific Deep 
+Water.  However, since we were more interested 
+in the offsets than the nature of the curves, we 
+maintained the 2
+nd
+ order model to allow a 
+uniform treatment of the crossover data while 
+fitting a small number of parameters to the 
+sometimes-limited deep-water (>2,000 m) data 
+at each crossover. 
+ 
+To ensure that sparse sampling combined with 
+either noisy data or variability resulting from 
+water mass variations was not significantly 
+biasing the estimates of the offsets, several 
+approaches were examined.  These include:  
+same shape polynomial fits, multi-parameter 
+linear regression (MLR) at crossover locations, 
+basin-wide MLRs, isopycnal analyses, and 
+internal consistency checks (Lamb et al. 2002).  
+The overarching goal of this work was to assess 
+the quality of the Pacific carbon survey data and 
+to make recommendations for generating a 
+unified data set that is both as accurate as 
+possible, as well as consistent between cruises.  
+To develop such a data set, some adjustments 
+are necessary.  Two important points must be 
+considered when evaluating the various 
+approaches used to examine the data quality of 
+the cruises.  First, most of the approaches 
+assume that the deep ocean does not change over 
+the time-period of the various cruises.  As noted 
+previously, the residence time for Pacific Deep 
+Water is ~500 years (Stuiver et al., 1983), 
+almost two orders of magnitude longer than the 
+difference in time between cruises.  Thus, very 
+little variability would be expected in the deep 
+waters (pressure >2,000 dbar) at the crossover 
+points.  As a direct check on the constancy of the 
+deep waters, DIC variability was examined as a 
+function of latitude on deep isopycnal surfaces 
+(Lamb et al., 2002).  The trend of increasing 
+values from south to north results from re-
+mineralization of organic matter and dissolution 
+of calcium carbonate in the waters as they 
+spread northward from 20° to 40°N.  Variability 
+in these waters can be evaluated from the 
+residuals of a linear fit of the large-scale trend.  
+The residuals for points linearly interpolated 
+onto the 41.5 σ
+3 
+surface have a standard 
+deviation of ±2.5 µmol kg
+-1
+.  If the vertical 
+interpolation is determined by fitting the deep 
+  
+data with a second order polynomial, such as 
+that used in the crossover analysis, the standard 
+deviation of the residuals drops to  ±1.5 µmol 
+kg
+-1
+.  This variability includes the effects of 
+mesoscale features, temporal variations in 
+preformed concentrations and analytical 
+uncertainty.  The combined effects of these are 
+notably smaller than the estimated offsets on 
+several of the cruises.  Second, the various 
+approaches have different strengths and 
+weaknesses and may be more or less reliable in 
+different oceanographic regions.  Furthermore, 
+the calculated offsets and associated errors may 
+not be directly comparable.  As a result, some 
+level of subjectivity is necessarily a part of the 
+adjustments proposed in this section.  We have 
+made every attempt to consider all of the various 
+lines of evidence available.  Adjustments were 
+based on a preponderance of evidence and only 
+implemented when we felt an adjustment was 
+clearly necessary.  Through consultation with 
+the principle investigators involved in the 
+Pacific survey, we feel that the adjustments 
+proposed here are the best possible with our 
+present understanding of the data quality.  
+ 
+The limited number of crossovers available for 
+pH implies that the spectrophotometric 
+measurements were very precise and consistent 
+between cruises.  DeValls and Dickson (1998) 
+have suggested, however, that the pH values 
+initially assigned to the “tris”-buffers used to 
+characterize the indicator, m-cresol purple, 
+should be increased by 0.0047.  This revision 
+would translate into a comparable increase in the 
+pH
+T
+ values reported for the Pacific (Lamb et al., 
+2002). 
+Table 3 summarizes our recommended 
+adjustments for the DIC, TAlk and pH data from 
+the North Pacific CO
+2
+ survey cruises.  Given the 
+long timeframe over which the North Pacific 
+survey was conducted, and the number of 
+analytical groups and systems used to measure 
+carbon in the Pacific, a thorough investigation 
+into the quality and consistency of the data was a 
+difficult task.  Although we have done a careful 
+analysis using several techniques, there is still a 
+certain amount of subjectivity involved when 
+recommending adjustments.  Certainly, all 
+available lines of evidence have contributed to a 
+better understanding of the consistency of the 
+North Pacific data set, and together have proven 
+to be an invaluable tool for determining any 
+necessary adjustments. 
+ 
+With the adjustments proposed in Table 3, the 
+examined cruises can be combined to generate a 
+North Pacific Ocean data set with over 14,000 
+unique sample locations analyzed for at least 
+two carbon parameters, with the exception of P9 
+and CGC91.  The overall accuracy of the DIC 
+data was ~5 µmol kg
+-1
+.  TAlk, the second most 
+common carbon parameter analyzed, had an 
+overall accuracy of ~10 µmol kg
+-1
+.  The TAlk 
+was calculated for all cruises where it was not 
+measured using the carbonate dissociation 
+constants of Mehrbach et al. (1973) as refitted 
+by Dickson and Millero (1987), and ancillary 
+constants listed in the program of Lewis and 
+Wallace (1998).  Although TAlk, pH and fCO
+2
+ 
+were not sampled as frequently and their 
+accuracy is not as well constrained, they also 
+represent the state-of-the-art at the time the  
+ 
+Table 3 Summary of final recommended adjustments for DIC, TAlk and pH for the North Pacific 
+WOCE/JGOFS CO
+2
+ survey cruises. 
+ 
+Recommended 
+adjustments 
+P14N P14S15S EQS92 P16N P17C P17N P18 P1 P2 
+DIC  (µmol kg
+-1
+) 
+a
+NA 
+a
+NA 
+a
+NA +4 
+a
+NA -7 
+a
+NA 
+a
+NA -4 
+TAlk  (µmol kg
+-1
+) 
+a
+NA 
+a
+NA 
+a
+NA Calculated -9 -12 
+a
+NA 
+a
+NA +14 
+pH +0.0047 +0.0047+0.0047+0.0047 
+b
+ND 
+b
+ND +0.0047 +0.0047
+a
+NA 
+a 
+NA=No adjustment recommended 
+b 
+ND=No data reported 
+  
+measurements were made.  To obtain additional 
+details on this study including detailed crossover 
+plots, and information and availability of the 
+compiled, adjusted data set, visit the Global Data 
+Analysis Project (GLODAP) web site at: 
+http://cdiac.esd.ornl.gov/oceans/glodap/Glodap_
+home.htm.  Much of the data presented in this 
+paper are currently available on the World Wide 
+Web by contacting the WOCE Hydrographic 
+Project Office (http://whpo.ucsd.edu/), the 
+Carbon Dioxide Information and Analysis 
+Center (http://cdiac.esd.ornl.gov/oceans/ 
+home.html) or the Japanese Oceanographic Data 
+Center (http://www.jodc.jhd.go.jp/jodc.html).
+ 
+  
+ 
+  
+3.0 Air-sea CO
+2
+ fluxes 
+ 
+3.1 Data collection 
+ 
+Between March 1995 and March 1999, CO
+2 
+measurements were continuously made using 
+underway CO
+2
+ partial pressure (pCO
+2
+) systems 
+during 68 crossings in the northern North Pacific 
+Ocean aboard M/S Skaugran (Zeng et al., 2002).  
+Most transects from North America to Japan 
+followed a great circle route through the Gulf of 
+Alaska and Bering Sea, then southward along 
+the Kuril Islands.  Routes between Japan and 
+North America ranged from 34°N and 50°N in 
+the central North Pacific, except one passing 
+though Hawaii (Fig. 2).  Measurements for 
+seawater were taken every minute, and hourly 
+for air, in the units of the mole fraction of CO
+2
+. 
+ 
+For every crossing, the means of the 1-min CO
+2
+ 
+data were averaged for each 1° of longitude.  5° 
+means were computed from the 1° means for 
+data between 145°E and 125°W.  In order to 
+avoid the strong effects of regional variability in 
+near-shore waters, the 5° means at the route 
+extremes (145°E and 125°W) were calculated 
+using data between 145°E and 147.5°E, and 
+between 125°W and 127.5°W due to their one-
+sidedness. 
+ 
+ 
+ 
+Fig. 2 Ship routes of M/S Skaugran from March 1995 to March 1999.  Vertical lines intersecting ship 
+routes mark the selected latitudinal bands for estimating coefficients of the seasonal function of pCO
+2
+ 
+using Eq. (2). 
+ 
+ 
+3.2 Data analysis 
+ 
+Nojiri et al. (1999) evaluated seasonal ∆pCO
+2
+ at 
+5° x 5° resolution using a function consisting of 
+four harmonic terms.  This function contains a 
+linear latitudinal gradient term independent of 
+time, and utilized data that were collected 
+between 1995 – 1997.  By using a longer 4-year 
+time series, Zeng et al. (2002) found that the 
+north–south gradient varied significantly with 
+time and longitude.  Therefore, they omitted the 
+latitudinal gradient term in the model of Nojiri et 
+al. (1999), and instead only used the harmonic 
+function: 
+  
+∆pCO
+2
+ (t) = c
+o
+ + c
+1
+ sin(2 πt) + c
+2
+ cos(2 πt) +  
+c
+3
+ sin(4 πt) + c
+4
+ cos(4 πt) (2) 
+to describe the seasonal ∆pCO
+2
+ changes with 
+time in a box of limited latitude and longitude.  
+This is a spatially independent function 
+requiring that the seasonal coverage of sampling 
+be complete in the defined boxes, and therefore, 
+the box size was chosen as a compromise 
+between maximizing seasonal coverage and 
+minimizing the spatial variations within each 
+box. 
+ 
+In order to assure that there is at least one 
+crossing per season, the box sizes were selected 
+as follows:  for each 5° longitudinal section, 
+latitudinal bands were chosen within which 
+intervals between any two crossings were less 
+than three months.  Two bands encompassing 
+the northern and southern boundaries were 
+selected first, after which two additional bands 
+were inserted between the boundaries.  The 
+constraint for the maximum latitudinal range is 
+10°.  Figure 2 shows the selected boxes with 
+variable latitude range and fixed longitude 
+range.  When examining the monthly route 
+maps, the latitudinal sampling distribution 
+shown in Figure 2 is uneven, i.e., there is only 
+one crossing in the area of 170°E – 160°W and 
+35°N – 40°N during July – September. 
+ 
+The seasonal cycle of ∆pCO
+2
+ (i.e., the 
+coefficients c
+o
+ through c
+4
+) were defined for each 
+box using Eq. (2).  Figure 3 shows the results for 
+the 175°W section as an example of this 
+selection and calculation process.  Four 
+latitudinal bands were selected for this longitude 
+section, and the seasonal cycle of ∆pCO
+2
+ is 
+displayed for each box.  The interpolation to 1° 
+x 1° monthly resolution from the irregular grid 
+of distributions of ∆pCO
+2
+ (as shown in Fig. 2) 
+allows computation of basin-wide fluxes and 
+facilitates comparison with other regional 
+estimates of ∆pCO
+2
+ and fluxes. 
+ 
+ 
+ 
+Fig. 3 Seasonal functions of ∆pCO
+2
+ for four latitudinal bands in the 175°W longitudinal section:  (A) 
+38.7°N;  (B) 45.4°N;  (C) 48.1°N;  and (D) 54.0°N.  The solid line shows the seasonal function fit by Eq. 
+(2);  the diamond symbol shows the observed data. 
+ 
+  
+3.3 CO
+2
+ fluxes 
+ 
+Based on Eq. (2) of Wanninkhof (1992), the air-
+sea flux of CO
+2
+ was calculated from wind speed.  
+Monthly CO
+2
+ fluxes were computed using 
+monthly ∆pCO
+2
+, monthly sea-surface 
+temperature and salinity of World Ocean Atlas 
+1994 of National Oceanic and Atmospheric 
+Administration (NOAA), and the monthly wind 
+fields derived from the European Center for 
+Medium-Range Weather Forecasts (ECMWF) 
+2.5° database.  The ECMWF database contains 
+winds (at 10 m height above sea surface) for 
+every 12 hours.  The monthly wind fields are 
+means of 12-hour winds in January 1995 – 
+December 1999. 
+ 
+Clear unsynchronized patterns of ∆pCO
+2
+ 
+changes were observed for different regions in 
+the northern North Pacific.  For the northern 
+regions, ∆pCO
+2
+ is highest in winter and lowest 
+in summer.  For the subtropics, this seasonal 
+cycle is reversed, with lowest values in winter 
+and highest values in summer.  Due to vertical 
+mixing in winter (January – March), seawater 
+pCO
+2
+ in the southern Bering Sea, off Kamchatka 
+Island, and off the Kuril Islands is higher than in 
+the atmosphere (by up to +80 µatm).  In the 
+remainder of the northern North Pacific, ∆pCO
+2
+ 
+is negative (by as much as –60 µatm), more than 
+likely a result of seasonal cooling. 
+ 
+CO
+2
+ fluxes from this analysis were compared 
+with fluxes computed from the data of 
+Takahashi et al. (1997).  In order to compare 
+results with 4° x 5° grid, their 1° x 1° data were 
+averaged to this larger grid, and thus, fluxes for 
+both studies were calculated using the same 
+resolution of ∆pCO
+2
+.  Using that approach, both 
+data sets show that the northern North Pacific is 
+a net CO
+2
+ sink throughout the year, weakest in 
+summer (July – September) and strongest in 
+autumn (October – December).  The monthly 
+mean CO
+2
+ flux ranges between –0.06 and –4.7 
+moles m
+-2
+ yr
+-1
+, with the negative sign indicating 
+ocean uptake.  Comparison of monthly mean 
+fluxes for the northern North Pacific indicates 
+that in spring (April – June) and autumn 
+(October – December), monthly fluxes estimated 
+from ∆pCO
+2
+ of Takahashi et al. (1997) are 
+systematically more negative than those 
+estimated by Zeng et al. (2002); i.e., on average 
+17% lower (–15 to –20%) in spring and 44% 
+lower (–25% to –56%) in autumn. 
+ 
+Based on the ∆pCO
+2
+ results, the region between 
+34°N and 50°N is estimated to be a small sink 
+for carbon of –0.26 Pg C yr
+-1
+ (Zeng et al. 2002), 
+while the integrated net annual flux using the 
+data of Takahashi et al. is –0.33 Pg C yr
+-1
+, 
+suggesting 27% more uptake on an annual basis. 
+ 
+The vessel-of-opportunity measurement program 
+aboard commercial vessels offers sampling 
+frequency throughout all seasons, enabling the 
+oceanographic community to better understand 
+the long-term variability of the ocean carbon 
+cycle. 
+ 
+  
+ 
+  
+4.0 DIC, TAlk and anthropogenic CO
+2
+ distributions in the North Pacific 
+ 
+4.1 Distributions of DIC and TAlk 
+ 
+The lowest concentrations of DIC and TAlk in 
+the North Pacific are observed in surface waters.  
+Variations in surface carbon concentrations 
+(DIC range:  1975 – 2200 µmol kg
+-1
+;  TAlk 
+range:  2200 – 2400 µmol kg
+-1
+) are roughly 
+correlated with salinity.  The general structure of 
+the DIC and TAlk fields in the upper 1,000 m is 
+similar to the density structure, suggesting that 
+circulation plays a strong role in their 
+distributions.  The highest DIC concentrations 
+are found in the intermediate waters and form a 
+large maximum (2325 – 2375 µmol kg
+-1
+) at 
+approximately 1,800 – 2,200 m in the North 
+Pacific (Fig. 4).  In contrast, TAlk 
+concentrations show a local minima in the 
+Antarctic Intermediate Water (AAIW) to the 
+south and in the North Pacific Intermediate 
+Water (NPIW) to the north (Fig. 5).  Below the 
+NPIW, TAlk concentrations increase to a broad 
+maximum at approximately 2,200 – 4,000 m 
+(TAlk concentrations range from 2,400 – 2,460 
+µmol kg
+-1
+).  The differences between the DIC 
+and TAlk, particularly in intermediate waters, 
+are caused by in-situ re-mineralization 
+processes.  The DIC maximum is shallower than 
+the TAlk maximum because the total inorganic 
+carbon is more strongly influenced by the 
+shallow re-mineralization of soft tissue organic 
+matter, whereas the total alkalinity is more 
+strongly influenced by the dissolution of calcium  
+ 
+ 
+ 
+ 
+Fig. 4 Wedge-like cutout section of DIC (µmol kg
+-1
+) along 170°W, 30°N and 135°W in the Pacific 
+Ocean. 
+  
+ 
+ 
+Fig. 5 Wedge-like cutout section of TAlk (µmol kg
+-1
+) along 170°W, 30°N and 135°W in the Pacific 
+Ocean. 
+ 
+ 
+carbonate particles deeper in the water column 
+(Chen, 1990).  South of 30°N, bottom waters 
+have lower DIC and TAlk concentrations than 
+the waters at mid-depths because the northward 
+moving bottom waters have not had time to 
+accumulate as much carbon.  The southward 
+moving waters at 2,000 – 3,000 m in the North 
+Pacific are among the oldest waters in the global 
+ocean (Stuiver et al., 1983). 
+ 
+The zonal DIC and TAlk isolines shoal from 
+west to east along the P2 section at 30°N in the 
+North Pacific (Fig. 6).  Deep ventilation near the 
+Kuroshio Extension and the subsequent 
+circulation in the subtropical gyre generates the 
+zonal gradients of DIC and TAlk in the upper 
+1,500 m.  Both DIC and TAlk concentrations 
+show the deepest ventilation near the coast and 
+under the Kuroshio Extension, west of 160°E.  
+These trends are also observed in the North 
+Pacific chlorofluorocarbon (CFC) and 
+anthropogenic CO
+2
+ distributions providing 
+further evidence of stronger ventilation in the 
+western Pacific (Warner et al., 1996. Sabine et 
+al., 2002). 
+ 
+4.2 Anthropogenic CO
+2
+ distributions 
+ 
+The approach used here for estimating 
+anthropogenic CO
+2
+ in the Pacific Ocean is based 
+on the ∆C* method first described by Gruber et 
+al. (1996).  Gruber et al. improved the earlier 
+approaches of Brewer (1978) and Chen and 
+Millero (1979) by developing the quasi-
+conservative tracer, ∆C*.  The assumption is that 
+the anthropogenic CO
+2
+ concentration (C
+ant
+) can  
+  
+ 
+ 
+Fig. 6 Vertical distributions of: a) DIC in µmol kg
+-1
+ and b) TAlk in µmol kg
+-1
+ in the WOCE/JGOFS 
+section P2 along 30°N in the North Pacific. 
+ 
+ 
+be isolated from measured DIC values (C
+m
+) by 
+subtracting the contribution of the organic and 
+inorganic biological pumps ( ∆C
+bio
+), the DIC the 
+waters would have in equilibrium with a pre-
+industrial atmospheric CO
+2
+ concentration of 280 
+ppm (C
+eq280
+), and a term ( ∆C
+diseq
+) that corrects 
+for the fact that surface waters are not always in 
+equilibrium with the atmosphere (air-sea 
+difference in CO
+2
+ concentration expressed in 
+µmol kg
+-1
+ of DIC): 
+C
+ant
+ = C
+m
+ – ∆C
+bio
+ – C
+eq280
+ – ∆C
+diseq
+ = ∆C* – 
+∆C
+diseq
+ (3) 
+ 
+The three terms to the right of the first equal 
+sign make up ∆C* (i.e., ∆C* = C
+m
+ – ∆C
+bio
+ – 
+C
+eq280
+), which can be explicitly calculated for 
+each sample.  The fact that ∆C* is a quasi-
+conservative tracer helps remedy some of the 
+mixing concerns arising from the earlier 
+techniques (Sabine and Feely, 2001).  The 
+∆C
+diseq
+ term is evaluated over small isopycnal 
+intervals using a water-mass age tracer such as 
+CFCs (Sabine et al., 2002).  
+ 
+The biological correction in the ∆C* calculation 
+has two components.  The organic component 
+uses changes in apparent oxygen utilization 
+(AOU), together with a stoichiometric C:O ratio, 
+to estimate how much DIC has increased due to 
+organic re-mineralization since leaving the 
+surface.  The second component uses the 
+difference between the measured total alkalinity 
+(TAlk) and a pre-formed total alkalinity (TAlk°) 
+to estimate the changes in DIC resulting from 
+the dissolution of calcium carbonate particles.  
+There is also a small organic adjustment on the 
+  
+carbonate correction term to account for the 
+effect of the proton flux on TAlk.  The 
+stoichiometric ratios used for the biological 
+corrections are based on the work of Anderson 
+and Sarmiento (1994). 
+ 
+The C
+eq280
+ term uses a linearized form of the 
+carbonate equilibrium equations, together with 
+the preformed alkalinity and an fCO
+2
+ value of 
+280 µatm, to calculate the equilibrium DIC 
+concentration. 
+ 
+The ∆C* calculation used for this study is 
+essentially the same as that originally defined by 
+Gruber et al. (1996) with two small differences:  
+a modification of TAlk° based on the new global 
+survey data, and the addition of a denitrification 
+term in the biological correction: 
+∆C* = C
+m 
+– C
+eq280 
++ 117/170(O
+2
+ – O
+2
+(sat)
+) –  
+1/2(TAlk – TAlk° – 16/170(O
+2
+ – O
+2
+(sat)
+)) +  
+106/104N*
+anom
+, (4) 
+where TAlk and O
+2
+ are the measured 
+concentrations for a given water sample in µmol 
+kg
+-1
+, O
+2
+(sat)
+ is the calculated oxygen saturation 
+value that the waters would have at their 
+potential temperature and one atmosphere total 
+pressure (i.e. if they were adiabatically raised to 
+the surface), and N*
+anom
+ is the N* anomaly 
+described later in this section. 
+ 
+The TAlk° formulation of Gruber et al. (1996) 
+was based on MLR fit of surface TAlk values 
+from the GEOSECS, SAVE, and TTO cruises.  
+Sabine et al. (1999) derived a revised TAlk° 
+equation based on the WOCE/JGOFS Indian 
+Ocean data.  The Pacific TAlk° term proposed 
+by Sabine et al. (2002) was estimated using all 
+of the Pacific alkalinity data shallower than 60 
+m (~1,900 data points). The form of the equation 
+is the same as that used by Sabine et al. (1999): 
+TAlk° = 148.7(± 9) + 61.36(± 0.3) * S + 
+ 0.0941(± 0.005) * PO – 0.582(± 0.07) * θ (5) 
+where PO is a quasi-conservative tracer similar 
+to that introduced by Broecker (1974) (PO = 
+dissolved oxygen – 170* phosphate (PO
+4
+)).  The 
+standard error in the Pacific TAlk° equation is 
+±9 µmol kg
+-1
+.  All four terms are highly 
+significant as shown with a standard ANOVA 
+analysis. 
+ 
+Sabine et al. (2002) also proposed a correction 
+to the biological adjustment in (3) to account for 
+denitrification in the water column.  
+Denitrification re-mineralizes carbon with a very 
+different stoichiometric ratio to nitrogen than 
+standard aerobic respiration (Anderson, 1995; 
+Gruber and Sarmiento, 1997): 
+C
+106
+H
+175
+O
+42
+N
+16
+P + 150 O
+2
+ = 106 CO
+2
+ +  
+16 HNO
+3
+ + H
+3
+PO
+4
+ + 78 H
+2
+O (6) 
+ 
+C
+106
+H
+175
+O
+42
+N
+16
+P + 104 NO
+3
+-
+ = 4 CO
+2
+ +  
+102 HCO
+3
+-
+ + 60 N
+2
++ HPO
+4
+2-
+ + 36 H
+2
+O (7) 
+ 
+Sabine et al. (1999) estimated the denitrification 
+signal using the N* tracer of Gruber and 
+Sarmiento (1997).  The slightly more 
+generalized N* tracer of Deutch et al. (2001) 
+was used by Sabine et al. (2002): 
+N* = N – 16*P + 2.90 (8) 
+ 
+The only change from Gruber and Sarmiento 
+(1997) was that their original equation was 
+scaled by a factor of 0.87.  The revised equation 
+is simpler and is more general because it 
+removes built-in assumptions about the nitrogen 
+loss from the organic reservoir (Deutsch et al., 
+2001).  In practice, this modification actually has 
+no impact on the final denitrification corrections 
+since that signal is identified as an N* anomaly 
+from the mean.  The mean N* value for this data 
+set was –1.5 µmol kg
+-1
+, in agreement with the 
+findings of Deutsch et al. (2001).  The 
+denitrification stoichiometric ratio of 106/104 
+from (7) (Gruber and Sarmiento, 1997) was used 
+to correct the ∆C* values in Eq. (4), where N* 
+showed a negative anomaly.  
+ 
+For given isopycnal surfaces, the air-sea 
+disequilibrium component can be discriminated 
+from the anthropogenic signal using either 
+information about the water age (e.g., from 
+transient tracers such as CFCs or 
+3
+H-
+3
+He) or the 
+distribution of ∆C* in regions not affected by 
+  
+the anthropogenic transient.  In the case where 
+C
+anth
+ can be assumed to be zero over some 
+portion of an isopycnal surface (i.e., ∆C* = 0 + 
+∆C
+diseq
+), the disequilibrium term is set equal to 
+the average of the ∆C* values for that portion of 
+the surface.  For shallow surfaces, that cannot be 
+assumed to be free of anthropogenic CO
+2
+, we 
+use the ∆C*
+t
+ term of Gruber et al. (1996).  ∆C*
+t 
+is derived in the same manner as ∆C*, but rather 
+than evaluating the carbon concentration the 
+waters would have in equilibrium with a pre-
+industrial atmosphere, they are evaluated with 
+respect to the CO
+2
+ concentration the atmosphere 
+had when the waters were last at the surface.  In 
+this study, calculations are based on the 
+concentration ages determined from CFC-12 
+measurements ( ∆C*
+t12
+): 
+C*
+t12
+ = C
+m
+ – C
+teq
++117/170(O
+2
+ – O
+2
+(sat)
+) –  
+1/2(Talk – TAlk° – 16/170(O
+2
+ – O
+2
+(sat)
+)) +  
+106/104N*
+anom
+, (9) 
+where C
+teq
+ is DIC calculated from TAlk° and the 
+atmospheric fCO
+2
+ value at the time the waters 
+were last at the surface (date of sample 
+collection minus CFC age).  The ∆C
+diseq
+ terms 
+for these surfaces are then set equal to the mean 
+of the ∆C*
+t12
+ values on each surface.  
+ 
+Several papers have been published recently 
+evaluating the ∆C* approach for calculating 
+anthropogenic CO
+2
+ ( e.g. Wanninkhof et al., 
+1999; Coatanoan et al., 2001; Sabine and Feely, 
+2001; Orr et al., 2001).  It has been recognized 
+that the evaluation of the ∆C
+diseq
+ term is one of 
+the most problematic steps in the estimation of 
+anthropogenic CO
+2
+.  One important assumption 
+in the evaluation of ∆C
+diseq
+ is that the global 
+mean air-sea CO
+2
+ disequilibrium has remained 
+constant over time.  Although this assumption is 
+consistent with most contemporary CO
+2
+ time-
+series measurements in the Pacific (e.g. Inoue et 
+al., 1995; Winn et al., 1998; Feely et al., 1999; 
+Takahashi et al., 1999), it cannot be true over 
+time-scales extending into the pre-industrial 
+period or the oceans would not be acting as a 
+sink for anthropogenic CO
+2
+.  Gruber et al. 
+(1996) estimated that an average global uptake 
+of about 2 Pg C yr
+-1
+ would correspond to an air-
+sea disequilibrium of about 5 µmol kg
+-1
+ in 
+∆C
+diseq
+.  If this signal is spread out over the 
+entire record since pre-industrial times, it would 
+be very difficult to see in the ∆C * value given 
+the uncertainties in the calculation.  This 5 µmol 
+kg
+-1 
+uncertainty can be considered the theoretical 
+minimum detection limit for this technique as it 
+is currently used. 
+ 
+Anthropogenic CO
+2
+ concentrations in the North 
+Pacific reach a maximum value of about 40 - 50 
+µmol kg
+-1
+ in the subtropical surface waters (Fig. 
+7).  These surface concentrations are slightly 
+lower than observed in other oceans, but may 
+reflect differences in the surface buffer factor of 
+different oceans.  The distribution patterns of 
+anthropogenic CO
+2
+ in the ocean interior 
+generally follow density isolines.  The relatively 
+shallow penetration of anthropogenic CO
+2
+ in the 
+North Pacific is in strong contrast to the Atlantic 
+distribution, where anthropogenic CO
+2
+ has 
+penetrated all the way to the bottom in the 
+northern high latitudes (Gruber et al., 1996; 
+Wanninkhof et al., 1999; Körtzinger et al., 
+1999).  These differences result from the lack of 
+any significant deep-water formation in the 
+North Pacific (Reid, 1997), and the long time-
+scales for replacement of North Pacific deep 
+waters from the south (Stuiver et al., 1983).  In 
+the North Pacific, deep ventilation within the 
+Kuroshio Extension and the subsequent 
+circulation in the subtropical gyre generates a 
+strong zonal gradient in the anthropogenic CO
+2
+ 
+penetration depth (Fig. 8).  At approximately 
+30ºN (WOCE line P2), the 5 µmol kg
+-1
+ contour 
+is found at a depth of about 500 m near the 
+North American coast, but deepens to 
+approximately 1,000 m off Japan.  The zonal 
+gradient is also enhanced by the significant role 
+that the Sea of Okhotsk plays in the formation of 
+North Pacific Intermediate Water (Warner et al., 
+1996).  Although no data from the Sea of 
+Okhotsk were included in this analysis, Figure 9 
+clearly shows unusually high anthropogenic CO
+2
+ 
+concentrations near the entrance to the Sea on a 
+density surface that corresponds to the NPIW.  
+The combined effect of the tilted density 
+surfaces and the younger waters with higher  
+  
+ 
+ 
+Fig. 7 Wedge-like cutout section of anthropogenic CO
+2
+ (µmol kg
+-1
+) along 170°W, 30°N and 135°W in 
+the Pacific Ocean. 
+ 
+ 
+ 
+Fig. 8 Vertical distributions of anthropogenic CO
+2
+ (µmol kg
+-1
+) along the WOCE/JGOFS section P2 
+(30°) in the North Pacific. 
+  
+anthropogenic CO
+2
+ content leads to higher total 
+column inventories in the western North Pacific 
+(Fig. 10).  The gyre circulation and mixing 
+works to smear out the signal generating the 
+broad feature observed in Figure 10.  The 
+integrated amount of anthropogenic CO
+2
+ in the 
+North Pacific is estimated to be 16.5 Pg C 
+through 1994, north of the equator but not 
+including the marginal seas (Sabine et al., 2002).  
+This estimate is approximately 16% of the 
+amount of anthropogenic CO
+2
+ taken by the 
+global oceans (Feely et al., 1999). 
+ 
+ 
+ 
+Fig. 9 Distribution of anthropogenic CO
+2
+ (µmol kg
+-1
+) on the 27.0 σ
+θ
+ surface in the North Pacific. 
+ 
+ 
+ 
+Fig. 10 Map of anthropogenic CO
+2
+ column inventory (mol m
+-2
+) in the North Pacific. 
+  
+ 
+ 
+Fig. 11 Plot of the zonal total inventory in Pg C for the Pacific, Indian and Atlantic Oceans versus 
+latitude.  Indian values are from Sabine et al. (1999).  Atlantic values are from Gruber (1998). 
+ 
+ 
+In the higher northern latitudes, the area-specific 
+water column inventories of the North Atlantic 
+can be higher than in the North Pacific, because 
+of the formation of North Atlantic Deep waters 
+that transport anthropogenic CO
+2
+ into the ocean 
+interior.  These large values are sufficient to 
+make total inventories highest in the North 
+Atlantic despite the larger area of the North 
+Pacific (Fig. 11).  One should note that the North 
+Atlantic values of Gruber (1998), given in 
+Figure 11, represent inventories from the late 
+1980s.  These values would be somewhat higher 
+if they were scaled up to the WOCE timeframe. 
+ 
+Since the exact distribution of anthropogenic 
+CO
+2
+ cannot be directly measured, it is useful to 
+compare estimates derived from different 
+approaches.  Recently, Xu et al. (2000) 
+examined the uptake and storage of 
+anthropogenic CO
+2
+ with a medium resolution (2º 
+x 2º x 28 levels) basin-wide OGCM of the North 
+Pacific.  Their study tested the impact of 
+changing the isopycnal diffusivity on the 
+anthropogenic uptake of the model.  Although 
+all of the model runs presented by Xu et al. 
+suggested higher North Pacific inventories (19.4 
+– 22.01 Pg C north of equator) than determined 
+with this study, the model run with the lowest 
+diffusivities gave results that were most 
+consistent with the above estimates.  Likewise, 
+models can help evaluate various observational-
+based approaches.  For example, Xu et al. also 
+compared their results in the western North 
+Pacific with the results of Chen (1993a).  They 
+noted that Chen had a deeper penetration and 
+stronger meridional changes in penetration depth 
+than could be generated with the model.  Our 
+results, however, are much more similar to the 
+  
+model distributions with penetration depths 
+close to 1,000 m and meridional changes in 
+penetration depth about half (250 m) of that 
+observed by Chen (1993a) in the western North 
+Pacific. 
+ 
+The ∆C* approach for estimating anthropogenic 
+CO
+2
+ has been applied now in the three major 
+oceans:  the Atlantic, Indian and Pacific.  Small 
+modifications to the technique continue to 
+improve the quality of the results.  Each time the 
+technique is applied to a new region, new 
+challenges are faced.  The basic principles of the 
+technique, however, have remained the same 
+and appear to be sound.  The total amount of 
+anthropogenic CO
+2
+ inventory in the North 
+Pacific is approximately 37% of the total for the 
+Pacific Ocean (Sabine et al., 2002).  This 
+relatively low inventory in the North Pacific 
+primarily results from large-scale circulation 
+within the Pacific.  The deep waters of the 
+Pacific are among the oldest in the global 
+oceans, and thus have not been exposed to 
+anthropogenic contamination.  The lack of deep-
+water formation in the North Pacific results in 
+relatively little penetration of anthropogenic CO
+2
+ 
+into the ocean interior.  The tremendous area, 
+diversity of habitats, and corrosiveness of the 
+Pacific waters with respect to carbonate 
+minerals, however, provide the potential for 
+significant changes in carbon cycling in this 
+ocean as a result of future climate change.  Some 
+of these changes may lead to changes in the role 
+of the Pacific as a sink for anthropogenic CO
+2
+.  
+The global CO
+2
+ survey data and estimates 
+provided here make an important baseline for 
+assessing future changes in the Pacific carbon 
+cycle. 
+ 
+4.3 Temporal variations in anthropogenic 
+carbon accumulation 
+ 
+MLR analysis, as described by Brewer et al. 
+(1995), and subsequently by others (Wallace, 
+1995, Slansky et al., 1997, Goyet and Davis 
+1997, Sabine et al., 1999), was used to estimate 
+the anthropogenic CO
+2
+ increase in the North 
+Pacific from data collected between 1973 and 
+1999.  In this procedure, the coefficients that 
+describe the naturally occurring variations in 
+oceanic CO
+2
+ were calculated from a statistical 
+model.  The model used salinity (S), potential 
+temperature ( θ), apparent oxygen utilization 
+(AOU), and concentration of silicate (Si(OH)
+4
+) 
+and phosphate (PO
+4
+) to construct a forward 
+linear stepwise regression to predict DIC. 
+ 
+The area chosen for this study was between 30 - 
+50°N, and 140 - 180°W (Fig. 12).  All cruises 
+within that region were included where high 
+quality DIC data, along with other hydrographic 
+parameters, was available throughout the water 
+column (GEOSECS, NOAA ENP81, WHPs 
+P16N, P15N, P2, P1, and NOPP). 
+ 
+In order to predict the DIC using the MLR 
+technique, the equation derived for the best 
+functional form for the regional data was: 
+DIC = a θ + bS + cAOU + dSi(OH)
+4
+ + ePO
+4
+ (10) 
+where AOU, Si(OH)
+4
+ and PO
+4
+ are the measured 
+concentrations for a given water sample in µmol 
+kg
+-1
+. 
+ 
+The DIC data were corrected to CRMs where 
+available;  otherwise, the only correction made 
+was –29 µmol kg
+-1
+ to the GEOSECS DIC 
+(Takahashi, pers. communication).  A second-
+order polynomial equation for all parameters 
+used in the MLR for each cruise was then fitted 
+against mid- to deep (1,250 – 3,500 m) σ
+θ
+ 
+ranging from 27.48 – 27.78.  The deepest data 
+(>3,500 m) was not used in the fit.  The 
+individual parameters for each cruise were then 
+adjusted throughout the water column relative to 
+P16N data as necessary. 
+ 
+Although the region of study crosses two major 
+water mass systems (the subtropical gyre and 
+subarctic gyre), a single set of P16N coefficients 
+was used to predict DIC for each of the cruises.  
+The mixed layer depth (MLD) for each cruise 
+was determined using Levitus’ wintertime 
+conditions.  MLD west of 160°W ranged from 
+approximately 120 – 200 m, and 100 – 120 m 
+east of 160°W.  Each cruise was separated into 
+  
+sections based on its MLD (surface to bottom of 
+the MLD, and bottom of the MLD to 1,250 m).  
+Anthropogenic CO
+2
+ does not generally extend 
+deeper than 800 – 1,000 m in the region of study 
+based on CFC penetration (Bullister, personal 
+communication), and therefore we chose 1250 m  
+ 
+as the bottom depth of our study in order to 
+encompass that depth and slightly beyond.  
+Since mixing mostly occurs along isopycnal 
+surfaces, the residual data from each cruise were 
+then binned according to σ
+θ
+ ranges and the mean 
+and standard deviation were determined. 
+ 
+ 
+ 
+Fig. 12 Station locations used for MLR analysis to assess temporal variability in anthropogenic carbon 
+accumulation. 
+ 
+ 
+Using P16N as a reference, the results of the 
+MLR show an estimated CO
+2
+ uptake rate 
+through the mixed layer of 1.3 ± 0.2 µmol DIC 
+kg
+-1
+ yr
+-1
+ in the North Pacific (Fig. 13).  The 
+uptake of CO
+2
+ below the MLD (Fig. 14) was 
+calculated by two different methods, each 
+yielding similar results.  The mean residual DIC 
+for each cruise was plotted against time and an 
+average slope was determined (0.62 ± 0.13 µmol 
+kg
+-1
+ yr
+-1
+).  For comparison, a slightly more 
+robust method was utilized for the deeper 
+waters:  the σ
+θ
+ binned residuals for each cruise 
+were averaged and divided by the age of the 
+cruise relative to P16N.  The mean uptake rate 
+of each cruise was then calculated, resulting in 
+an estimate of 0.79 ± 0.4 µmol kg
+-1
+ yr
+-1
+.  The 
+total integrated CO
+2
+ uptake from the surface to 
+1,250 m is estimated to be approximately 1.1 ±  
+0.4 mol C m
+-2
+ yr
+-1
+.   
+ 
+ 
+ 
+  
+ 
+ 
+Fig. 13 Estimated change in DIC content in the North Pacific mixed layer between 30-50°N and 140-
+180°W. 
+ 
+ 
+ 
+Fig. 14 Comparison of North Pacific DIC binned residuals (µmol kg
+-1
+) from the bottom of the MLD to 
+1250m. 
+  
+Table 4 A comparison of anthropogenic CO
+2
+ uptake rates in the oceans. 
+ 
+ 
+Total CO
+2
+  
+uptake rate  
+(mol C m
+-2
+ yr
+-1
+) 
+CO
+2
+ uptake  
+rate in the mixed 
+layer  
+(µmol DIC kg
+-1
+ yr
+-1
+) 
+ 
+ 
+ 
+Area of Study 
+ 
+ 
+Years of 
+observations
+ 
+ 
+Depth  
+range (m) 
+ 
+ 
+ 
+Reference 
+0.83 ± 0.19 –– Northwestern 
+Pacific 
+1973-1991 Sfc-2000 Tsunogai et al. 
+(1993) 
+–– 1 Northwestern 
+Pacific 
+1984-1993 Sfc Inoue et al. (1995)
+–– 0.75 to 0.90 S. Atlantic 1972-1993 Sfc-bottom Wallace (1995) 
+0.63 ± 0.15 1.3 ± 0.7 Central North 
+Pacific 
+1973-1991 125-1250 Slansky et al. 
+(1997) 
+–– 1.7 Subtropical 
+Atlantic 
+1988-1998 Sfc-200 Bates et al. 
+(1996a) 
+0.5 1.3 Subtropical Indian 1991-1994 Sfc-5000 Metzl et al. (1998)
+0.36 –– Tropical/ 
+Subtropical Indian
+1978-1995 300-1000 Peng et al. (1998)
+0.4 –– Tropical/ 
+Subtropical Indian
+1973-1995 Sfc-2600 Sabine et al. 
+(1999) 
+0.9 ± 0.8 –– South Pacific 1973-1996 300-1250 Peng et al. 
+(submitted for 
+publication)  
+1.3 ± 2.1 –– North Pacific 1973-1991 300-1250 Peng et al. 
+(submitted for 
+publication)  
+1.1 ± 0.1 1.2 ± 0.2 Subtropical 
+Pacific 
+1988-1999 Sfc-225 Dore et al. 
+(submitted for 
+publication)  
+0.39 ± 0.1 –– Pacific 1980-1999 Sfc-2000 McNeil et al. 
+(2003)  
+0.54 ± 0.1 –– Atlantic 1980-1999 Sfc-5000 McNeil et al. 
+(2003)  
+0.42 ± 0.2 –– Indian 1980-1999 Sfc-2000 McNeil et al. 
+(2003)  
+1.1 ± 0.4 1.3 ± 0.2 Central North 
+Pacific 
+1973-1999 Sfc-1250 This work 
+ 
+ 
+Table 4 shows a comparison of the estimated 
+uptake rates by various investigators in recent 
+years for the Atlantic, Pacific and Indian 
+Oceans.  The rates vary regionally by more than 
+a factor of two, from 0.75 µmol kg
+-1
+ yr
+-1 
+in the 
+South Atlantic, to 1.7 µmol kg
+-1
+ yr
+-1  
+in the 
+Subtropical Atlantic.  In the North Pacific, the 
+uptake rates at the surface range from 1.0 – 1.3 
+µmol kg
+-1
+ yr
+-1
+. 
+ 
+  
+5.0 Biogeochemical impacts and global implications 
+ 
+Concern about long-term impacts of climate 
+variability and anthropogenic CO
+2
+ increases in 
+the oceans has prompted North Pacific 
+researchers to re-examine the fundamental 
+processes controlling the organic carbon and 
+CaCO
+3
+ budgets in the region.  The primary 
+motivation for this research is that biological 
+production and export of organic matter, and 
+CaCO
+3
+ production and export are important 
+mechanisms by which carbon is exported from 
+the surface ocean to the abyss.  By looking at 
+data in the main thermocline, longer-term 
+secular trends and cycles have been observed.  
+This approach takes advantage of the fact that 
+the residence times of waters, and hence, 
+biogeochemical properties increase with depth, 
+and that flow in the ocean interior is primarily 
+along constant potential density surfaces.  
+Biogeochemical variations along isopycnal 
+surfaces may therefore reflect past variations.  
+Recent studies in the North Pacific have 
+suggested that oxygen in the upper thermocline 
+has decreased 10 – 15% over the past two 
+decades (Emerson et al., 2001; Ono et al., 
+2001a; Keller et al., 2002).  In the eastern 
+Pacific, the observed 8 – 40 µmol kg
+-1
+ oxygen 
+decrease between 100 and 500 m from 1991 to 
+1997 may reflect large-scale changes in 
+thermocline ventilation and/or ecosystem 
+dynamics.  Similarly, Feely et al. (2002) found 
+substantial upward migration of aragonite and 
+calcite saturation horizons in the upper 
+thermocline of the North Pacific, which they 
+attributed to decreases in carbonate ion 
+concentrations resulting from anthropogenic 
+CO
+2
+ penetration into the water column since pre-
+industrial time. 
+ 
+These biogeochemical effects follow other 
+studies that have suggested large-scale variations 
+in the Pacific.  McPhaden and Zhang (2002) 
+observed a 25% decrease in transport 
+convergences and meridional overturning over 
+the past 25 years, consistent with a decrease in 
+thermocline ventilation.  Karl and co-workers 
+(Karl et al., 1997; Karl, 1999) found a two-fold 
+primary production increase and corresponding 
+increases in suspended particle N:P ratios at 
+HOT between the 1980s and the 1990s.  They 
+attributed these changes to a major ecosystem 
+domain shift from nitrate-based diatom-
+dominated ecosystem to a Prochlorococcus-
+dominated N
+2
+ fixation ecosystem.  Karl (1999) 
+suggests that the shift may be related to the 
+persistence of unusually warm waters in the 
+Subtropical Pacific resulting from the long 
+succession of ENSO events.  These observations 
+are also consistent with a regime shift from a 
+negative to a positive phase of the Pacific 
+Decadal Oscillation (PDO). 
+ 
+All of these independent observations indicate 
+that the North Pacific Ocean is undergoing 
+substantial physical, chemical and biological 
+changes over time.  The response of the ocean 
+carbon cycle to climate variability and global 
+warming will continue to undergo varying 
+degrees of both positive and negative climate 
+feedbacks.  The magnitude of these feedbacks 
+and their interactions are currently not well 
+understood, but potentially could lead to 
+significant changes in the ability of the ocean to 
+sequester anthropogenic CO
+2
+ in the future.  If, as 
+many models suggest, the net feedbacks are 
+positive (i.e., reduced uptake of anthropogenic 
+CO
+2
+ by the ocean in a warming world) the 
+required socio-economical strategies to stabilize 
+CO
+2
+ in the future will be much more stringent 
+than in the absence of such feedbacks.  Future 
+studies of the carbon system in the North Pacific 
+should be designed to identify and quantitatively 
+assess these feedback mechanisms in order to 
+provide input to models that will determine their 
+importance on the ocean’s future capacity to 
+absorb the anthropogenic CO
+2
+ from the 
+atmosphere. 
+ 
+  
+ 
+  
+6.0 Recommendations for the future of carbon studies within PICES 
+ 
+Over the past four years, PICES, through the 
+activities of its Working Group 13, played a major 
+role in fostering international cooperation among 
+member nations towards the integration and 
+synthesis of the WOCE/JGOFS global CO
+2
+ survey 
+data in the North Pacific.  Appendix A summarizes 
+the specific activities of the Working Group from 
+1998 through the end of 2001.  The Working 
+Group 13: 
+null supported CO
+2
+ inter-comparison studies for 
+carbon species; 
+null developed strategies for exchanging data at the 
+international level; 
+null promoted collaborative interactions towards 
+the analysis and synthesis of the global CO
+2
+ 
+survey data; 
+null sponsored several meetings and symposia on 
+CO
+2
+ system dynamics in the North Pacific. 
+ 
+These activities were essential for resolving data 
+synthesis issues and developing strong 
+collaborations for the integration of the large CO
+2
+ 
+data set in the North Pacific Ocean.  As we strive 
+to increase our understanding of how the carbon 
+system in the North Pacific will respond to global 
+warming and large-scale climate shifts in the 
+future, there is an increasing need for PICES to 
+continue its focus on carbon system dynamics.  
+Below are several recommendations for future 
+activities that PICES could support to greatly 
+improve our knowledge of the carbon system in 
+the North Pacific. 
+ 
+1. The next phase of carbon research in the North 
+Pacific will involve repeat measurements of 
+carbon system and biological parameters, 
+tracers and hydrography at time-series stations 
+and along repeat sections of the 
+WOCE/JGOFS Global CO
+2
+ survey.  These 
+studies are designed to determine the physical, 
+chemical and biological changes controlling 
+the carbon system in the North Pacific, and 
+how these changes affect the ocean’s response 
+to climate variability and global warming.  
+PICES should continue to provide a venue for 
+data exchange and program coordination at the 
+international level to ensure optimal use of 
+resources to obtain appropriate temporal and 
+spatial coverage as well as maximum 
+comparability with historical data.  This could 
+be done as part of a joint effort with the 
+Climate Variability and Predictability Program 
+(CLIVAR) and Global Carbon Project (GCP). 
+ 
+2. Little is known about the exchange of 
+anthropogenic CO
+2
+ from the marginal seas to 
+the open North Pacific.  In some cases, 
+particularly in the northwest Pacific including 
+the Sea of Okhotsk and Bering Sea, water 
+mass formation in the marginal seas plays a 
+significant role in the formation of 
+Intermediate Water.  How anthropogenic CO
+2
+ 
+is ventilated and transported from the marginal 
+seas to intermediate depths in the North 
+Pacific Ocean is the subject of much research 
+by member countries of PICES.  PICES 
+should support synthesis activities for carbon 
+system parameters from these regional studies 
+and foster integrated studies between the 
+marginal seas and the open North Pacific. 
+ 
+3. In association with existing Data Centers, 
+PICES should take the lead in developing a 
+North Pacific database for ocean CO
+2
+ and 
+related parameters, and provide advice to Data 
+Centers on which of the available historical 
+data sets should be assigned a high priority for 
+acquisition and conversion to an electronically 
+readable form. 
+ 
+4. PICES should support the preparation of a 
+written Guide of best practices for oceanic 
+CO
+2 
+measurements and data reporting, and 
+carry out, as needed, inter-laboratory method 
+comparisons to assure future measurement 
+quality and encourage the availability of 
+suitable reference materials. 
+ 
+5. PICES should continue to sponsor 
+symposiums and/or annual meeting sessions 
+on the impacts of climate change on the 
+carbon cycle in the North Pacific Ocean. 
+  
+ 
+  
+7.0 References 
+ 
+Anderson, L.A.  1995.  On the hydrogen and 
+oxygen content of marine phytoplankton.  
+Deep Sea Res.  42: 1675-1680.  
+Anderson, L.A., and Sarmiento, J.L.  1994.  
+Redfield ratios of remineralization 
+determined by nutrient data analysis.  Global 
+Biogeochem. Cycles  8: 65-80. 
+Bates, N.R., Michaels, A.F., and Knap, A.H.  
+1996a.  Seasonal and interannual variability 
+of the oceanic carbon dioxide system at the 
+US JGOFS Bermuda Atlantic Time-series 
+site.  Deep Sea Res.  II, 43(2-3): 347-383.  
+Brewer, P.G.  1978.  Direct observation of the 
+oceanic CO
+2
+ increase.  Geophys. Res. Lett.  
+5: 997-1000. 
+Brewer, P.G., Bradshaw, A.L., and  Williams, 
+R.T.  1986.  Measurements of total carbon 
+dioxide and alkalinity in the North Atlantic 
+Ocean in 1981.  In J.R. Trabalka and D.E. 
+Reichle (Eds.) The Changing Carbon Cycle:  
+A global analysis.  Springer-Verlag, New 
+York, pp. 348-370. 
+Brewer, P.G., Glover, D.M., Goyet, C.M., and 
+Schafer D.K.  1995.  The pH of the North 
+Atlantic Ocean: Improvements to the global 
+model for sound absorption in sea water.  J. 
+of Geohys. Res.  100(C5): 8761-8776. 
+Broecker, W.S.  1974.  ‘NO’, a conservative 
+water-mass tracer.  Earth Planet Sci. Lett. 
+23: 100-107. 
+Chen, C-T. A.  1990.  Rates of calcium 
+carbonate dissolution and organic carbon 
+decomposition in the North Pacific Ocean.  
+J. Oceanogr.  46(5): 201- 210. 
+Chen, C.-T. A.  1993.  Anthropogenic CO
+2
+ 
+distribution in the North Pacific Ocean.  J. 
+Oceanogr.  49: 257-270.  
+Chen, C.-T. A., and Millero, F. J.  1979.  
+Gradual increase of oceanic CO
+2
+.  Nature  
+277: 205-206. 
+Chen, H., Wanninkhof, R. Feely, R.A., and 
+Greeley, D.  1995.  Measurement of fugacity 
+of carbon dioxide in sub-surface water: an 
+evaluation of a method based on infrared 
+analysis.  NOAA technical report ERL 
+AOML-85, 52 pp. NOAA/AOML.  
+Clayton, T., and Byrne, R.H.  1993.  
+Spectrophotometric seawater pH 
+measurements: total hydrogen ion 
+concentration scale calibration of m-cresol 
+purple and at-sea results.  Deep Sea Res.  
+40: 2115-2129. 
+Coatanoan, C., Goyet, C., Gruber, N., Sabine 
+C.L., and Warner, M.  2001.  Comparison of 
+two approaches to quantify anthropogenic 
+CO
+2
+ in the ocean: Results from the northern 
+Indian Ocean.  Global Biogeochem. Cycles  
+15: 11-25.  
+Deutsch, C., Gruber, N., Key, R.M., Sarmiento 
+J.L., and Ganachaud, A.  2001.  
+Denitrification and N
+2
+ fixation in the Pacific 
+Ocean.  Global Biogeochem. Cycles  15: 
+483-506.  
+DelValls, T. A., and Dickson, A.G.  1998.  The 
+pH of buffers based on 2-amino-2-
+hydroxymethyl-1,3-propanediol ("tris") in 
+synthetic seawater.  Deep Sea Res.  45: 
+1541-1554. 
+Dickson, A.G.  1992.  The determination of total 
+dissolved inorganic carbon in sea water 
+using extraction/coulometry: the first stage 
+of a collaborative study.  U.S. Department of 
+Energy.  Report No. DOE/RL/01830T-H14 . 
+Dickson, A.G., and Riley, J.P.  1979.  The 
+estimation of acid dissociation constants in 
+seawater media from potentiometric 
+titrations with strong base: I. The ionic 
+product of water-K
+W
+.  Mar. Chem  7: 89-99. 
+Dickson, A.G., and Millero, F.J.  1987.  A 
+comparison of the equilibrium constants for 
+the dissociation of carbonic acid in seawater 
+media.  Deep Sea Res.  34: 1733–1743. 
+Dickson, A.G., and Millero, F.J.  1989.  
+Corrigenda.  Deep Sea Res.  36: 983. 
+Dickson A.G., Afghan, J.D., and Anderson, G.C.  
+2003a.  Sea water reference materials for 
+CO
+2 
+analysis:  A method for the certification 
+of total alkalinity.  Mar. Chem.  80: 185-
+197. 
+Dickson A.G., Anderson, G.C., and Afghan, J.D.  
+2003b.  Sea water based reference materials 
+for CO
+2
+ analysis:  Preparation, distribution 
+  
+and use.  Accreditation and Quality 
+Assurance (under revision). 
+DOE 1994.  Handbook of methods for the 
+analysis of the various parameters of the 
+carbon dioxide system in sea water, version 
+2.0 (A. Dickson and C. Goyet, Eds.). 
+Dore, J.E., Carrillo, C. J., Hebel, D. V., and 
+Karl, D. M.  2001.  Carbon cycle 
+observations at the Hawaii Ocean Time-
+series Station ALOHA.  Synthesis of Pacific 
+Ocean Global CO
+2
+ Survey Data.  
+Proceedings of the Symposium on North 
+Pacific CO
+2
+ Data Synthesis, October 18–21, 
+2000, Tsukuba, Japan. 
+Emerson, S., Mecking, S., and Abell, J.  2001.  
+The biological pump in the subtropical 
+North Pacific Ocean: Nutrient sources, 
+redfield ratios, and recent changes.  Global 
+Biogeochem. Cycles  15: 535-554. 
+Feely, R.A., Sabine, C.L., Key, R.M., and Peng, 
+T.-H.  1999.  CO
+2
+ survey synthesis results: 
+Estimating the anthropogenic carbon dioxide 
+sink in the Pacific Ocean, U.S.  JGOFS 
+News  9(4): 1-4. 
+Feely, R.A., Sabine, C.L., Lee, K., Millero, F.J., 
+Lamb, M.F., Greeley,  D., Bullister, J.L., 
+Key, R.M., Peng, T.-H., Kozyr, A., Ono, T., 
+and Wong, C.S.  2002.  In situ calcium 
+carbonate dissolution in the Pacific Ocean.  
+Global Biogeochem. Cycles  16(4): 1144, 
+10.1029/2002GB001866. 
+Goyet, C., and Davis, D.  1997.  Estimation of 
+total CO
+2
+ concentration throughout the 
+water column.  Deep Sea Res.  44(5): 859-
+877. 
+Gruber, N.  1998.  Anthropogenic CO
+2
+ in the 
+Atlantic Ocean.  Global Biogeochem. 
+Cycles  12: 165-191. 
+Gruber, N., and Sarmiento, J.L.  1997.  Global 
+patterns of marine nitrogen fixation and 
+denitrification.  Global Biogeochem. Cycles  
+11: 235-266. 
+Gruber, N., Sarmiento, J.L., and Stocker, T.F.  
+1996.  An improved method for detecting 
+anthropogenic CO
+2
+ in the oceans.  Global 
+Biogeochem Cycles  10: 809-837.  
+Guenther, P.R., Keeling, C.D., and Emanuele 
+III, G.  1994.  Oceanic CO
+2
+ measurements 
+for the WOCE Hydrographic Survey in the 
+Pacific Ocean, 1990–1991: Shore based 
+analyses.  S.I.O. Ref. Series Data Rep. 129 
+pp. 
+Inoue, H.Y., Matsueda, H. Ishii, M., Fushimi, 
+K., Hirota, M., Asanuma, I., and Takasugi, 
+Y.  1995.  Long-term trend of the partial 
+pressure of carbon dioxide (pCO
+2
+) in surface 
+waters of the western North Pacific, 1984-
+1993.  Tellus  47B: 391-413. 
+Ishii, M., Inoue, H., Y. Matsueda, H., and 
+Tanoue, E.  1998.  Close coupling between 
+seasonal biological production and dynamics 
+of dissolved inorganic carbon in the Indian 
+Ocean sector and the western Pacific Ocean 
+sector of the Antarctic Ocean.  Deep Sea 
+Res.  45: 1187-1209. 
+Johnson, K.M.  1992.  Operator’s manual: 
+Single operator multiparameter metabolic 
+analyzer (SOMMA) for total carbon dioxide 
+(CT) with coulometric detection.  
+Brookhaven National Laboratory, 
+Brookhaven, N.Y. 70 pp. 
+Johnson, K.M., King, A.E., and Sieburth, J. 
+McN.  1985.  Coulometric DIC analyses for 
+marine studies: An introduction.  Mar. 
+Chem.  16: 61–82. 
+Johnson, K.M., Williams, P.J., Brandstrom, L., 
+and Sieburth, J. McN.  1987.  Coulometric 
+total carbon analysis for marine studies: 
+Automation and calibration.  Mar. Chem.  
+21: 117–133. 
+Johnson, K.M., Wills, K.D., Butler, D.B., 
+Johnson, W.K., and Wong, C.S.  1993.  
+Coulometric total carbon dioxide analysis 
+for marine studies: Maximizing the 
+performance of an automated continuous gas 
+extraction system and coulometric detector.  
+Mar. Chem.  44: 167–189. 
+Johnson, K.M., Dickson, A.G., Eischeid, G., 
+Goyet, C., Guenther, P., Key, R.M., Millero, 
+F.J., Purkerson, D., Sabine, C.L., Schottle, 
+R.G., Wallace, D.R.W., Wilke R.J., and 
+Winn, C.D.  1998.  Coulometric total carbon 
+dioxide analysis for marine studies: 
+Assessment of the quality of total inorganic 
+carbon measurements during the WOCE 
+  
+Indian Ocean CO
+2
+ Survey 1994–1996.  Mar. 
+Chem.  63: 21-37. 
+Karl, D. M.  1999.  A sea of change: 
+Biogeochemical variability in the North 
+pacific subtropical gyre.  Ecosystems.  2: 
+181-214. 
+Karl, D. M., Letelier, R., Tupas, L., Dore, J., 
+Christian, J., and Hebel, D.  1997.  The role 
+of nitrogen fixation in biogeochemical 
+cycling in the subtropical North Pacific 
+Ocean.  Nature.  388: 230-234. 
+Keeling, C.D., and Whorf, T.P.  2000.  
+Atmospheric CO
+2
+ records from sites in the 
+SIO air sampling network.  In Trends: A 
+Compendium of Data on Global Change.  
+Carbon Dioxide Information Analysis 
+Center, Oak Ridge National Laboratory, 
+U.S. Department of Energy, Oak Ridge, 
+Tenn., U.S.A. 
+Keller, K., Slater, R.D., Bender, M., and Key, 
+R.M.  2002.  Possible biological or physical 
+explanations for decadal scale trends in 
+North Pacific nutrient concentrations and 
+oxygen utilization.  Deep Sea Res.  II, 49(1-
+3): 345-362. 
+Körtzinger, A., Rhein, M., Mintrop, L.  1999.  
+Anthropogenic CO
+2
+ and CFCs in the North 
+Atlantic Ocean – A comparison of man-
+made tracers.  Geophys. Res. Lett.  26: 
+2065-2068. 
+Lamb, M.F., Sabine, C.L., Feely, R.A., 
+Wanninkhof, R., Key, R.M., Johnson, G.C., 
+Millero, F.J., Lee, K., Peng, T.-H., Kozyr, 
+A., Bullister, J.L., Greeley, D., Byrne, R.H., 
+Chipman, D.W., Dickson, A.G., Goyet, C., 
+Guenther, P.R., Ishii, M., Johnson, K.M., 
+Keeling, C.D., Ono, T., Shitashima, K., 
+Tilbrook, B., Takahashi, T., Wallace, 
+D.W.R., Watanabe, Y., Winn, C., and 
+Wong, C.S.  2002.  Consistency and 
+synthesis of Pacific Ocean CO
+2
+ survey data.  
+Deep Sea Res.  II, 49: 21-58.  
+Lewis, E., and Wallace, D. W. R.  1998.  
+Program developed for CO
+2
+ system 
+calculations.  Oak Ridge, Oak Ridge 
+National Laboratory. http://cdiac.esd.ornl. 
+ov/oceans/ 
+McPhaden, M.J., and Zhang, D.  2002.  
+Slowdown of the meridional overturning 
+circulation in the upper Pacific Ocean.  
+Nature.  415: 603–608.  
+McNeil, B.I., Matear, R.J., Key, R.M., Bullister, 
+J.L., and Sarmiento J.L.  2002.  
+Anthropogenic CO
+2
+ uptake by the ocean 
+based on the global chlorofluorocarbon 
+dataset.  Science  299: 235-239.  
+Merhbach, C., Culberson, C.H., Hawley, J.E., 
+and Pytkowicz, R.M.  1973.  Measurement 
+of the apparent dissociation constants of 
+carbonic acid in seawater at atmospheric 
+pressure.  Limnol. Oceanogr.  18: 897–907.  
+Metzl, N., Louanchi, F., and Poisson, A.  1998.  
+Seasonal and interannual variations of sea 
+surface carbon dioxide in the subtropical 
+Indian Ocean.  Mar. Chem.  60: 131-146. 
+Millero, F.J.  1995.  Thermodynamics of the 
+carbon dioxide system in the oceans.  
+Geochim. Cosmochim. Acta  59: 661-677. 
+Millero, F.J., Zhang, J.Z., Lee, K., and Campbell 
+D.M.  1993.  Titration alkalinity of seawater.  
+Mar. Chem.  44: 153-165. 
+Nojiri, Y., Fujinuma, Y., Zeng, J., and Wong, 
+C.S.  1999.  Monitoring of pCO2 with 
+complete seasonal coverage utilizing a cargo 
+ship M/S Skaugran between Japan and 
+Canada/US.  In Nojiri, Y. (Ed.) Proceedings 
+of the Second International Symposium of 
+CO2 in the Oceans.  CGERReport, CGER-
+I037-’99, pp. 17–23. 
+Ono T., Watanabe, S., Okuda, K., and 
+Fukasawa, M.  1998.  Distribution of total 
+carbonate and related properties in the North 
+Pacific along 30N.  J. Geophys. Res.  103: 
+30873-30883. 
+Ono, T., Midorikawa, T., Watanabe, Y.W., 
+Tadokoro, K., and Saino, T.  2001.  
+Temporal increases of phosphate and 
+apparent oxygen utilization in the subsurface 
+waters of western subarctic Pacific from 
+1968 to 1998.  Geophys. Res. Lett.  28(17): 
+3285-3288. 
+Orr, J.C., Maier-Reimer, E., Mikolajewicz, U., 
+Monfray, P., Sarmiento, J.L., Toggweiler, 
+J.R., Taylor, N.K., Palmer, J., Gruber, N., 
+Sabine, C.L., Le Quere, C., Key R.M., and 
+  
+Boutin, J.  2001.  Global oceanic uptake of 
+anthropogenic carbon dioxide as predicted 
+by four 3-D ocean models.  Global 
+Biogeochem. Cycles  15: 43-60.  
+Peng, T.-H., Wanninkhof, R., Bullister, J.L., 
+Feely, R.A., and Takahashi, T.  1998.  
+Quantification of decadal anthropogenic 
+CO
+2
+ uptake in the ocean based on dissolved 
+inorganic carbon measurements.  Nature.  
+396: 560-563. 
+Peng, T.-H., Wanninkhof, R., and Feely, R.A.  
+2003.  Increases of anthropogenic CO
+2
+ in the 
+Pacific Ocean over the last two decades.  
+Deep Sea Res.  II (submitted). 
+Reid, J.L.  1997.  On the total geostrophic 
+circulation of the Pacific Ocean: flow 
+patterns, tracers, and transports.  Prog. 
+Oceanog.  39: 263-352. 
+SCOR  1985.  Oceanic CO
+2
+ measurements. Res. 
+3rd Meet. Working Group 75, Les Houches, 
+France, October. 
+Sabine, C.L., and Feely, R.A.  2001.  
+Comparison of recent Indian Ocean 
+anthropogenic CO
+2
+ estimates with a 
+historical approach.  Global Biogeochem. 
+Cycles  15: 31-42.  
+Sabine, C.L., Key, R.M., Johnson, K.M,. 
+Millero, F.J., Poisson, A., Sarmiento, J.L., 
+Wallace, D.W.R., and Winn, C.D.  1999.  
+Anthropogenic CO
+2
+ inventory of the Indian 
+Ocean.  Global Biogeochem. Cycles  13: 
+179-198.  
+Sabine, C.L., Feely, R.A., Key, R.M., Bullister, 
+J.L., Millero, F.J., Lee, K., Peng, T.-H., 
+Tilbrook, B., Ono, T., and Wong, C.S.  
+2002.  Distribution of anthropogenic CO
+2
+ in 
+the Pacific Ocean.  Global Biogeochem. 
+Cycles 16(4): 1083, 10.1029/2001GB00163. 
+Slansky, C.M., Feely, R.A., and Wanninkhof, R.  
+1997.  The stepwise linear regression 
+method for calculating anthropogenic CO
+2
+ 
+invasion into the North Pacific Ocean.  In S. 
+Tsunogai (Ed.) Biogeochemical Processes in 
+the North Pacific.  Proceedings of the 
+International Marine Science Symposium on 
+Biogeochemical Processes in the North 
+Pacific, 12–14 November 1996.  Mutsu, 
+Japan, Japan Marine Science Foundation, 
+pp. 70–79. 
+Stuiver, M., Quay, P.D., and Ostlund, H.G.  
+1983.  Abyssal Water Carbon-14 
+Distribution and the Age of the World 
+Oceans.  Science.  219: 849-851.  
+Takahashi, T., Feely, R.A., Weiss, R.F., 
+Wanninkhof, R.H., Chipman, D.W., 
+Sutherland, S.C., Takahashi, T.T.,  1997.  
+Global air–sea flux of CO2: an estimate 
+based on measurements of sea-air pCO2 
+difference.  The Proceedings of the National 
+Academic of Sciences USA 94, pp. 8292–
+8299. 
+Takahashi, T., Wanninkhof, R.H., Feely, R.A., 
+Weiss, R.F., Chipman, D.W., Bates, N., 
+Olafsson, J., Sabine, C.L., and Sutherland, 
+S.C.  1999.  Net air-sea CO
+2
+ flux over global 
+oceans: An improved estimate based on sea-
+air pCO
+2
+ difference.  In Proceedings of 2nd 
+International Symposium on CO
+2
+ in the 
+Oceans, CGER-IO37-99.  CGER/NIES, 
+Tsukuba, Japan, pp. 9-15.  
+Tsunogai, S., Ono, T., and Watanabe, S.  1993.  
+Increase in total carbonate in the Western 
+North Pacific Water and a hypothesis on the 
+missing sink of anthropogenic carbon.  J. 
+Oceanogr.  49: 305–315.  
+UNESCO Technical Papers in Marine Science 
+No. 60.  1991.  Reference materials for 
+oceanic carbon dioxide measurements  41 
+pp. 
+Wallace, D.W.R.  1995.  Monitoring global 
+ocean inventories.  OOSDP Background 
+Rep. 5: 54pp., Ocean Obsrv. syst. Dev. 
+Panel, Texas A&M Univ., College Station, 
+TX. 
+Wanninkhof, R.  1992.  Relationship between 
+gas exchange and wind speed over the 
+ocean.  J. Geophys. Res.  97: 7373-7381. 
+Wanninkhof, R., and Thoning, K.  1993.  
+Measurement of fugacity of CO
+2
+ in surface 
+water using continuous and discrete 
+sampling methods.  Mar. Chem.  44: 189-
+204. 
+Wanninkhof, R., Doney, S.C., Peng, T.-H., 
+Bullister, J.L., Lee K., and Feely, R.A.  
+1999.  Comparison of methods to determine 
+  
+the anthropogenic CO
+2
+ invasion into the 
+Atlantic Ocean.  Tellus  51B: 511-530.  
+Warner, M.J., Bullister, J.L., Wisegarver, D.P., 
+Gammon, R.H., and Weiss, R.F.  1996.  
+Basin-wide distributions of 
+chlorofluorocarbons CFC-11 and CFC-12 in 
+the North Pacific: 1985-1989.  J. Geophys. 
+Res.  101: 20525-20542.  
+Winn, C.D., Li, Y.-H., Mackenzie, F.T., and 
+Karl, D.M.  1998.  Rising surface ocean 
+dissolved inorganic carbon at the Hawaii 
+Ocean Time-series site.  Mar. Chem. 60: 33-
+47.  
+Xu, Y., Watanabe, Y.W., Aoki, S., Harada, K.  
+2000.  Simulations  of storage of 
+anthropogenic carbon dioxide in the North 
+Pacific using an ocean general circulation 
+model.  Mar. Chem.  72: 221-238.  
+Zeng, J., Nojiri, Y., Murphy, P.P., and Wong, 
+C.S.  2002.  A comparison of ∆pCO2 
+distributions in the northern North Pacific 
+using results from a commercial vessel in 
+1995-1999.  Deep Sea Res. II.  49: 5303-
+5315. 
+  
+ 
+  
+Appendix A. 
+Summary of PICES Working Group 13 activities (1998 – 2001) 
+ 
+The PICES Working Group 13 on CO
+2
+ in the 
+North Pacific was established in 1998 under the 
+direction of the Physical Oceanography and 
+Climate Committee, and was co-chaired by Dr. 
+Richard A. Feely of the Pacific Marine 
+Environmental Laboratory (Seattle, U.S.A.) and 
+Dr. Yukihiro Nojiri of the National Institute for 
+Environmental Studies (Tsukuba, Japan).  Table 
+5 provides a list of the Working Group 
+members.  The terms of reference for the 
+Working Group were the following: 
+1. Review the present level of knowledge on 
+the processes controlling CO
+2
+ in the North 
+Pacific, and identify the gaps and problems; 
+2. Review the existing methodology of CO
+2
+ 
+measurements, including the preparation of 
+standards and reference materials, and 
+advise on intercalibration and quality control 
+procedures; 
+3. Identify and encourage ongoing and planned 
+national and international CO
+2
+-related 
+scientific programs in the North Pacific 
+region, including long-term time-series 
+observations;  and 
+4. In coordination with TCODE (PICES 
+Technical Committee on Data Exchange), 
+identify available and suitable data sets on 
+the oceanic CO
+2
+ system and recommend the 
+mechanisms of data and information 
+exchange. 
+ 
+Table 6 summarizes activities of the Working 
+Group in chronological order;  several of those 
+were conducted jointly with the JGOFS North 
+Pacific Task Team (NPTT).  The Working 
+Group met each year at the PICES Annual 
+Meeting to coordinate research activities, 
+exchange data and work to integrate the large-
+scale CO
+2
+ data sets from the North Pacific.  The 
+meetings were well attended as each member 
+presented a summary of country’s research 
+directions in carbon cycling, and invitees 
+provided detailed information on ongoing and 
+planned national and international CO
+2
+-related 
+scientific programs in the region.  As a direct 
+outcome, the Working Group recommended the 
+re-occupation of, and exchange of samples 
+during, the repeat WOCE/JGOFS sections P1, 
+P2 and P16N in the North Pacific.   
+ 
+ 
+Table 5 Members of PICES Working Group 13. 
+ 
+Name Affiliation Country 
+Richard A. Feely Pacific Marine Environmental Laboratory, NOAA USA 
+Yukihiro Nojiri National Institute for Environmental Studies Japan 
+Andrew Dickson University of California, San Diego USA 
+Myung-Woo Han Inha University Republic of Korea 
+Akihiko Murata Japan Marine Science and Technology Center Japan 
+Galina Yu. Pavlova Pacific Oceanological Institute Russia 
+Paul Quay University of Washington USA 
+Igor Semiletov Pacific Oceanological Institute Russia 
+Pavel Tishchenko Pacific Oceanological Institute Russia 
+Zhang-Gui Wang National Research Center for Marine Env. Forecast People’s Republic of China 
+C. S. Wong Institute of Ocean Sciences Canada 
+  
+Table 6 Summary of PICES Working Group 13 activities (1998 – 2001). 
+ 
+Time Location Activity 
+October 1998 Fairbanks, U.S.A. Working Group 13 Annual Meeting 
+January 1999 Tsukuba, Japan CO
+2
+ in the Oceans Symposium 
+April 1999 Tsukuba, Japan DIC Intercomparison Workshop 
+October 1999 Vladivostok, Russia Working Group 13 Annual Meeting 
+October 2000 Tsukuba, Japan TAlk Intercomparison Workshop 
+October 2000 Tsukuba, Japan North Pacific CO
+2
+ Data Synthesis Symposium 
+October 2000 Hakodate, Japan Working Group 13 Annual Meeting 
+October 2002 Hakodate, Japan PICES/JGOFS Topic Session on carbon cycling 
+January 2001 Sidney, Canada CO
+2
+ Data Planning Workshop 
+August 2001 Tokyo, Japan CO
+2
+ Data Integration Workshop 
+October 2001 Victoria, Canada Working Group 13 Annual Meeting 
+ 
+ 
+To improve the existing methodology of CO
+2
+ 
+measurements, the Working Group supported 
+three international CO
+2
+ measurement inter-
+comparison studies:  for dissolved inorganic 
+carbon (DIC), total alkalinity (TAlk) and the 
+13
+C/
+12
+C ratio of the inorganic carbon in seawater.  
+The first two, each followed up with a Technical 
+Workshop, were completed in April 1999 and 
+October 2000 (see summary in Appendix B).  
+The third inter-comparison was initiated in late 
+2001 and is still ongoing.  Participants have been 
+identified (8 laboratories from Canada, Japan, 
+U.S.A., Australia, Germany, France and China-
+Taipei), and samples were distributed in the 
+beginning of December 2001, and analyzed 
+during 2002.  This activity will be continued and 
+summarized by a new Working Group on 
+Biogeochemical data integration and synthesis 
+(WG 17) established to retain a scientific focus 
+on the carbon cycle within PICES.  A workshop, 
+if needed, will be organized to discuss the results 
+from the 
+13
+C/
+12
+C inter-comparison.  The 
+Working Group 17 has supported an on-land 
+inter-comparison of underway and 
+drifting/mooring pCO
+2
+ measurement systems 
+held in spring of 2003, in Japan, with 
+participants from PICES countries as well as 
+from Europe and Australia. 
+To review the present level of knowledge on the 
+processes controlling CO
+2
+ in the North Pacific, 
+the Working Group co-sponsored an 
+international symposium on CO
+2
+ in the Oceans 
+(January 1999, Tsukuba, Japan) and organized, 
+jointly with the JGOFS NPTT, a Topic Session 
+on North Pacific carbon cycling and ecosystem 
+dynamics at PICES IX (October 2000, 
+Hakodate, Japan) and an international North 
+Pacific CO
+2
+ Data Synthesis Symposium 
+(October 2000, Tsukuba, Japan). 
+ 
+At the latter symposium, co-sponsored by the 
+JST/CREST Program and hosted by the National 
+Institute of Environmental Studies (Japan), a 
+clear need was recognized to conduct an effort 
+to bring scientists and data managers together to 
+discuss the procedures for developing a North 
+Pacific CO
+2
+ database.  This was implemented in 
+2001 as a series of two workshops that were 
+organized jointly with TCODE.  The first CO
+2
+ 
+Data Planning Workshop was held at the 
+Institute of Ocean Sciences (Sidney, Canada) in 
+January 2001, to discuss the likely technical 
+issues involved in such a project, and to plan a 
+second more detailed workshop that was held at 
+the Japan Oceanographic Data Center (Tokyo, 
+Japan) in August 2001.  The objective for the 
+  
+CO
+2
+ Data Integration Workshop was to develop 
+strategies for the exchange of CO
+2
+ and related 
+data at the international level, and to examine 
+the technical issues in integrating presently 
+available data into a uniform data structure or 
+database.  Both workshops met their goals (see 
+summary in Appendix C), and PICES now has a 
+unified plan for data submission and exchange.  
+The PICES Working Group 17, in association 
+with existing Data Centers, will continue this 
+work to complete the North Pacific database for 
+ocean CO
+2
+ and related parameters and to ensure 
+its continuous update. 
+Activities of the PICES Working Group 13 were 
+recognized by the IOC-SCOR Ocean Carbon 
+Advisory Panel as essential for improving the 
+overall quality of oceanic CO
+2
+ measurements, 
+resolving data synthesis issues and developing 
+strong collaborations for the integration of the 
+large CO
+2
+ data set in the North Pacific.  The 
+Panel emphasized the importance of 
+international participation in the design of Ocean 
+Carbon Observation System and supported 
+PICES as an excellent forum for the Pacific 
+region. 
+ 
+  
+ 
+  
+Appendix B. 
+Results of Working Group 13 method inter-comparison studies 
+ 
+One of the first questions asked of analytical 
+measurements is:  how reliable are they?  This 
+was a key concern of the PICES Working Group 
+13 on CO
+2
+ in the North Pacific, which desired 
+that measurements made at different times, by 
+different investigators, from different 
+laboratories in the various PICES nations, be 
+comparable and correct. 
+ 
+In October 1998, at the first meeting of the 
+Working Group (Fairbanks, U.S.A.), it was 
+decided that, as one of the first steps towards 
+this goal, the Working Group would plan and 
+carry out a series of between-laboratory 
+comparisons of measurement techniques for 
+such carbonate parameters as dissolved 
+inorganic carbon (DIC), total alkalinity (TAlk) 
+and the 
+13
+C/
+12
+C ratio of the inorganic carbon in 
+seawater. 
+ 
+For our initial studies, the Working Group 
+decided to focus on the measurement of DIC and 
+of TAlk in seawater.  The plan was to conduct 
+an inter-laboratory comparison of these 
+measurements on some natural sea water 
+samples, and then to hold a technical workshop 
+to discuss the results of these studies, and to 
+initiate detailed technical exchange regarding 
+measurement techniques and data quality 
+between the scientists involved in studying CO
+2
+ 
+in the North Pacific. 
+ 
+Inter-comparison conducted during 1999 
+ 
+Preparations for this exercise were started 
+almost immediately after the Working Group 
+meeting in Fairbanks.  Four separate samples 
+based on natural seawater were prepared: 
+null a Certified Reference Material (Batch 45) 
+supplied by Dr. Andrew Dickson of the 
+Scripps Institution of Oceanography 
+(U.S.A.); 
+null an unknown surface seawater sample 
+supplied by Dr. Dickson, and prepared in the 
+same way as the Scripps CRMs (it was, in 
+fact, later distributed as CRM - Batch 46); 
+null an unknown surface seawater sample 
+supplied by Dr. Nobuo Tsurushima of the 
+National Institute of Environmental Studies 
+(Japan), and prepared in the same way as the 
+University of Hokkaido secondary standards 
+for DIC;  and 
+null an unknown deep-sea water sample supplied 
+by Dr. Akihiko Murata of JAMSTEC, based 
+on water collected in November 1998, on 
+the R/V Mirai from a depth of 3,000 m, 
+filtered and sterilized. 
+ 
+The samples were distributed to the participating 
+laboratories in January 1999 (with one exception 
+sent out in March 1999).  In all, fourteen 
+laboratories were involved:  seven from Japan, 
+four from the United States, and one from each 
+of Canada, Korea, and China-Taipei (Table 7).  
+Results were returned promptly from all of these 
+laboratories! 
+ 
+A follow-up technical workshop took place 
+April 20–22, 1999, at the National Institute for 
+Research on the Environment (NIRE) in 
+Tuskuba, Japan.  The workshop was organized 
+by Dr. Yukihiro Nojiri (NIES) and Dr. Koh 
+Harada (NIRE), and was supported jointly by 
+PICES, Kansai Environmental Engineering 
+Center (KEEC) and JAMSTEC.  A total of 
+thirty-one participants from the various 
+laboratories (including an observer from Russia) 
+enjoyed a detailed discussion of the analytical 
+techniques used by their laboratories for the 
+measurement of DIC and TAlk (Fig. 15).  This 
+discussion was facilitated by having the 
+analytical instruments from a number of the 
+participating groups set up in a laboratory next 
+to the meeting room. 
+ 
+The results of the actual inter-comparison were 
+discussed in detail at the workshop, and were 
+relatively encouraging.  For DIC the results from 
+a number of laboratories clearly reflected the 
+  
+effects of calibration problems.  However, once 
+the various values for DIC had been adjusted to 
+a common calibration scale (using the 
+measurements made on the Certified Reference 
+Material), the agreement between the various 
+laboratories was excellent (±2 µmol kg
+-1
+) (Fig. 
+16).  For TAlk, the results were more 
+disappointing, although reduction to a common 
+calibration scale helped to reduce the extent of 
+disagreement, there were still major inter-
+laboratory differences (±12 µmol kg
+-1
+) (Fig. 17).  
+A brief report describing this activity and the 
+technical workshop was in July 1999, in PICES 
+Press, Vol. 7 (2). 
+ 
+Table 7 Institutions participating in PICES inter-laboratory method comparisons for DIC and TAlk 
+ 
+Country Institution 1999 2000 
+Canada Institute of Ocean Sciences, Sidney x x 
+China-Taipei National Sun-Yat Sen University, Kaohsiung x  
+Central Research Institute of Electric Power Industry, Abiko x x 
+Hokkaido University, Sapporo x x 
+Japan Marine Science and Technology Center, Yokosuka x x 
+CREST:  Japan Science and Technology Corporation 
+ & Hokkaido University, Sapporo 
+ & National Institute for Environmental Studies, Tsukuba 
+x x 
+Kansai Environment Engineering Center Ltd., Osaka 
+ & National Institute for Resources and Environment, Tsukuba 
+x x 
+Meteorological Research Institute, Tsukuba x  
+National Research Institute of Fisheries Science, Yokohama x  
+Japan 
+University of the Ryukyus  x 
+Korea Seoul National University, Seoul x x 
+Russia Pacific Oceanological Institute, Vladivostock  x 
+NOAA Atlantic Oceanographic and Meteorological Laboratory, Miami x x 
+NOAA Pacific Marine Environmental Laboratory, Seattle x  
+Scripps Institution of Oceanography, San Diego x x 
+USA 
+University of Hawaii, Honolulu x x 
+ 
+ 
+Inter-comparison conducted during 2000 
+ 
+As a result of the 1999 inter-comparison, it was 
+decided that a further study should be 
+conducted, which would focus on the 
+measurement of TAlk to see just how effective 
+the 1999 technical workshop had been.  Again, 
+four separate samples based on natural seawater 
+were used: 
+null a CRM (Batch 50) supplied by Dr. Andrew 
+Dickson of the Scripps Institution of 
+Oceanography (U.S.A.); 
+null an unknown surface seawater sample 
+supplied by Dr. Dickson, and prepared in the 
+same way as the Scripps CRMs (it was, in 
+fact, later distributed as CRM - Batch 51); 
+• an unknown surface seawater sample 
+supplied by Dr. Nobuo Tsurushima, and 
+prepared in the same way as the University 
+of Hokkaido secondary standards for DIC; 
+• an unknown deep sea water sample supplied 
+by Dr. Akihiko Murata of JAMSTEC, based 
+on water collected in November 1999, on 
+the R/V Mirai from a depth of 3,000 m, 
+filtered and sterilized. 
+  
+ 
+ 
+Fig. 15 Participants of the first PICES CO
+2
+ Technical Workshop held April 20–22, 1999, at the 
+National Institute for Resources and Environment, Tsukuba, Japan. 
+ 
+ 
+ 
+Fig. 16 Results from 1999 analyses of DIC.  Asterisks are measurements on the CRM (CRM-45);  open 
+circles are the values measured on the PICES test sample (CRM-46);  and closed circles are the values 
+obtained for the PICES test sample after “calibration” with the reference material.  The horizontal line is 
+the “true” value for the PICES test sample. 
+  
+ 
+ 
+Fig. 17 Results from 1999 analyses of TAlk.  Asterisks are measurements on the CRM (CRM-45); 
+open circles the values measured on the PICES test sample (CRM-46);  and closed circles are the values 
+obtained for the PICES test sample after “calibration” with the reference material.  The horizontal line is 
+the “true” value for the PICES test sample. 
+ 
+ 
+ 
+Fig. 18 Discussion at the second PICES CO
+2
+ Technical Workshop held October 20, 2000, at the 
+EPOCHAL International Congress Center, Tsukuba, Japan. 
+  
+ 
+ 
+Fig. 19 Results from 2000 analyses of TAlk.  Asterisks are measurements on the CRM (CRM 50);  
+open circles the values measured on the PICES test sample (CRM 51);  and closed circles are the values 
+obtained for the PICES test sample after “calibration” with the CRM.  The horizontal line is the “true” 
+value for the PICES test sample. 
+ 
+ 
+The samples were distributed to the participating 
+laboratories in March 2000.  This time twelve 
+laboratories were involved (Table 7):  six from 
+Japan, three from the United States, and one 
+from each of Canada, Korea, and Russia.  The 
+follow-up workshop was held in October 2000, 
+again in Tsukuba, Japan, and was attended by 
+twenty-four scientists, including both members 
+of the participating laboratories and some 
+observers (Fig. 18). 
+ 
+Clear progress had been made in the year since 
+the 1999 inter-comparison.  After adjustment of 
+the various data to a common calibration scale 
+  
+set by CRM-50, the majority of the results (10 
+laboratories out of 12) were within a range of 5 
+µmol kg
+–1
+ (Fig. 19).  This result is typical for 
+laboratories with experience in this 
+measurement, and indicates the increased skills 
+of the participating laboratories have acquired 
+over the past year.  Nevertheless, it is essential 
+to maintain an awareness of potential inter-
+laboratory calibration problems, and the sources 
+of these were discussed at length during the 
+workshop.  One recommendation was that each 
+laboratory develop an approach that 
+independently calibrates the TAlk system, so 
+that the CRMs can be used as an independent 
+check on the calibration.  The workshop again 
+spent time reiterating the details of TAlk 
+measurements so as to build upon this success.  
+A brief report describing this activity and the 
+technical workshop was in January 2001, in 
+PICES Press, Vol. 9 (1). 
+ 
+Conclusion 
+ 
+The strategy used here, distribution of samples 
+for analysis (including a calibration sample) 
+followed by a technical workshop for detailed 
+discussion of the results and of the various 
+analytical techniques employed, is clearly very 
+effective.  
+The present state-of-the-art methodology and 
+technique for the analysis of DIC in seawater is 
+mature.  Most institutions use some variant of 
+the extraction and coulometric analysis 
+technique, and provided the instrument is well 
+calibrated (e.g., with appropriate reference 
+materials), results of good quality can be 
+obtained.  This is in broad agreement with the 
+experience of a variety of groups during the 
+WOCE/JGOFS era. 
+ 
+Similarly, the problems with TAlk 
+measurements also echo the experiences of a 
+variety of groups in the WOCE/JGOFS era.  The 
+difficulties with this measurement cannot be 
+attributed solely to calibration problems.  Other 
+factors play a clear role in the uncertainty of 
+these measurements.  A robust method for this 
+parameter is still needed. 
+ 
+The likely quality of CO
+2
+ measurements made in 
+the future by the various PICES member 
+countries thus seems assured.  Nevertheless, it 
+will be essential to  
+null ensure availability and distribution of 
+suitable CRMs, and  
+null continue regular inter-comparison exercises 
+to guarantee that all laboratories that are 
+making oceanic CO
+2
+ measurements are 
+capable of such high-quality measurements. 
+ 
+  
+Appendix C. 
+Results of Working Group 13 data integration workshops 
+ 
+A necessity to identify available and suitable 
+data sets on the oceanic CO
+2
+ system and 
+recommend the mechanisms of data and 
+information exchange was explicitly included in 
+the terms of reference at the establishment of the 
+PICES Working Group 13 on CO
+2
+ in the North 
+Pacific.  At the international North Pacific CO
+2
+ 
+Data Synthesis Symposium, co-sponsored by 
+PICES and the JST/CREST Program and hosted 
+by the National Institute of Environmental 
+Studies in October 2000, in Tsukuba, Japan, a 
+need to discuss the procedures for developing a 
+North Pacific CO
+2
+ database was re-instated.  It 
+was agreed that this project should be the 
+primary activity of the Working Group during 
+2001, and in coordination with the PICES 
+Technical Committee on Data Exchange, two 
+workshops should be held in this direction to: 
+null review status of national/international CO
+2
+ 
+data inventories;  
+null discuss technical aspects involved in the 
+development of a common database for CO
+2
+ 
+and CO
+2
+-related data;  and 
+null outline a possible mechanism for the 
+international cooperation needed to realize 
+this. 
+ 
+The first CO
+2
+ Data Planning Workshop was held 
+January 22-24, 2001, at the Institute of Ocean 
+Sciences in Sidney, Canada (Fig. 20), to discuss 
+the likely technical issues involved in 
+developing of the North Pacific CO
+2
+ database 
+and to plan a second more detailed workshop.  
+The participants included both CO
+2
+ research 
+scientists and specialists in oceanographic data 
+from various Data Centers (JODC - Japan 
+Oceanographic Data Center, MIRC - Marine 
+Information Research Center of Japan 
+Hydrographic Association, NODC - National 
+Oceanographic Data Center of the United States, 
+CDIAC - Carbon Dioxide Information and 
+Analysis Center of the United States, and MEDS 
+- Marine Environmental Data Service of 
+Canada). 
+ 
+A series of presentations reviewed the present 
+status of North Pacific CO
+2
+ data in the 
+participating PICES member countries, and 
+essentially indicated that many of the recent and 
+historic data holdings remain within individual 
+laboratories, though steps are being undertaken 
+to transfer the data to national and international 
+Data Centers.  It was also noted that even when 
+such data resides at the Data Centers, integrating 
+them into a coherent picture is a large task which 
+requires a great deal of time and expertise.  A 
+common problem is that such data sets are often 
+inadequately documented, making an objective 
+assessment of their reliability very difficult.  The 
+workshop participants thus spent time 
+developing draft guidelines for metadata 
+(documentation of the methods, quality control 
+procedures, etc.) that should accompany 
+archived CO
+2
+ data sets.  Although it was 
+recognized that in a number of cases, this 
+information was perhaps unavailable, it was felt 
+that such guidelines would help Data Centers to 
+better assess the comprehensiveness of the 
+metadata accompanying their data products.  
+However, ultimately the most important part of 
+the workshop was the opportunity it gave the 
+participants to articulate a long-range vision for 
+the future of CO
+2
+ data sets for the North Pacific, 
+and suggest approaches for the international 
+coordination and cooperation needed to 
+implement it. 
+ 
+To make the integration of both historic and 
+future North Pacific CO
+2
+-related data a reality, 
+the workshop participants recommend that the 
+Working Group 13 and TCODE: 
+null Work together with the Data Centers 
+(JODC, MIRC, NODC, CDIAC, MEDS, 
+etc.) and the JGOFS North Pacific Task 
+Team to compile an international North 
+Pacific data inventory for CO
+2
+ and CO
+2
+-
+related data, to be available as a web site by 
+MIRC, and mirrored at the other Data 
+Centers.  Priority should be given to North 
+Pacific open-ocean data;  however, marginal 
+seas will also be included. 
+  
+ 
+ 
+Fig. 20 Participants of the PICES CO
+2
+ Data Planning Workshop held October 22-24, 2001, at the 
+Institute of Ocean Sciences, Sidney, British Columbia, Canada. 
+ 
+ 
+null Encourage PICES and non-PICES countries 
+to contribute information on their North 
+Pacific data holdings to this inventory. 
+null Persuade the Data Centers to adopt the 
+proposed pH, pCO
+2
+, DIC and TAlk metadata 
+guidelines. 
+null Prepare and distribute a list of key stations 
+for future replicate and shore-based analysis 
+of deep-water samples, and to encourage the 
+re-sampling of these stations in future 
+national and international North Pacific CO
+2
+ 
+surveys.  This would aid the assessment of 
+the quality and utility of the historical 
+databases. 
+null Use the quality-checked historical surface 
+ocean pCO
+2
+, data from Japan, Canada and 
+the United States to test the Live Access 
+Server concept for the display and 
+distribution of combined data sets via the 
+Internet. 
+null Promote the development of near real-time 
+data exchange/data integration approaches 
+for underway pCO
+2
+, measurements in 
+preparation for future observational 
+programs, to ensure that timely repeated 
+assessments of CO
+2
+ exchange can be made. 
+null Support the continuation of underway pCO
+2
+ 
+inter-comparison studies to test the 
+comparability of pCO
+2
+ methods. 
+ 
+The second CO
+2
+ Data Integration Workshop 
+held at the Japan Oceanographic Data Center 
+  
+(Tokyo, Japan) from July 31 to August 2, 2001, 
+aimed at (i) developing strategies for the 
+exchange of CO
+2
+ and related data at the 
+international level;  and (ii) examining in more 
+detail, the technical issues in integrating 
+presently available data into a uniform data 
+structure or database.  Again this workshop was 
+attended by a variety of PICES scientists and 
+managers from existing Data Centers.  The 
+participants further explored the combined data 
+set and debated a strategy for assessment and 
+correction of systematic discrepancies.  They 
+also evaluated a proposed common data format 
+and discussed the future home for a North 
+Pacific database and plans for its accessibility. 
+ 
+A number of issues were agreed on at this 
+meeting: 
+null a draft data format for future CO
+2
+ data; 
+null the importance and success of the PICNIC 
+(PICES CO
+2
+ Related Data Integration for the 
+North Pacific) data inventory developed by 
+MIRC and now available on line at 
+http://picnic.pices.jp;  This web site 
+incorporates the extensive information about 
+Japanese cruises and information about 
+Canadian (IOS) and U. S. cruises (linked to 
+CDIAC holdings).  At present, the inventory 
+is linked to original data (at other locations 
+on the Internet) wherever practical, and 
+serves various historical data sets as they are 
+digitized.  However work is in progress to 
+host some datasets at MIRC; 
+null the use of the Live Access Server (LAS) 
+approach to serve distributed data sets so as 
+to provide for improved data visualization 
+over the Internet, and an agreement to share 
+technical expertise to ensure this could be 
+achieved;  and  
+null the need to continue this project in future 
+years. 
+ 
+Both workshops met their goals, and PICES now 
+has a unified plan for submission and exchange 
+of CO
+2
+ and CO
+2
+-related data at the international 
+level.  This work will be continued by the 
+PICES Working Group 17 on Biogeochemical 
+data integration and synthesis, established in 
+2002, to retain a scientific focus on the carbon 
+cycle within PICES.  The Working Group 17 
+declared collating historical, present day and 
+future CO
+2
+, carbon isotope and hydrographic 
+data into an internationally accessible North 
+Pacific database as one of its key activities.  This 
+effort will be conducted in collaboration with the 
+existing national and international Data Centers 
+and the Ocean Carbon Coordination Project of a 
+joint IGBP/IHDP/WCRP Global Carbon Project. 
+ 

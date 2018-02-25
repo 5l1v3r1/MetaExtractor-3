@@ -1,0 +1,4227 @@
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 9 
+1998 
+ 
+ 
+ 
+ 
+ 
+PICES CLIMATE CHANGE AND CARRYING CAPACITY WORKSHOP 
+ON THE DEVELOPMENT OF COOPERATIVE RESEARCH  
+IN COASTAL REGIONS OF THE NORTH PACIFIC 
+ 
+October 17-18, 1997 
+Pusan, Republic of Korea 
+ 
+ 
+Sponsored by: 
+PICES-GLOBEC  
+CCCC REX Task Team 
+ 
+ 
+Organizing Committee: 
+Anne B. Hollowed, Tsutomu Ikeda, Vladimir I. Radchenko 
+and Tokio Wada 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 1998 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca  http://pices.ios.bc.ca 
+TABLE OF CONTENTS 
+ 
+ 
+Introduction ................................................................................................................................................... 1 
+GLOBEC Canada - Ecosystem Response to Climate Variability............................................................... 2 
+Activities of the China-GLOBEC Program ................................................................................................. 6
+GLOBEC-Related Research Programs by Fisheries Research Institutes of Japan ....................... 7 
+Korean GLOBEC and GLOBEC-Like Programs......................................................................................   8 
+Review of Russian GLOBEC-Like Programs ........................................................................................... 10 
+United States GLOBEC and GLOBEC-Like Programs............................................................................ 13
+Mid-water and Demersal Fish Breakout Session....................................................................................... 17 
+Crustacean Breakout Session...................................................................................................................... 20
+Pelagic Fish Breakout Group Recommendations ...................................................................................... 24 
+Salmon Breakout Session ........................................................................................................................... 26 
+Forcing Breakout Session ........................................................................................................................... 28 
+Lower Trophic Level Breakout Session..................................................................................................... 30 
+Ecosystem Response Breakout Session ..................................................................................................... 31 
+Summary of Ongoing Research Programs by Region............................................................................... 33 
+PARTICIPANTS:  REX Task Team.......................................................................................................... 44 
+PARTICIPANTS:  CCCC IP and CCCC National Members................................................................... 45 
+PARTICIPANTS: General PICES Community ........................................................................................ 46 
+ 
+ 
+ 
+INTRODUCTION 
+ 
+ 
+The REX Task Team convened a workshop October 
+17 - 18, 1997.  The purpose of the workshop was to 
+review the status of national research programs and 
+to identify areas for cooperative research 
+experiments in support of the CCCC Program.  Over 
+50 scientists participated in the workshop 
+representing approximately 40 research institutions. 
+ 
+The workshop organizing committee recognized the 
+need for application of the scientific method in 
+developing regional experiments in support of the 
+CCCC Program.  Marine research programs have a 
+legacy of resource monitoring followed by 
+retrospective studies leading to hypothesis 
+generation.  More recently, considerable resources 
+have been devoted towards the development of 
+simulation models capable of integrating the 
+synergistic influences of multiple factors.  These 
+models have been used to explore hypothetical 
+impacts of changes in ocean conditions on marine 
+ecosystems.  Both of these approaches fail to apply 
+the basic principles of the scientific method where 
+scientists state their hypothesis and design and 
+implement experiments to test the validity of their 
+hypothesis.  The absence of the scientific method in 
+marine research is attributed to two primary factors: 
+a) the difficulty isolating a "control" in the 
+experimental design, and b) the difficulty in 
+obtaining funds to conduct replicate process oriented 
+experiments when the process of interest occurs on  
+interannual to decadal time scales.  In the REX 
+Workshop, we examined the possibility of applying 
+the comparative approach to answering the scientific 
+questions posed in the Climate Change and Carrying 
+Capacity Implementation Plan.  Participants were 
+asked to consider the possibility of designing 
+experiments that could be conducted in distant 
+regions of the North Pacific with the expressed intent 
+of testing hypotheses regarding climate impacts on 
+the carrying capacity.   
+  
+The symposium began with a review of the 
+GLOBEC and GLOBEC like research programs 
+planned, or on-going, in each of the six PICES 
+member nations.  Subsequently, participants 
+discussed coastal research programs in breakout 
+sessions targeting forcing, lower trophic level 
+response, higher trophic level response and 
+ecosystem response.  The higher trophic level 
+response breakout sessions were further divided into 
+four major species groups:  salmon, mid-water and 
+demersal fish, pelagic fish, and crustaceans.  
+ 
+Participants were asked to review the four key 
+scientific questions presented in the CCCC 
+Implementation Plan: 
+ 
+1. What are the characteristics of climate 
+variability, can interdecadal patterns be 
+identified, how and when do they arise? 
+ 
+2. How do primary and secondary producers 
+respond in productivity, and in species and size 
+composition, to climate variability in different 
+ecosystems of the subarctic Pacific? 
+  
+3. How do life history patterns, distributions, vital 
+rates and population dynamics of higher trophic 
+level species respond directly and indirectly to 
+climate variability? 
+ 
+4. How are subarctic Pacific ecosystems 
+structured?  Do higher trophic levels respond to 
+climate variability solely as a consequence of 
+bottom up forcing?  Are there significant intra-
+trophic level and top down effects on lower 
+trophic level production and on energy transfer 
+efficiencies? 
+ 
+The participants were asked to develop hypotheses 
+related to the four CCCC questions as they related to 
+the topic of the breakout session.  Participants were 
+also asked to discuss existing or potential research 
+approaches to test these hypotheses.  The regions 
+and target species that would be best suited for 
+comparative research experiments were identified.  
+Finally, the barriers to implementing the experiment 
+were discussed. 
+ 
+1
+GLOBEC CANADA - ECOSYSTEM RESPONSE TO CLIMATE VARIABILITY 
+David L. Mackas (Presenter) 
+ 
+GLOBEC Canada is a collaborative program funded 
+for four years jointly by NSERC (Research 
+Partnerships) and DFO (Priority Allocations, A-
+base).  GLOBEC is designed to provide very high 
+return on investment through more robust 
+interpretation and management in the face of 
+ecosystem change.  The collaboration involves fifty 
+scientists from seven universities (Memorial, 
+Dalhousie, Laval, UQAR, Queen's, UBC and UVic), 
+five government laboratories (NAFC, BIO, IML, 
+IOS and PBS).  Strong links exist with other national 
+programs, e.g. in the US and Norway, and with the 
+developing GLOBEC International effort. 
+ 
+GLOBEC Canada will examine how living marine 
+resources are affected by variability of their physical 
+environment.  Marine ecosystems undergo large 
+interannual to decadal fluctuations.  These large 
+swings affect almost every fishery, and are 
+becoming equally apparent in time series of ocean 
+climate and plankton indices.  Their time scale is 
+such that human impacts, in terms of economic and 
+societal dislocation, can be very large.  There is 
+much evidence for an underlying causal connection 
+through physical environmental forcing of variations 
+in ocean productivity.  But timely diagnosis and 
+management response are hampered by insufficient 
+knowledge of intermediate causal linkages.  For 
+example, low productivity and very poor recruitment 
+of Atlantic groundfish stocks has coincided with the 
+post-1990 cold water anomaly. Conversely, high 
+productivity of many Pacific salmon stocks 
+coincided with a N. Pacific atmospheric and oceanic 
+regime that began in the mid 1970s (but there are 
+recent physical and biological indications that the N. 
+Pacific is now undergoing another regime shift).  
+Understanding the reasons for these episodes of high 
+and low productivity is essential to forecasting if and 
+when Pacific salmon productivity will decline, and 
+whether and when NW Atlantic groundfish will 
+return to historic levels of productivity. 
+ 
+The multidisciplinary integration of field and 
+modeling studies in GLOBEC Canada will increase 
+this causal-level understanding.  The relevance of 
+GLOBEC includes, but is not limited to, climate 
+change trends associated with global warming.  A 
+major focus will be naturally-forced interannual to 
+interdecadal fluctuations and their effects on target 
+populations through recruitment variability of 
+individual species and changes in overall community 
+structure.  Simultaneous research programs are 
+underway in both the Atlantic and Pacific.  The dual 
+coast effort is justified by the need for national 
+integration and the unique characteristics of the east 
+and west coast ecosystems.  Scientific themes shared 
+by both coasts include:  
+ 
+* Importance of seasonality and timing match 
+between critical physical and biological events 
+(shifts in these are like to be among the strongest 
+climate change signals). 
+ 
+* Amount and timing of freshwater inputs, and 
+effects on physical mixing and transport 
+patterns. 
+ 
+* Importance of advective coupling among 
+mesoscale sub-regions and between the open 
+ocean and continental margins. 
+ 
+GLOBEC Canada will improve understanding of 
+how changes in the physical environment of the 
+ocean drive changes in the productivity and species 
+composition and trophic structure of marine 
+ecosystems.  We know that these climate and 
+ecosystem fluctuations exists and frequently covary, 
+but in general we do not know how they are 
+mechanistically linked.  
+ 
+GLOBEC’s multidisciplinary integration of field and 
+modeling studies will increase this cause-level 
+understanding.  The relevance of GLOBEC includes, 
+but is not limited to, climate change trends 
+associated with global warming.  A major focus will 
+be naturally-forced interannual to interdecadal 
+fluctuations and their effects on target populations 
+through recruitment variability of individual species 
+and changes in overall community structure. 
+ 
+ 
+ 
+2
+Rationale for CGLOBEC Pacific research 
+ 
+Pacific Ocean fish and zooplankton communities 
+undergo large and ecologically/economically 
+significant fluctuations over years to decades.  Stock 
+collapses and extreme failures of steady-state 
+fisheries forecast models have tended to accompany 
+major shifts in the marine climate.  There is 
+increasing evidence that these large changes in 
+fishery yield are environmentally, rather than purely 
+fishery harvest, driven.  Although several important 
+west coast fisheries are already managed using 
+various proxy indices of ocean conditions (specific 
+examples include Barkley Sound sockeye, 
+Vancouver Island herring, sablefish, and hake), 
+present indices are based on correlations with 
+convenient proxy variables.  They incorporate 
+minimal verification through knowledge of the 
+underlying mechanisms.  Management indices based 
+solely on hindcast correlations have a history of 
+breaking down over time, either permanently or 
+during specific oceanic events.  Consequences are 
+often severe: loss or major error of management 
+advice, resulting in conservation and social crises 
+and the loss of millions of dollars to the Canadian 
+economy.  What is needed to make the indices more 
+reliable is understanding and quantification of the 
+causal processes underlying the correlations. 
+ 
+The Pacific component will study interactions within 
+a high nutrient and predominately pelagic 
+ecosystem.  The research will emphasize food web 
+pathways leading to production of the most 
+important (in commercial value and/or ecological 
+impact) west coast finfish species: salmon, herring 
+and hake.  Target processes and species will include: 
+alongshore and cross-shore advection, seasonal cycle 
+of upwelling, horizontal currents and water mass 
+boundaries (physical environment), euphausiids and 
+copepods (zooplankton), and both adult and juvenile 
+finfish.  The conceptual model for the west coast 
+GLOBEC program three advectively- and 
+biologically-linked ecosystems operating at 
+increasing spatial scales (west coast of Vancouver 
+Island, central and north B.C. coasts, open NE 
+Pacific Ocean).  The three regions are highly 
+interconnected.  Each has important, seasonally 
+variable, and physically-driven exchanges of 
+nutrients and plankton with its surroundings.  Each 
+also contains large populations of migratory fish.  In 
+particular, Pacific salmon integrate, over the course 
+of their life cycle, the consequences of ocean 
+physical and biological processes occurring in both 
+coastal and offshore regions.  For major stocks, 
+survival rates during marine life are known to vary 
+six-fold (e.g. 5% to 30% for Fraser sockeye). 
+ 
+Project status and progress toward objectives 
+ 
+As of October 1997, GLOBEC Canada is halfway 
+through the second year of a 4-year proposal cycle. 
+This is an exciting time to be doing this research.  By 
+many indications, ocean conditions and ocean 
+ecosystems are in an episode of strong and rapid 
+change.  For example, in the northeast Pacific, an 
+intense developing El Niño is combining with other 
+modes of climate variability to produce very strong 
+positive temperature anomalies.  In the northwest 
+Atlantic, coastal ocean temperatures remain cooler 
+than normal.  Present opportunities for larger-scale 
+examination of these events through international 
+cooperation are excellent, especially within PICES 
+and ICES GLOBEC programs, and bilaterally with 
+the U.S. (their east and west coast GLOBEC 
+programs), Japan (Japan GLOBEC), and Norway 
+(Mare Cognitum, TASC).  Within Canada, we are 
+benefiting from idea- and data-sharing with 
+programs such as JGOFS and OCP. 
+ 
+CGLOBEC includes fifteen component projects on 
+the Atlantic and Pacific coasts (Pacific projects 
+tabulated at the end of this report).  In the first half of 
+year two (FY9798), the projects completed 
+remaining equipment purchase and staffing and 
+moved into active research mode.  We are on track 
+for meeting our intended annual "milestones": 
+ 
+From retrospective data, document changes over 
+past 15-20 years in east and west coast 
+ecosystems (water properties, currents, nutrient 
+supply, seasonal cycles of plankton production 
+and composition, fish growth and distribution). 
+ 
+Intensive field process studies of circulation/ 
+biology interactions (to be repeated in 1998-99).  
+For west coast, spring transition of shelf edge 
+currents, upwelling in submarine canyons, and 
+interactions with zooplankton and fish 
+distributions.  For east coast, effect of autumn 
+storms on bank nursery areas. 
+3
+Other field sampling:  In the Alaska gyre, 
+zooplankton time series and salmonid growth 
+and distribution. On both coasts, ongoing 
+continental margin time series sampling.  
+ 
+Numerical models.  Evaluation & use of 
+physical circulation modules.  Time series 
+outputs for comparison against retrospective and 
+process study data.  Begin to embed biological 
+modules. 
+ 
+Data archival and exchange.  Web-based central 
+catalog (index & metadata) with links to 
+distributed archival sites. 
+ 
+Research activities fall in three main areas: 
+retrospective statistical analyses, numerical 
+modeling, and "time series" and "process study" 
+field sampling. 
+ 
+Retrospective analyses 
+ 
+Retrieval of historical data into accessible databases 
+is continuing, and interpretations of seasonal and 
+interannual variability have been initiated.  In the 
+Pacific, multi-year average seasonal climatologies 
+have been calculated for currents, water properties, 
+and zooplankton biomass/composition off 
+Vancouver Island.  These are now being 
+intercompared and used to interpret recruitment of 
+plankton and fish.  Time series of offshore and 
+coastal wind measurements have been compared to 
+pressure-field indices, and are being applied to 
+models of upper ocean currents.  A large 
+interdecadal change in the life cycle timing of the N. 
+Pacific copepod Neocalanus plumchrus was 
+identified with data from older published data and 
+recent JGOFS, "Strait of Georgia Salmon", and 
+GLOBEC surveys. 
+ 
+ 
+Numerical Modeling 
+ 
+Model development is progressing well, and model 
+applications have been initiated on both coasts.  In 
+the Pacific, a high-resolution 3-D circulation model 
+is being developed for the Vancouver Island  
+continental margin.  Applications include coupling 
+to a regional trophodynamic model, and examination 
+of localized upwelling and zooplankton/fish 
+aggregations associated with shelf-break submarine 
+canyons.  A very high resolution meteorologic 
+model is being used to examine intensification of 
+winds and resultant energy transfer to the ocean near 
+coastal headlands.  In the Alaska Gyre, nested NPZ, 
+mixed layer and basin-scale circulation models are 
+being developed to study patterns of primary and 
+secondary production, and utilization of open ocean 
+habitat by migrating salmon. 
+ 
+Field studies 
+ 
+1997 west coast field sampling has included four 
+continental margin cruises (Thomson et al., Allen et 
+al.) to deploy moorings, to maintain ongoing 
+seasonal time series of water properties, plankton 
+and fish distributions, and to examine shelf break 
+upwelling/aggregation processes and effects of the 
+spring transition on plankton and fish distributions. 
+Spring and summer cruises in the Alaska Gyre 
+(Welch/Perry, McKinnell/Mackas) examined salmon 
+size-at-age, food source, and migratory route, and 
+mesozooplankton distribution, developmental 
+timing, and sampling methodology. 
+ 
+Program Integration 
+ 
+West and east coast regional workshops took place 
+in October 97 (Vancouver and Halifax), and were 
+followed by a national meeting in early January 
+1998.  
+ 
+Canadian GLOBEC Project Titles and Lead 
+Investigators (Pacific Component) 
+ 
+Effects of current patterns on primary 
+productivity and zooplankton biomass and 
+implications on feeding patterns of larval fish - 
+Allen, Foreman, Harrison, Mackas, Perry, 
+Thomson, and Whiticar 
+ 
+Hindcast models of currents and temperatures 
+along the British Columbia continental margin - 
+Crawford and Cummins  
+ 
+Biophysical modelling for the western 
+continental margin of Vancouver Island - 
+Foreman, Ware, Thomson, and Harrison 
+ 
+4
+Sockeye salmon migration and foraging 
+behaviours:  Acoustic tracking experiments - 
+Hawryshyn  
+ 
+A coupled ocean general circulation and marine 
+foodweb model of the subarctic Pacific - Hsieh 
+and Denman 
+ 
+Gulf of Alaska zooplankton - McKinnell and 
+Mackas 
+State-of-the-Ocean time series - Pacific 
+continental margin - Thomson, Mackas, Ware, 
+Perry, Hargreaves, Harrison, Hyatt, McFarlane, 
+Shaw, Stull, and Gower  
+ 
+Zooplankton and oceanographic effects on 
+Ocean salmon growth - Welch and Perry 
+ 
+5
+ACTIVITIES OF THE CHINA-GLOBEC PROGRAM  
+ 
+Qi-Sheng Tang (Presenter)  
+ 
+The China GLOBEC program is a high priority 
+national science program.  The goal of this project is 
+to identify how climate change and anthropogenic 
+factors influence the dynamics of coastal sea 
+ecosystems.  The aim of this project is to predict 
+fluctuations in ocean and its living resources.  The 
+main research activities in 1997 are on the historic 
+data collection and analyses, designing an 
+implementation plan, parameter estimation, and field 
+surveys.  An outline of these activities is described 
+below. 
+ 
+China has initiated a research program on the Bohai 
+prawn early life history and key processes in the 
+habitat.  As a part of this program, an egg survey 
+covering 54 sampling stations is conducted in May.  
+The data collected from this survey will lead to an 
+assessment of prawns in the habitat.  Physical factors 
+such as temperature and salinity are taken.  A second 
+survey is conducted on the feeding ground in July.  
+This survey covers 23 stations in frontal regions of 
+the Bohai Sea.  Three of these stations have 24-hour 
+continual observation stations. 
+ 
+A second element of the China GLOBEC program 
+focuses on zooplankton population dynamics and 
+their controlling role for ecosystem productivity.  In 
+1997, information on the vertical movement of 
+plankton was studied by collecting continuous 
+observations over a 48-hour period at 5 fixed 
+locations in the Bohai Bay in June.  The data were 
+collected by both vertical plankton trawls, and 
+benthic sampling during day and night.  Nutrient 
+samples were taken in association with this survey.  
+Physical characteristics of the water column were 
+obtained using a CTD  
+ 
+China GLOBEC also conducts studies of the 
+trophodynamics of the food web and shifts in species 
+dominance.  In 1997, a procedure for modeling 
+ecological growth efficiency in trophodynamic 
+processes at higher trophic levels was developed.  
+Larval fish were collected for analyses of food 
+habits.  Ecological growth efficiency and feeding 
+conversion efficiencies were estimated for read sea 
+bream, black sea bream, gobies and black tetra.   
+ 
+A model of  the Bohai sea ecosystem is being 
+developed by the China GLOBEC program.  In 
+support of this project, collections of benthos and 
+geo-chemistry were made in 1997.   
+ 
+6
+GLOBEC-RELATED RESEARCH PROGRAMS BY FISHERIES RESEARCH 
+INSTITUTES OF JAPAN 
+ 
+Makoto Kashiwai (Presenter) 
+ 
+A comprehensive study of the Variation of the 
+oceanic ENvironment and FISH populations in the 
+Northwestern Pacific (VENFISH) is currently being 
+conducted.  This program is funded through the 
+Agriculture, Forestry and Fisheries Research 
+Council.  The VENFISH program will be funded 
+1997 to 2002.  This research program covers three 
+geographical regions; Oyashio region, Transition 
+region and Kuroshio region and can be an important 
+component of PICES-GLOBEC / CCCC-Program.  
+A brief overview of this program follows. 
+ 
+Background: The introduction of Total 
+Allowable Catch (TAC) to the fisheries 
+resources management in Japanese EEZ 
+highlighted the need for improved prediction of 
+changes in abundance of important fish 
+resources under the effects of climate change 
+and ecosystem interactions.  Several studies 
+showed a large influence of lower level 
+production of the abundance of important 
+fisheries resources such as Pacific saury and 
+walleye pollock, and a critical importance of 
+marine environment on the lower trophic level 
+production.  Based on these observations, the 
+prediction of abundance of fisheries resources, 
+presently performed using catch data and body 
+length composition, should be and could be 
+improved through the prediction of lower 
+trophic level production under the effect of 
+environmental variability.   
+ 
+Objective: The objective of the Program is to 
+establish technology for precise abundance 
+forecast of fisheries resources and to advance 
+technology for fisheries resources management 
+for representative fish species in the 
+Oyashio/Kuroshio region, through developing 
+prognostic fish production models based on 
+elucidation of the response of fish production to 
+variability of environment and plankton 
+production.   
+Target Species: This Program identifies two target 
+species, Pacific saury, the trans-boundary 
+migrant of short lifetime, and Walleye pollock, 
+the resident on Subarctic shelf of long lifetime.  
+Thus the Program has two major components 
+integrated by the population dynamic models for 
+the two target species, having common feeding 
+area of Oyashio shelf region during summer. 
+ 
+Program structure: The Program is structured by 
+trophic levels and has following components:   
+1. Analysis of the effects of ocean environment on 
+plankton biomass   
+a. Prediction of phytoplankton biomass   
+i. Field studies on the watermass structure 
+and primary production   
+ii. Development of models for 
+phytoplankton biomass dynamics   
+b. Prediction of Zooplankton biomass   
+i. Responses of Zooplankton to 
+environmental variability   
+ii. Food web analysis around Zooplankton 
+and Micronekton   
+iii. Development of models for 
+Zooplankton biomass dynamics   
+ 
+2. Development of technology for forecasting 
+biomass variability of dominant fishes    
+a. Responses of dominant fishes to 
+environmental variability   
+b. Development of prognostic model for fish 
+population dynamics 
+ 
+Participating Institutes: 
+Hokkaido National Fisheries Research Institute 
+(Kushiro) 
+Tohoku National Fisheries Research Institute 
+(Shiogama) 
+National Research Institute of Fisheries Science 
+(Yokohama) 
+Far Seas National Fisheries Research Institute 
+(Shimizu)  
+7
+National Fisheries University of Fisheries 
+Agency (Shimonoseki) 
+Department of Fisheries, Hokkaido University 
+(Hakodate) 
+Department of Agriculture, Tohoku University 
+(Sendai)  
+ 
+Program Coordinator:  (Assigned by position)  
+Dr. Yasuaki Nakamura 
+Director General, Tohoku National Fisheries 
+Research Institute  
+ 
+Vice Program Coordinator (Contact Point):  
+(Assigned by position)  
+Dr. Kuniaki Okuda  
+Head, Fisheries Oceanography Division,  
+Tohoku National Fisheries Research Institute 
+Kokuda@myg.affrc.go.jp 
+ 
+Promoting Leader: 
+Dr. Yutaka Matsuo 
+Head, Biological Oceanography Section 
+Tohoku National Fisheries Research Institute 
+Team Leaders: 
+ Primary Production:   
+Dr. Katsuyuki Sasaki 
+Head, Chemical Oceanography Section 
+ Secondary Production: 
+Dr. Atsushi Tsuda 
+Head, Biological Oceanography Section 
+Hokkaido National Fisheries Res. Inst.  
+Fish Population Prognostics: 
+Dr. Tatsuru Kishida 
+Head, Ecosystem Dynamics Section 
+National Res. Inst. of Fisheries Science  
+ 
+Informal Regional Coordinator: 
+Kuroshio Region:  
+Dr. Kuniaki Okuda 
+Head, Fisheries Oceanography Division,  
+Tohoku National Fisheries Res. Inst. 
+Oyashio Region: 
+Dr. Makoto Kashiwai  
+Head, Fisheries Oceanography Division,  
+Hokkaido National Fisheries Res. Inst. 
+ 
+8
+KOREAN GLOBEC AND GLOBEC-LIKE PROGRAMS 
+ 
+Chang-Ik Zhang 
+ 
+The Korean GLOBEC committee has been formally 
+established in June 1998 as a collaborative national 
+committee jointly by National Fisheries Research & 
+Development Institute (NFRDI), Korean Ocean 
+Research & Development Institute and some ocean- 
+and fisheries- related universities  such as, Pukyong 
+National University and Seoul National University. 
+As an initial program the Korean GLOBEC 
+committee is developing a preliminary research 
+project (1 year) on the title of ‘Climate Changes and  
+Abundances of Fisheries Resources in Korean 
+Waters’ as a kind of research action plan.  This one-
+year research will be conducted mostly by Korean 
+GLOBEC committee members, to figure out the 
+frame, direction, and items for the GLOBEC and 
+GLOBEC-like future research in Korea by the 
+retrospective analyses of all historical data and 
+results of related studies. Base upon the results of the 
+research program, the Korean GLOBEC and 
+GLOBEC-like researches will be much more 
+actively conducted thereafter. 
+ 
+In spite of the late formation of the national 
+GLOBEC committee in Korea, however, a number 
+of GLOBEC-like research programs have ever been 
+carried out and also have been being conducted 
+currently as shown in the attached summary of 
+ongoing research programs by region. At present, six 
+research programs are ongoing in the Yellow Sea, 
+three, in the East Sea/Japan Sea, and five, in the East 
+China Sea. The major funding agencies for these 
+programs are the Ministry of Maritime Affairs and 
+Fisheries (MAFF), Ministry of Science and 
+Engineering (MOST), and Korea Science and 
+Engineering Foundation (KOSEF). Besides these 
+programs, a lot of small researches are also carried 
+out by universities and government research 
+institutes.      
+ 
+9
+REVIEW OF RUSSIAN GLOBEC-LIKE PROGRAMS  
+Vladimir I. Radchenko (Presenter) 
+ 
+Development of Russian GLOBEC-like programs 
+was difficult in the early years because the research 
+organizations within Russia were not fully 
+integrated.  It was a time when the single-objective 
+approach predominated.  Research groups were 
+basically formed to address a single purpose and 
+rather than multipurpose, ecosystem based, research 
+projects.  Each research group conducted routine 
+studies and produced proposals for discrete projects 
+for the following fiscal year.  With further study, the 
+objectives became more detailed and sub-divided.  
+ 
+The first multipurpose marine ecosystem research 
+programs were undertaken by the institutes of the 
+Russian Academy of Sciences.  Dozens of large-
+scale expeditions were conducted annually on board 
+of the academic fleet in diverse corners of the World 
+Ocean.  However, at this time, the Academy did not 
+focus on higher trophic level organisms of marine 
+ecosystems.  Although these programs did not allow 
+a description of the whole ecosystem, they provided 
+valuable information on the relationships between 
+physical forcing and lower trophic level response.   
+ 
+In early 1950s, Russian scientists attempted to relate 
+the fish stock dynamics and climate trends which 
+lead to the development of Dr. G. Izhevsky’s system 
+approach.  This research showed statistical 
+relationships between time series of selected fish 
+stocks and physical factors.  Dr. Izhevsyky 
+endeavored to formalize these relationships and 
+discovered that it was impossible to describe the 
+single-species model adequately by mathematical 
+means without incorporating ecosystem parameters. 
+ 
+Since 1980 the ecological investigations in the far-
+eastern seas have been carried out by the TINRO-
+Center.  The composition, structure, inter-annual 
+dynamics and function of the pelagic and demersal 
+hydrobionts’ communities were studied on a macro-
+ecosystem scale.  This work was primarily 
+undertaken by the laboratories of Applied 
+Biocenology (i.e., ecology) and of Plankton 
+Research in the Bering and Okhotsk Seas.  The 
+project staff consists of three dozens specialists now 
+under the leadership of principal TINRO-Center 
+scientist, Prof. V.P. Shuntov. 
+ 
+Ecosystem investigations were included as a part of 
+fishery research and were conducted on research 
+vessels.  In 1982, the mission of first expedition was 
+to assess demersal fishes and invertebrates on the 
+western Kamchatka shelf in the Sea of Okhotsk.  
+Subsequent expeditions were conducted in the 
+Karaginsky Bay in the southwestern Bering Sea in 
+1983.  Demersal surveys were conducted until 1983, 
+and pelagic surveys started in 1986.  Twelve 
+expeditions with pelagic and four with demersal 
+surveys have been completed in the Bering Sea and 
+Kamchatka Pacific waters.  In the Sea of Okhotsk 
+and Kuriles Pacific waters, eighteen pelagic surveys 
+and seven demersal surveys have been conducted. 
+ 
+Multipurpose expeditions have been conducted  in 
+the Russian far-eastern economic zone and in some 
+international waters.  These expeditions encom-
+passed multi-disciplinary activities including: 
+meteorological studies, hydrology, chemical 
+sampling, fish distribution (by trawl-acoustic 
+sampling), plankton and ichthyoplankton surveys.  
+The distribution, migration, feeding, and physiology 
+of nektonic organisms were all studied.  Nekton was 
+assessed mainly in the epipelagic (0-200 m) and 
+pelagic (0-1000 m) layers, according to data of trawl 
+surveys.  Data on primary production, bacteria, and 
+protozoa were also collected, examined, and 
+processed onboard the research vessels in some 
+expeditions. 
+ 
+The original database contains information on basic 
+water parameters, species composition, biomass, and 
+resources of zooplankton, nekton and benthos from 
+more than 6200 oceanographic, plankton and trawl 
+stations.  This database includes the results of 
+biological analyses of more than 150,000 and 
+measurements of 1,400,000 fishes and squids.  The 
+feeding habits of tens of thousands of specimens of 
+more than fifty nekton and nektobenthos species 
+were studied to develop community trophic 
+structure.  These data, coupled with a thorough 
+10
+review of the literature on adjacent areas allowed for 
+the derivation of a model for energy and biomass 
+flow through the Bering and Okhotsk Seas 
+ecosystems.  These models were presented at the 
+PICES Workshops in Seattle in 1991 and in 
+Vladivostok in 1995. 
+ 
+One of the main results of the FES-LIRES project 
+was the prediction and further monitoring of 
+substantial reorganization of pelagic communities of 
+far-eastern seas that occurred since early 1990s.  It 
+was likely related to large changes in global climate 
+and oceanographic conditions in the northern North 
+Pacific.  Changes in composition and biomass were 
+recorded in both plankton and nekton communities. 
+ 
+FES-LIRES specialists analyzed the available data 
+and developed a conceptual model of the 
+consequences of pollock biomass decline in the far-
+eastern seas ecosystem (Shuntov et al., 1997).  
+Consumer biomass reduction led to decrease of 
+forage pressure on zooplankton communities.  Then, 
+the abundance and production of predatory plankton 
+organisms grew in early 1990, fueled by the surplus 
+plankton production resulting from the pollock 
+collapse.  As a consequence, the surplus plankton 
+biomass and production decreased under the 
+foraging pressure of planktonic predators.  The food 
+base for pelagic fishes and other high trophic level 
+organisms worsened.  Fish productivity decreased in 
+pelagic ecosystems.  At that time, the biomass of 
+alternative nekton species begins to grow (for the 
+northern North Pacific herring is alternative species 
+to pollock).  Herring has very high daily food ration 
+during the feeding period and it consists of predatory 
+zooplankton (especially chaetognaths) in more 
+degree than the pollock ration.  The decrease of 
+predatory zooplankton biomass and production 
+appeared in these conditions and some increase of 
+biomass and production of unpredatory zooplankton 
+can be expected.  In late 1990s the increase of fish 
+productivity is expected in new physical conditions 
+and biological structure of ecosystems.  However, 
+the new level of fish productivity will be less than 
+such level for 1980s. 
+ 
+Further monitoring of demersal and pelagic 
+hydrobionts’ communities is planned.  Despite the 
+financial and other difficulties the research 
+expeditions continue in the far-eastern seas.  The 
+interesting changes in demersal communities on the 
+western Kamchatka and Karaginsky Bay shelf zones 
+were elucidated.  It is likely related with the rate of 
+mud sedimentation there in last years.  Results of 
+ecosystem investigations also are widely applied in 
+the fisheries forecasting and management, in single-
+specific studies. 
+ 
+The Short-Term Fisheries Forecasting (STFF) 
+program, encompasses all four of the PICES Central 
+Scientific Issues.  Although complex studies have 
+been carried out in TINRO-Center since 1979, the 
+activity has been sporadic and related to different 
+regions.  The STFF project for the Japan Sea started 
+in 1996 and was planned for 3 or 4 years.  
+(Unfortunately, in late 1997, the program was 
+terminated.)  
+ 
+The objective of the STFF program is to identify a 
+method for forecasting the location of pelagic 
+fisheries for:  common Japanese squid, saury, chub 
+mackerel and sardine.  To accomplish this objective, 
+an analysis of the spatial distribution pattern of key 
+species was performed.  A set of meso-scale 
+ecosystem blocks with flexible boundaries 
+corresponding to types of water structure were 
+monitored.  Retrospective analysis revealed logical 
+relationships between environmental conditions and 
+living components of ecosystems.  These relation-
+ships were formalized by statistical methods.  
+Development of models of the seasonal factors that 
+account for year-to-year changes should be 
+undertaken.  The components of ecosystems which 
+are regarded to be important for the forecasting 
+procedure include:  air circulation features, water 
+temperature, thermocline parameters, large-cell 
+phytoplankton biomass, biomass of main 
+zooplankton species and communities maturity, 
+main fish and squid species population density and 
+catches per unit effort.  Thus, the result model will 
+not be an ecosystem model on the whole, but the 
+model of development of fisheries conditions. 
+ 
+During the first two years the principal relations for 
+levels "atmosphere water column", "water 
+environment - plankton", "water environment - fish 
+and squid", "plankton - fish and squid", "fish - 
+squid" were found for some types of ecosystems.  
+11
+Atmosphere - water column relations are 
+asynchronic that allows too elaborate the prognostic 
+model.  The extending of these regularities on whole 
+deep-sea part of Russian exclusive economic zone 
+off Primorie is planned.  Then, all relations should 
+be formalized in condition of complete system of 
+equations. 
+ 
+A small staff of 7 scientists belonging to the TINRO-
+Center laboratories of short-term fisheries forecast 
+and of Cephalopod studies was attracted to this 
+project.  Dr. Y. Zuenko was its leader. 
+ 
+Far-eastern regional program on Pacific salmon 
+marine life study ("Pacific salmon, 1997-2000") can 
+be an example of ecosystem approaches in a single-
+purpose studies.  It was developed in response to the 
+necessity for improved knowledge of the life history 
+of Pacific salmon.  Main program objectives are as 
+follow: 
+ 
+- Definition of Pacific salmon ecology features 
+during the sea and ocean phases, in particular its 
+distribution and migrations, trophic linkages, 
+growth and maturation rates in relation with 
+food supply state and environmental conditions, 
+estimations of natural mortality rates for diverse 
+salmon species, and its inter-annual dynamics. 
+ 
+- Survey assessment of salmon abundance 
+immediately during anadromous run for the 
+verification of previous forecasts of magnitude 
+and temporal dynamics of its approaches, 
+investigation of possibility of the pink salmon 
+aggregations to re-distribution between regions 
+on the last stage of migration before the 
+spawning streams.  
+ 
+- Direct calculations of salmon juveniles during 
+oceanward migrations for collection of correct 
+information on the generation numbers and 
+development of preliminary harvest predictions. 
+ 
+- Further data collection for Pacific salmon stocks 
+differentiation, age and population structure 
+studies for main species, in particular for 
+definition of real ratio of abundance of wild and 
+enhanced chum salmon stock on basic areas of 
+feeding migration route. 
+ 
+For these goals, the results are applied of complex 
+trawl surveys conducted annually in frames of the 
+FES-LIRES project in upper epipelagic layer of far-
+eastern seas.  Pacific waters off Kamchatka and 
+Kurile Islands are also investigated in limits of 
+Russian exclusive economic zone.  Observations are 
+also executed from the Russian and Japanese driftnet 
+vessels during fishery season and in coastal zone 
+during fisheries operations by beach and river seines.  
+ 
+The research activities provided by 50-60 specialists 
+of regional institutes and divisions of TINRO-Center 
+in frames of this regional program annually.  Most of 
+them are temporary participants of project.  The 
+database including fishery statistics, escapement 
+data, biological information on salmon species has 
+created at the Laboratory of Biological Forecasts in 
+the TINRO-Center.  Contacting persons are V.G. 
+Markovtsev, head of TINRO-Center International 
+Department and V.I. Radchenko, Deputy Director.
+ 
+12
+UNITED STATES GLOBEC AND GLOBEC-LIKE PROGRAMS 
+Anne Babcock Hollowed (Presenter) 
+ 
+There are several GLOBEC and GLOBEC like 
+programs currently funded in the United States.  The 
+purpose of this review is to summarize the present 
+status of national research programs and to identify 
+areas for cooperative research experiments in 
+support of the CCCC Program.  The discussion is 
+not a comprehensive summary of all oceanographic 
+programs that might contribute to the CCCC 
+Program and is limited to large, multi-investigator 
+research programs.  However, it should be 
+understood that the some of the programs discussed 
+below might be supplemented by collaborative 
+research projects awarded to individual scientists.  
+The following summary begins with programs 
+located off the California coast and proceeds north to 
+the Bering Sea. 
+ 
+Large scale research programs in the California 
+Current South region include the California 
+Cooperative Oceanic Fisheries Investigations 
+(CalCOFI), the Small Pelagics Fishes and Climate 
+Change program (SPACC), the research activities of 
+the Southwest Fisheries Science Center (SWFSC), 
+the Monterey Bay Aquarium Research Institute 
+(MBARI), and research activities at University of 
+California Davis (U.C. Davis).  The CalCOFI 
+program is jointly funded by the National Oceanic 
+and Atmospheric Administration (NOAA), the 
+University of California, and the California 
+Department of Fish and Game.  The CalCOFI 
+program has collected a large suite of bio/physical 
+data in the California Current since 1949.  Current 
+research findings are documented in the CalCOFI 
+reports series and are easily accessible on the world 
+wide web.  The long time series has provided 
+invaluable information on the impacts of climate on 
+the distribution and abundance of nutrients, 
+phytoplankton and zooplankton in the California 
+Current.  The current monitoring region is 
+encompasses offshore transects between San Diego 
+and Pt. San Luis. 
+ 
+The Small Pelagic Fishes and Climate Change 
+(SPACC) program was developed through the 
+International GLOBEC programs.  This program 
+proposes cooperative research on: the feeding 
+behavior, larval distributions, foraging success (prey 
+availability) and early life history vital rates of small 
+pelagic fishes throughout the world.  The intent of 
+this program is to develop coupled bio/physical 
+models.  Paleo-oceanographic records will also be 
+collected and analyzed to provide a long term 
+retrospective perspective of population variability. 
+ 
+The Southwest Fisheries Science Center (SWFSC) 
+supports fisheries research in the California Current.  
+Target species include small pelagic species as well 
+as groundfish.  The SWFSC Tiburon laboratory 
+conducts research on juvenile rockfish.  This 
+research project includes seasonal surveys of larval 
+and juvenile distribution and abundance, analysis of 
+juvenile growth rates and feeding ecology.  Adult 
+rockfish are also monitored to determined fecundity 
+rates.  Information obtained through this program is 
+assimilated in a bio-physical model of the study 
+region roughly located between San Francisco and 
+Monterey Bay.  The SWFSC Pacific Environmental 
+Group (PFEG) provides retrospective studies of 
+climate variability, access to physical oceanographic 
+data, develops bio-physical models of the California 
+Current system.  
+ 
+The California Department of Fish and Game 
+(CDF&G) supports fisheries research in waters off 
+the coast of California.  Research programs target a 
+variety of fish species including:  small pelagic 
+species (e.g. sardine, mackerel and pacific herring), 
+nearshore rockfish, Pacific salmon, lingcod and 
+market squid.  Oceanic research surveys are 
+intermittent and focused on specific research needs.  
+Sea bird surveys are also conducted through the 
+CDF&G as part of the oil spill response team 
+activities.  Ocean surveys planned for 1999 include a 
+pelagic survey for adult sardine and mackerel, and a 
+market squid survey that will utilize bottom trawl 
+and jig gear. 
+ 
+The Monterey Bay Aquarium Research Institute 
+supports a broad research plan that includes the 
+development of advancements in remotely operated 
+13
+vehicles.  On-going research includes a study of 
+biochemical responses to changes in climate and 
+ocean circulation.  This project utilizes ship board 
+surveys, moorings and remote sensing to improve 
+our understanding of processes influencing lower 
+trophic level responses to climate variability. 
+ 
+The University of California Davis is currently 
+involved in Dungeness crab research.  The goal of 
+this project is to understand processes influencing 
+recruitment of Dungeness crab.  This research 
+project provides monitoring of coastal larval 
+dispersal.  Survey information is assimilated in 
+coupled bio-physical models. 
+ 
+The U.S. GLOBEC Northeast Pacific research 
+program was developed to understand the effects of 
+climate variability and climate change on the 
+distribution, abundance, and production of marine 
+animals, particularly juvenile salmon and the 
+dominant zooplankton (copepods and euphausiids) 
+in the system.  The project contrasts the response of 
+juvenile salmon to ocean conditions in the California 
+Current region with conditions in the northern Gulf 
+of Alaska.  The project started in 1997 and will 
+continue for 5 to 7 years.  This project includes an 
+examination of linkages in production between 
+Coastal Gulf of Alaska and the California Current 
+System.  The program will also focus on variability 
+in intermediate scale features (e.g. eddies and jets) as 
+the main physical factors influencing zooplankton 
+dynamics.  Researchers hope to relate juvenile 
+salmon survival to interannual and inter-decadal 
+changes in physical forcing and changes in 
+ecosystem food web dynamics.  Development of 
+coupled 3 dimensional bio/physical models for the 
+California Current system and Alaskan current 
+system are currently being supported by this 
+program. 
+ 
+The National Oceanic and Atmospheric 
+Administration’s (NOAA), Coastal Ocean Program 
+supports a Pacific Northwest Coastal Ecosystem 
+Regional Study (PNCERS).  The long-term 
+objective of the PNCERS program is to manage the 
+Pacific Northwest Coastal Ecosystem for ecological 
+and sociological sustainability.  Short-term 
+objectives of this program include: 
+ 
+- Identification of physical and human forcing 
+factors that affect the Pacific Northwest Coastal 
+Ecosystem (PNCE). 
+ 
+- Defining the relative impacts of significant 
+forcing factors on the intrinsic and economic 
+outputs provided by the PNCE. 
+ 
+- Determining the socioeconomic consequences 
+of changing the provisioning rate and/or 
+distribution of system outputs. 
+ 
+- Identify management structures and strategies 
+(policy) which can be altered such that the 
+PNCE functions sustainably. 
+ 
+The Coastal Ocean Processes (CoOP) program is a 
+multi-diciplinary, research projects that is funded by 
+the National Science Foundation, the Office of 
+Naval Research and the National Oceanic and 
+Atmospheric Administration.  The CoOP program 
+currently has a pilot project on air-sea interactions 
+off Monterey, CA.  This project focuses on air-sea 
+gas exchange.  
+ 
+The Northwest Fisheries Science Center (NMFS) 
+supports fisheries research in coastal waters of 
+northern California, Oregon and Washington.  
+Research encompasses a broad range of activities 
+including monitoring of pollutants, nutrients, 
+fisheries surveys, retrospective studies and 
+modeling.  Center staff conduct research on habitat 
+associations, stock identification, spatial distribution 
+and abundance.  The data collected is assimilated 
+into stock assessment models and ecosystem models 
+to evaluate impacts of different harvest strategies.  
+The NWFSC conducts surveys of toxic 
+phytoplankton off the coast of Washington, Oregon 
+and northern California using ships of opportunity.  
+The NWFSC Newport Oregon Laboratory provides 
+bi-weekly sampling of zooplankton distribution and 
+abundance.  Chlorophyll, zooplankton and ichthyo-
+plankton samples are routinely taken.   
+ 
+The International Pacific Halibut Commission is 
+located in Seattle, Washington.  The IPHC employs 
+an international group of investigators who conduct 
+research on Pacific halibut.  The IPHC conducts grid 
+surveys using longline gear in the Gulf of Alaska.  
+14
+Information obtained from these surveys is 
+assimilated into stock assessment models.  Research 
+activities of the commission include studies of 
+changes in life history characteristics of Pacific 
+halibut, studies of stock distribution and migratory 
+pathways, fisheries monitoring and development of 
+models of the functional response between stock 
+projection success and bio/physical forcing. 
+ 
+The Exxon Valdez Oil Spill Trustee Council 
+(EVOS) oversees research on the coastal ecosystem 
+of the Gulf of Alaska.  Three research projects are 
+directly relevant to the PICES CCCC Program.  The 
+Sound Ecosystem Assessment Program (SEA) is a 
+multidisciplinary study of the influence of biological 
+and physical processes on production of pink salmon 
+and Pacific herring in Prince William Sound.  The 
+Nearshore Vertebrate Predator project is focused on 
+examination of nutrition and health indicators of top 
+trophic level predators (marine mammals and 
+seabirds).  The Alaska Predator Ecosystem 
+Experiment (APEX) project concentrates on the 
+productivity of seabirds based on the availability of 
+forage fish.  Principal target species include:  
+common murres, pigeon guillemots and black legged 
+kittiwakes. 
+ 
+The Alaska Fisheries Science Center supports 
+research on marine fish and crabs in Alaskan waters.  
+Research activities include a broad range of activities 
+and target species.  Bottom trawl and Echo 
+Integration Midwater Trawl (Acoustic) surveys are 
+conducted along the west coast, Gulf of Alaska and 
+Bering Sea.  During these cruises, data is collected to 
+evaluate habitat associations, food habits, stock 
+identification, spatial distribution and abundance.  
+The data collected is assimilated into stock 
+assessment models and ecosystem models to 
+evaluate impacts of different harvest strategies.  The 
+Fisheries Oceanography Coordinated Investigations 
+(FOCI) program is a process oriented research 
+program that studies the influence of environment on 
+the abundance of various commercially important 
+fish and shcllfish stocks in Alaskan waters and their 
+role in the ecosystem.  The primary focus of the 
+FOCI program is the early life stages of walleye 
+pollock and their associated ecology.  The Ocean 
+Carrying Capacity program is conducted by the 
+AFSC, Auke Bay Laboratory.  The OCC program 
+provides funds for physical monitoring and transect 
+surveys for juvenile salmon using a high speed net.  
+Transects lines are broadly spaced throughout the 
+Gulf of Alaska.  The data collected by this program 
+is used to evaluate:  differences between separate 
+salmon stocks, food habits and feeding ecology, 
+juvenile condition, and factors influencing the 
+distribution and abundance of juvenile salmon.  The 
+AFSC Kodiak Laboratory conducts extensive 
+research on the distribution and abundance of 
+Alaskan crab stocks.  The Alaska Fisheries Science 
+Center also houses the National Marine Mammal 
+Laboratory.  This research facility conducts research 
+on marine mammals in the California Current and 
+Alaskan waters.  Ecosystem studies include 
+monitoring cruises to evaluate foraging behavior.  
+Observational programs (at sea, ground and air) of 
+stock abundance and distribution.   
+ 
+Two government agencies conduct research on 
+Alaskan seabirds.  The United States Geological 
+Survey supports research on Alaskan seabirds in 
+Prince William Sound and Glacier Bay.  The project 
+supports research on the flight ranges and foraging 
+behavior of seabirds.  Research is also conducted on 
+the relationship between foraging and reproductive 
+success.  The United States Fish and Wildlife 
+Service monitors seabird abundance, reproductive 
+success and food habits. 
+ 
+The Alaska Department of Fish and Game provides 
+scientific support for fisheries research and 
+management for the State of Alaska.  Research 
+activities within ADF&G encompass a wide range of 
+activities including monitoring, modeling, and 
+retrospective studies.  Principal target species 
+include Pacific herring, crustaceans including crab 
+and shrimp, salmon and groundfish.  Scientists 
+within ADF&G conduct research on genetic stock 
+identification, feeding ecology, resource modeling 
+and habitat association.  ADF&G conducts resource 
+surveys in the coastal regions of Alaska on a routine 
+basis. 
+ 
+The NOAA’s Office of Atmospheric Research 
+recently funded an Arctic Research Initiative (ARI).  
+The focus of this study is to identify sources of 
+natural variability within the Bering Sea and 
+Western Arctic ecosystem.  This project will also 
+15
+support studies of anthropogenic influences on the 
+Bering Sea/Western Arctic ecosystem.  Surveys are 
+conducted to monitor shelf edge processes and 
+physical processes that control variations in 
+productivity within the shelf edge region.   
+ 
+NOAA’s Coastal Ocean Program supports a 
+Southeast Bering Sea Climate Change and Carrying 
+Capacity Regional Study (SEBSCC).  The long-term 
+objective of the SEBSCC program is to increase our 
+understanding of the Southeast Bering Sea by 
+documenting the role of juvenile pollock in the 
+ecosystem.  Studies are designed to evaluate the 
+effects of climate on lower trophic level production 
+within the Bering Sea as well as factors influencing 
+juvenile pollock distribution and survival.  Coupled 
+3-dimensional bio-physical models are being 
+developed by this program. 
+ 
+16
+MID-WATER AND DEMERSAL FISH BREAKOUT SESSION 
+ 
+Participants:  Anne B. Hollowed (Co-Chairman), 
+Steven Hare (Co-Chairman), Richard D. Beamish, 
+James Cohen, Young Kang, Thomas C. Royer, 
+Muneharu Tokimura, Warren S. Wooster, Chang-Ik 
+Zhang, Vera Alexander, Richard D. Brodeur, Yutaka 
+Isoda, Mokoto Kashiwai, Patricia Livingston 
+(Rapporteur), Sandy McFarlane, Naonobu Shiga. 
+ 
+Objectives, key questions, and core hypotheses 
+ 
+The objectives of a coordinated research program 
+focused on the response of mid-water and demersal 
+fish have been outlined in the REX terms of 
+reference, the key question posed by the CCCC 
+implementation plan and the desirable set of 
+program outputs identified in the CCCC 
+implementation plan (PICES Scientific Report No. 
+4). 
+ 
+The principal mechanisms underlying higher trophic 
+level responses to climate variability include: 
+starvation, transport, concentration, prey suitability, 
+prey type, and predation mortality.  Hypotheses 
+linking climate variability and higher trophic level 
+response can be stated as follows: 
+ 
+1.  STARVATION:  Survival of mid-water and 
+demersal fish larvae is dependent on matching 
+hatch dates with the peak zooplankton 
+production (i.e. the match mis-match theory).  
+Factors that alter the timing of the spring bloom 
+can influence the match mis-match" between 
+first feeding larvae and prey availability. 
+ 
+2.  STARVATION:  Survival of mid-water and 
+demersal fish larvae and juvenile fish is 
+dependent on sustained secondary production 
+through out the spring and summer months.  
+ 
+3.  TRANSPORT:  Survival of mid-water and 
+demersal fish larvae depends on advection to 
+favorable nursery grounds. Atmospherically 
+driven shifts in large scale circulation patterns 
+can impact recruitment success by changing 
+larval distributions. 
+ 
+4.  CONCENTRATION:  Survival of mid-water 
+and demersal fish larvae depends on mesoscale 
+advection patterns that concentrate larvae and 
+their prey.  Mesoscale features such as eddies or 
+frontal systems concentrate prey and enhance 
+larval survival.  
+ 
+5.  PREY SUITABILITY:  Survival of mid-water 
+and demersal fish depends on the availability of 
+the appropriate prey species at suitable size for 
+consumption. 
+ 
+6.  PREDATION MORTALITY:  
+ 
+a.  ADVECTION:  Survival of mid-water and 
+demersal fish depends on advection processes 
+that separate larvae and juvenile fish from their 
+predators. 
+ 
+b.  SIZE DEPENDENT MORTALITY:  Processes 
+that enhance larval and juvenile growth rates 
+will reduce predation mortality by reducing the 
+time when larval or juvenile fish are vulnerable 
+to predation. 
+ 
+c.  PREDATOR / PREY OVERLAP:  Processes 
+that separate upper trophic levels species from 
+juvenile midwater and demersal fish influences 
+the amount of predation mortality. 
+ 
+Data requirements 
+ 
+The following data sets would be required to 
+evaluate these hypotheses: 
+  
+Physical Data:  Sea ice extent, large-scale advection, 
+and location and duration of mesoscale circulation 
+features (eddies and fronts), mixing (nutrient flux). 
+ 
+Lower Trophic Level Data:  timing of spring bloom, 
+zooplankton distribution and abundance, 
+zooplankton species composition, and zooplankton 
+size distribution, surface to bottom ocean 
+temperatures.  
+ 
+17
+Higher Trophic Level Data:  Ichthyoplankton 
+distribution and abundance, larval and juvenile 
+growth rates.  Distribution and abundance of 
+predators.  Larval and juvenile prey preferences. 
+ 
+The availability of information for testing these 
+hypotheses and the source of the information is 
+summarized in Table 1.  Most of the information 
+summarized in Table 1 has only recently become 
+available.  Thus, process oriented research programs 
+could be proposed for inter-regional comparisons.  
+Differentiating between competing hypotheses 
+requires a coordinated sampling scheme that utilizes 
+comparable sampling protocols.   This level of 
+coordination should be the responsibility of 
+individuals directly involved in the research 
+programs.  The REX Task Team could facilitate 
+initial contacts between investigators by maintaining 
+a list of program contacts and web sites. 
+ 
+Our group entertained the possibility that the rules 
+that govern recruitment success or failure 
+interannually, may change when a climatic regime 
+shift occurs.  A regime shift is a large scale shift in 
+ocean properties typically associated with shifts in 
+atmospheric forcing, that influences the species mix 
+and/or distribution of species within an ecosystem.  
+It was recognized that the data in support of large-
+scale shifts in higher trophic level distributions or 
+abundance have not been rigorously tested. 
+ 
+CCCC higher trophic level response hypotheses 
+ 
+We identified seven hypotheses to explain perceived 
+changes in higher trophic level abundance and 
+distribution before and after the regime shift.  These 
+seven hypotheses are extensions of the key 
+hypotheses introduced above.  
+ 
+1.  The regime shift had no effect on mid-water or 
+demersal fish production or distribution. 
+ 
+2.  The regime shift altered the timing of the spring 
+bloom, which altered larval survival.  This is an 
+extension of the STARVATION hypothesis. 
+ 
+3.  The regime shift influenced advection in the 
+North Pacific and adjacent seas, which altered 
+larval survival.  This is an extension of the 
+mesoscale and large-scale TRANSPORT 
+hypotheses. 
+ 
+4.  The regime shift altered species dominance 
+leading to differences in PREDATION mortality 
+rates. 
+ 
+5.  The regime shift altered the amount of suitable 
+thermal habitat leading to shifts in feeding and 
+spawning distributions.  Shifts in spawning 
+distributions could impact recruitment success 
+by changing the probability of favorable 
+advection to nursery grounds, changing the 
+probability of successful encounters with prey of 
+suitable size and concentration, or by changing 
+the probability of encounters with predators.  
+Shifts in feeding distributions could impact the 
+prey fields within a region. 
+ 
+6.  The regime shift influenced the frequency and 
+intensity of storm events in the north Pacific and 
+adjacent seas resulting in different mesoscale 
+circulation patterns.  Shifts in mesoscale 
+circulation patterns altered survival by changing 
+the probability of encountering mesoscale 
+features such as eddies or frontal systems that 
+concentrate prey and enhance larval survival.  
+An extension of the CONCENTRATION 
+hypothesis. 
+ 
+7.  The regime shift changed large-scale circulation 
+and the mixed layer depth in the North Pacific 
+and adjacent seas.  Shifts in water column 
+properties led to changes in zooplankton 
+production.  An extension of the STARVA-
+TION hypothesis.  
+ 
+The availability of information to evaluate the seven 
+regime shift hypotheses is summarized in Table 2.  
+The data sets required to test the match mis-match 
+hypothesis (e.g. shifts in the timing of the spring 
+bloom) were available in a limited number of PICES 
+regions (Regions 1, 2, and 4, see PICES Scientific 
+Report #4 for definition) (Table 2).  In contrast, 
+models of large scale advection required to evaluate 
+the impact of the regime shift on transport are 
+available for most of the PICES regions.  However, 
+the quality of the model generated advective fields 
+was questioned due to the limited number of field 
+18
+samples taken in some regions during the late 1960s 
+and early 1970s.  Information on water column 
+properties and storm frequency is available in most 
+regions.  Models of mesoscale circulation features 
+required to concentrate larvae and their prey are 
+available for Regions 1 and 2.  Field samples 
+required to evaluate long-term changes in the 
+suitability of prey and prey diversity are only 
+available for Region 1. 
+ 
+Recommendations 
+ 
+1. Conduct inter-regional comparative studies to 
+evaluate the recent role of climate-variability on 
+key processes such as:  starvation, transport, 
+concentration, prey suitability and predation 
+mortality. 
+ 
+2. Ensure the data are comparable across regions to 
+facilitate inter-regional comparisons.  Principal 
+Investigators of process oriented field programs 
+are encouraged to contact PIs in other regions to 
+discuss similarities and differences in sampling 
+protocols. 
+ 
+3. Compare recruitment indices of fish to confirm 
+perceived changes in higher trophic level 
+responses to the regime shift.  These studies 
+should evaluate the frequency of strong year 
+classes, the amplitude of strong year classes and 
+the synchrony of strong year classes. 
+ 
+4. Compare adult spawning and feeding 
+distributions before and after the regime shift. 
+ 
+5. Compare growth rate (length and weight) of 
+mid-water and demersal fish before and after the 
+regime shift. 
+ 
+6. Compare storm frequency and intensity and 
+water column properties before and after the 
+regime shift. 
+ 
+7. Compare large-scale advective pathways and 
+water column properties before and after the 
+regime shift. 
+   
+8. Compare timing and intensity of the spring 
+bloom.
+ 
+19
+Table 1.  Summary of current informatin required to evaluate hypotheses regarding climate variability and mid-water or demersal fish recruitment. 
+ 
+Measurement China Korea Japan Russia 
+JSES 
+Russia 
+SO 
+Russia 
+WB 
+USA 
+BS 
+USA 
+GOA 
+USA 
+CCS 
+Canada 
+Phyto. dist. and abund. F/S/M? F/S/M? F/S/M F/M F F/S F/S/M F/S/M F/S/M F/S/M 
+Phyto. sust. avail. ? F/B F/B F F  F/B F/B F/B F/B 
+Large scale advection CM/X CM/TN/R/
+X 
+CM/TN/R
+/X 
+CM/TN/R/
+X 
+CM/TN/R/
+X 
+CM/TN/R/
+X 
+CM/TN/
+R/X/D 
+CM/TN/
+R/X/D 
+CM/TN/
+R/X/D 
+CM/TN/R/X/
+D 
+Meso scale advection CM/X CM/TN/R/
+X 
+CM/TN/R
+/X 
+CM/TN/R/
+X 
+CM/TN/R/
+X 
+CM/TN/R/
+X 
+CM/TN/
+R/X/D 
+CM/TN/
+R/X/D 
+CM/TN/
+R/X/D 
+CM/TN/R/X/
+D 
+Zoop. size fraction F/M/A/
+CPR 
+F/M/A/CP
+R/OPC 
+F/M F/M F/M F F/M/A F/M/A F/M/A/O
+PC 
+F/M/A 
+Zoop. dist. abund. F/M F/M F/M F/M F/M F F/M F/M F/M  
+Zoop. species comp. F F F F F F F F F F 
+Zoop. production F/M F/M F/M F/M F/M F/M FM F/M F/M F/M 
+Ichthyoplankton data Fo/G Fo/Fd/G Fo/G/FH Fo/Fd/G/F
+H 
+Fo/Fd/G/F
+H 
+Fo/Fd/G/F
+H 
+Fo/Fd/G/
+FH 
+Fo/Fd/G/
+FH 
+Fo/Fd/G/
+FH 
+Fo/Fd/G/FH 
+Legend:  JSES = Japan Sea East Sea; SO = Sea of Okhotsk; WB = Western Bering Sea; BS = Bering Sea; GOA = Gulf of Alaska; CCS = California Current 
+System.  Phyto. = phytoplankton; dist. = distribution; abund. = abundance; Sust. = Sustained; Zoop. = zooplankton.  F = Field sampling; S = satellite data;  
+M = model; B = buoy; CM = coupled bio-physical models; TN = transport of nutrients; R = retrospective study;  X = hydrocasts; D = Drifter;  A = acoustics; 
+CPR = continuous plankton recorder; OPC = optical plankton counter; Fo = oblique sampling; Fd = depth stratified sampling; G = growth rate; FH = food habits. 
+ 
+Table 2.  Summary of availability of information pre and post 1997 regime shift. 
+Measurement China Korea Japan Russia 
+JSES 
+Russia 
+SO 
+Russia 
+WB 
+USA 
+BS 
+USA 
+GOA 
+USA 
+CCS 
+Canada 
+Phyto. dist. and abund. Pre-regime Starts in 
+1994 
+Starts in 
+1990 
+Starts in 
+1980s 
+Starts in 
+1980s 
+Unknown Pre-regime Starts in 
+1980s 
+Pre-regime Pre-regime 
+Large scale advection Unknown Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime 
+Storm frequency Unknown Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime 
+Water column properties Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime 
+Zoop. Distribution       Unknown  Pre-regime Pre-regime 
+Zoop. Size.         P r e - r e g i m e P r e - r e g i m e 
+Zoop. species comp.         P r e - r e g i m e P r e - r e g i m e 
+Recruitment indices Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime 
+Adult fish distributions Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime 
+Adult fish growth  Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime Pre-regime 
+Ichthyoplankton data         P r e - r e g i m e  
+Legend:  Pre-regime = data prior to 1977 regime shift. 
+ 
+CRUSTACEAN BREAKOUT SESSION 
+ 
+PARTICIPANTS:  Robert S. Otto  (WG 12 Co-
+Chairman, Discussion leader), Tsutomu Ikeda (BIO), 
+David L. Mackas (BIO), Ian Perry (CCCC), 
+Naonobu Shiga, Akira Taniguchi (BIO), Atsushi 
+Tsuda (BIO), Sung-Yun Hong (BIO, WG 8 & 12), 
+In-Ja Yeon (WG 12), Ling Tong (TCODE) and 
+Rong Wang (BIO). 
+ 
+Introduction 
+ 
+Breakout Group C (crustaceans) met during the 
+afternoon of October 17 to identify potential areas 
+for research under the CCCC Program.  In so doing 
+the group reviewed some results of the Working 
+Group 12 (Crabs and Shrimps) interim meeting.  
+This provided a means to quickly identify stocks of 
+crabs and shrimps in the PICES region and to review 
+trends in abundance.  
+ 
+The group noted that crustacean issues would 
+involve a great deal more than crabs and shrimps, 
+particularly various planktonic groups as well as 
+numerous benthic crustaceans for which there was 
+little information.  Discussions emphasized crabs 
+and shrimps realizing that any planktonic 
+crustaceans would be discussed in the context of 
+breakout sessions for Lower Trophic Level 
+Response and for Ecosystem Response. 
+ 
+Hypotheses 
+ 
+The group reviewed the four key CCCC questions 
+relative to crustaceans by considering trends in crab 
+and shrimp stocks in each zoogeographic province 
+and discussing hypotheses that might be considered, 
+or potential areas for experimentation.   
+ 
+1. There appears to be no particular climatic or 
+oceanographic patterns that are unique to 
+crustaceans as opposed to finfish, further the 
+same zoogeographic regions that have been 
+differentiated for finfish are largely applicable, 
+at least, to macrobenthic crustaceans.  These 
+correspond well with the 10 PICES-GLOBEC 
+CCCC Program Components and seem to derive 
+from large-scale oceanographic features. It is 
+noted however that these zoogeographic 
+provinces may change with increasing depths. 
+ 
+The group noted also that there were 
+intraspecific as well as interspecific differences 
+in life history mechanisms that related to these 
+regions and hence may provide natural clines or 
+dichotomies that could be exploited for 
+experiments.  For example, in some regions 
+euphausids may be highly seasonal in their 
+reproduction while in others they may have 
+protracted or aseasonal spawning.  Experi-
+mentation might deal with contrasting growth 
+and mortality between such regions. 
+ 
+2. Primary and secondary production in planktonic 
+communities are translated to meroplanktonic 
+larval stages of macrobenthic crustaceans and 
+may be related to year-class strength through 
+match-mis-masmatch mechanisms relating to the 
+timing of phytoplankton blooms relative to 
+larval release.  Detritus from upper levels feeds 
+into secondary production of benthic infauna 
+that serve as primary food sources for crabs and 
+shrimps as well as other epibenthic fauna.  Also, 
+many shrimps make nocturnal vertical 
+migrations in order to feed on zooplankton. 
+ 
+ Physical properties of the bottom and ecological 
+relationships within the benthos have probably 
+not been considered very heavily in CCCC 
+deliberations but are inescapably important 
+relative to crabs and shrimps and other benthic 
+crustaceans.  
+ 
+ The group notes that crabs and shrimps are 
+much less mobile than finfish and hypothetically 
+less able to adjust their times and places of 
+spawning relative to productivity or other 
+conditions in the euphotic zone that might affect 
+larval survival.  Hypothetically this could lead to 
+greater variability in recruitment for crabs and 
+shrimps as opposed to finfishes. 
+ 
+3. Climatic variability may affect crustacean 
+populations directly through recruitment 
+20
+processes as noted above.  In much of the Gulf 
+of Alaska and eastern Bering Sea, effects may 
+have been mediated through predation.  For 
+example the regime shift that occurred in the late 
+1970s produced strong year classes of several 
+groundfishes which in turn may have resulted in 
+decreased shrimp abundance through predation 
+and or competition. 
+ 
+ Because many of the region's groundfish are 
+long lived, there is a certain inertia in species 
+dominance within a region.  A regime shift may 
+result from short-term climatic or oceano-
+graphic phenomena, but produce long-term 
+ecological effects. 
+ 
+4. Top down versus bottom up control of species 
+composition and relative abundance is likely 
+very different between pelagic and benthic 
+crustacean habitats. 
+ 
+ Most crabs and shrimps in the region have 
+relatively long larval periods (as much as 90 
+days) during which they are meroplankton.  It is 
+not clear how meroplankton might be controlled 
+or influenced by the holoplankton community 
+through competition or predation.  Interactions 
+between the two groups certainly provide a 
+broad topic of research and experimentation. 
+ 
+ Hypothetically, if both meroplankton and 
+phytoplankton abundance were controlled by the 
+dynamics of primary productivity then there 
+may be a way to use information on primary 
+productivity to model year-class success through 
+the larval phases.   
+ 
+ Bottom up control may involve the rate of 
+transfer of primary productivity to the bottom as 
+detritus.  One hypothesis is that warmer 
+conditions are conducive to greater zooplankton 
+abundance or diversity and greater respiration in 
+the upper water column.  Since more energy 
+would be consumed in upper layers less could 
+become available to lower layers or the bottom 
+where detritus may be consumed by filter 
+feeders that in turn become food for 
+macrobenthic crustaceans. 
+ 
+ Top down control through predation occurs 
+when changes in finfish biomass result in 
+increases or decreases in crab and shrimp 
+biomass.  The same might be said of certain 
+marine mammals.  For example, bay populations 
+of Dungeness crab may be controlled by sea 
+otter predation. 
+ 
+Stocks and research approaches and 
+opportunities for experimentation 
+ 
+Crabs 
+ 
+Dungeness Crab (Cancer magister) have cyclic 
+populations north of central California, with peaks 
+and troughs every 8-10 years.  Landings 1970-1996: 
+minimum 5,000 t (1974) to maximum of 26,000 t 
+(1977).  A collapse of central California stock 
+occurred 1956-1970 with little recovery since.  
+British Columbia landings are more consistent from 
+year to year and do not display cyclic patterns 
+observed in California to Washington fisheries.  
+Alaskan landings are not in synchrony with 
+contiguous 48 states of the U.S. or with Canada and 
+landings may be market driven over some portions 
+of the historical series.  Since patterns differ between 
+zoogeographic provinces, comparative studies may 
+provide insight into mechanisms of population 
+control. 
+ 
+Hypothesized environmental and ecological effects 
+include elevated temperatures, nemertean worm 
+predation on clutches, salmon predation on larvae, 
+and various cyclic phenomena (cannibalism, 
+upwelling, wind stress, geostrophic flow, fishing 
+effort).  Habitat and fishing impacts that effect stocks 
+include dredging to maintain navigation channels 
+and for landfills, foreign species introductions (i.e. 
+green crab, Carcinus maenus, competition with 
+Dungeness), ghost pot fishing and fishery handling 
+of sublegal males and females. Fishery selects the 
+largest males and there is the possibility of females 
+not getting bred.  
+ 
+The list of factors used to explain changes in 
+Dungeness crab populations is a fair sampling of 
+factors that are thought to control crab populations in 
+general.  Additionally, predation on adults, 
+parasitism and epizootic diseases are known to be 
+21
+important in a number of king and Tanner crab 
+populations.  
+ 
+Four species of king crabs are subjects of major 
+fisheries in the PICES region.  They differ in there 
+life history characteristics and hence provide for 
+comparative study of the effects of life history 
+characteristics on population stability.  For example, 
+red king crab (Paralithodes camtschaticus) are 
+annual spawners with relatively high fecundity and 
+small eggs, while blue King crab (P. platypus) are 
+biennial spawners with lesser fecundity and 
+somewhat larger eggs.  Both species inhabit the 
+Pribilof Islands and other areas where their dynamics 
+may be explored.  Throughout most of the Gulf of 
+Alaska and eastern Aleutians, red king crab 
+populations declined in phase from the late 1970s 
+until fisheries were closed in 1983.  Populations 
+have been at low levels and fisheries have remained 
+closed since 1983.  Populations declines soon after 
+the well recognized regime shift of the late 1970's 
+and offer opportunities for retrospective study as 
+well as comparative study with Asian populations 
+that have differing patterns of abundance over time.  
+Comparative study of Bristol Bay and west 
+Kamchatkan populations may be particularly 
+instructive. 
+ 
+Tanner and snow crabs have broad distributions 
+across several zoogeographic provinces and provide 
+opportunities similar to those for king crabs. 
+ 
+The gazami crab (Portunus trituburculatus) provides 
+the largest crab fishery in the PICES area.  It is 
+found in the Yellow and East China Sea in close 
+association with peneid shrimps.  This part of the 
+PICES area has a more tropical fauna than the 
+remainder of the region and provides an opportunity 
+to compare the dynamics of crustaceans from 
+temperate or boreal areas with tropical forms.  The 
+two faunal groups are separated only by the Korean 
+Peninsula and hence provide a unique opportunity to 
+study comparative effects of climatic variables. 
+ 
+Shrimps 
+ 
+Pandalid shrimps are protandric hermaphrodites and 
+larger, older individuals that support fisheries are 
+mostly mature females.  Two species dominated 
+trawl fisheries.  Ocean pink shrimp, P. borealis, are 
+distributed from northern California to British 
+Columbia and northern pink shrimp, P. borealis, are 
+distributed from British Columbia to the Bering sea.  
+Alaskan trawl fisheries also included P. goniurus, P. 
+hypsinotus, P. platyceros and Pandalopsis dispar. 
+ 
+Pandalid shrimp populations and fisheries in Alaska 
+collapsed in the late 1970's and most fisheries remain 
+closed. Very small trawl fisheries for side striped 
+shrimp, Pandalopsis dispar, and pot fisheries for 
+spot prawns, P. platyceros, still persist in some areas.  
+Spot prawns also are an economically important 
+fishery in British Columbia.  The collapse of the 
+pandalid shrimp complex in Alaska was concurrent 
+with the late 1970's regime shift and a sharp increase 
+in predator populations, particularly Pacific cod 
+(Gadus macrocephalus) populations.   Landings of 
+ocean pink shrimp also declined sharply in the late 
+1970s and reached their lowest levels in 1983, but in 
+contrast with northern pandalid shrimps, have 
+increased since.  Landings of P. jordani have 
+undergone two cycles between 1970 and 1995.  The 
+recovery of P. jordani contrasts sharply with 
+pandalids to the north and is a good topic for 
+retrospective study.  Pandalid shrimps occur in the 
+western Bering Sea and in the Sea of Japan as far 
+west as Korea providing additional possibilities. 
+ 
+Four species of penaeid shrimps are important in the 
+Yellow Sea.  Peneid shrimps differ from pandalids in 
+that the are not hermaphroditic, are semilparous 
+rather than multiparous and are short lived.  Most 
+species complete their life spans in less than two 
+years and frequently within one year, while pandalid 
+shrimps typically live for at least three years and 
+frequently for 7-8 years in northern populations.   
+ 
+There are two stocks of the fleshy prawn, P. 
+chinensis, in the Yellow Sea.  The Pho Hai Bay 
+stock in Chinese waters and the  Korean coastal 
+group both hibernate in the southern Yellow Sea 
+during February and March but return their coastal 
+spawning grounds in spring.  The Korean coastal 
+stock spawns April to June, and is fished from 
+September through April.  This stock provided the 
+bulk of the Korean shrimp catch during the years 
+1987 to 1996.  Other important peneid species (P. 
+japonicus, Metapenaeus joyneri, Trachypenaeus 
+22
+curvirostris) differ considerably in their life history 
+patterns and offer opportunities for comparative 
+studies of environmental effects on recruitment.  A 
+joint Korean-Chinese study of stock recruitment 
+relationships in the Yellow Sea is being planned. 
+This study would likely be profitable and has the 
+advantages of occurring in a well defined semi 
+enclosed body of water, and with short lived species 
+for which results of comparative studies or 
+experiments become available quickly.   
+ 
+Recommendations 
+ 
+1. Crusteaceans exhibit intraspecific and 
+interspecific differences in life history traits that 
+may be related to the characteristics of regional 
+habitats.  Compare reproductive, growth and 
+mortality rates between region. 
+ 
+2. Conduct inter-regional studies of the coupling 
+between primary and secondary production and 
+survival of meroplanktonic larval stages and 
+benthic prey production for macrobenthic 
+stages. 
+3. In some regions, declines in crab or shrimp 
+abundance coincide with outbursts of fish 
+predators.  Conduct inter-regional comparisons 
+of the level of predation mortality. 
+ 
+4. Conduct retrospective studies of the response of 
+Bristol Bay and west Kamchatkan populations 
+of red King Crab to the late 1970s regime shift. 
+ 
+5. Pandalid shimp population trends in the Gulf of 
+Alaska and the U.S. west coast contrast sharply 
+and represent good candidates for a retrospective 
+studies of bio-physical impacts on population 
+trends. 
+ 
+6. There are two stocks of  prawn (P. chinensis) in 
+the Yellow Sea.  The timing of spawning differs 
+between these two populations providing an 
+opportunity to evaluate spawner recruit 
+relationships in a well defined semi-enclosed 
+body of water. 
+ 
+ 
+23
+PELAGIC FISH BREAKOUT GROUP RECOMMENDATIONS 
+ 
+Participants:  Takashige Sugimoto (Chairman), 
+Kenji Asano, Kimio Hanawa, Paul Harrison, Suam 
+Kim, Jin-Yeong Kim, Michael M. Mullin 
+(Rapporteur), Vladimir I. Radchenko, Tokio Wada. 
+ 
+Introduction 
+ 
+The discussion of this group focussed on the 
+response of population dynamics of small pelagic 
+fish to climate change.  After reviewing the present 
+research activities on small pelagic fish in each 
+PICES member countries, the group examined on 
+potential comparative studies among areas and 
+species.  The group also discussed on possible 
+research collaboration between the member 
+countries and new approaches we should conduct in 
+the future studies, and provided following 
+recommendations. 
+ 
+Response to climate variability 
+ 
+Based on discussions, it seems likely that species or 
+groups of species of small pelagics in different 
+regions may respond to climate change in different 
+ways.  For example, it seems that the typical pattern 
+in the Bering Sea/ Alaska Gyre is for the abundance 
+of several species to change in parallel (i.e. several 
+are abundant, or rare, in the same years).  In contrast, 
+in the eastern and western boundary currents, 
+alternation of abundance between species appears to 
+be more typical.   
+ 
+The International GLOBEC Small Pelagics and 
+Carrying Capacity (SPACC) program has initiated 
+efforts to collect and analyze common data sets 
+concerning the responses of sardine and anchovy 
+(particularly) to climate change or regime shifts. 
+ 
+Recommendations 
+ 
+1. The GLOBEC SPACC efforts focusing on 
+sardine and anchovy should be extended to 
+include other pelagic species. 
+ 
+2. That comparable efforts be made to collect data 
+on North Pacific herring and other Bering Sea / 
+Alaska Gyre small pelagic species, together with 
+the supporting environmental data. 
+ 
+3. Step b) should be followed by a larger meeting 
+to compare the Bering Sea / Alaska Gyre and 
+"boundary current" patterns in interannual - 
+interdecadal variability, with supporting 
+environmental data.  This should however, be 
+preceded by agreement on common (i.e. mutual) 
+forms of data presentation and analysis. 
+ 
+4. It should be noted that the common squid could 
+be considered a small pelagic species, but one 
+with a different biology than finfish. 
+ 
+Importance of the East China Sea as a spawning 
+ground 
+ 
+We understand that assessment of spawning by 
+small pelagic species in the East China Sea is not 
+well monitored at present, and that this area is also 
+an important spawning ground for the common 
+squid. 
+ 
+Therefore, we encourage the development of a 
+China-Japan-Korea program of assessment of 
+spawning (i.e. egg and larval surveys, plus 
+environmental data) by small pelagics in the East 
+China Sea and downstream regions of the currents 
+for several years.  Survey design should be by 
+mutual agreement, and sampling should include 
+techniques to assess common squid. 
+ 
+Needs of physiological studies 
+ 
+Many investigations have now shown that 
+information on rate of growth and physiological 
+health ("condition factor") of larvae can add greatly 
+to information on abundance and distribution in 
+evaluating possible environmental causes of 
+recruitment success or failure.  Yet, routine 
+preservation of samples in formalin makes them 
+useless for many kinds of analyses.  
+Therefore, we recommend that egg and larval 
+surveys by PICES nations include samples of larvae 
+preserved in alcohol and others quick-frozen, in 
+24
+addition to formalin preservation.  This will permit 
+later studies of growth, date of birth, lipid content, 
+RNA/DNA, etc.  Such additional preservation need 
+not be done at all stations sampled, but should at 
+minimum be done at a subset of stations chosen to 
+represent the complete range of environmental 
+conditions at which larvae are encountered during a 
+cruise.  Curation of such samples, and information 
+on their availability to qualified scientists, should be 
+considered part of each program's responsibilities. 
+ 
+25
+SALMON BREAKOUT SESSION 
+ 
+Participants:  Richard J. Beamish, Michael L. 
+Dahlberg, Kenneth L. Denman, Bruce Frost, Brent 
+Hargreaves (Chairman), Paul H. LeBlond 
+(Rapporteur), Kazuya Nagasawa, Makoto Terazaki 
+ 
+Introduction 
+ 
+The discussion in this group focused on the 
+influence of climate change on salmon within coastal 
+areas.  After reviewing the salmon research 
+programs familiar to participants which are currently 
+being conducted or planned by PICES member 
+countries, the following hypotheses were identified 
+as suitable for comparative studies and experiments.  
+ 
+Hypotheses 
+ 
+H1: The abundance of wild populations of pink, 
+chum and sockeye salmon are not related to 
+fisheries, as they are now managed. 
+ 
+H2: During periods of declining marine survival, 
+hatchery salmon (which usually are larger than 
+wild salmon when they enter the ocean) will 
+gradually out compete and displace wild stocks. 
+ 
+H3: Wild salmon populations are significantly 
+influenced, in terms of growth and survival, by 
+climate variability. 
+ 
+H4: Ocean survival rates of salmon populations are 
+determined by feeding conditions which they 
+encounter during the first few months after 
+entering the ocean. 
+ 
+Potential comparative studies 
+ 
+The following topics were identified as important 
+areas for comparative study and experiments on 
+salmon: 
+ 
+1. A particularly fruitful and appropriate area for 
+comparative studies was thought to be the 
+influence of ocean environment on feeding (and 
+ultimately survival) conditions at the time of 
+entry of salmon into the ocean and during the 
+early stages of oceanic life.  
+ 
+2. Standardization of sampling gear, data collection 
+protocols, and data analyses and presentation.  If 
+the results of the observation programs on 
+salmon survival, growth and migration routes 
+and migration timing in coastal areas are to be 
+compared and contrasted, there needs to be some 
+compatibility and consistency in the way in 
+which samples and data are gathered, analyzed 
+and interpreted.  It is recommended that the 
+methods used to gather salmon, zooplankton and 
+physical oceanographic data in coastal waters 
+should be reviewed, discussed and agreed upon. 
+ 
+3. Investigation and determination of the most 
+effective and relevant scales of sampling.  
+Under-sampling, in time or space, leads to 
+aliasing and misinterpretation.  Studies should 
+be conducted to determine sampling scales 
+required to describe the abundances and 
+distributions of salmon and their food sources in 
+coastal areas.  It was noted, in particular, that 
+sampling of juvenile salmon and associated 
+zooplankton should be capable of documenting 
+shifts in species and size composition which 
+likely accompany both longer-term (e.g. 
+decadal) and shorter-term (e.g. El Niño) changes 
+in ocean climate. 
+ 
+4. Further monitoring and process studies to 
+determine the reasons for the contrast in high 
+return rates of hatchery chum salmon on the 
+Pacific Ocean side of Japan, compared with the 
+low return rates of hatchery chum on the Japan 
+(East) Sea side of northern Japan.  
+Documentation of food and habitat conditions 
+on both coasts of Japan may be useful in 
+explaining the observed consistent difference in 
+return rate.  Since salmon from both areas likely 
+share the same rearing areas in the open Pacific, 
+differences must arise in coastal areas, during 
+the early sea stages. 
+ 
+26
+5. Identification of the factors in coastal waters that 
+contribute to the typically high interannual 
+variability of survival (return) rates of wild and 
+hatchery salmon originating in the eastern North 
+Pacific, with the relatively constant return rate 
+(3-4%) of Japanese hatchery chum salmon 
+originating in the western Pacific.  
+ 
+6. Examination of the out-of-phase relationship 
+between environmental variations and survival 
+in Alaska and southern B.C., Washington and 
+Oregon salmon stocks.  A recent hypothesis by 
+Gargett (1997: Fish. Oceanogr. 6:2, 109-117) 
+that phytoplankton, and hence subsequently the 
+higher trophic levels, may react to interannual 
+variations of atmospheric forcing through the 
+position of an "optimal stability window" 
+deserves further examination as an explanation 
+of the out-of-phase relationship. 
+ 
+7. Process studies, aimed at clarifying specific 
+mechanisms relating to the interaction between 
+climate or the biological environment and 
+salmon growth and survival, may be instructive. 
+ 
+8. Comparative studies of the early marine survival 
+of salmon in near shore waters of northern 
+Japan, Russia (Kamchatka), and North America. 
+9. Comparative studies of the methods used to 
+identify juvenile salmon stocks in coastal waters. 
+ 
+10. Comparisons of the food compositions of each 
+species of salmon at age in coastal waters. 
+ 
+Some Problems and Opportunities 
+ 
+1. "Sleeping samples and data" ... many samples 
+(e.g. zooplankton) and data sets are currently in 
+archives only and have not been either analyzed 
+or published.  These data sources are potentially 
+valuable, but necessary resources (especially 
+manpower) in some cases are not available to 
+make this information available.  
+ 
+2. Standardization of methods for sampling and 
+data analyses. 
+ 
+3. Need to separate scientific questions and 
+analyses by production type (wild versus 
+hatchery) and species groupings (e.g. processes 
+of feeding, survival, etc. are likely different for 
+chinook and coho, chum, sockeye and pink 
+salmon). 
+ 
+27
+FORCING BREAKOUT SESSION 
+ 
+Chairman:  Paul H. LeBlond;  Rapporteur:  Steve Hare 
+ 
+The discussion focussed on sampling of the 
+environmental variables seen as important forcing 
+components of the ecosystem. The following points 
+were identified as being relevant and of interest to 
+REX programs. 
+ 
+Sampling issues 
+ 
+1.1 As a general principle, sampling resolution in 
+space and time must be adapted to the 
+phenomena investigated.  Sampling which is too 
+coarse misses important phenomena and leads to 
+misinterpretation;  too frequent sampling is a 
+waste of effort. 
+ 
+1.2 Many phenomena occur at different times from 
+year to year;  a sampling program at fixed 
+calendar dates may miss the phenomena of 
+interest.  In such cases, intensive sampling 
+should bracket the range of variability in timing 
+or be adapted to the beginning of the 
+phenomenon of interest by recognizing early 
+signals - spawning, for example, or start of 
+migration - which then trigger the sampling 
+program. 
+ 
+1.3. Plankton distributions are heterogeneous in 
+space;  concentrations are found in physically 
+active areas - fronts, upwelling zones - sampling 
+protocols should recognize this fact. 
+ 
+Data requirements. 
+ 
+2.1 The lack of information on ocean bottom 
+properties (e.g. temperature and salinity) makes 
+it difficult to study demersal creatures. 
+ 
+2.2 Advection is extremely important at all trophic 
+levels.  There is a need for better information on 
+ocean currents.  TOPEX/POSEIDON satellite 
+altimetry, now available over  the internet, may 
+help in this respect. 
+ 
+ 
+Processes 
+ 
+3.1. On-off shelf.  Physical phenomena relevant in 
+nutrient fluxes and concentrating organisms 
+differ on and off shelf.  Need to recognize these 
+differences in experimental design and 
+sampling. 
+ 
+3.2 Shelf break phenomena (internal wave 
+generation, upwelling, canyon flows) are locally 
+important and must be taken into account. 
+ 
+3.3 Land-based processes may be quite relevant and 
+cause regional regime shifts - the Three Gorges 
+Dam was mentioned as a potential example of a 
+change in runoff which may affect ocean 
+ecosystem near the mouth of the Yellow River. 
+ 
+3.4 Clarification required on relative roles of 
+processes which determine upward nutrient flux 
+in the coastal and deep ocean. 
+ 
+Long-term variability 
+ 
+Regime shifts 
+ 
+There remains some concern that changes labeled 
+"regime shifts" may be artifact of data interpretation 
+rather than an actual qualitative changes in ocean 
+properties and circulation.  There is a need to 
+document further the details of the changes between 
+regimes.  In particular, how do regime shifts differ in 
+coastal areas on both sides of the Pacific? 
+ 
+- Do strong El Niños, such as the current one, 
+bring on regime shifts? 
+ 
+- Since regime shifts are long period phenomena, 
+recognized a posteriori within larger annual and 
+shorter-period noise, there is little hope of 
+recognizing them as they happen unless some 
+rapid step-like change can be recognized.  It was 
+suggested that some biological feature might be 
+more apt for this than some physical property. 
+28
+Twenty years ago, El Niño was unpredictable.  
+Now we have six-month forecasts.  Will this 
+also happen to the lower frequency variability 
+which we now call regime shifts? 
+Anthropogenic changes : 
+ 
+Are anthorpogenic changes confounded with natural 
+environmental changes?  How do we separate them? 
+ 
+29
+LOWER TROPHIC LEVEL BREAKOUT SESSION 
+ 
+Participants:  Tsutomu Ikeda (Chairman), Paul 
+Harrison, David Welch, Bruce Frost, Vladimir I. 
+Radchenko, David L. Mackas, Xian-Shi Jin, 
+Muneharu Tokimura, Naonobu Shiga, Atsushi 
+Tsuda, Toshiro Saino, Vera Alexander, Michael M. 
+Mullin. 
+ 
+Review of key scientific questions (inventory of 
+long-term data) 
+ 
+Presently available information about long-term 
+variation of phytoplankton and zooplankton biomass 
+in response to climate change was largely from 
+subarctic waters.  Russia scientists have been 
+collecting data in the Okhotosk Sea, Japan Sea, 
+eastern-western Bering Sea, but these data have not 
+been published in English.  Oshoro Maru cruises 
+have sampled both the oceanic subarctic Pacific and 
+coastal waters of Hokkaido since the late 1950s.  
+Some limited time-series data are available from the 
+Yellow Sea, Bohai Sea and East China Sea. 
+ 
+For zooplankton, long-term variation data of species 
+level, not biomass, are available from the following 
+locations:  Station P (intermittent since 1970), 
+northern Gulf of Alaska, off California (portions of 
+CalCOFI time series), and both western and eastern 
+Bering Sea.  The Oshoro Maru zooplankton samples 
+are in the process of being analyzed for species 
+composition. 
+ 
+Data on phytoplankton species composition have 
+been collected in the following locations:  off 
+Vancouver Island since the late 1970s, in parts of the 
+California Current since 1949, and in the eastern and 
+western Bering Sea in the 1990s. 
+ 
+It was suggested that size-fractionation may be an 
+alternative method for species composition analysis.  
+ 
+Long-term variation data on microzooplankton have 
+been collected at Station P, Line P off Canada and in 
+the Gulf of Alaska (primarily since early 1990). 
+ 
+Hypotheses to be tested 
+ 
+1. Bottom-up/top-down control and its temporal 
+scales (bottom-up control may be more 
+influential than top-down control on the decadal 
+time scale).   
+ 
+2. If bottom-up control is important, the dominant 
+mechanism is: 
+a) co-variation of total annual productivity of 
+both prey and predator, or 
+b) variation in seasonal match-mis-match of 
+productivity / occurrence of predator and 
+prey. 
+ 
+Comparative approach 
+ 
+1. Area: Eastern vs. Western Bering Sea 
+ Eastern vs. Western Gyre of subarctic 
+ 
+2.  Species/Nutrients: 
+ Micronutrients (iron) 
+ Euphausia pacifica 
+Phytoplankton, zooplankton community 
+structure 
+ Life history pattern 
+ Predatory zooplankton (Chaetognaths) 
+Coastal calanoid copepods in continental 
+margins 
+Neocalanus spp. in oceanic gyres and deep 
+coastal margins. 
+ 
+Research barriers 
+ 
+Sampling methodology: 
+ 
+"Method inter-calibration" may be more feasible that 
+"method standardization" for several reasons: 
+ 
+• maintaining continuity of local time series, 
+• differing requirements of different regions e.g. 
+greenwater vs. blue water limits on mesh size, 
+• cost and vessel restrictions on changing gear 
+type, 
+• differing requirements for different taxa.  It will 
+probably be necessary to use multiple gears to 
+gain unbiased results over the full zooplankton 
+size and species range. 
+30
+ECOSYSTEM RESPONSE BREAKOUT SESSION 
+ 
+Participants:  Patricia Livingston (Chairman), James 
+Cowen, Kenneth L. Denman, Douglas E. Hay, Anne 
+B. Hollowed, Shin-ichi Ito, Ling Tong, Allen 
+Macklin, Sandy McFarlane, Kazuya Nagasawa, 
+Vadim V. Navrotsky, Ian Perry, Qi-Sheng Tang, 
+Tokio Wada, Warren S. Wooster. 
+ 
+PICES CCCC key question 
+ 
+How are subarctic Pacific ecosystems structured?  
+Do higher trophic levels respond to climate 
+variability solely as a consequence of bottom up 
+forcing?  Are there significant intra-trophic level and 
+top down effects on lower trophic level production 
+and on energy transfer efficiencies? 
+ 
+Related key questions 
+ 
+1. What in an ecosystem can change in response to 
+temperature?   
+ 
+2. How do you distinguish between fishing effects 
+vs. climate effects? 
+ 
+3. If higher trophic levels change, this provides 
+evidence that the ecosystem has shifted – but 
+what provides an indicator of a shift in progress? 
+ 
+4. How long does it take for a shift to occur? 
+ 
+5. Were there indicators of the shift prior to the 
+final ecosystem pattern? 
+ 
+6. Can we forecast where the ecosystem is going? 
+If so, what are the leading indicators of change? 
+ 
+7. Have there been changes in total productivity of 
+the system (i.e. a shift in the carrying capacity)? 
+ 
+8. If ecosystems are in a constant state of flux, how 
+do we distinguish between normal fluctuations 
+around one equilibrium state and a shift to a new 
+equilibrium state? 
+ 
+9. What is the spatial and temporal scale of 
+physical forcing (e.g. fronts, wind fields, etc 
+occur on many spatial scales)? 
+ 
+10. What are the food web flows between boxes?  
+What does the trophic structure look like? 
+ 
+11. Are all North Pacific ecosystems equally 
+sensitive to climate change? 
+ 
+Clearly the underlying mechanisms are critical to our 
+ability to understand and to forecast.  We need to 
+know are there changes in species dominance (the 
+structure of the ecosystem), plus changes in systems 
+productivity - are there large fluctuations in either or 
+both?  This type of study must also incorporate 
+studies of important processes at appropriate spatial 
+and temporal scales of change. 
+ 
+Ecosystem hypotheses: 
+ 
+H1: Climate change introduces instability into the 
+ecosystem Corollary:  "Ecosystem changes in 
+response to climate change are likely to be more 
+dramatic at the boundaries of the system. 
+ 
+H2: Total system biomass remains constant through 
+regime shifts. 
+ 
+H3: Changes in upper trophic level species 
+dominance are due to changes in the prey base. 
+ 
+H4: Changes in upper trophic level species 
+dominance are due to changes in spawning 
+range. 
+ 
+H5: Changes in upper trophic level species 
+dominance are due to fishing pressure. 
+ 
+H6: Ecosystems in the North Pacific are similar in 
+structure and respond similarly to climate 
+change. 
+ 
+ 
+ 
+ 
+31
+Data requirements 
+ 
+The ecosystem response could be monitored using 
+the following indices: 
+  
+- Species composition 
+- Size structure 
+- Food web structures and productivity at different 
+trophic levels 
+- Number of links in food webs 
+- Dominant species 
+- Fish catch composition and amount 
+- Change in distribution and abundance of higher 
+trophic levels 
+ 
+Data requirements to address ecosystem questions: 
+ 
+a)  Forcing: 
+• Measurements of physical forcing at the 
+appropriate spatial and temporal scales 
+b) Lower trophic level response:  
+• Phytoplankton abundance, production and 
+species composition 
+• Planktivore (e.g. zooplankton) abundance, 
+production, consumption rates, diet, species 
+composition 
+c) Higher trophic level response:  
+• Upper trophic level species abundance, 
+production, consumption rates, diet, species 
+composition 
+ 
+Recommended comparative studies 
+ 
+1.  Compare the role of walleye pollock in the 
+Japan Sea and Bering Sea ecosystem.  
+Contrasting the role of walleye pollock in these 
+two regimes could reveal important differences 
+because the trophic linkages and production 
+systems are likely to be different. 
+ 
+2.  Study shifts in species dominance in different 
+regions (e.g. competition between pollock and 
+other species or between sardine and anchovy). 
+ 
+3.  Compare factors influencing the distribution and 
+survival of anadromous species because the 
+spatial extent of the response suggests basin 
+forcing. 
+ 
+4.  Compare the timing and spatial extent of 
+changes in spawning distributions, and habitat 
+boundaries. 
+ 
+5.  Compare or develop conceptual models that 
+have been developed by different groups for the 
+same (or overlapping) regions.  One way to 
+accomplish this goal would be to attempt to 
+construct ECOPATH/ECOSIM models for each 
+of the 10 regions.  Primary and secondary 
+production was not collected before the regime 
+shift in many regions.  However, the amount of 
+primary and secondary production needed to 
+balance the system could be estimated if 
+information on upper trophic level species 
+before and after a regime shift was available. 
+ 
+6.  Develop ecosystem level models - coupled 
+models looking at bottom-up and top-down 
+processes.  Fully coupled models linked to upper 
+trophic level species is a goal but may not be a 
+fully achievable one in the near future. 
+ 
+7.  Compare systems with very different physical 
+forcings and ask what level do physical forcings 
+affect the outcome of ecosystem structure? 
+ 
+8.  Coordinate process oriented research ongoing in 
+PICES member nations.  This may be an area 
+that could be first initiated with a symposium on 
+the research being performed by the GLOBEC 
+and GLOBEC-like programs of the North 
+Pacific. 
+ 
+32
+SUMMARY OF ONGOING RESEARCH PROGRAMS BY REGION 
+ 
+General Environmental Data Sets:  U.S.A. 
+ 
+Program: Gulf of Alaska Temperature/Salinity Time 
+Series 
+Agency: University of Alaska 
+Central Scientific Issues:  Forcing 
+Key Research Activities:  Observation studies 
+Funding:  Funded 
+Start time:  1970 
+Contact:  Institute of Marine Science 
+University of Alaka 
+Fairbanks AK 99775-7220 
+U.S.A 
+http://www.ims.alaska.edu:8000/gak1/ 
+ 
+Program:  National Snow and Ice Data Center 
+Agency:  NSF Global Change Program 
+Central Scientific Issues:  Forcing  
+Key Research Activities:  Observation studies 
+Funding:  Funded 
+Start time:  on-going 
+http://www-nsidc.colorado.edu/nsidc/ services.html 
+ 
+Program:  Coastwatch Satellite Ocean Remote 
+Sensing, California Current 
+Agency:  National Oceanic and Atmospheric 
+Administration 
+Central Scientific Issues:  Forcing, LTL 
+Key Research Activities:  Observation studies 
+Funding:  Funded 
+Start Time:  On-going 
+Contact:  Operations Manager 
+Coastwatch West Coast Regional Node  
+Southwest Fisheries Science Center 
+P.O. Box 271 
+La Jolla, CA 92038 
+U.S.A. 
+http://psbsgi1.nesdis.noaa.gov:8080/hsors.htm 
+ 
+Program:  Comprehensive Ocean Atmosphere Data 
+Set 
+Agency:  National Center for Atmospheric Research 
+Central Scientific Issues:  Forcing 
+Key Research Activities:  Observation studies 
+Funding:  Funded 
+Start Time:  1946 - present 
+Contact:  Steve Worley 
+Data Support Section 
+National Center for Atmospheric Research 
+P.O. Box 3000 
+Boulder, CO 80307 
+U.S.A. 
+303-497-1248 
+http://www.cdc.noaa.gov/~coads/ 
+ 
+Program:  Coastwatch Satellite Ocean Remote 
+Sensing, Alaska 
+Agency:  National Oceanic and Atmospheric 
+Administration 
+Central Scientific Issues:  Forcing, LTL 
+Key Research Activities:  Observation studies 
+Funding:  Funded 
+Start Time:  On-going 
+Contact:  Robert Robinson 
+Coastwatch Manager 
+National Weather Service- Alaska Region  
+222 W. 7th Ave. #23 Rm. 517 
+Anchorage, AK 99513-7575  
+U.S.A. 
+http://psbsgi1.nesdis.noaa.gov:8080/hsors.htm 
+ 
+Caifornia Current System South:  U.S.A. 
+ 
+Program:  Small Pelagic Fishes and Climate Change 
+(SPACC) 
+Agency:  International GLOBEC  
+Central Scientific Issues:  Forcing, LTL, HTL  
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+Process, Observation studies 
+Funding:Some  proposed,  some  funded 
+Start Time: on-going 
+Contact:  John R. Hunter 
+Southwest Fisheries Science Center 
+PO Box 271, La Jolla, California 92038 
+U.S.A. 
+e-mail:  john.hunter@noaa.gov 
+ 
+Program:  Pacific Fisheries Environmental Group 
+(PFEG), Southwest Fisheries Science Center 
+(SWFSC) 
+Agency: National Marine Fisheries Service, NOAA 
+33
+Central Scientific Issues:  Forcing, HTL 
+Research Activities:  Retrospective, modeling 
+Funding:  Funded 
+Start Time:  on-going 
+Contact:  Geroge Boehlert 
+Southwest Fisheries Science Center 
+Pacific Fisheries Environmental Group 
+P.O. Box 831 
+Montery, CA 93942 
+U.S.A. 
+http://swfsc.ucsd.edu/swfscpg.html 
+ 
+Program:  Southwest Fisheries Science Center 
+(SWFSC) 
+Agency: National Marine Fisheries Service, NOAA 
+Central Scientific Issues:  Forcing, HTL, Ecosystem 
+interactions 
+Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start Time:  on-going 
+Contact:  Michael Tillman 
+Southwest Fisheries Science Center 
+P.O. Box 271 
+La Jolla, CA 92038 
+U.S.A. 
+http://swfsc.ucsd.edu/ 
+ 
+Program:  Southwest Fisheries Science Center 
+(SWFSC), Tiburon Laboratory 
+Agency: National Marine Fisheries Service, NOAA 
+Central Scientific Issues:  HTL 
+Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start Time:  on-going 
+Contact:  Alce MacCall 
+Southwest Fisheries Science Center 
+3150 Paradise Drive 
+Tiburon, CA 94920 
+U.S.A. 
+http://swfsc.ucsd.edu/swfsctb.html 
+ 
+Program:  California Cooperative Oceanic and 
+Fisheries Investigations (CalCOFI) 
+Agency:  Shared by three institutions: Scripps 
+Institution of Oceanography, California 
+Department of Fish and Game, National Marine 
+Fisheries Service 
+Central Scientific Issues:  Forcing, LTL 
+Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start Time:  on-going 
+Contact:  Tom Hayward or Michael Mullin 
+Scripps Institution of Oceanography 
+Marine Life Research Group 
+La Jolla, CA 92093-0227 
+U.S.A. 
+e-mail:  mmullin@coast.ucsd.edu 
+ 
+Program:  University of Santa Barbara Marine 
+Science Institute 
+Agency:  University of California Santa Barbara 
+Central Scientific Issues:  Forcing, LTL 
+Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start Time:  on-going 
+Contact:  Steven Gaines 
+University of California, Santa Barbara 
+Santa Barbara, CA 93106-6150 
+U.S.A. 
+E-mail:  gaines@lifesci.ucsb.edu 
+ 
+Program:  Point Reyes Bird Observatory 
+Central Scientific Issues:  HTL 
+Research Activities: Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start Time:  on-going 
+Contact:   
+4990 Shoreline Highway 
+Stinson Beach, CA 94970 
+U.S.A. 
+e-mail:  prbo@prbo.org 
+http://www.igc.apc.org/prbo/ 
+ 
+Program:  California Department of Fish and Game 
+Central Scientific Issues:  HTL 
+Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start Time:  On-going 
+Contact:  Doyle Hanan 
+8604 La Jolla Shores Drive 
+La Jolla, CA 92037-1508  
+U.S.A. 
+34
+e-mail: dhanan@ucsd.edu 
+http://www.dfg.ca.gov/dfghome.html 
+ 
+Program:  Monterey Bay Aquarium Research 
+Institute (MBARI) 
+Central Scientific Issues:  Forcing, LTL 
+Research Activities:  Process, observation studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  MBARI 
+P.O. Box 628, 
+Moss Landing, CA 95039-0628 
+http://www.monterey.edu/history/mabari.html 
+ 
+California Current North:  U.S.A. 
+ 
+Program:  CoOP Project 
+Agency:  National Science Foundation, NSF 
+Central Scientific Issues:  Forcing, LTL 
+Key Research Activities:  Modeling, observation 
+studies, process studies, retrospective studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Michael R. Roman  
+Horn Point Environmental Laboratory 
+2020 Horn Point Road 
+Cambridge, MD 21613 
+U.S.A. 
+http://www.hpl.umces.edu/coop/index.htm 
+ 
+Program:  Northwest Fisheries Science Center 
+(NWFSC) 
+Agency: National Marine Fisheries Service, NOAA 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, process studies, retrospective studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Usha Varanasi, Director 
+Northwest Fisheries Science Center 
+2725 Montlake Blvd.  
+Seattle, WA 98112-2097 
+U.S.A. 
+http://research.nwfsc.noaa.gov 
+ 
+Program:  Alaska Fisheries Science Center (AFSC) 
+Agency:  ational Marine Fisheries Service, NOAA 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, process studies, retrospective studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  James Balsiger, Director 
+Alaska Fisheries Science Center 
+7600 Sand Point Way NE  
+Seattle, WA 98115 
+U.S.A. 
+http:/www.wrc.noaa.gov/afsc/home.html 
+ 
+Program:  Pacific Northwest Coastal Ecosystem 
+Regional Study (PNCERS) 
+Agency:  Coastal Ocean Program, NOAA 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+ecosystem interactions 
+Research Activities:  Retrospective, modeling, 
+process studies, observation studies 
+Funding:  Funded 
+Start Time:  1997 
+Contact:  Gregory McMurray 
+Department of Environmental Quality 
+811 SW 6th Ave 
+Portland, OR 97204 
+U.S.A. 
+e-mail:  gregory.mcmurray@state.or.us 
+http://seagrant.orst.edu/~pncers 
+ 
+Program:  U.S. GLOBEC 
+Agency:  U.S. GLOBEC Steering Committee - 
+funding by: National Science Foundation/ 
+National Oceanic and Atmospheric 
+Administration 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interacitions 
+Key Research Activities:  Retrospective, modeling, 
+Process, Observation studies 
+Funding:  Funded for retrospective studies, modeling 
+and observation studies. 
+Start Time:  1997 
+Contact:  Michael Fogarty 
+Chairman, U.S. GLOBEC Scientific Steering 
+Committee 
+University of Maryland 
+Center for Environmental Science 
+Chesapeake Biological Laboratory 
+Solomons, MD, 20688-0038 
+U.S.A. 
+http://www.usglobec.berkeley.edu/usglobec/ 
+ 
+35
+Program:  International North Pacific Halibut 
+Commission (INPHC) 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, retrospective studies, process studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Bruce Leaman, Director 
+International Pacific Halibut Commission 
+P.O. Box 95009  
+Seattle, WA 98145 
+U.S.A. 
+http://www.iphc.washington.edu:80/ 
+ 
+Program:  Integrated Assessment of Climate Change, 
+Climate Change Impacts, and Policy Response 
+Strategies of the Pacific Northwest 
+Agency:  NOAA Office of Global Programs 
+Central Scientific Issues:  forcing, HTL, ecosystem 
+studies 
+Key Research Activities:  retrospective, modeling 
+Funding:  Funded 
+Start time:  1995 
+Contact:  Nate Mantua 
+Box 354235 
+University of Washington 
+Seattle, WA 98195 
+e-mail: mantua@atmos.washington.edu 
+http://www.atmos.washington.edu/~mantua/imp
+acts/project.html 
+ 
+California Current North:  Canada 
+ 
+Program:  GLOBEC Canada 
+Agency:  National Science and Engineering 
+Research Council (NSERC) and Department of 
+Fisheries and Oceans (DFO) 
+Central Scientific Issues:  Response of marine 
+ecosystems to ocean climate variability 
+Funding:   funded 
+Start time:  July 1996 
+Contact:  David Mackas 
+Institute of Ocean Sciences 
+Sidney, British Columbia 
+Canada 
+MackasD@dfo-mpo.gc.ca 
+ 
+ 
+ 
+Southeast, Central Alaska: 
+ 
+Program:  Alaska Fisheries Science Center (AFSC) 
+Agency: National Marine Fisheries Service, NOAA 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, retrospective studies, process studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  James Balsiger, Director 
+Alaska Fisheries Science Center 
+7600 Sand Point Way NE  
+Seattle, WA 98115 
+U.S.A. 
+http:/www.wrc.noaa.gov/afsc/home.html 
+ 
+Program:  Alaska Fisheries Science Center (AFSC), 
+Ocean Carrying Capacity (OCC) 
+Agency:  Auke Bay laboratory, National Marine 
+Fisheries Service, NOAA 
+Central Scientific Issues:  HTL, ecosystem 
+interactions 
+Key Research Activities:  Modeling, observation 
+studies, process studies 
+Funding:  Funded 
+Start time:  1995 
+Contact:  Michacel Dahlberg, Laboratory Director 
+Auke Bay Laboratory 
+11305 Glaicer Highway 
+Juneau, AK 99801-8626 
+U.S.A. 
+e-mail:  mike_dahlberg@ccgate.ssp.nmfs.gov 
+ 
+Program:  U.S. GLOBEC 
+Agency:  U.S. GLOBEC Steering Committee - 
+funding by: National Science Foundation/ 
+National Oceanic and Atmospheric 
+Administration 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+Process, Observation studies 
+Funding:  Funded for retrospective studies, modeling 
+and observation studies. 
+Start Time:  1997 
+Contact:  Michael Fogarty 
+Chairman, U.S. GLOBEC Scientific Steering 
+Committee 
+University of Maryland 
+Center for Environmental Science 
+36
+Chesapeake Biological Laboratory 
+Solomons, MD, 20688-0038 
+U.S.A. 
+http://www.usglobec.berkeley.edu/usglobec/ 
+ 
+Program:  International Pacific Halibut Commission 
+(IPHC) 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, process studies, retrospective studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Donald McCaughran, Director 
+International North Pacific Halibut Commission 
+P.O. Box 95009  
+Seattle, WA 98145 
+U.S.A. 
+http://www.iphc.washington.edu:80/ 
+ 
+Program:  Alaska Department of Fish and Game 
+(ADFG) 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, process studies, retrospective studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Frank Rue, Commissioner 
+1255 West 8th St.  
+Juneau, AK 99802-5526 
+U.S.A. 
+http://www.state.ak.us/local/akpages/FISH.GA
+ME/adfghome.html 
+ 
+Program:  Sound Ecosystem Assessment (SEA) 
+Agency:  Exxon Valdez Oil Spill Trustees 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+ecosystem interactions 
+Key Research Activities:  Modeling, process studies 
+Funded:  funded 
+Start time:  1994 - 1998 
+Contact:  Ted Cooney, Chief Scientist 
+Institute of Marine Sciences 
+University of Alaska, Fairbanks 
+Fairbanks, AK 99775-1080 
+U.S.A. 
+e-mail:  cooney@murre.ims.alaska.edu 
+http://www.pwssc.gen.ak.us/sea/sea.html 
+ 
+Program:  Apex Predator Ecosystem Response 
+(APEX) 
+Agency:  Exxon Valdez Oil Spill Trustees 
+Central Scientific Issues:  HTL, ecosystem 
+interactions 
+Key Research Activities:  Modeling, process studies 
+Funded:  funded 
+Start time:  1994  
+Contact:  David Duffy 
+Department ofBiology 
+University of Alaska, Anchorage 
+707 A Street 
+Anchorage, AK 99501 
+U.S.A. 
+ 
+Program:  National Biological Service (NBS) 
+Agency:  United States Department of Interior 
+Central Scientific Issues:  Ecosystem interactions 
+Key Research Activities:  Observational studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Scott Hatch 
+Alaska Fish and Wildlife Research Center 
+U.S. Fish and Wildlife Center 
+1011 E. Tudor Road 
+Anchorage, AK 99503 
+U.S.A. 
+ 
+Program:  Prince William Sound Science Center 
+(PWSSC) 
+Agency:  Exxon Valdez Oil Spill Trustees 
+Central Scientific Issues:  HTL, Ecosystem 
+interactions 
+Key Research Activities:  Modeling, process studies, 
+observational studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Gary Thomas 
+Prince William Sound Science Center 
+P. O. Box 705 
+Cordova, AK 99574 
+U.S.A. 
+http://www.pwssc.gen.ak.us/pwssc/pwssc.html 
+ 
+Eastern Bering Sea:  U.S.A. 
+ 
+Program:  Alaska Fisheries Science Center (AFSC) 
+Agency:  ational Marine Fisheries Service, NOAA 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, retrospective studies, process studies 
+Funding:  Funded 
+37
+Start time:  On-going 
+Contact:  James Balsiger, Director 
+Alaska Fisheries Science Center 
+7600 Sand Point Way NE  
+Seattle, WA 98115 
+U.S.A. 
+http:/www.wrc.noaa.gov/afsc/home.html 
+ 
+Program:  Southeast Bering Sea Carrying Capacity 
+(SEBSCC) 
+Agency:  Coastal Ocean Program, NOAA 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+ecosystem interactions 
+Key Research Activities:  Modeling, observation 
+studies, retrospective studies, process studies 
+Funding:  Funded 
+Start time:  1996 
+Contact:  James Overland 
+Pacific Marine Environmental Laboratory 
+7600 Sand Point Way NE  
+Seattle, WA 98115 
+U.S.A. 
+http:/www.pmel.noaa.gov/sebscc/home.html 
+ 
+Program:  International North Pacific Halibut 
+Commission (INPHC) 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, process studies, retrospective studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Bruce Leaman, Director 
+International North Pacific Halibut Commission 
+P.O. Box 95009  
+Seattle, WA 98145 
+U.S.A. 
+http://www.iphc.washington.edu:80/ 
+ 
+Program:  Alaska Department of Fish and Game 
+(ADFG) 
+Central Scientific Issues:  HTL 
+Key Research Activities:  Modeling, observation 
+studies, process studies, retrospective studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Frank Rue, Commissioner 
+1255 West 8th St.  
+Juneau, AK 99802-5526 
+U.S.A. 
+http://www.state.ak.us/local/akpages/FISH.GA
+ME/adfghome.html 
+ 
+Program:  Collaborative Study of Prolonged 
+Production and Trophic Level Transfer to 
+Predators: Processes at the Inner Front of the 
+Southeastern Bering Sea 
+Agency:  National Science Foundation (NSF) 
+Central Scientific Issues:  Forcing, LTL, HTL 
+Key Research Activities:  Process studies 
+Funding:  Funded 
+Start time:  1997 - 2000 
+Contact:  George Hunt 
+University of California Irvine 
+Irvine, California 
+U.S.A. 
+ 
+Program:  National Biological Service (NBS) 
+Agency:  United States Department of Interior 
+Central Scientific Issues:  Ecosystem interactions 
+Key Research Activities:  Observational studies 
+Funding:  Funded 
+Start time:  On-going 
+Contact:  Scott Hatch 
+Alaska Fish and Wildlife Research Center 
+U.S. Fish and Wildlife Center 
+1011 E. Tudor Road 
+Anchorage, AK 99503 
+U.S.A. 
+ 
+Program:  National Marine Mammal Laboratory 
+(NMML) 
+Agency:  AFSC, NMFS, NOAA 
+Central Scientific Issues:  HTL, ecosystem 
+interactions 
+Key Research Activities:  Modeling, observation 
+studies, retrospective studies, process studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  Howard Braham 
+Alaska Fisheries Science Center 
+7600 Sand Point Way NE  
+Seattle, WA 98115 
+U.S.A. 
+http:/www.wrc.noaa.gov/afsc/home.html 
+ 
+Project Name:  Bering Sea Impacts Study (BESIS) 
+Funding Agency:  planning effort funded by IASC, 
+funding requested from NSF (US), Russian 
+Foundation for Basic Research (Russian 
+participation), Chinese Academy of Sciences, 
+38
+and  agencies in Japan and elsewhere 
+International Arctic Science Committee, IASC  
+(main sponsor), plus other expected contributors 
+(see Funding Status below) 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+ecosystem interactions 
+Key Research Activities:  Modeling, observation 
+studies, retrospective studies, process studies 
+Funding:  Funded 
+Start time:  1997 
+Contact:  Prof. Gunter Weller 
+BESIS Project Office 
+University of Alaska Fairbanks,  
+Fairbanks AK  99775,  
+U.S.A. 
+Tel. 907 474 7371;  Fax. 907 474-7290 
+e-mail:  gunter@gi.alaska.edu 
+ 
+Project Name:  Arctic Research Initiative 
+Funding Agency:  planning effort funded by IASC, 
+funding requested from NSF (US), Russian 
+Foundation for Basic Research (Russian 
+participation), Chinese Academy of Sciences, 
+and agencies in Japan and elsewhere 
+International Arctic Science Committee, IASC  
+(main sponsor), plus other expected contributors 
+(see Funding Status below) 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+ecosystem interactions 
+Key Research Activities:  Modeling, observation 
+studies, retrospective studies, process studies 
+Funding:  Funded 
+Start time:  1997 
+Contact: Gunter Weller 
+ BESIS Project Office 
+University of Alaska Fairbanks 
+Fairbanks, AK  99775,  
+U.S.A. 
+Tel. 907 474 7371;  Fax. 907 474-7290 
+e-mail:  gunter@gi.alaska.edu 
+ 
+ 
+ 
+Western Bering Sea / Sea Okhotsk:  Russia 
+ 
+Program:  FES-LIRES (Ecosystem Study of Far-
+Eastern Seas Living Resources) 
+Agency:  TINRO-Center (Pacific Scientific 
+Research Fisheries Center) 
+Central Scientific Issues:  Forcing, LTL 
+(zooplankton mainly), HTL, Ecosystem 
+interactions 
+Key Research Activities:  Retrospective, Modeling, 
+Observation Study (Monitoring) 
+Funding:  Funded 
+Start Time:  1980 
+Contact:  V.P. Shuntov, Principal Scientist of 
+TINRO-Center 
+V.V. Lapko, Head of Laboratory of Applied 
+Biocenology  
+TINRO-Center,  
+4 Shevchenko Alley,  
+Vladivostok 690600,  
+Russia. 
+e-mail:  root@tinro.marine.su 
+ 
+Program:  Pacific Salmon, 1997-2000 (Far-eastern 
+regional program on Pacific salmon marine life 
+study, 1997-2000) 
+Agency: TINRO-Center (Pacific Scientific Research 
+Fisheries Center) 
+Central Scientific issues:  LTL (salmon food 
+supply), HTL (salmon and ecologically related 
+species) 
+Key Research Activities:  Retrospective, Modeling, 
+Observation Study (Monitoring) 
+Funding:  Funded 
+Start Time:  1997 
+Contact:  Vladimir I. Radchenko, Deputy Director 
+Viktor G. Markovtsev, Head of International 
+Department 
+TINRO-Center,  
+4 Shevchenko Alley,  
+Vladivostok 690600,  
+Russia. 
+e-mail: root@tinro.marine.su 
+ 
+Program:  STFF (Short-Term Fisheries Forecasting) 
+Agency:  TINRO-Center (Pacific Scientific 
+Research Fisheries Center) 
+Central Scientific Issues:  Forcing, LTL, HTL 
+Key Research Activities:  Retrospective, Modeling, 
+Process Studies 
+Funding:  Terminated 
+Start Time:  1996 
+Contact:  Yury I. Zuenko, Section Head, Japan Sea 
+Oceanography  
+TINRO-Center,  
+4 Shevchenko Alley,  
+39
+Vladivostok 690600,  
+Russia. 
+e-mail: root@tinro.marine.su 
+ 
+Oyashio Current System and Western Subarctic 
+Gyre:  Japan 
+ 
+Program:  Hokkaido National Fisheries Research 
+Insititute 
+Agency:  Fisheries Agency, MAFF 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  Takashi Sasaki, Director General 
+Hokkaido National Fisheries Research Institute 
+116 Katsurakoi,  
+Kushiro, Hokkaido 085,  
+Japan. 
+http://ss.hnf.affrc.go.jp/ 
+ 
+Program:  HUBEC 
+Agency:  Faculty of Fisheries, Hokkaido University 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  Yasunori Sakurai 
+Laboratory of Marine Ecology 
+Dept. of Marine Biological Sciences 
+Hokkaido University 
+3-1-1, Minatocho,  
+Hakodate 041,  
+Japan. 
+e-mail:  sakurai@pop.fish.hokudai.ac.jp 
+ 
+ 
+Kuroshio-Oyashio Transition Area:  Japan 
+ 
+Program:  Tohoku National Fisheries Research 
+Insititute 
+Agency:  Fisheries Agency, MAFF 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  Yasuaki Nakamura, Director General 
+3-27-5, Shinhamacho,  
+Shiogama 985,  
+Japan. 
+http://ss.myg.affrc.go.jp/ 
+ 
+Program:  Comprehensive study of the variation of 
+the oceanic environment and fish populations in 
+the north-western Pacific (VENFISH) 
+Agency: Tohoku National Fisheries Research 
+Insititute, Fisheries Agency, MAFF 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions on walleye pollock and 
+Pacific saury 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start time:  1997 
+Contact:  Kuniaki Okuda 
+3-27-5, Shinhamacho,  
+Shiogama 985,  
+Japan. 
+http://ss.myg.affrc.go.jp/ 
+ 
+Kuroshio Current System:  Japan 
+ 
+Program:  National Research Insititute of Fisheries 
+Science 
+Agency:  Fisheries Agency, MAFF 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  Yoshiaki Sanbonsuga, Director General 
+2-12-4, Fukuura,  
+Kanazawa-ku, Yokohama 236,  
+Japan. 
+http://ss.nrifs.affrc.go.jp/ 
+ 
+Program:  BIOCOSMOS 
+Agency:  Fisheries Agency, MAFF 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions on Japanese sardine 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+40
+Start time:  1987 
+Contact:  Yoshioki Oozeki 
+2-12-4, Fukuura,  
+Kanazawa-ku, Yokohama 236,  
+Japan. 
+e-mail:  Oozeki@ss.nrifs.affrc.go.jp 
+ 
+East China Sea:  Japan 
+ 
+Program:  Seikai National Fisheries Research 
+Insititute 
+Agency:  Fisheries Agency, MAFF 
+Central Scientific Issues: Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  Hiroshi Hatanaka, Director General 
+49, Kokubucho,  
+Nagasaki 850,  
+Japan. 
+http://www.snf.affrc.go.jp/ 
+ 
+Japan Sea/East Sea:  Japan 
+ 
+Program:  Japan Sea National Fisheries Research 
+Insititute 
+Agency:  Fisheries Agency, MAFF 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activities:  Retrospective, modeling, 
+process, observation studies 
+Funding:  Funded 
+Start time:  on-going 
+Contact:  Minoru Fujimoto, Director General 
+1-5939-22, Suidoucho,  
+Niigata 951,  
+Japan. 
+http://ss.jsnf.affrc.go.jp/ 
+ 
+Yellow Sea:  Korea 
+ 
+Program:  Ministry of Maritime Affairs and 
+Fisheries (MAFF)  
+Agency:  NFRDA, West Sea Fisheries Research 
+Institute 
+Central Scientific Issue:  HTL, Ecosystem 
+interactions, Red Tide 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding:  Funded 
+Start Time:  1921 
+Contact:  Dr. Jin-Yeong Kim 
+National Fisheries Res. and Dev. Institute 
+West Sea Fisheries Research Institute 
+#98-36, 1Ga Bukseong-Dong, Jung-Gu,  
+Incheon, 400-201,  
+Korea. 
+e-mail:  jiykim@haema.nfrda.re.kr  
+ 
+Program:  YS-LME/KOREA 
+Agency:  MOST (Ministry of Science and 
+Technology) 
+Central Scientific Issue:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activity:  Process, Observation 
+studies 
+Funding:  Funded 
+Start Time:  1995 
+Contact:  Dr. Hyung-Tack Huh 
+Korea Ocean Res. & Dev. Inst. 
+Seoul,  
+Korea.  625-400 
+e-mail:  hthuh@sari.kordi.re.kr 
+ 
+Program:  YS-LME/GEF 
+Agency:  UNDP 
+Central Scientific Issue:  Forcing, LTL, HTL, 
+Ecosystem interactions 
+Key Research Activity:  Retrospective, Process 
+Observations studies 
+Funding:  Proposed 
+Start Time:  1996 
+Contact:  Dr. Hyung-Tack Huh 
+Korea Ocean Res. & Dev. Inst. 
+Seoul, Korea.  625-400 
+e-mail:  hthuh@sari.kordi.re.kr 
+Program:  YS-MSP 
+Agency:  MOST (Ministry of Science and 
+Technology) 
+Central Scientific Issue:  Forcing, LTL 
+Key Research Activity:  Modeling, Process, 
+Observation studies 
+Funding:  Funded 
+Start Time:  1995 
+Contact:  Dr. Tong-Sup Lee 
+Korea Ocean Res. & Dev. Inst. 
+Seoul, Korea.  625-400 
+e-mail:  tslee@sari.kordi.re.kr 
+41
+Program:  Korea Science and Engineering 
+Foundation (KOSEF) 
+Agency:  Pukyong National University 
+Central Scientific Issue:  Forcing, LTD, HTL, 
+Ecosystem interactions 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding:  Funded 
+Start Time:  1997 (on-going) 
+Contact:  Prof. Chang-Ik Zhang   
+College of Fisheries Sciences 
+Pukyong National University 
+599-1, Daeyoun-Dong, Nam-Gu 
+Pusan, Korea.  608-737 
+e-mail:  cizhang@dolphin.pknu.ac.kr  
+ 
+Program:  Ministry of Maritime Affairs and 
+Fisheries (MAFF) 
+Agency:  Pukyong National University (PKNU), 
+NFRDA 
+Central Scientific Issue:  LTH, HTL 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding:  Proposed 
+Start Time:  1998 
+Contact:  Prof. Chang-Ik Zhang   
+College of Fisheries Sciences 
+Pukyong National University 
+599-1, Daeyoun-Dong, Nam-Gu 
+Pusan, Korea.  608-737 
+e-mail:  cizhang@dolphin.pknu.ac.kr  
+ 
+Japan Sea/East Sea:  Korea 
+ 
+Program: Ministry of Maritime Affairs and 
+Fisheries (MAFF)  
+Agency:  NFRDA, East Sea Fisheries Research 
+Institute 
+Central Scientific Issue:  HTL, Ecosystem 
+interactions, Red Tide 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding:  Funded 
+Start Time:  1921 
+Contact:  Mr. Bok-Ki  Kim 
+National Fisheries Research and Development 
+Institute,  
+East Sea Fisheries Research Institute 
+#8-6, YeonKok-Meon, Kangreong,  
+Kangwon, 210-860 
+Korea 
+e-mail:  esfri@chollian.dacom.co.kr  
+ 
+Program:  Korea Science and Engineering 
+Foundation (KOSEF) 
+Agency:  Pukyong National University 
+Central Scientific Issue:  Forcing, LTD, HTL, 
+Ecosystem interactions 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding:  Funded 
+Start Time:  1997 (on-going) 
+Contact:  Prof. Chang-Ik Zhang   
+College of Fisheries Sciences 
+Pukyong National University,  
+599-1, Daeyeon-Dong,  
+Nam-Gu, Pusan,  
+Korea  608-737 
+e-mail:  cizhang@dolphin.pknu.ac.kr  
+ 
+Program:  Ministry of Maritime Affairs and 
+Fisheries (MAFF) 
+Agency:  Pukyong National University (PKNU), 
+NFRDA 
+Central Scientific Issue:  LTH, HTL 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding : Funded 
+Start Time : 1998 
+Contact :  Prof. Chang-Ik Zhang   
+College of Fisheries Sciences 
+Pukyong National University, 599-1, 
+Daeyeon-Dong,  
+Nam-Gu, Pusan,  
+Korea  608-737 
+e-mail:  cizhang@dolphin.pknu.ac.kr  
+ 
+East China Sea:  Korea 
+ 
+Program:  Ministry of Maritime Affairs and 
+Fisheries (MAFF)  
+Agency:  NFRDA 
+Central Scientific Issue:  HTL, Ecosystem 
+interactions 
+Key Research Activity:  Observation studies 
+Funding:  Funded 
+Start Time:  1995 
+Contact:  Mr. Cha-Soo Park 
+National Fisheries Res. and Dev. Institute 
+Coastal and Offshore Resources Division 
+42
+#408-1, Shirang-Ri, Kijang,  
+Pusan 619-900, Korea.   
+ 
+Program:  Ministry of Maritime Affairs and 
+Fisheries (MAFF)  
+Agency:  NFRDA, South Sea Fisheries Research 
+Institute 
+Central Scientific Issue:  HTL, Ecosystem 
+interactions 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding:  Funded 
+Start Time:  1921 
+Contact:  Mr. Cheol-In Baek 
+National Fisheries Res. and Dev. Institute 
+South Sea Fisheries Research Institute 
+#26, Namsan-Dong, Yeosu,  
+Cheonnam, 550-120, 
+Korea.   
+e-mail:  wsfri@chollian.dacom.co.kr. 
+ 
+Program: COPEX-ECS (Coastal Ocean Processes 
+Experiment) 
+Agency:  MOST (Ministry of Science and 
+Technology) 
+Central Scientific Issue:  Forcing, LTL 
+Key Research Activity:  Modeling, Process 
+Funding:  Funded 
+Start Time:  1994 
+Contact:  Dr. Heung-Jae Lee 
+Korea Ocean Res. & Dev. Inst. 
+Seoul,  
+Korea.  625-400 
+e-mail:  hjlee@sari.kordi.re.kr 
+Program:  Korea Science and Engineering 
+Foundation (KOSEF) 
+Agency:  Pukyong National University 
+Central Scientific Issue:  Forcing, LTD, HTL, 
+Ecosystem interactions 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding:  Funded 
+Start Time:  1997 (on-going) 
+Contact:  Prof. Chang-Ik Zhang   
+College of Fisheries Sciences 
+Pukyong National University 
+599-1, Daeyeon-Dong,  
+Nam-Gu, Pusan,  
+Korea. 608-737 
+e-mail:  cizhang@dolphin.pknu.ac.kr 
+ 
+Program:  Ministry of Maritime Affairs and 
+Fisheries (MAFF) 
+Agency:  Pukyong National University (PKNU), 
+NFRDA 
+Central Scientific Issue:  LTH, HTL 
+Key Research Activity:  Retrospective, Process, 
+Observation studies 
+Funding : Funded 
+Start Time : 1998 
+Contact :  Prof. Chang-Ik Zhang   
+College of Fisheries Sciences 
+Pukyong National University,  
+599-1, Daeyeon-Dong,  
+Nam-Gu, Pusan,  
+Korea  608-737 
+e-mail:  cizhang@dolphin.pknu.ac.kr  
+ 
+Bohai Sea:  China 
+ 
+Program:  Bohai Sea Program 
+Agency:  National Natural Science Foundation of 
+China.  Conducted by State Oceanic Adminis-
+tration, Minstry of Agriculture, Academia Sincia 
+and Universities. 
+Central Scientific Issues:  Forcing, LTL, HTL, 
+ecosystem response 
+Key Research Activities:  Retrospective, Modeling, 
+Observation Study (Monitoring) 
+Funding:  Funded 
+Start Time:  1996 - 2000 
+Contact:  Dr. Qi-Sheng Tang, Director  
+Yellow Sea Fisheries Research Institute  
+Chinese Academy of Fishery Sciences 
+106 Nanjing Road,  
+Qindao, Shandong, 
+Peoples Republic of China.  266071 
+ 
+ 
+ 
+ 
+ 
+ 
+43
+PARTICIPANTS:  REX TASK TEAM 
+Dr. Brent Hargreaves 
+Recruitment Assessment Section 
+Pacific Biological Station 
+Hammond Bay Road,  
+Nanaimo, B.C.,   
+Canada.  V9R 5K6 
+ 
+Dr. Rong Wang 
+Institute of Oceanology 
+Academia Sinica 
+7 Nanhai Road, 
+Qingdao, Shandong, 
+P. R. China.  266071 
+ 
+Dr. Anne B. Hollowed 
+National Oceanic andAtmospheric Administration 
+National Marine Fisheries Service 
+Alaska Fisheries Science Center 
+7600 Sand Point Way NE, 
+Seattle, WA 98115 
+U.S.A. 
+ 
+Dr. Tokio Wada 
+Bio-Ecology Division 
+National Research Institute of Fisheries Science 
+2-12-4 Fukuura, Kanazawa-ku, 
+Yokohama,  
+Japan.  236 
+ 
+Dr. George L. Hunt, Jr. 
+Department of Ecology 
+School of Biological Sciences 
+University of California, Irvine 
+Irvine, CA  92697 
+U.S.A. 
+ 
+Prof. Chang-Ik Zhang 
+Department of Marine Production Management 
+College of Fisheries Sciences 
+Pukyong National University 
+599-1, Daeyoun-Dong, Nam-Gu, 
+Pusan 608-737, 
+Republic of Korea. 
+ 
+Dr. Vladimir I. Radchenko 
+Head, Applied Biocenology Laboratory 
+Pacific Research Institute of Fisheries and 
+Oceanography (TINRO) 
+4 ShevChenko Alley 
+Vladivostok,  
+Russia.  690600 
+ 
+Prof. Qi-Sheng Tang 
+Yellow Sea Fisheries Research Institute 
+106 Nanjing Road, 
+Qingdao, Shandong, 
+P. R. China.  266071 
+ 
+ 
+44
+PARTICIPANTS:  CCCC IP AND CCCC NATIONAL MEMBERS 
+Ms. Patricia Livingston, Co-Chairman CCCC IP 
+Alaska Fisheries Science Center 
+National Marine Fisheries Service 
+7600 Sand Point Way NE, 
+Seattle, WA 98115 
+U.S.A. 
+ 
+Prof. Paul H. LeBlond 
+S42, C7 RR#2, 
+Galiano Island, B.C. 
+Canada.  V0N 1P0 
+ 
+Dr. Richard J. Beamish 
+Pacific Biological Station 
+Hammond Bay Road, 
+Nanaimo, B.C., 
+Canada.  V9R-5K6 
+ 
+Dr. Vadim V. Navrotsky 
+Pacific Oceanological Institute 
+43 Baltiyskaya Street, 
+Vladivostok, 
+Russia.  690041 
+ 
+Dr. Michael L. Dahlberg 
+Auke Bay Laboratory 
+NOAA Fisheries 
+11305 Glacier Highway, 
+Juneau, AK 99801-8626 
+U.S.A. 
+ 
+Dr. Ian Perry 
+Ocean Environment and Fisheries Section 
+Pacific Biological Station 
+Hammond Bay Road, 
+Nanaimo, B.C., 
+Canada.  V9R 5K6 
+ 
+Dr. Bruce W. Frost 
+College of Fisheries and Ocean Sciences 
+School of Oceanography WB-10 
+University of Washington 
+Seattle, WA 98195-6000 
+U.S.A. 
+ 
+Prof. Ji-Lan Su 
+Second Institute of Oceanology 
+State Oceanic Administration 
+P.O. Box 1207, 
+9 Xixihexia, 
+Hangzhou, Zhejiang 
+P. R. China.  310012 
+ 
+Dr. Suam Kim 
+Antactic Research Center 
+Korea Ocean Research and Development Institute 
+Ansan, P. O. 29, 
+Seoul 425-600, 
+Republic of Korea. 
+ 
+Dr. Makoto Terazaki 
+Ocean Research Institute 
+University of Tokyo 
+1-15-1 Minamidia, Nakano-ku, 
+Tokyo,  
+Japan.  164 
+ 
+45
+PARTICIPANTS:  GENERAL PICES COMMUNITY 
+Dr. Yu-Hwan Ahn 
+National Fisheries Research Development Institute 
+(NFRDI) 
+Fisheries Oceanography Division 
+408-1 Shirang-Ri, Kijang-Up, Kijang-County, 
+Pusan 619-900, 
+Republic of Korea. 
+ 
+Dr. James H. Cowan, Jr.            
+Dauphin Island Sea Lab            
+P.O. Box 369-370,             
+101 Bienville Blvd.,              
+Dauphin Island, AL  36528  
+U.S.A.    
+ 
+Dr. Vera Alexander 
+Dean, School of Fisheries and Ocean Sciences 
+University of Alaska 
+245 O’Neill Building, 
+Fairbanks, AK  99775-7220 
+U.S.A. 
+ 
+Dr. Kenneth L. Denman 
+Head, Ocean Physics Division 
+Institute of Ocean Sciences 
+P.O. Box 6000, 
+Sidney, B.C., 
+Canada.  V8L 4B2 
+ 
+Dr. Kenji Asano 
+Seikai National Fisheries Research Institute 
+49, Kokubu-cho, 
+Nagasaki,  
+Japan.  850 
+ 
+Li-Xian Dong 
+Second Institute of Oceanology 
+State Oceanic Administration 
+P.O. Box 1207, 
+Hangzhou, Zhejiang, 
+P. R. China.  310012 
+ 
+Dr. Richard D. Brodeur 
+National Marine Fisheries Service 
+Alaska Fisheries Science Center 
+7600 Sand Point Way NE, 
+Seattle, WA 98115 
+U.S.A. 
+ 
+Dr. Yoshinari Endo 
+Faculty of Agriculture 
+Tohoku University 
+1-1 Amamiya-cho, 
+Aobaku, Sendai, 
+Japan.  981 
+ 
+Dr. Alexander Bychkov (JGOFS SSC; Chairman, 
+North Pacific Tast Team)  
+Assistant Executive Secretary, PICES 
+Institute of Ocean Sciences  
+P.O. Box 6000,  
+Sidney, B.C., 
+Canada.  V8L 4B2  
+ 
+Shi-Zuo Feng 
+Ocean University of Qingdao 
+5 Yushan Road, 
+Qingdao, Shandong, 
+P. R. China.  266003 
+ 
+Prof. Kimio Hanawa 
+Department of Geophysics 
+Graduate School of Science 
+Tohoku University 
+Sendai, 
+Japan.  980-77 
+ 
+Prof. Koji Iida 
+Hokkaido University 
+Faculty of Fisheries, Hokkaido University 
+3-1-1 Minato-cho, Hakodate, 
+Hokkaido,  
+Japan.  041 
+ 
+46
+ 
+Dr. Steven R. Hare 
+International Pacific Halibut Commission 
+P. O. Box 95009, 
+Seattle, WA 98145-2009 
+U.S.A. 
+ 
+Prof. Tsutomu Ikeda 
+Biological Oceanography Laboratory  
+Faculty of Fisheries  
+Hokkaido University 
+1-1 Minato-cho, 3 chome, 
+Hakodate, Hokkaido, 
+Japan.  041 
+ 
+Dr. Paul J. Harrison 
+Dept. of Oceanography 
+University of British Columbia 
+#1461, 6270 University Blvd., 
+Vancouver, B.C., 
+Canada.  V6T 1Z4 
+ 
+Dr. Yutaka Isoda 
+Faculty of Fisheries, Hokkaido University 
+3-1-1, Minato-cho,  
+Hakodate, Hokkaido, 
+Japan.  041 
+ 
+Dr. Douglas E. Hay 
+Pacific Biological Station 
+Hammond Bay Road, 
+Nanaimo, B.C.,  
+Canada.  V9R 5K6 
+ 
+Dr. Shin-ichi Ito 
+Tohoku National Fisheries Research Institute 
+3-27-5, Shinhama-cho, 
+Shiogama, Hokkaido, 
+Japan.  085 
+ 
+Dr. Yoshiaki Hiyama 
+Japan Sea National Fisheries Research Institute 
+1-5939-22, Suido-cho, 
+Niigata,  
+Japan.  951 
+ 
+Dr. Young-Shil Kang 
+National Fisheries Research Development Institute 
+(NFRDI) 
+South Sea Fisheries Research Institute 
+Marine Fisheries Resources Division 
+#26, Namsan-Dong, Yeosu, 
+Jeonnam 530-120, 
+Republic of Korea. 
+ 
+Da-Ji Huang  
+Second Institute of Oceanology 
+State Oceanic Administration 
+P.O. Box 1207, 
+Hangzhou, Zhejiang, 
+P. R. China.  310012 
+ 
+Dr. Makoto Kashiwai 
+Hokkaido National Fisheries Res. Inst. 
+116 Katsurakoi,  
+Kushiro, Hokkaido,  
+Japan.  085 
+ 
+Dr. Hak-Gyoon Kim 
+National Fisheries Res. Dev. Inst. (NFRDI) 
+Harmful Agal Blooms & Environment Dept. 
+408-1 Shirang-Ri, Kijang-Up, Kijang-County, 
+Pusan 619-900, 
+Republic of Korea. 
+ 
+Dr. Jang-Uk Lee 
+National Fisheries Research and Development 
+Institute (NFRDI) 
+Marine Fisheries Resources Department  
+408-1 Shirang-Ri, Kijang-Up, Kijang-County, 
+Pusan 619-900, 
+Republic of Korea. 
+ 
+47
+ 
+Dr. Jin-Yeong Kim 
+National Fisheries Research Development Institute 
+(NFRDI) 
+South Sea Fisheries Research Institute 
+Marine Fisheries Resources Division 
+#26, Namsan-Dong, Yeosu, 
+Jeonnam 530-120, 
+Republic of Korea 
+ 
+Dr. David L. Mackas 
+Head, Ocean Environment and Fisheries 
+Institute of Ocean Sciences 
+P.O. Box 6000, 
+Sidney, B.C., 
+Canada.  V8L 4B2 
+ 
+Prof. Kuh Kim 
+Deparment of Oceanography  
+College of Natural Sciences 
+Seoul National University 
+San 56-1 Shillim-dong, Kwanaka-ku,  
+Seoul,  
+Republic of Korea.  151-742 
+ 
+Dr. Allen Macklin 
+Pacific Marine Environmental Laboratory 
+7600 Sand Point Way NE, 
+Seattle, WA 98115 
+U.S.A. 
+ 
+Dr. Zang-Geun Kim 
+National Fisheries Research Development Institute 
+(NFRDI) 
+Coastal & Offshore Resources Research Division 
+408-1 Shirang-Ri, Kijang-Up, Kijang-County 
+Pusan 619-900, 
+Republic of Korea. 
+ 
+Dr. G.A. McFarlane 
+Department of Fisheries and Oceans 
+Pacific Biological Station 
+Hammond Bay Road, 
+Nanaimo, B.C.  
+Canada.  V9R 5K6 
+ 
+Prof. Michio J. Kishi 
+Ocean Research Institue 
+University of Tokyo 
+1-15-1 Minamidai, Nakano-ku, 
+Tokyo,  
+Japan.  164 
+ 
+Tian-Xiang Meng 
+Yellow Sea Fisheries Research Institute 
+106 Nanjing Road, 
+Qingdao, Shandong, 
+P. R. China.  266071 
+ 
+Prof. Michael M. Mullin 
+Marine Life Research Group 
+Scripps Institution of Oceanography 
+MCRG/SIO/UCSD 
+LaJolla, CA 92093-0227 
+U.S.A. 
+ 
+Dr. Thomas C. Royer 
+The Center for Coastal Physical Oceanography 
+Old Dominion University 
+Crittenton Hall, 768 52nd Street, 
+Norfolk, VA 23529  
+U.S.A. 
+ 
+Dr. Kazuya Nagasawa 
+North Pacific Ecosystem Section 
+National Research Institute of Far Seas Fisheries 
+7-1-5-chome, Orido, 
+Shimizu, Shizuoka, 
+Japan.  424 
+ 
+Ki-Back Seong 
+National Fisheries Research Development Institute 
+(NFRDI) 
+Yang Yang Inland Fisheries research Institute 
+424-1, Songyun-Ri, Sonyang-Myun  
+Yangyang-Gun, Kangwon-Do, 215-820 
+Republic of Korea. 
+ 
+48
+ 
+Dr. Kaoru Nakata 
+National Research Institute of Fishery Science 
+2-12-4, Fukuura, Kanazawa-ku, 
+Yokohama, 
+Japan.  236 
+ 
+Dr. Naonobu Shiga 
+Biological Oceanography  
+Faculty of Fisheries 
+Hokkaido University 
+1-1 Minato-cho, 3 chome, 
+Hakodate, Hokkaido, 
+Japan.  041 
+ 
+Dr. Kuniaki Okuda 
+Thohoku National Fisheries Research Institute 
+3-27-5, Shinhama-cho 
+Shiogama, Hokkaido,  
+Japan.  085 
+ 
+Prof. Takashige Sugimoto 
+Ocean Research Institute 
+University of Tokyo 
+1-15-1 Minamidai, Nakano-ku, 
+Tokyo,  
+Japan.  164 
+ 
+Dr. Robert S. Otto 
+National Marine Fisheries Service 
+Kodiak Laboratory 
+P.O. Box 1638, 
+Kodiak, AK 99615 
+U.S.A. 
+ 
+Song Sun 
+Institute of Oceanology 
+Academia Sinica 
+7 Nanhai Road, 
+Qingdao, Shandong, 
+P. R. China.  266071 
+ 
+Prof. Akira Taniguchi 
+Faculty of Agriculture 
+Tohoku University 
+1-1 Amamiya-cho, 
+Aobaku, Sendai, 
+Japan.  981 
+ 
+Dr. Zeng- Mao Wu 
+Ocean University of Qingdao 
+5 Yushan Road, 
+Qingdao, Shandong, 
+P. R. China.  266003 
+ 
+Dr. Atsushi Tsuda 
+Hokkaido National Fisheries Research Institute 
+11-6 Katsurakoi, 
+Kushiro, Hokkaido, 
+Japan.  085 
+ 
+Dr. Orio Yamamura 
+Hokkaido National Fisheries Research Institute 
+116 Katsurakoi,  
+Kushiro, Hokkaido, 
+Japan.  085 
+ 
+Dr. Anatoly F. Volkov 
+TINRO - Center 
+4 Shevchenko Alley, 
+Vladivostok,  
+Russia.  6900600 
+ 
+Dr. In-Ja Yoen 
+National Fisheries Research Development Institute 
+(NFRDI) 
+West Sea Fisheries Research Institute 
+Dept. of Marine Fisheries Biology 
+98-36, Bukseong-Dong 1Ga Jang-Gu,  
+Inchon, 400-201 
+Republic of Korea. 
+ 
+49
+ 
+Dr. Kazutoshi Watanabe 
+Hokkaido National Fisheries Research Inst. 
+116 Katsurakoi,  
+Kushiro, Hokkaido, 
+Japan.  085 
+ 
+Dr. Yoshiaki Hiyama  
+Resources Management 
+Japan Sea National Research Institute 
+1-5939-22 Suido-cho, 
+Niigata, 
+Japan.  951 
+ 
+Dr. David Welch 
+Pacific Biological Station 
+Hammond Bay Road, 
+Nanaimo, B.C., 
+Canada.  V9R 5K6 
+ 
+Dr. Xou-Xian Yuan 
+Yellow Sea Fisheries Research Institute 
+106 Nanjing Road, 
+Qingdao, Shandong, 
+P. R. China.  266071 
+ 
+Dr. Warren S. Wooster  
+School of Marine Affairs HF-05 
+University of Washington 
+3707 Brooklyn Ave. NE, 
+Seattle, WA 98105-6715 
+U.S.A. 
+ 
+Dr. Zhi-Nan Zhang 
+Ocean University of Qingdao 
+5 Yushan Road, 
+Qingdao, Shandong, 
+P. R. China.  266003 
+ 
+ 
+50

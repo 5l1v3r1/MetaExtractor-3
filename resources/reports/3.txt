@@ -1,0 +1,2424 @@
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 3 
+1995 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT OF THE PICES-STA WORKSHOP ON MONITORING 
+SUBARCTIC NORTH PACIFIC VARIABILITY 
+ 
+Jointly sponsored by PICES and the Science and Technology Agency of Japan 
+ 
+ 
+Convenor: 
+Yukihide Hayashi, Science and Technology Agency, Japan 
+ 
+Co-Chairmen: 
+Yasuhiro Sugimori, Tokai University / Chiba University, Japan 
+Melbourne G. Briscoe, NOS, NOAA, U.S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 1995 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca 
+ iii
+TABLE OF CONTENTS 
+ 
+ 
+     Page 
+FOREWORD  iv 
+ 
+AGENDA   v 
+ 
+INTRODUCTION:  OCEANIC INTERDECADAL CLIMATE IN THE NORTH 
+    PACIFIC OCEAN AND LIVING RESOURCES  
+    VARIABILITY 1 
+ 
+PROCEEDINGS  - SUBARCTIC PACIFIC CLIMATE VARIABILITY 
+Kimio Hanawa.    Interannual to decadal scale variations in the North Pacific 6 
+Lynne D. Talley & Xiaojun Yuan.  Summary of variability of physical conditions  
+ in the subarctic North Pacific 16 
+Vladimir V. Plotnikov & Gennady I. Yurasov.  Seasonal and interannual variability  
+  of ice cover in the North Pacific marginal seas 26 
+Stephen C. Riser.  Space and time scales of variability in the subarctic North  
+  Pacific:  Implications to monitoring the system 35 
+ 
+  - ECOSYSTEM RESPONSE 
+N. Brent Hargreaves. PICES-GLOBEC international program on climate change 
+  and carrying capacity 61 
+Warren S. Wooster. PICES-GLOBEC International Program on Climate Change 
+  and Carrying Capacity - An update on progress 63 
+Satoru Taguchi.  Monitoring of lower trophic level variability and response 
+  to long-term forcing in the subarctic Pacific Ocean 65 
+ 
+RECOMMENDATIONS 85 
+ 
+ iv
+FOREWORD 
+ 
+The PICES Science Board and the Science and 
+Technology Agency of Japan held a Workshop on 
+Monitoring Subarctic North Pacific Variability, 
+October 22-23, 1994, in Nemuro, Hokkaido, 
+Japan, in conjunction with the PICES Third 
+Annual Meeting.  The Workshop addressed the 
+responses of the subarctic Pacific to forcing by 
+climate variations and human activities.  The time 
+scales considered were seasons to centuries.  The 
+first workshop objective was to suggest current 
+and future long-term monitoring programs to 
+describe significant forcing and responses.  
+Second was to suggest scientific, technological 
+and other factors that affect the above monitoring 
+programs, and third, was to provide a summary 
+report that advised on a strategy for developing a 
+monitoring program, by 31 January, 1995.  A 
+preliminary report and recommendations were to 
+be provided to the Science Board at the conclusion 
+of the Workshop. 
+ 
+The Workshop was not intended to discuss process 
+studies or to review the science of the subarctic 
+Pacific, but rather to focus on the long-term 
+monitoring programs required for assessment of 
+the physical and ecological responses to long-term 
+forcing, both natural and man-made.  It was 
+expected that much of the monitoring might occur 
+under the auspices of the Global Ocean Observing 
+System and the Global Climate Observing System. 
+ 
+The Workshop was structured around two themes 
+and several sub-themes: 
+Subarctic Pacific Climate Variability 
+ External forcing; Global Climate Change 
+ Subarctic North Pacific 
+ Ice-Covered Marginal Sea 
+ Space and Time Scales; Sampling Problem 
+Ecosystem Response 
+ Subarctic Large-Scale Variability 
+ Lower Tropic Levels 
+ Higher Tropic Levels 
+ 
+Workshop Convenor: 
+Y. Hayashi, Science and Technology Agency, 
+Japan. 
+ 
+Steering Committee Co-Chairmen: 
+Y. Sugimori, Tokai University / Chiba 
+University, Japan. 
+M.G. Briscoe, NOAA, U.S.A. 
+ 
+Members: 
+T.C. Royer, University of Alaska, U.S.A. 
+M. Fukasawa, Tokai University, Japan 
+J.F. Garrett, IOS, Canada 
+G.D. Stauffer, NOAA, U.S.A. 
+T. Yamagata, Tokyo University, Japan 
+R.C.H. Wilson, MEDS, Canada 
+D.Q. Yang, IO, China 
+S. Ishii, JAMSTEC, Japan 
+W.S. Wooster, PICES 
+ 
+Observers: 
+H.D. Ahn, KORDI, Korea 
+A. Bychkov, POI, Russia 
+V.V. Navrotsky, POI, Russia 
+ 
+ v
+AGENDA 
+ 
+October, 22 (Saturday): 
+ 
+1. Introduction 
+ 
+2. Opening remarks by W.S. Wooster 
+ 
+3. Keynote address by Y. Hayashi, Y. Sugimori 
+and M.G. Briscoe 
+ 
+4. Subarctic Pacific climate variability 
+ i)  K. Hanawa.  Interannual to decadal scale 
+variations in the North Pacific 
+ ii) L.D. Talley and X.J. Yuan.  Summary of 
+variability of physical conditions in the 
+subarctic North Pacific 
+ iii)  V.V. Plotnikov and G.I. Yurasov.  
+Seasonal and interannual variability of ice 
+cover in the North Pacific marginal seas 
+ iv)  S.C. Riser.  Space and time scales of 
+variability in the subarctic North Pacific: 
+Implications to monitoring the system 
+ 
+5. Ecosystem Response 
+ i)  N.B. Hargreaves.  PICES-GLOBEC 
+International Program on Climate Change 
+and Carrying Capacity 
+ ii)  S. Taguchi.  Monitoring of lower tropic 
+level variability and response to long-term 
+forcing in the subarctic Pacific Ocean 
+ iii)  A.B. Hollowed.  Potential response of 
+Northeast Pacific fish stocks to climate 
+change 
+ 
+6. Steering Committee Meeting, October 23, 
+(Sunday) 
+ i)  Working Group for climate variability and 
+ecosystem response 
+ ii)  Working Group report in Plenary 
+ iii)  Steering Committee meeting 
+ iv)  Workshop report 
+7.Poster Session 
+ i)  T. Sugimoto, S. Kimura, and I. Aoki.  
+Monitoring of currents and zooplankton 
+biomass with ADCP on VOSS 
+ ii)  H. Ishii, and T. Takizawa.  Long-term 
+variations of atmosphere and ocean in the 
+PICES region 
+ iii)  S. Saitoh, H. Onishi, and M. Onishi.  An 
+applicability of global multichannel sea 
+surface temperatures to study on transition 
+zone in the central North Pacific Ocean 
+ iv)  A. Harashima, R. Tsuda, Y. Tanaka, T. 
+Kimoto, H. Tatsuta, and T. Hagiwara.  
+Ferry-based biogeochemical monitoring 
+from the marginal seas to the subtropical 
+gyre 
+ v)  Y. Senga, T. Araga and Y. Sugimori.  
+Modularized real-time surface-water 
+monitoring system 
+ vi)  N. Kimura, Y. Okada and H. 
+Fukushima.  Estimation of vertical profile 
+of chlorophyll concentration around the 
+Antarctic Peninsula derived from the 
+satellite image (Nimbus-7/CZCS) 
+ vii)  M. Ikeda, T. Yao and Q. Yao.  Seasonal 
+evolution of sea ice cover and shelf water 
+off Labrador simulated in a coupled ice-
+ocean model 
+ viii)  J. Suwa, M. Kubota and Y. Sugimori.  
+Monitoring of the subarctic surface fronts 
+in 1988 
+ ix)  D. Lee.  Development of ocean 
+monitoring system in Korea and its 
+connection to North East Asia regional 
+GOOS 
+ 
+ 
+ 
+ 
+ 1
+INTRODUCTION:  OCEANIC INTERDECADAL CLIMATE IN THE 
+NORTH PACIFIC OCEAN AND LIVING RESOURCES VARIABILITY 
+ 
+1. INTRODUCTION 
+ 
+ Although there are many important 
+examples of climate fluctuations with quasi-
+periods of 10-30 years, such interdecadal climate 
+variability (ICV) has been given relatively little 
+attention by scientists, particularly in comparison 
+with the 3-5 year time scale associated with the El 
+Nino Southern Oscillation (ENSO).  Instances of 
+ICV are found in many physical and biological 
+systems and can be discerned in high-resolution 
+proxy records that are unlikely to have been 
+affected by humankind. 
+ 
+ Dynamically, the oceans are likely to play 
+a key role in setting the time scale for ICVs.  
+Besides having important socio-economic effects, 
+an understanding of natural decadal-scale climate 
+variations is crucial to differentiating natural 
+climate changes from those due to anthropogenic 
+forcing, e.g., Greenhouse Warming.  This class of 
+interdecadal variations is particularly challenging 
+because as well as the oceans, it involves 
+interactions between the atmosphere, ocean and 
+cryosphere, and is probably also related to 
+biogeochemical process. 
+ 
+ Observations of global mean air 
+temperature reveal year-to-year variations 
+superposed on a long-term trend throughout the 
+20th century.  However, there is also important 
+decadal-scale variation (Nitta and Yoshinari, 
+1992).  The warmest of the past decade is part of a 
+long term trend of global warming associated with 
+the observed greenhouse gas increases in the 
+atmosphere (IPCC 1990). 
+ 
+ A notable climate impact is the influence 
+on the change in the pattern of migration of 
+salmon to the mouth of Fraser River from the 
+south end of Vancouver Island to the north end.  
+Other connections range from an increase in the 
+chlorophyll concentration of the surface water 
+over the North Pacific gyre. 
+ 
+ Another recent example of ICV has come 
+from the North Atlantic.  The remarkable 
+phenomenon is well known as "Great Salinity 
+Anomaly (GSA)".  This event involves a 
+freshening of the surface waters of the northern 
+North Atlantic during the 1960s and 1970s.  On 
+the other hand, deep water masses of the world 
+ocean form at both polar extremes of the Atlantic.  
+In contrast, the Pacific has a circulation more 
+constrained to horizontal layers.  A freshening 
+such as the GSA may interrupt the northward 
+transport of heat in the Atlantic.  In the North 
+Atlantic, deep water formation would reduce 
+poleward heat transport by the thermohaline 
+circulation.  Aside from redistributing the earth's 
+heat and salt, the thermohaline circulation mixes 
+water mass properties.  Convective water mass 
+formation also plays an important role in 
+providing a sink for atmosphere CO
+2
+ and the 
+global CO
+2
+ budget in the North Atlantic.  
+Normally, information on changes below the 
+ocean surface are scarce.  In the North Pacific, 
+there is evidence that the cooling in SST's over the 
+recent decades extends to well below 500m, and 
+involves a considerable amount of heat capacity. 
+ 
+ In the remainder of this introduction, we 
+focus on examples of interdecadal climate 
+variability (the mid-1970s North Pacific climate 
+shift) to give a perspective of what is known and 
+what is unknown about this class of climate 
+variability. 
+ 
+2. MID 1970S NORTH PACIFIC CLIMATE SHIFT 
+ 
+ A reliable analyses of regional patterns of 
+sea surface temperature (SST) anomalies for 
+decades over the globe can only be carried out for 
+the period after 1946.  The most striking and 
+largest amplitude anomalies of decade-mean 
+temperature in the Northern Hemisphere are found 
+for 1977-1986.  In that decade, substantially, 
+cooler (>0.5°C) than normal conditions (relative to 
+the 1951-80 mean) occurred in central North 
+Pacific SST.  There was a large warming (>1.5°C) 
+over Alaska and SST increased along the west 
+coast of North America, while cooling occurred 
+over eastern North America.  This distinctive 
+pattern of surface temperature anomalies for 1977-
+ 2
+86 is linked to changes in many other climate 
+variables.  At the North Pacific surface, the wind 
+stress and wind stress curl changed, and by 
+implication the Ekman pump, Sverdrup transport 
+and ocean current.  Sea surface temperatures, air 
+temperature at the sea interface, sea-ice, and 
+stream flow in coastal regions all changed.  Other 
+evidence suggests pronounced changes in 
+phytoplankton, ocean biology and in fish stocks in 
+the North Pacific.  The changes appear to be 
+closely linked with low frequency variability in 
+the tropical Pacific and Indian Ocean and the El 
+Nino Southern Oscillation (ENSO) phenomenon.  
+At the ocean surface, the wind changes drive 
+variation in surface fluxes, ocean mixing and 
+ocean current.  In the sea of Okhotsk, sea-ice 
+cover often shows a reverse tendency with greater 
+than normal values after about 1976 (Sekine 
+1989).  Large changes are also found throughout 
+the troposphere, that is, the pattern associated with 
+strong changes downstream over North America.  
+This "Pacific-North American" teleconnection 
+pattern is closely linked to the changes in surface 
+temperature, moisture and involves changes in 
+cloud cover. 
+ 
+ Meanwhile, over the Pacific Northwest, 
+the shift to a stronger high pressure ridge over 
+western Canada provided changes in both 
+temperature and precipitation.  Consequently, air 
+temperature and sea-ice cover along the coast of 
+Alaska changed (Salmon 1992).  Also stream flow 
+in many rivers along coastal Alaska increased 
+(Cayan 1991). 
+ Changes in the atmospheric circulation 
+alter the sensible and latent heat fluxes from the 
+ocean surface into the atmosphere.  The flux 
+changes observed during the 1970s and 1980s are 
+consistent with changes in the observed SST 
+pattern (Cayan 1992, a,b,c).  A basin wide change 
+in winds is apparent due to the difference between 
+wind stress of 1977-1982 and 1971-1976 (Cayan 
+et al.) with stronger cyclonic circulation in south 
+of the Aleutian Islands after 1976.  In the North 
+Pacific, these changes imply changes in the curl of 
+wind stress which has implications for the Ekman 
+pump and Sverdrup transport (Salmon 1992). 
+ 
+ The decadal changes during the mid 1970s 
+also had profound effects on the central and 
+eastern Pacific epipelagic ecosystem (Ebbesmeyer 
+et al 1991).  Measurements north of Hawaii 
+suggest an increase in total chlorophyll in the 
+water column and thus, in phytoplankton (Venrick 
+et al 1987). The changes in ocean currents and 
+temperatures around 1976 have also evidently 
+altered the migration pattern of fish, in particular 
+tuna and salmon in the North Pacific (Bernet and 
+Mysak 1986).  
+ 
+ The space-time scales of the dominant 
+ENSO climate signal in the Pacific has been 
+associated with a greatly reduced phytoplankton 
+biomass in both the western (Dan Donneau 1986) 
+and eastern Pacific (Barber et al 1983).   
+ 
+ 
+ 
+ 3
+REFERENCE 
+ 
+Barber, R.T. and F.P. Chavez.  1983.  Biological Consequences of the 1982-93 El Nino.  Science. 
+222:1203-1210. 
+ 
+Cayan, D.R.  1992a.  Variability of Latent and Sensible Heat Fluxes Estimated Using Bulk Formulae.  
+Atmosphere-Ocean. 30:1-42. 
+ 
+Cayan, D.R.  1992b.  Latent and Sensible Heat Flux Anomalies Over the Northern Oceans:  The 
+Connecton to Monthly Atmospheric Circulation. Journal of Climate (in press). 
+ 
+Cayan, D.R.  1992c.  Latent and Sensible Heat Flux Anomalies Over the Northern Oceans:  Driving the 
+Sea Surface Temperature.  Journal of Physical Oceanography. 22:859-881. 
+ 
+Cayan, D.R., D.R. Melaio, and W.D. Nichols.  1991.  Monthly Climatic Time Series Data for the Pacific 
+Ocean and Western Americas, U.S.Geological Survey.  Open File Report 91-92:380p. 
+ 
+Dandonneau, Y.  1986.  Moniroting the Sea Surface Chlorophyll Concentration in the Tropical Pacific:  
+Consequences of the 1982-1983 El Nino.  Fish. Bull. 84(3):687-695. 
+ 
+Ebbesmeyer, D., D. Cayan, D. McClain, W.D. Nicols, D.H. Peterson, and K. Redmond.  1991.  
+Sensibility of Marine Biology to Climate Change in a North Pacific Swath.  Proceedings of the 
+Seventh Annual Pacific Climate(PACLM) Workshop, Asilmar, California, April 10-13, 1990. 
+ 
+Hanawa, K.  1994.  Interannual to Decadal Scale Variations in the North Pacific.  Proceedings of PICES-
+STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & STA):1-5. 
+ 
+Harashima, A., R. Tsuda, Y. Tanaka, T. Kimoto, H. Tatsuta, and T. Hagiwara. 1994.  Ferry-based 
+Biogeochemical Monitoring from the Marginal Seas to the subtropical Gyre.  Proceedings of 
+PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & STA):91-96. 
+ 
+Hargreaves, N.B.  1994.  PICES-GLOBEC Int. Program on Climate Change and Carrying Capacity.  
+Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & 
+STA):69-70. 
+ 
+Hollowed, A.  1994.  Potential Response of Northeast Pacific Fish Stocks to Climate Change.  
+Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & 
+STA):79-82. 
+ 
+Ikeda, M., T. Yao, and Q. Yao.  1994.  Seasonal Evolution of Sea Ice Cover and Shelp Water off 
+Labrador Simulated in a Coupled Ice-Ocean Model.  Proceedings of PICES-STA Workshop on 
+Monitoring Subarctic Pacific Ocean (PICES & STA):109-113. 
+ 
+Ishii, H., and T. Takizawa.  1994.  Long-term Variations of Atmosphere and Ocean in the PICES.  
+Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & 
+STA):84-88. 
+ 
+Kimura, N., Y. Okada, and H. Fukushima.  1994.  Estimation of Vertical Profile of Chlorophyll 
+Concentration around the Antarctic Peninsula Derived from the Satellite Image.  Proceedings of 
+PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & STA):102-108. 
+ 4
+Lee, D.  1994.  Development of Ocean Monitoring System in Korea and its Connection to North East 
+Asia Regional GOOS.  Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific 
+Ocean (PICES & STA):136-143. 
+ 
+Mysak, L.A.  1986.  El Nino, Interanual Variability and Fisheries in the Northeast Pacific Ocean.  Can. J. 
+of Fish. and Aquat. Sci. 43:434-497. 
+ 
+Nitta, T., and J. Yoshimura.  1992.  Interannual and Interdecatal Variations of Global Surface Air 
+Temperature, U/M. 
+ 
+Plotnikov, V., and G. Yurasov.  1994.  Seasonal and Interannual Variability of Ice Cover in the North 
+Pacific Marginal Sea.  Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific 
+Ocean (PICES & STA):13-24. 
+ 
+Riser, S.  1994.  Space and Time Scales of Variability in the Subarctic North Pacific:  Implications to 
+Moniroting the System.  Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific 
+Ocean (PICES & STA):25-67. 
+ 
+Saitoh, S., H. Onishi, and M.Onish.  1994.  An applicability of Global Multichannes Sea Surface 
+Temperatures to Study on Transtion Zone in the central North Pacific Ocean.  Proceedings of 
+PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & STA):89-90. 
+ 
+Salmon, D.  1992.  On Interannual Variability and Climate Change in the North Pacific, PhD thesis.  
+Univ. of Alaska. 
+ 
+Sekine, Y.  1988.  Anomalous Southward Intrusion of the Oyashio East of Japan 1. Influence of the 
+Interannual and Seasonal Variations in the wind Stress Over the North Pacific.  J.Geophys.Res. 
+93(C3):2247-2255. 
+ 
+Senga, Y., T. Araga, and Y. Sugimori.  1994.  Modularized Realtime Surface-Water Monitoring System.  
+Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & 
+STA):97-101. 
+ 
+Sugimoto, T., S. Kimura, and I. Aoki.  1994.  Monitoring of Currents and Zooplankton Biomass with 
+ADCP on VOSs.  Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific Ocean 
+(PICES & STA):83. 
+ 
+Suwa, J., M. Kubota, and Y. Sugimori.  1994.  Monitoring of the Subarctic Surface Fronts in 1988.  
+Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES & 
+STA):114-135. 
+ 
+Taguchi, S.  1994.  Monitoring of Lower Trophic Level Variability and Response to Long-term Forcing 
+in the Subarctic Pacific Ocean.  Proceedings of PICES-STA Workshop on Monitoring Subarctic 
+Pacific Ocean (PICES & STA):71-78. 
+ 
+Talley, L., and X. Yuan.  1994.  Summary of Variability of of Physical Condition in the Subarctic North 
+Pacific.  Proceedings of PICES-STA Workshop on Monitoring Subarctic Pacific Ocean (PICES 
+& STA):6-12. 
+ 
+Vernick, E.L., J.A. McGowan, D.R. Cayan, and T.L. Hayward.  1987.  Climate and Chlorophyll a Long-
+term Trends in the Central North Pacific Ocean.  Science. 23B:70-72. 
+ 5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proceedings: 
+SUBARCTIC PACIFIC CLIMATE VARIABILITY 
+ 6
+Long-term Variations of the North Pacific 
+ 
+ 
+Kimio HANAWA 
+ 
+ 
+Department of Geophysics, Graduate School of Science, 
+Tohoku University, Sendai, Japan.  980-77 
+ 
+ 
+ABSTRACT 
+ 
+Long-term variations of sea surface temperature (SST), atmospheric forcing of the oceanic circulation and 
+the upper thermal condition in the North Pacific are briefly described.  It is insisted that the subsurface 
+thermal data taken by TRANSPAC program are very useful to detect the interannual to decadal variations 
+of the upper ocean thermal conditions and it is proposed that new monitoring program should be 
+established to replace the TRANSPAC program. 
+  
+ 
+1. INTRODUCTION 
+ 
+ It is urgently necessary that we clarify the role of the ocean in global climate change due to the 
+increasing greenhouse gasses.  To do this, it goes without saying that a careful search for various kinds of 
+archived oceanic data is needed.  Since interannual to decadal scale variations of climate are considered to 
+be major manifestations of large-scale air-sea interaction, special attention must be paid to both 
+atmospheric and oceanic conditions and their mutual relationship.  El Nino/Southern Oscillation (ENSO) 
+events are good examples of such phenomena.  Recently, many authors have pointed out significant 
+signals with decadal to interdecadal time scales in the North Pacific and in the Northern Hemispheric 
+atmospheric circulation.  These phenomena are also considered to be the manifestations of large-scale air-
+sea interaction and to be the next investigation target of ENSO events.    
+ 
+ In this paper, recent studies of long-term variations of sea surface temperature (SST) fields, 
+atmospheric forcing of the oceanic circulation and the thermal conditions of the upper ocean will briefly 
+be reviewed.  In addition, it will be shown that subsurface thermal data taken by the TRANSPAC 
+program have been very useful, and indeed critical, in the detection of long-term variations of the upper 
+thermal conditions in the northern North Pacific. 
+ 
+ The remainder of this paper is organized as follows:  in Section 2, long-term variations found in 
+SST fields of the North Pacific are reviewed and in Section 3, and changes of the atmospheric forcing of 
+the oceanic circulation are also described.  In Section 4, preliminary result of change of the upper ocean 
+thermal condition is briefly described and in Section 5, the necessity of a new monitoring program is 
+stressed. 
+  
+2. LONG-TERM VARIATIONS OF NORTH PACIFIC SST FIELDS 
+ 
+ Empirical orthogonal function (EOF) analyses for SST fields have been completed by several 
+authors since late 1970s.  Recently, Tanimoto et al. (1995a) have shown the existence of two distinctive 
+patterns:  one is that with the El Nino/Southern Oscillation (ENSO) time scale of 3-4 years (ENSO mode:  
+Fig. 1).  The other is that with decadal (DC) time scale (decadal mode:  Fig. 2).  The ENSO and decadal 
+ 7
+mode patterns were extracted by examining the band of periods 24-60 months, and the low frequency 
+band, longer than 60 months, all computed from winter SST anomalies. 
+ 
+ The leading mode of the DC time scale is a meridional dipole pattern:  a north-south oscillation of 
+low-latitude and mid-latitude oceans.  Time coefficients of this mode (Fig. 2(b)) showed abrupt changes, 
+like a step function, around 1976, i.e., mid 1970s, and continued to late 1980s.  This abrupt change may 
+be called a "Climatic Jump" or "Regime Shift" and will be discussed in the next section.  In addition to 
+this abrupt change, we can observe relatively short time-scale fluctuations in the 1950s. 
+ 
+ This DC mode pattern is also clearly extracted by the composite analysis for the two categorized 
+winters (DP and DN winters, see figure caption of Fig. 2 for the definition), as shown in Fig. 3.  This 
+means that the pattern extracted by EOF analysis is well organized and is a very robust feature. 
+   
+ It was also found that wind stress fields over the North Pacific varies coherently with SST fields 
+described above, as shown in Fig. 4, in which composite maps of wintertime wind stress vector anomalies 
+are shown (Tanimoto et al., 1995b).  In DN (DP) winters, the elongated elliptical cyclonic (anticyclonic) 
+pattern centered on 40N and the international date line appeared in the anomaly fields.  These anomaly 
+fields of wind stress vectors correspond to the southward (northward) shift of the westerly axis and 
+strengthening (weakening) of westerlies in DN (DP) winters. 
+ 
+3. ABRUPT CHANGE OF ATMOSPHERIC FORCING OCCURRED IN MID 1970S 
+ 
+ The abrupt change of atmospheric circulation over the North Pacific occurred around the mid 
+1970s and was noticed in late 1980s by meteorologists:  e.g., Kashiwabara (1987), Nitta and Yamada 
+(1989) and Trenberth (1990).  Nitta and Yamada (1989) showed that since the mid 1970s, SST anomalies 
+in the whole equatorial region of the Pacific Ocean have taken positive values, like a condition during 
+ENSO events (see Fig. 3(b)).  These positive SST anomalies in the equatorial region forced excitation of 
+standing Rossby wave trains, the so-called Pacific/North American (PNA) teleconnection pattern over the 
+North Pacific, which is responsible for the strengthening and eastward shift of the Aleutian Low, as well 
+as strengthening of wintertime westerlies over the Pacific sector. 
+  
+ It is easily imagined that the strengthening of wintertime midlatitude westerlies since the mid 
+1970s would change the forcing of oceanic conditions in various aspects.  The lowering of SSTs in the 
+central Pacific as extracted by EOF analysis mentioned above. can be interpreted as one of the results.  
+The strengthening of wintertime midlatitude westerlies can also cause an increase of Sverdrup transports 
+in both the subtropical and subpolar gyres as shown by Hanawa (1995).  Actual evidence of the spin-up 
+of the subtropical gyre will be described in the next section.  In addition, it is very interesting to note that 
+since the mid 1970s to late 1980s, the Oyashio First Intrusion gradually penetrated southward off the 
+Sanriku Coast (Hanawa, 1995) and the large meander of the Kuroshio off Honshu Island occurred since 
+1975.    
+ 
+4. CHANGE OF SUBSURFACE THERMAL CONDITION 
+ 
+ Analysis for the upper thermal condition also shows the existence of DC time scale variation 
+coherent with SST fields mentioned above.  Watanabe and Mizuno (1994) analyzed the subsurface 
+thermal data including XBT (Expendable Bathythermograph) data taken in the North Pacific.  Fig. 5 
+shows a time-longitude matrix of 0-400m vertically averaged temperature anomalies along the 35-45 °N 
+latitude band (a), and that of SST (b).  It is seen that heat content anomaly changed its sign from positive 
+before 1976 to negative after 1976, corresponding to that of SST anomalies. 
+ 8
+ Spin-up/spin-down of the North Pacific subtropical gyre in recent decades could also be detected 
+by using the subsurface temperature data (Yasuda and Hanawa, 1995).  Fig. 6 shows the Sverdrup 
+transport at 30 °N and 130 °E (a) and the temporal change of heat content difference between the north 
+(39 °N) and south (29 °N) regions of the Kuroshio Extension.  Although there is some time lag between 
+both time series, they clearly show the increasing trend from 1960s to 1980s.  This means that the North 
+Pacific subtropical gyre has gradually been spun-up during the analyzed period.  This change can be 
+explained by that of wind stress field over the North Pacific (see Fig. 4).  It was also shown that, 
+corresponding to this change, thicknesses of the wintertime mixed layer in the midlatitude ocean and 
+those of 15-19 °C layer (Subtropical Mode Water) in the northwestern subtropical gyre vary coherently. 
+ 
+ Analysis for the long-term variations of the upper ocean thermal conditions has just begun.  
+Careful inspection of those data will give us much interesting and useful information on the oceanic role 
+in climate change. 
+ 
+5. CONCLUDING REMARKS - ESTABLISHMENT OF NEW MONITORING PROGRAMS IN THE PICES 
+AREA 
+ 
+ As mentioned in the previous section, the subsurface thermal data are essential for clarification of 
+the change of oceanic conditions, such as, circulation fields, propagation of Rossby waves, water masses, 
+front movement and the depth and temperature of mixed layer, and so on.  At the present time, the most 
+suitable and practical way to monitor the subsurface thermal conditions is through XBT measurements 
+using the Voluntary Observing Ships (VOS).  Actually, under this understanding, TOGA/WOCE 
+XBT/XCTD Program Planning Committee (TWXXPPC) has negotiated arrangements to monitor the 
+world oceans by VOS.  Fig. 7 shows present TOGA/WOCE XBT monitoring network (WOCE IPO, 
+1992). 
+ 
+ The northern North Pacific, that is, the PICES area has been monitored relatively very well since 
+early 1970s.  This monitoring (PX-26 in Fig. 7) has been done under the so-called "TRANSPAC" 
+program operated by NOAA with the financial support of the US Navy from early 1970s. 
+ 
+ By using the XBT data accumulated in this program, clarification of structure and its changes of 
+the upper ocean has been made from various viewpoints.  Among them, for example, Rossby wave 
+propagation was observed in the North Pacific Current (White, 1982), the behaviour of the paths of the 
+Kuroshio and the Kuroshio Extension were analyzed (Mizuno and White, 1983) and interannual 
+variability in the heat content of the Kuroshio Extension associated with 1982 ENSO event was found 
+(White and He, 1986). 
+ 
+ However, since 1993 when the US Navy stopped funding to the TRANSPAC program, the 
+number of XBT measurements is now decreasing: before 1992, approximately 3500 XBT profiles were 
+available, while they were reduced to about 2000 in 1993 (see Fig. 8:  NOAA NOS, 1994) and to about 
+1500 in 1994. 
+ 
+ Therefore, as international or multinational program, the establishment of a new XBT monitoring 
+program like as TRANSPAC is urgently required.  TWXXPPC already recommended the establishment 
+of TRANSPAC XBT pool like TOGA XBT pool (WOCE IPO, 1994). 
+ 
+ The author believes that PICES can play an important role in the establishment of a new 
+functional monitoring program in succession to TRANSPAC XBT program. 
+ 
+REFERENCES 
+ 9
+ 
+Hanawa, K.  1995.  Southward penetration of the Oyashio water system and the wintertime condition of 
+midlatitude westerlies over the North Pacific.  Bull. Hokkaido Natl. Fish. Res. Inst. 59:103-120. 
+ 
+Kashiwabara, T.  1987.  On the recent winter cooling in the North Pacific.  Tenki. 34:777-781 (in 
+Japanese). 
+ 
+Mizuno, K., and W.B. White.  1983.  Annual and interannual variability in the Kuroshio Current System.  
+J. Phys. Oceanogr. 13:1847-1867. 
+ 
+Nitta, T., and S. Yamada.  1989.  Recent warming of tropical sea surface temperature and its relationship 
+with Northern Hemisphere circulation.  J. Meteor. Soc. Japan. 67:375-383. 
+ 
+NOAA NOS.  1994.  1993 Global summary real-time XBT data. 167 p. 
+ 
+Tanimoto, Y., N. Iwasaka and K. Hanawa.  1995a.  Seasonal dependence of sea surface  temperature 
+anomalies with multiple time scales in the North Pacific.  Submitted to J.Climate. 
+ 
+Tanimoto, Y., N. Iwasaka and K. Hanawa.  1995b.  Relationship between the sea surface thermal 
+condition, the atmospheric general circulation and the air-sea transfers on multiple time scales.  
+Submitted to J.Climate. 
+ 
+Trenberth, K.E.  1990.  Recent observed interdecadal climate change in the Northern Hemisphere.  Bull. 
+Amer. Meteor. Soc. 71:988-993. 
+ 
+Watanabe, T., and K. Mizuno.  1994.  Decadal changes of the thermal structure in the North Pacific.  Int. 
+WOCE Newsletter. 15:10-13. 
+ 
+White, W.B.  1982.  Traveling wave-like mesoscale perturbations in the North Pacific Current.  J. Phys. 
+Oceanogr. 12:232-233. 
+ 
+White, W.B., and Y. He.  1986.  Interannual variability in the heat content of the Kuroshio Extension 
+associated with the 1982 ENSO event.  J. Phys. Oceanogr. 16:309-321. 
+ 
+WOCE IPO.  1992.  TOGA/WOCE XBT/XCTD Programme Planning Committee Rep. 1st Meeting 
+(TWXXPPC-1). 25 p. 
+ 
+WOCE IPO.  1994.  TOGA/WOCE XBT/XCTD Programme Planning Committee Rep.  3rd Meeting 
+(TWXXPPC-3) and WOCE Upper Ocean Data Assembly Centers.  Coordination Group Rep. 5th 
+Meeting (WOCE UOT/DAC-5). 36 p. 
+ 
+Yasuda, T., and K. Hanawa.  1995.  Temporal variability of the thermal structure in the North Pacific.  
+Part 1: Decadal change.  Submitted to J. Phys. Oceanogr. 
+ 10
+ 
+ 11
+ 
+ 12
+ 
+ 13
+ 
+ 14
+ 
+ 15
+ 
+ 16
+Summary of Variability of Physical Conditions  
+in the Subarctic North Pacific 
+ 
+ 
+Lynne D. TALLEY and Xiaojun YUAN 
+ 
+ 
+Scripps Institution of Oceanography 
+La Jolla, CA 92093-0230, U.S.A. 
+ 
+ 
+ABSTRACT 
+ 
+ A brief summary of studies of variability in SST, sea surface height, atmospheric forcing, 
+circulation, and water properties for the subarctic Pacific is given, with emphasis on the central and 
+eastern regions.  Most studies have been for the first few variables, with much less attention paid to 
+salinity distributions and circulation including the barotropic component.  The importance of salinity for 
+near-surface stratification is quantified. 
+ 
+ 
+1.  INTRODUCTION 
+ 
+ Variability in the subarctic North Pacific has been reviewed recently for PICES (Denman et al., 
+1991;  Okuda et al., 1991;  PICES WG1, 1994), as a basis for discussions of climate change.  The IOC 
+has also recently reviewed decadal variations in Pacific subarctic SST and relations with the atmosphere 
+(UNESCO, 1992);  their report should be an important input to the monitoring discussion.  This workshop 
+continues the general discussion, with more emphasis on what is most likely to be unknown and what 
+should be monitored in the subarctic region.  It is presumed that the principal goal of this knowledge and 
+monitoring is improvement in understanding, and perhaps even predictions, of interannual change in 
+weather and fishery conditions in the subarctic region and surrounding land masses. 
+ 
+ Much of the analysis of interannual and decadal variability in the North Pacific has been in terms 
+of winds, sea surface temperature (SST), and major current transports.  Although it is clearly recognized 
+and stated that salinity is the dominant factor in the upper ocean stratification of the subarctic gyre, little 
+emphasis has been given to its temporal variability.  This is probably due to the meteorological and 
+fishery bias of many of the analyses of the upper ocean, since SST is the principal item of oceanographic 
+interest for atmospheric modeling and fishery predictions.  A much smaller data base might also be a 
+culprit, but there are data enough to at least begin such an analysis, and on which to base 
+recommendations for future sampling. 
+ 
+ The following paragraphs are intended to provide background for discussion of uncertainties and 
+future monitoring, and are not intended to be an inclusive review of subarctic variability. 
+ 
+2.  SURFACE VARIABILITY AND ATMOSPHERIC FORCING 
+ 
+ The dominant mode of variability for the atmosphere and the ocean surface temperature in the 
+subarctic North Pacific has been shown to be associated with the Pacific-North American (PNA) mode, 
+which consists in the atmosphere of a strengthening of the Aleutian Low, centered near the dateline and 
+40 °N (Davis, 1976; Horel and Wallace, 1981;  Namias et al., 1988;  Hanawa et al. 1989a,b; Hanawa, 
+ 17
+1991;  Trenberth, 1990).  When the Aleutian Low is enhanced, the sea surface temperature is low in the 
+western and central subarctic gyre, and high in the eastern Gulf of Alaska, presumably due to the 
+enhanced cyclonic ocean circulation.  More of the North Pacific Current flows northward into the Gulf of 
+Alaska when the Aleutian Low is strong (Chelton and Davis, 1982).  Hanawa (1991) has also shown that 
+there is warming in the Kuroshio region as part of this dominant mode.  SST in the subarctic gyre lags 
+atmospheric pressure, unlike in the tropics where the ocean leads the atmosphere. 
+ 
+ Despite the simplicity of the atmospheric PNA teleconnection pattern showing the downstream 
+relation of the Aleutian Low to El Nino (Horel and Wallace, 1981), the strength of the Aleutian Low has 
+been shown in recent years to be somewhat independent of El Nino.  In particular there was a protracted 
+period, from 1976 until 1988, in which the low was especially strong (Trenberth, 1990; Hanawa, 1991;  
+Ebbesmeyer et al., 1991);  this period included three El Nino's.  Initiation of the shift in 1976 appears to 
+have been due mainly to anomalous surface heat flux (Miller et al., 1994). 
+ 
+ The southern limit of the subarctic circulation depends on the definition.  Near the sea surface, the 
+subarctic halocline, which provides the stratification between the mixed layer and the underlying ocean, 
+outcrops within the subarctic frontal zone (Roden, 1991), which is 4 ° latitude wide on average (Yuan, 
+1994).  The associated temperature front is an important salmon boundary.  The subarctic frontal zone 
+location has a several degree latitude range, but appears to have little systematic seasonal or interannual 
+variation (Yoshida, 1993;  Kazmin, 1994;  Yuan, 1994).  The salinity and salinity gradient associated with 
+it also have little seasonal dependence (Yuan, 1994).  The temperature gradient is stronger in summer 
+(Kazmin, 1994).  In all seasons the temperature and salinity gradients are nearly density-compensating 
+across the front. 
+ 
+ The subarctic front arises near the western boundary when the Oyashio separates from the coast.  
+Even there it is a relatively density-compensated feature.  The frontal zone is advected eastward across 
+the Pacific, and slightly southward relative to the general circulation, probably due to Ekman advection to 
+the right of the prevailing westerlies.  In the eastern Pacific, the frontal zone lies several degrees south of 
+the maximum average Ekman transport. It is generally characterized by two strong fronts, although in the 
+western Pacific it sometimes appears as one, and in the eastern Pacific sometimes as three or more fronts.  
+The fronts within the subarctic frontal zone may be maintained in their abruptness by the local Ekman 
+transport, which is convergent through most of the year except the winter (and hence not in the annual 
+average) (Yuan, 1994).  The principal unknowns with respect to the subarctic front are what its true scale 
+is (due to the lack of very high resolution measurements), whether it has a significant seasonal cycle (due 
+to lack of winter and spring measurements), what maintains the abruptness of individual fronts within it if 
+anything, why it is nearly density-compensating, and how the shallow salinity minima which extend to 
+the southeast from the subarctic frontal zone are formed locally. 
+ 
+ Below the surface layer, the southern limit of the subarctic region can be identified with the 
+northern limit of the main subtropical salinity minimum, North Pacific Intermediate Water (NPIW). The 
+boundary is coincident with the subarctic front in the western Pacific, but is several degrees north of it in 
+the eastern Pacific (Talley et al., 1991;  Zhang and Hanawa, 1993;  Yuan, 1994), probably due to 
+southward Ekman advection of the surface waters as stated before.  Part of the NPIW may advect 
+northward into the Gulf of Alaska (Musgrave et al., 1992; Talley et al., 1991; Zhang and Hanawa, 1991). 
+Zhang and Hanawa (1991) looked at interannual variation of the boundary between the subarctic and 
+subtropical water masses for 1978-1990, and found that the front was clear and identifiable from 170 °E to 
+the dateline, with variation of no more than 2 °. There has been no systematic study of the temporal 
+variability of this boundary in the eastern Pacific, and there has been no study of its seasonal variability 
+anywhere.  
+ 
+ 18
+ The importance of salinity in the vertical and lateral property structure of the subarctic Pacific can 
+be illustrated using the Turner angle (Ruddick, 1983) and an adaptation of it to lateral gradients of 
+temperature and salinity.  The Turner angle is Tu=arctan[(N
+T
+-N
+S
+)/(N
+T
++N
+S
+)] 
+ 
+where N
+T
+= α
+∂
+∂
+Τ
+n
+ and N
+S
+= β
+∂
+∂
+S
+n
+ where n is either the vertical or lateral coordinate. 
+  
+Fig. 1 shows the distribution of Turner angles for the surface layer, based on both the vertical 
+stratification and the meridional gradients.  It is clear that north of the subarctic front (about 40 °N), both 
+the vertical and meridional density structures are dominated by salinity.  It appears essential then that any 
+monitoring program must include salinity.  It also would seem essential that any study of the seasonal, 
+interannual, and decadal time scales in the subarctic region should include study of the salinity structure. 
+ 
+3.  GULF OF ALASKA AND NORTHERN CALIFORNIA CURRENT 
+ 
+ A short recent review of variability in the northeastern Pacific can be found in Kelly et al. (1993).  
+In the eastern North Pacific the North Pacific Current bifurcates into northward flow around the cyclonic 
+Alaskan Gyre, and southward flow into the California Current.  The bifurcation point and strength of flow 
+in the two directions is time dependent (Chelton and Davis, 1982).  Interannual variation appears to be 
+linked mainly to the strengthening of the Aleutian Low discussed above.  The time scales are 
+interdecadal, as indicated above, and there also appears to be a shorter period El Nino time scale, as 
+documented by Van Scoy and Druffel (1993).  They present evidence for flow of subpolar water into the 
+California Current (to 30 °N) during non-El Nino years (weak Aleutian Low), and no subpolar water at 
+that location during El Nino years.  They also indicate that vertical mixing in the Alaska gyre is more 
+vigorous during El Nino years (strong Aleutian Low). 
+ 
+ Royer (1993) suggests that about 30% of the interannual oceanic signal in the northeast Pacific is 
+associated with the 18.6-year nodal tide.  Substantiation is through comparison of recent ocean time series 
+with air temperature, and then demonstration of the tidal signal in a 150-year record of air temperature.  
+Because explanations for the non-El Nino interdecadal signal in the northern North Pacific (e.g. the 1976-
+1988 "regime") are so complex (Miller et al., 1994), it seems that the tidal ideas should receive 
+consideration. 
+ 
+ The winds and wind stress curl in the Gulf of Alaska have a strong seasonal cycle. However, the 
+baroclinic transport of the Alaska Stream does not respond strongly to this seasonal cycle (Royer, 1981;  
+Musgrave et al., 1992);  instead it has a much stronger interannual variation (Royer, 1981).  This is likely 
+related to the turning latitude for the annual baroclinic Rossby wave, which lies south of the subarctic 
+gyre.  The fresh water runoff into the Gulf of Alaska, which contributes about 40% of the fresh water for 
+the northeast Pacific, also has a strong seasonal cycle which is correlated with a seasonal cycle in 
+baroclinic transport very close to the Alaska coast (Royer, 1982). 
+ 
+ Barotropic response of the currents in the Gulf of Alaska to the winds, on the other hand, is well 
+established for short time scales (e.g., Niiler and Koblinsky, 1985;  Chave et al., 1992);  no long time 
+series of barotropic motion exist.  Chave et al. show that the ocean's barotropic mode near 40 °N in the 
+central Pacific is coherent with several atmospheric variables;  the response is non-local suggesting 
+propagation of Rossby waves over the rough topography. Kelly et al. (1993) used the short existing 
+Geosat altimetry record to show the two modes of the eastern Pacific:  strong and weak California Current 
+(Chelton and Davis, 1982), and that the variations in surface height are related to local Ekman pumping, 
+rather than to Rossby wave propagation. 
+ 
+ 19
+ The only long time series which exists for the interior Gulf of Alaska is that at Ocean Weather 
+Station Papa (50 °N, 145 °W) and the section east of it into the Canadian coast.  Tabata et al., (1986) and 
+White and Tabata (1987) describe the variability in steric height and deeper anomalies over the years, 
+showing that heating controls the steric height offshore of Canada while the freshwater sources control it 
+along the coast, and that there is westward propagation of anomalies with a period of 2-5 years, 
+respectively. 
+ 
+ Large eddies along the eastern boundary of the Gulf of Alaska have not received much attention.  
+Tabata (1982) describes the eddy often found off Sitka. Another eddy is often found off Queen Charlotte.  
+The NOARL model suggests a progression of semi-permanent large eddies along the eastern boundary.  
+Their dynamical forcing and effect on the gyre circulation, if any, has yet to be considered. 
+ 
+4.  WESTERN SUBARCTIC GYRE 
+ 
+ Variability in the western subarctic gyre was reviewed by Okuda et al. (1992), and in the PICES 
+Working Group 1 report (1994).  The western subarctic gyre is fed from the east by the Alaska Stream, 
+and may also contain an enclosed strong cyclonic circulation elongated along the Kuril Islands.  The 
+extent and time dependence of the connection with the eastern subarctic is not quantified, due to a lack of 
+time series observations. 
+ 
+ Until recently there appeared to be relatively few estimates of boundary current transports in this 
+region other than around Japan.  The WG1 report lists a set of recent baroclinic transport estimates for the 
+East Kamchatka Current; the largest variations seem to be associated with the presence or absence of the 
+large Kuril eddies.  The East Kamchatka Current and Oyashio appear to have significant barotropic 
+components, which have not been well measured at all.  The Oyashio transport variations relative to 
+standard depths are regularly documented, but do not include the barotropic component.  Sekine (1988) 
+shows that the strength of the southward intrusion of the Oyashio water into the Mixed Water Region has 
+some relation to the variation in Sverdrup forcing over the subarctic Pacific, but variations in the 
+baroclinic transport of the Oyashio are not easily related to Sverdrup forcing changes. 
+ 
+ A series of large eddies (200 km diameter) along the Kuril Islands has been observed in various 
+ways over the past decade (e.g., Bulatov and Lobanov, 1984; see PICES WG1 report). These eddies may 
+propagate slowly northward, entraining subarctic waters. Their relation to the Oyashio and East 
+Kamchatka Current has not been clarified, nor are their dynamics understood. 
+ 
+ Variability in the circulation of the Okhotsk and Bering Seas has not been quantified, other than 
+to indicate that there are changes.  The sea ice cover in both marginal seas has been better described and 
+related to interannual changes in atmospheric conditions. Overland et al. (1994) and Stabeno and Reed 
+(1994) review and present what is currently known about the circulation of the Bering Sea, pointing out 
+the considerable eddy activity within most of the region except along the boundaries.  No time scales for 
+variability are indicated.  Likewise, it is apparent that the Okhotsk Sea has a great deal of eddy activity, 
+which is likely to be responsible for mixing the various inputs such as the saline Soya Current water, 
+inflowing North Pacific water, and ventilated shelf water. 
+ 20
+5.  SUMMARY 
+ 
+ Large uncertainties regarding variability in the subarctic Pacific exist in a number of areas. A 
+major one is the variability of salinity and the freshwater sources: the surface stratification is determined 
+by salinity, with densest ventilation occurring where the waters are most saline (brine rejection due to sea 
+ice in the Bering and Okhotsk Seas, and where saline subtropical waters are injected into the subarctic in 
+the Okhotsk Sea and through Tsugaru Strait into the region adjacent to the Oyashio).  Salinity probably 
+plays a role in vertical mixing of surface properties downwards as well.  It appears though that no 
+systematic studies have been made, or might be possible with the available data set, of the correspondence 
+of the circulation and SST with surface salinity. A second major area of uncertainty is the nature of the 
+changes in the circulation, and the effect of the circulation on SST.  The dominant atmospheric and SST 
+modes have been established.  There has been significant progress in looking at sea surface height.  
+However, changes in the circulation, water properties including salinity, and barotropicity of subarctic 
+currents (which appears to be large), as well as the role of the large eddies in the western and eastern 
+boundary regions are much less well studied.  Basic phenomena of the subarctic circulation and water 
+properties are not understood: the formation and maintenance of the Kuril and eastern boundary eddies, 
+the processes which create the subarctic front and maintain it across the Pacific, the maintenance of the 
+nearly isothermal layer which extends through the halocline, quantification of the changes in circulation 
+and ventilation due to sea ice formation and melt, and so on. 
+ 
+ Future monitoring efforts must concentrate on the interannual changes of the subarctic ocean as 
+they relate to atmospheric variables.  The barotropic response must be included, which thus involves 
+much shorter time scales as well.  The principal processes controlling the strength of the Aleutian Low 
+should be elucidated, including the complicated relationship with El Nino, which has a much shorter time 
+scale.  Salinity cannot be ignored in any such studies.  Modeling efforts, including sufficiently realistic 
+topography because of the importance of the barotropic ocean response and a realistic inclusion of salinity 
+as an independent variable must continue to be encouraged.  Mixing of temperature and salinity must be 
+properly parameterized and modeled. Models synthesizing altimetry and in situ measurements should be 
+developed as the model physics become better honed.  Observations must be continued, both for 
+providing basic information for understanding processes which are not now understood, as well as for 
+providing the basic long time series needed for monitoring and improving models. 
+ 
+ 
+REFERENCES 
+ 
+Bulatov, N.V. and V. Lobanov.  1984.  Investigation of mesoscale eddies east of Kuril Islands on the 
+basis of meteorological satellite data.  Issledovanie Zemli iz Kosmosa (Soviet J. Rem. Sensing) 3-
+1983:40-47 (in Russian). 
+Davis, R.E.  1976.  Predictability of sea surface temperature and sea level pressure anomalies over the 
+North Pacific Ocean.  J. Phys. Oceanogr. 6:249-266. 
+ 
+Denman, K.L., H.J. Freeland and J.F. Garrett.  1991.  Climate change in the subarctic Pacific Ocean. Part 
+I.  Atmospheric and oceanographic evidence.  PICES Scientific Workshop, Seattle, 10-13 
+December 1991, Part A, Summ. Rep. and Rev. Pap. 
+ 
+Ebbesmeyer, C., D. Cayan, D. McClain, W.D. Nichols, D.H. Peterson and K. Redmond, 1991: Sensitivity 
+of marine biology to climate change in a North Pacific swath. Proc. 7th Ann. Pacific Climate 
+(PACLIM) Workshop, Asilomar, CA, April 10-13, 1990. 
+ 
+ 21
+Favorite, F., A.J. Dodimead and K. Nasu.  1976  Oceanography of the Subarctic Pacific region, 1960-71. 
+Bull. Int. North Pacific Comm. 33:1-187. 
+ 
+Hanawa, K., Y. Yoshikawa, and T. Watanabe.  1989.  Composite analyses of wintertime wind stress 
+vector fields with respect to SST anomalies in the western North Pacific and the ENSO events: 
+Part I. SST composite. J. Met. Soc. Japan.  67:385-400. 
+ 
+Hanawa, K., Y. Yoshikawa, and T. Watanabe.  1989.  Composite analyses of wintertime wind stress 
+vector fields with respect to SST anomalies in the western North Pacific and the ENSO events: 
+Part II. ENSO composite, J. Met. Soc. Japan.  67:833-844. 
+ 
+Hanawa, K.  1991.  Long-term variations in physical environments in the Pacific Ocean, p. 19-28.  In T. 
+Kawasaki, S. Tanaka, Y. Toba, and A. Taniguchi [ed.] Long-term variability of pelagic fish 
+populations and their environment. Pergamon, Oxford. 
+ 
+Horel, J.D. and J.M. Wallace.  1981.  Planetary scale atmospheric phenomena associated with the 
+Southern Oscillation.  Monthly Weath. Rev., 109:813-829. 
+ 
+Kazmin, A.  1994.  Estimates of frontogenesis in the North Pacific.  Abstract, The Oceanography Society 
+Pacific basin meeting, July 19-22, 1994, Honolulu. 
+ 
+Kelly, K.A., M.J. Caruso and J.A. Austin.  1993.  Wind-forced variations in sea surface height in the 
+northeast Pacific Ocean.  J. Phys. Oceanogr. 23:2392-2411. 
+ 
+Miller, A.J., D.R. Cayan, T.P. Barnett, N.E. Graham, and J.M. Oberhuber.  1992.  Interdecadal variability 
+of the Pacific Ocean: model response to  observed heat flux and wind stress anomalies.  Clim. 
+Dyn. 4:287-302. 
+ 
+Musgrave, D.L., T.J. Weingartner and T.C. Royer.  1992.  Circulation and hydrography in the 
+northwestern Gulf of Alaska.  Deep-Sea Res. 39:1499-1519.   
+ 
+Nagata, Y. and K. Ohtani.  1989.  Subarctic North Pacific.  Japan-U.S. WOCE workshop 3, Kyoto, Japan. 
+ 
+Namias, J., X. Yuan and D.R. Cayan.  1988.  Persistence of North Pacific sea surface temperature an 
+atmospheric flow patterns.  J. Climate. 1:682-703. 
+ 
+Niiler, P.P. and C.J. Koblinsky.  1985.  A local time-dependent Sverdrup balance in the eastern North 
+Pacific Ocean. Science. 229:754-756. 
+ 
+Okuda, K., K. Mizuno and K. Kitani.  1991.  Some important features in the oceanographic environment 
+of the PICES area and their relationship to the fisheries problems.  PICES Scientific Workshop, 
+Seattle, 10-13 December 1991, Part A, Summ.  Rep. and Rev. Pap. 
+ 
+Overland, J.E., M.C. Spillane, H.E. Hurlburt and A.J. Wallcraft.  1994.  A numerical study of the 
+circulation of the Bering Sea basin and exchange with the North  Pacific Ocean.  J. Phys. 
+Oceanogr. 24:736-758. 
+ 
+PICES Working Group I.  1995.  The Okhotsk Sea and Oyashio Region. North Pacific Marine Science 
+Organization (PICES) Report 2: 227 p. 
+ 22
+Roden, G.  1991.  Subarctic-subtropical transition zone of the North Pacific:  Large-scale aspects and 
+mesoscale structure. In J.A. Wetherall [ed.] Biology Oceanography and Fisheries of the North 
+Pacific Transition Zone and the Subarctic Frontal Zone. NOAA Technical Report. 105:1-38. 
+ 
+Royer, T.C.  1982.  Coastal fresh water discharge in the northeast Pacific.  J. Geophys. Res. 87:2017-
+2021. 
+ 
+Royer, T.C.  1993.  High-latitude oceanic variability associated with the 18.6-year nodal tide.  J. 
+Geophys. Res. 98:4639-4644. 
+ 
+Ruddick, B.  1983.  A practical indicator of the stability of the water column to double-diffusive activity. 
+Deep-Sea Res. 30:1105-1107. 
+ 
+Sekine, Y.  1988.  Anomalous southward intrusion of the Oyashio east of Japan.  1. Influence of the 
+seasonal and interannual variations in the wind stress over the North Pacific.  J. Geophys. Res. 
+93:2247-2255. 
+ 
+Tabata, S.  1982.  The anticyclonic, baroclinic eddy off Sitka, Alaska, in the northeast Pacific Ocean.  J. 
+Phys. Oceanogr. 12:1260-1282. 
+ 
+Tabata, S., B. Thomas and D. Ramsden.  1986.  Annual and interannual variability of steric sea level 
+along Line P in the northeast Pacific Ocean.  J. Phys. Oceanogr. 16:1378-1398. 
+ 
+Talley, L.D.  1993.  Distribution and formation of North Pacific Intermediate Water. J. Phys. Oceanogr. 
+23:517-537. 
+ 
+Talley, L.D., Y. Nagata, M. Fujimura, T. Kono, D. Inagake, M. Hirai, and K. Okuda.  1994.  North 
+Pacific Intermediate Water in the Kuroshio/ Oyashio mixed water region.  J. Phys. Oceanogr. 
+25:475-501. 
+ 
+Talley, L.D.  1995.  Salinity extrema from thermohaline tilting. Submitted to J. Phys. Oceanogr. 
+ 
+Trenberth, K.E.  1990.  Recent observed interdecadal climate changes  in the northern hemisphere. Bull. 
+Amer. Meteorol. Soc. 71:988-993.   
+ 
+UNESCO, 1992:  Oceanic interdecadal variability.  Intergovernmental Oceanographic Commission 
+technical series. 40: 37p. 
+ 
+Van Scoy, K.A. and E.R.M. Druffel.  1993.  Ventilation and transport of thermocline and intermediate 
+waters in the northeast Pacific during recent El Ninos. J.  Geophys. Res. 98:18083-18088. 
+ 
+Warren, B.A. and W.B. Owens.  1985.  Some preliminary results concerning deep northern boundary 
+currents in the North Pacific.  Progr. in Oceanogr. 14:537-551. 
+ 
+White, W.B. and S. Tabata.  1987.  Interannual westward- propagating baroclinic long-wave activity on 
+Line P in the eastern midlatitude North Pacific.  J. Phys. Oceanogr. 17:385-396. 
+ 
+Yoshida, T.  1993.  Sea surface temperature fronts around the south boundary of the western North 
+Pacific Subarctic gyre. PICES Nemuro Workshop on western subarctic circulation '93, Sept 19-
+23, 1993. 
+ 23
+Yuan, X.  1994.  Characteristics and frontogenesis of the subarctic front in the North Pacific. Ph.D. thesis, 
+Scripps Institution of Oceanography, U. Calif. San Diego. 
+ 
+Zhang, R.C. and K. Hanawa.  1993.  Features of the water-mass front in the northwestern North Pacific.  
+J. Geophys.Res. 98:967-975. 
+ 
+ 
+ 24
+ 
+ 
+ 
+ 
+ 25
+ 
+ 26
+Seasonal and Interannual Variability of Ice Cover 
+in the North Pacific Marginal Seas 
+ 
+ 
+Vladimir V. PLOTNIKOV & Gennady I. YURASOV 
+ 
+ 
+Pacific Oceanological Institute 
+43 Baltiyskaya Street, Vladivostok, Russia.  690041 
+ 
+ 
+ Due to thermal inertia, ice conditions of the Okhotsk, Bering and Japan Seas are one of the most 
+expressive indicators for variability of the climatic system in the whole North Pacific.  One of the main 
+generalized characteristics of ice conditions is ice cover (Maksimov, 1977;  Plotnikov, 1987;  L. 
+Gidrometeoizkdat, 1977). 
+ 
+ Most essential input to the evolution of ice processes in these frozen seas is made by seasonal and 
+interannual fluctuations (Plotnikov, 1987;  Zubakin, 1987).  Still, for these seas, the quantitative analyses 
+of similar variability needs further study. 
+ 
+ As the initial data, mean 10-day values of the ice cover in the Pacific marginal seas were used 
+starting from 1960.  These values were obtained by averaging maps of ice surveys from aircraft 
+performed in the region, and then they were corrected with the help of all data available (vessel 
+observations, satellite data, etc.)  The time interval of studies included the period from December to May 
+for the Okhotsk and Bering Seas, and from December to April  for the Japan Sea.  The choice of such 
+periods is determined by climatic peculiarities of the considered water areas (L. Gidrometeoizdat, 1977). 
+ 
+1. SEASONAL VARIABILITY 
+ 
+ Seasonal fluctuations of the ice cover conditions in the Pacific marginal seas are mainly 
+conditioned by astronomical forcing and possess a vividly expressed annual period.  These oscillations 
+are superimposed by fluctuations conditioned by of regional hydrometeorological factors. 
+ 
+ To analyze the processes of the seasonal evolution for the ice cover, a theory of periodically 
+correlated random processes was used (Zakharov, 1981).  To represent the seasonal character of ice 
+processes the typical curves were computed of seasonal motion of ice cover for mild, normal and severe 
+winters were drawn (Fig. 1), with an estimation of the standard deviations (Fig. 2) that characterize their 
+variability. 
+ 
+ Distribution of estimates shows a vividly expressed annual motion of the ice cover and a local 
+minimum of variability during the periods of maximal development of ice conditions.  Variability 
+maxima are generally related to the periods of development and destruction of the ice cover except the 
+Bering Sea, where variability maximum appears to be connected with the start of the period of the ice 
+destruction.  Differences in the analyzed characteristics are expressed first in absolute values and in terms 
+when different phases start to take place. 
+ 
+ 27
+ Thus, the ice cover maximum in the Okhotsk Sea takes place in March, that of the Japan Sea  in 
+February;  and for the Bering Sea, there are, two periods of possible maxima of the ice cover:  at the end 
+of February and early of April. 
+ 
+ Some similarity of the ice processes in the Okhotsk Sea and the Japan Sea, as well as distinct 
+differences in the Bering Sea (in statistical sense) are probably related to the nature of the evolution of the 
+large-scale system of hydrometeorological parameters of the North Pacific (L. Gidrometeoizdat, 1977). 
+ 
+ To estimate seasonal variability, the correlation matrices of the ice cover distribution interrelation 
+were constructed (Table 1-3).  These matrices show that the correlations during the ice season generally 
+preserve their sign.  This fact reflects the stability (in a statistical sense) of tendencies arising in the ice 
+processes.  The maximal sluggishness of the processes (the largest duration of significant relations 
+satisfying 95% level of significance) is related to the periods when ice cover is a maximum.  For the 
+Okhotsk Sea this period lasts from February to March;  and for the Bering Sea, from the end of January to 
+April;  and for the Sea of Japan, from January to April.  The duration of significant correlations during 
+these periods reaches 3-4 months (i.e. state of ice conditions just during these periods influences further 
+evolution of ice processes).  The least sluggishness of the processes occurs at the beginning of the ice 
+period.  This can be easily explained by the initial nonstability of the ice processes at the beginning of ice 
+formation, when even small disturbances of the external factors can lead to radical redistribution of the 
+new formed ice cover.  To a lesser extent, such a fact is also a characteristic for the end of the ice period . 
+ 
+2. INTERANNUAL VARIABILITY 
+ 
+ To estimate long-term variability, the many years ice cover series for the same 10-day periods 
+were prepared.  They were used to calculate statistical estimates of the correlation functions and 
+frequency spectra.  They permit us to determine to a first approximation some peculiarities of the long-
+term variability, as well as to repeat the main energy-carrying frequencies and their amplitudes. 
+ 
+ The schemes show (Fig. 3) that the time of relaxation of the autocorrelation functions generally 
+exceeds the data time spacings (one year).  Along with this, the autocorrelation functions show the 
+presence of the quasiperiodic components (Fig. 4).  The periods of 2-3 years, 7-8 years, 11 years and 22 
+years are distinguished.  With some confidence it is possible to distinguish the 2-3 year variability, 
+considering the data available (33 years). 
+ 
+ Investigations performed recently (the INPOC Programme, etc.) permit us to suggest that such 
+periodicity is possibly typical of the whole climatic system in the Pacific Ocean Subarctic Zone.  A 
+possible interpretation of the mechanism for formation of such variability, at least as a first 
+approximation, can be presented as a chain of cause and effect relationships. 
+ 
+ The disturbance of the thermodynamic equilibrium in the Subarctic Front zone in September of 
+1991 lead to the increase of the interlatitudinal heat- and mass-exchange, which in turn increased the level 
+of inhomogeneity of the typical subarctic water and lead to sharp contrasts of temperature between the 
+ocean-atmosphere and the continents in winter of 1991 - 1992.  (This conclusion is made on the basis of 
+analyzing the cruise data obtained in the bounds of the INPOC Programme and it is presented in the 
+Report on 60 Cruise of RV "PRILIV", 1993).  
+ 
+ Along with the noted characteristics, the whole complex of the hydrometeorological parameters, 
+including heat storage of the upper 1,000 m layer of the ocean, was changed.  The next fact is 
+intensification of circulation activity and enforcing of heat-exchange processes between the atmosphere 
+and the ocean, which lead to the extreme cooling of the active layer in the North Pacific in winter of 
+ 28
+1991-1992.  Secondary effect of the stated processes was expansion of the area of the western subarctic 
+subtype of waters in spring of 1992 (Fig. 5).  (Many researchers distinguish the western and the eastern 
+subtypes of the subarctic waters.  The main difference between these subtypes consists of the fact that the 
+western subtype possess a distinct subsurface cold layer, and the eastern one does not possess it, or it is 
+very weak.  Corresponding to these subtypes, the subarctic zone of the Pacific Ocean can be divided into 
+two areas - western and eastern.  Here the location of the division can be considered as some indicator of 
+the hydrological processes in the Subarctic zone of the Northern Pacific).  Until the fall of 1992 the cold 
+intermediate layer formed as a result of winter convection, was preserved, and the area of its distribution 
+even increased to some extent due to advection and mixing processes.  Thus, for the winter of 1992-1993 
+the western area had lower heat storage of waters and the active circulation in the system of the western 
+marginal currents transporting the cold water.  This lead to decreasing of temperature contrasts between 
+the ocean, atmosphere, and the continents.  The given changes caused a decrease of heat exchange at the 
+sea surface and a decrease of dynamic activity, which lead to relatively mild winter conditions.  
+Correspondingly, the margin of the western subtype of waters in winter of 1993 shifted to the west as 
+compared to that a year before. 
+ 
+ In the eastern sector, according to the proposed suggestions, the processes were more diverse. 
+This is indirectly show by the results of the successive comparison of smoothed temperature values on the 
+isopicnic surfaces along 50° N, as well as values of their difference from one survey to another. This 
+gives the opportunity to suggest the presence of some balance mechanism between the thermohaline 
+characteristics of the western and eastern zones, separating the subarctic zone of the North Pacific into 
+two parts. 
+ 
+ In view of such notions it is possible to explain the phase opposition of the ice processes in the 
+Japan and Okhotsk Seas compared to the Bering Sea, as well as its exceptions.  This is related to the 
+position of the boundary between the western and the eastern subtypes of waters of the subarctic zone.  
+The phase opposition is explained by the location of the mentioned seas in the zones of predominance of 
+different subtypes of the subarctic structure of waters.  A possible shift of the boundary between the 
+waters subtypes far to the east, when the predominant part of the Bering Sea would be located in the area 
+of the western subtype of waters, would result in a shift in ice processes in all North Pacific marginal 
+Seas. 
+ 
+ The peaks of spectral density occurring at the periods of 11 years and 22 years, probably are 
+related to the heliophysical factors.  This periodicity is marked in many climatic systems also. 
+ 
+ Considering the problem of classification by the variability character, we can distinguish as a 
+separate group the initial period of ice formation including December, where the correlation and 
+especially spectral functions differ considerably from the same functions during the other periods.  This is 
+also the reflection of the non-stability of ice processes during the initial period of ice formation. 
+Consequently, the ice cover during the period of its primary formation cannot be considered as indicator 
+of the climatic processes.  In space and time, a distinct non-regularity of the weight distribution of some 
+cyclic components of variability is observed.  While during the periods of the ice growth the process of 7-
+8 year periodicity prevail, during the ice destruction periods it is observed the shift of energy-carrying 
+characteristics to the area of lower frequencies and the fluctuations of 11 years and 22 years periods start 
+to predominate.  It is noted the more expressed predominance of 7-8 years variability in the Okhotsk and 
+Japan Seas and 11 and 22 years variability in the Bering Sea. 
+ 
+ Besides the noted periodicities there is a series of secondary cycles, which probably are overtones 
+of main oscillations, and their relative input to their total variability is considerably lower. The large-scale 
+variability of ice cover in the Pacific marginal seas is a useful guide, to possible changes in climatic 
+ 29
+conditions, and similar variations are observed by researchers for the other hydrometeorological 
+characteristics as well. 
+ 
+ Taken together it is hoped that such studies can make useful additions to our understanding and 
+of the  functioning of a complicated climatic system as the North Pacific. 
+ 
+ 
+REFERENCES  
+ 
+Maksimov, I.V., E.I. Sarukhanyan and N.P. Smirnov.  1977.  Cosmogeophysical background of 
+macroprocesses in the ocean and atmosphere and super long-ranged forecast. L. Gidrometeoizdat. 
+1977:18-25. 
+ 
+Plotnikov, V.V. 1987.  Estimation of the space - time conjugation of ice conditions in the Far Eastern 
+seas. FERNI. 36:79-88. 
+ 
+Rozhkov, V.A.  1979.  Methods of the probability analysis of oceanic processes. L. Gidrometeoizdat. 
+1979: 230 p.      
+ 
+Physical fundamentals of the theory of climate and its modelling. - L. Gidrometeoizdat. 1977: 127 p. 
+ 
+Zakharov, V.F.  1981.  Ice of Arctical and the present - day natural processes. L. Gidrometeoizdat. 1981: 
+136 p. 
+ 
+Zubakin, G.K.  1987.  Large-scale variability of the state of the Nort-European basin sea ice cover. L. 
+Gidrometeoizdat. 1987: 160 p. 
+ 
+ 
+ 30
+ 
+ 
+ 
+Table 1. Correlation matrix of seasonal ice interconnections ( Okhotsk Sea ) 
+ 
+   10 December  January February March April May 
+  Month   day    I   II   III    I   II   III   I   II   III   I   II   III   I   II   III    I   II   III
+    I 1 . 0 0                  
+December   II  0.70 1.00                 
+  III   0.38 0.67 1.00                
+    I 0.24 0.48 0.79 1.00               
+ January   II 0.21 0.32 0.65 0.79 1.00              
+  III 0.11 0.38 0.49 0.67 0.73 1.00            
+    I  0.31 0.41 0.41 0.59 0.56 0.881.00           
+ February   II  0.40 0.44 0.43 0.56 0.65 0.890.951.00          
+  III 0.41 0.43 0.48 0.50 0.64 0.840.870.941.00         
+    I 0.32 0.29 0.31 0.38 0.38 0.670.790.790.881.00        
+ March      II 0.29 0.33 0.29 0.33 0.31 0.650.750.700.820.911.00       
+  III 0.20 0.25 0.26 0.37 0.46 0.80 0.78 0.81 0.90 0.88 0.88 1.00      
+    I 0.23 0.31 0.34 0.34 0.54 0.79 0.750.810.870.800.770.911.00     
+ April   II 0.16 0.26 0.42 0.37 0.52 0.78 0.760.790.830.720.690.800.851.00     
+  III 0.09 0.10 0.27 0.24 0.44 0.68 0.64 0.66 0.72 0.66 0.61 0.70 0.74 0.91 1.00    
+    I 0.04 0.04 0.27 0.29 0.40 0.56 0.48 0.47 0.58 0.58 0.60 0.61 0.61 0.72 0.85 1.00   
+ May   II 0.18 0.25 0.37 0.44 0.40 0.61 0.50 0.49 0.60 0.50 0.62 0.60 0.61 0.65 0.70 0.87 1.00 
+  III 0.51 0.33 0.23 0.37 0.43 0.30 0.33 0.39 0.46 0.34 0.42 0.34 0.32 0.20 0.21 0.38 0.61 1.00
+ 
+ 
+ 
+ 
+Table 2. Correlation matrix of seasonal ice interconnections ( Bering Sea ) 
+ 
+   10 December January February March April May 
+  Month  day    I   II   III    I   II   III   I   II   III   I   II   III   I   II   III    I   II   III
+    I 1 . 0 0                  
+December   II  0.83 1.00                 
+  III   0.49 0.65 1.00                
+    I 0.16 0.40 0.75 1.00               
+ January   II 0.25 0.55 0.68 0.83 1.00              
+  III 0.25 0.43 0.59 0.54 0.78 1.00            
+    I  0.06 0.27 0.53 0.49 0.61 0.791.00           
+ February   II  0.29 0.36 0.39 0.27 0.40 0.520.711.00          
+  III 0.26 0.39 0.40 0.84 0.45 0.550.590.791.00         
+    I 0.07 0.20 0.19 0.19 0.36 0.390.320.650.731.00        
+ March      II 0.01 0.14 0.20 0.28 0.42 0.420.410.710.660.851.00       
+  III 0.21 0.40 0.50 0.37 0.56 0.65 0.61 0.75 0.60 0.71 0.84 1.00      
+    I 0.22 0.39 0.57 0.44 0.51 0.61 0.660.780.600.650.730.901.00     
+ April   II 0.26 0.43 0.57 0.35 0.46 0.57 0.590.760.680.700.700.880.911.00     
+  III 0.21 0.37 0.54 0.31 0.43 0.51 0.63 0.75 0.67 0.68 0.67 0.83 0.84 0.90 1.00    
+    I 0.20 0.39 0.40 0.40 0.58 0.63 0.60 0.70 0.69 0.73 0.72 0.85 0.80 0.88 0.86 1.00   
+ May   II 0.12 0.32 0.34 0.39 0.51 0.55 0.51 0.70 0.65 0.77 0.73 0.79 0.83 0.84 0.77 0.92 1.00 
+  III 0.00 0.19 0.16 0.22 0.26 0.34 052 0.67 0.51 0.52 0.56 0.56 0.69 0.71 0.62 0.71 0.77 1.00
+ 
+ 
+ 31
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3. Correlation matrix of seasonal ice interconnections ( Japan Sea ) 
+ 
+    10 December January February March April 
+Month   day    I   II   III    I   II   III    I   II   III    I   II   III     I   II   III 
+    I 1.00               
+December   II 0.59 1.00              
+  III 0.22 0.49 1.00             
+    I 0.03 0.29 0.59 1.00            
+January   II 0.16 0.42 0.30 0.64 1.00           
+  III 0.02 0.39 0.56 0.57 0.76 1.00          
+    I 0.64 0.21 0.31 0.57 0.62 0.73 1.00         
+February   II 0.23 0.35 0.28 0.46 0.71 0.71 0.73 1.00        
+  III 0.12 0.08 0.01 0.26 0.69 0.50 0.38 0.66 1.00       
+    I 0.07 0.00 0.13 0.09 0.51 0.51 0.47 0.53 0.75 1.00      
+March   II 0.12 0.04 0.11 0.12 0.52 0.42 0.38 0.56 0.81 0.77 1.00     
+  III 0.37 0.30 0.27 0.18 0.57 0.59 0.38 0.64 0.74 0.72 0.66 1.00    
+    I 0.41 0.18 0.12 0.06 0.49 0.46 0.41 0.36 0.46 0.57 0.37 0.61 1.00   
+April   II 0.40 0.32 0.31 0.09 0.44 0.56 0.33 0.61 0.47 0.33 0.40 0.67 0.47 1.00  
+  III 0.66 0.36 0.34 0.15 0.22 0.19 0.25 0.38 0.12 0.02 0.17 0.43 0.44 0.53 1.00
+ 
+ 
+ 
+ 
+ 32
+ 
+ 33
+ 
+ 34
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35
+ 
+ 36
+ 
+ 37
+ 
+ 38
+ 
+ 39
+ 
+ 40
+ 
+ 41
+ 
+ 42
+ 
+ 43
+ 
+ 44
+ 
+ 45
+ 
+ 46
+ 
+ 47
+ 
+ 48
+ 
+ 49
+ 
+ 50
+ 
+ 51
+REFERENCES 
+ 
+Bendat, J.S., and A.G. Piersol.  1971.  Random Data:  Analysis and Measurement Procedures. Wiley-
+Interscience, New York. 407 p. 
+ 
+Bretherton, F.P., R.E. Davis, and C.B. Fandry.  1976.  A technique for objective analysis and design of 
+oceanographic experiments applied to MODE-73. Deep-Sea Research. 23:559-581. 
+ 
+Chelton, D.B., and R.E. Davis.  1982.  Monthly mean sea-level variability along the west coast of North 
+America.  Journal of Physical Oceanography. 12:757-784. 
+ 
+Davis, R.E., D.C. Webb, L.A. Regier, and J. Dufour.  1992.  The autonomous Lagrangian circulation 
+explorer (ALACE). Journal of Atmospheric and Oceanic Technology. 9:264-285. 
+ 
+Halpern, D., W. Knauss, O. Brown, M. Freilich, and C. Wentz.  1994.  An atlas of monthly mean 
+distributions of SSMI surface wind speed, ARGOS buoy drift, AVHRR/2 sea surface 
+temperature, AMI surface wind components, and ECMWF surface wind components during 
+1992. Jet Propulsion Laboratory Publication 94-4. Unpublished report. 
+ 
+Hare, S.  1995.  PhD Dissertation, University of Washington, Seattle, Washington, U.S.A. 
+ 
+Hu, J.H., and P.P. Niiler.  1987.  NEPAC current meter and XBT data for the circulation in the northeast 
+Pacific thermocline:  42N and 28N, 152W;  July 1982-October 1985. SIO Ref. 87-4.  
+Unpublished report. 
+ 
+Jacobs, G.A., H.E. Hurlburt, J.C. Kindle, E.J. Metzger, J.L. Mitchell, W.J. Teague, and A.J. Wallcraft.  
+1994.  Decade-scale trans-Pacific propagation and warming effects of an El Nino anomaly. 
+Nature. 370:360-363. 
+ 
+Miller, S., and C. Wunsch.  1973.  The pole tide. Nature. 246:98-102. 
+ 
+Niiler, P.P.  1994.  Surface currents of the Pacific Ocean as measured by Lagrangian drifters (abstract). 
+Proceedings of the Oceanography Society Pacific Basin Meeting, Honolulu, July 1994. 
+ 
+Reed, R.K.  1990.  A year-long observation of water exchange between the North Pacific and the Bering 
+Sea. Limnology and Oceanography. 35:1604-1609. 
+ 
+Reynolds, R.  1994.  Surface velocity. In US WOCE Report 1994. US WOCE Implementation Report 
+Number 6, US WOCE Office, College Station Texas. Unpublished report. 
+ 
+Rhines, P.B.  1976.  The dynamics of unsteady currents. In E.D. Goldberg [ed.] The Sea, 6. John Wiley, 
+New York. 
+ 
+Roden, G.I.  1989.  Analysis and interpretation of long-term climatic variability along the west coast of 
+North America. In D.H. Peters [ed.] On Aspects of Climate Variability in the Pacific and Western 
+Americas. Geophysical Monograph 55, American Geophysical Union. 
+ 
+Royer, T.C.  1989.  Upper ocean temperature variability in the northeast Pacific:  is it an indicator of 
+global warming? Journal of Geophysical Research. 94:18,175-18,183. 
+ 
+ 52
+Royer, T.C.  1993.  High-latitude oceanic variability associated with the 18.6 year nodal tide. Journal of 
+Geophysical Research. 98:4,639-4,644. 
+ 
+Schmitz, W.J., P.P. Niiler, and C.J. Koblinsky.  1987.  Two-year moored instrument result results along 
+152E. Journal of Geophysical Research. 92:10,826-10,834. 
+ 
+Stabeno, P.J., and R.K. Reed.  1991.  Recent Lagrangian measurements along the Alaskan Stream.  Deep-
+Sea Research. 38:289-296. 
+ 
+Stewart, R., L.L. Fu, and M. Lefebvre.  1986.  Science opportunities from the Topex/Poseidon mission. 
+Jet Propulsion Laboratory Publication 86-18. Unpublished report. 
+ 
+Stommel, H.M.  1989.  The Slocum mission. Oceanography, April 1989 issue. 
+ 
+Tabata, S.  1989.  Trends and long-term variability of ocean properties at Ocean Station P in the northeast 
+Pacific Ocean. In D.H. Peterson [ed.] Aspects of Climate Variability in the Pacific and Western 
+Americas. Geophysical Monograph 55, American Geophysical Union. 
+ 
+Trenberth, K.E., and J.W. Hurrell.  1994.  Decadal atmosphere-ocean variations in the Pacific.  Climate 
+Dynamics. 9:303-319. 
+ 
+White, W.B., and R.L. Bernstein.  1979.  Design of an oceanographic network in the midlatitude North 
+Pacific. Journal of Physical Oceanography. 9:592-606. 
+ 
+Wunsch, C.  1967.  The long-period tides. Reviews of Geophysics. 5:447-476. 
+ 
+Wunsch, C.  1981.  Low-frequency variability of the sea. In Evolution of Physical Oceanography:  
+Scientific Surveys in Honor of Henry Stommel. MIT Press, Cambridge, U.S.A. 623 p. 
+ 
+Wunsch, C., and D. Stammer.  1994.  The TOPEX/POSEIDON data. In US WOCE Report 1994.  US 
+WOCE Implementation Report Number 6, US WOCE Office, College Station Texas.  
+Unpublished report. 
+ 
+ 
+ 53
+ 
+ 54
+ 
+ 55
+ 
+ 56
+ 
+ 57
+ 
+ 58
+ 
+ 59
+ 
+ 60
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proceedings: 
+ECOSYSTEM RESPONSE 
+ 61
+PICES-GLOBEC International Program on  
+Climate Change and Carrying Capacity 
+ 
+ 
+Brent HARGREAVES 
+ 
+ 
+Chairman, Steering Committee 
+Pacific Biological Station, Nanaimo, Canada 
+ 
+ 
+ The North Pacific Marine Sciences Organization (PICES) and the Global Ocean Ecosystem 
+Dynamics Program (GLOBEC) agreed in 1993 to jointly organize an international science program on 
+“Climate Change and Carrying Capacity” (CCCC) in the temperate and subarctic regions of the North 
+Pacific Ocean. 
+ 
+ PICES is interested in studying Climate Change and Carrying Capacity due to the remarkable 
+changes that have occurred in the North Pacific in recent decades, in both the open ocean and marginal 
+seas.  Concurrent changes in atmospheric pressure and ocean temperatures indicate that in 1976 and 1977 
+the North Pacific shifted from one climate state, or regime, to another that has persisted through the 
+1980s.  Analyses of the North Pacific sea surface temperatures (SST) and atmospheric flow have 
+identified a pattern of regime shifts in SST, the atmospheric Pacific/North American index, and the 
+southern oscillation index, lasting several years to decades.  Specifically, since 1976 there has been an 
+intensification of the Aleutian low during the winter (November through March).  The centre of the low 
+has shifted further east and is now about 4 mb deeper, on average.  There have also been associated 
+changes in wind stress curl, the corresponding Sverdrup transport, a warming over Alaska, and a cooling 
+in the central and western North Pacific.  The strength of flows in the Alaska and California Currents also 
+appear to fluctuate out-of-phase.  Global modelling studies further suggest that if global warming occurs, 
+its effects will be most strongly developed in high latitudes. 
+ 
+ Although the important linkages are currently poorly understood, there is growing evidence that 
+biological productivity in the North Pacific responds to these decadal-scale shifts in atmospheric and 
+oceanic conditions, by flipping between periods of high and low productivity.  In coastal areas, both the 
+far eastern and California stocks of Pacific sardine peaked in abundance in the 1920s and 30s, declined 
+significantly in the 1950s and 1960s, then began to increase synchronously in the mid-1970s.  Large scale 
+changes in pelagic fish production in the western Pacific, and in year class synchrony in recruitment of 
+numerous important fish stocks in the eastern North Pacific, suggests coastal production is linked to 
+variations in ocean climate.  In the central North Pacific Ocean, there was a 50% increase in the average 
+summer primary production, a two-fold increase in the summer biomass of zooplankton during the same 
+period.  The combined, national catches of salmon in the North Pacific also apparently declined steadily 
+from historic highs in the late 1930s to a low in the mid-1970s.  However, by the late 1970s there was a 
+striking increase and the combined salmon catches subsequently had risen two- to three-fold, to nearly the 
+historic high levels for this century.  During any particular ocean climate regime the productivity of some 
+species may be high, while the productivity of other species may be low.  For example, major shifts in the 
+dominant fish species has occurred among sardine, anchovy and mackerel in the Kuroshio-Oyashio 
+Current region from the 1970s to 1980s.  In addition to the decadal-scale regime shifts, longer-term global 
+climate change may result in substantial changes in the biological carrying capacity of the North Pacific. 
+ The CCCC Program will address how climate change affects ecosystem structure, and the 
+productivity of key biological species at all trophic levels in the open ocean and coastal North Pacific 
+ 62
+ecosystems.  The physical environmental changes that have occurred in this century, particularly during 
+the late 1970s, may provide a natural experiment for studying such questions. 
+ 
+PICES-GLOBEC SCIENCE PLAN 
+ 
+ The CCCC Program will take a broad ecosystem approach, with a strong emphasis on the 
+coupling between atmospheric and oceanographic processes, and their impact on the production of the 
+major living marine resources.  Activities in the CCCC Program are anticipated on two spatial scales: 
+ 
+ A. basin-scale studies to determine how plankton productivity and the carrying capacity for high 
+trophic level, pelagic carnivores in the North Pacific changes in response to climate variations. 
+ 
+ B. regional-scale, ecosystem studies comparing how variations in ocean climate change species 
+dominance and productivity of key plankton and fish populations in the coastal margins of the 
+Pacific Rim, from China to California. 
+ 
+ The Science Strategy for the Program will include five main elements:  (1) focus primarily on 
+determining how the dynamics of the open subarctic and coastal margin ecosystems around the Pacific 
+Rim respond to climate change, (2) employ mechanistic process studies to improve understanding and 
+develop early recognition and prediction capabilities for regime changes, (3) develop and employ models 
+to guide research activities, integrate results, and improve capabilities for forecasting ecosystem responses 
+to climate change, (4) develop broader insights and understanding through regional scale comparative 
+studies, and (5) support and coordinate CCCC Program activities with GLOBEC.INTernational and other 
+existing and planned international (e.g. NPAFC, WOCE, JGOFS, GOOS, NOPACCS) and national (e.g. 
+CalCOFI, BIOCOSMOS, GLOBEC-SPACC, HUBEC, FOCI, LaPerouse) organizations and research 
+programs in the PICES region. 
+ 
+The Key Research Activities proposed include: 
+ 
+1. Retrospective analyses of existing atmospheric, physical, plankton, and fisheries data, to identify 
+recent (and historical) changes in the subarctic Pacific. 
+ 
+2. Develop numerical modelling system for ecosystem dynamics research and monitoring. 
+ 
+3. Develop observation and monitoring systems to collect new observational data on surface winds, 
+upper ocean temperature and circulation, nutrient flux, phytoplankton productivity (from ocean 
+colour sensors and in situ studies), zooplankton, mesopelagic micronektonic animals and higher 
+trophic level carnivores. 
+ 
+4. Biological Process Studies will be conducted in the open subarctic, and in the selected suite of 
+regional, coastal ecosystems around the Pacific Rim.  Key process studies will focus on primary 
+production, zooplankton production, distribution and life history, food web trophodynamics and 
+modelling (feeding, growth, reproduction and mortality rates), life history models, and the migratory 
+behaviour of key zooplankton, fish, marine mammals, and sea birds. 
+ 63
+PICES-GLOBEC International Program on  
+Climate Change and Carrying Capacity - 
+An update on progress 
+ 
+ 
+Warren S. WOOSTER 
+ 
+ 
+Co-Chairman, Implementation Group 
+School of Marine Affairs, University of Washington 
+Seattle, WA  98195-6000, U.S.A. 
+ 
+ 
+ The PICES-GLOBEC Workshop held in Nemuro on 15-17 October 1994 led to agreement on a 
+Science Plan which was subsequently approved by the Governing Council of PICES and published in the 
+report of the PICES Third Annual Meeting.  A Scientific Steering Committee for the CCCC Program was 
+established and charged with development of an implementation plan.  Membership of that Committee 
+was established and its Executive Committee met in Honolulu on 24-26 May 1995. 
+ 
+ The Draft Implementation Plan that emerged identified several Central Scientific Issues: 
+ 
+Physical Forcing: What are the characteristics of climate variability, can interdecadal patterns be 
+identified, how and when do they arise? 
+Lower trophic level response: How do primary and secondary producers respond in productivity, and 
+in species and size composition, to climate variability in different ecosystems of the 
+subarctic Pacific. 
+Higher trophic level response: How do life history patterns, distributions, vital rates, and population 
+dynamics of higher trophic level species respond directly and indirectly to climate 
+variability? 
+Ecosystem interactions: How are subarctic Pacific ecosystems structured?  Do higher trophic levels 
+respond to climate variability solely as a consequences of bottom up forcing?  Are 
+there significant inter-trophic level and top-down effects on lower trophic level 
+production and on energy transfer efficiencies? 
+  
+ Research activities applied to these issues at both basin and regional scales would include (1) 
+retrospective analyses, (2) development of models, (3) process studies, (4) development of observation 
+systems, and (5) data management. 
+ 
+ The following regional (1-10) and basin scale (11-12) components of the CCCC Program were 
+identified;  a tentative list of national and interna-tional programs, present or planned, in each component 
+was prepared. 
+ 
+1.  California Current System, south 
+2.  California Current System, Oregon to Vancouver Island 
+3.  Southeast and Central Alaska 
+4.  Eastern Bering Sea 
+5.  Western Bering Sea/Kamchatka 
+6.  Okhotsk Sea 
+7.  Oyashio/Kuroshio 
+ 64
+8.  Japan Sea/East Sea 
+9.  Bohai and Yellow Sea 
+10.  East China Sea 
+11.  Western subarctic gyre 
+12.  Eastern subarctic gyre 
+ 
+ Of particular importance for the regional scale studies is a comparison of ecosystem properties 
+and responses to climate variability.  For such comparisons, a common set of program outputs is required;  
+the following items were proposed:  
+ 
+Physical forcing: location of major fronts and current boundaries;  atmospheric pressure gradients;  air-
+sea heat exchange;  major physical features;  mixed layer temperature and depth;  
+velocity of major currents;  eddies, vertical and horizontal mixing and fine structure. 
+Lower trophic levels: annual and seasonal productivity;  temporal and spatial patterns of plankton 
+dynamics and nutrient fields;  identifica-tion of major taxonomic groups;  population 
+parameters for key species or taxonomic groups. 
+Higher trophic levels and ecosystem interactions: abundance trends and distributions of life stages of 
+key species and their predators and prey;  population parameters (growth, mortality, 
+reproduction);  food web structure (including diets and trophodynamic linkages of 
+key species);  pro-duction and productivity structure. 
+ 
+ It is proposed that the Scientific Steering Committee now be called the Implementation Group.  
+Because of the importance of the regional scale studies, representatives of National GLOBEC Programs 
+constitute the majority of the Group's Executive Committee which also includes a representative of the 
+North Pacific Anadromous Fish Commission, with which PICES is co-operating in this program.  Liaison 
+has been established with SCOR and IOC, sponsors of GLOBEC International, and with the International 
+Council for the Exploration of the Sea which is sponsoring a related program, on Cod and Climate 
+Change.  Cooperation with other relevant international programs and organizations is also contemplated. 
+ 
+ The importance of monitoring to the CCCC Program is clear.  The goal of the program is to 
+understand, and eventually to predict, the effects of climate variation on ecosystems of the subarctic 
+Pacific.  This requires that changes in climate and in ecosystem response be measured systematically in an 
+appropriate monitoring system, the design of which draws on the findings of retrospective, process, and 
+model studies.  Thus the PICES Working Group on Monitoring (WG 9) will have a key role in reviewing 
+existing and planned monitoring systems and in taking the requirements of the CCCC Program into 
+account as they develop plans for  
+enhancement of monitoring in the region. 
+ 
+ 65
+Monitoring of Low Trophic Level Variability and Response to 
+Long-Term Forcing in the Subarctic Pacific Ocean  
+ 
+ 
+Satoru TAGUCHI 
+ 
+ 
+Hokkaido National Fisheries Research Institute  
+116 Katsura-koi, Kushiro, Japan.  085 
+ 
+ 
+ABSTRACT 
+ 
+ The subarctic Pacific Ocean consists of the Alaskan gyre and the western Subarctic gyre with a 
+couple of seasonally ice-covered marginal seas such as the Bering Sea and the Sea of Okhotsk.  The 
+western Subarctic Gyre is the unique water mass, which can be modified by trapping of a warm core ring, 
+in the subarctic Pacific Ocean.  The Alaskan Gyre and the western Subarctic Gyre show a strong seasonal 
+thermocline.  Winter mixing does not occur below 100 m in the former gyre while it occurs deeper than 
+200 m in the latter gyre.  This difference in the physical structure of water mass in winter may cause a 
+different low trophic level variability at the near surface ecosystem between two water masses, and the 
+low trophic level may respond differently to long-term forcing.  To monitor those variabilities and 
+responses, ship observation has been the main effort based on either continuous or discrete 
+determinations.  Some determinations, for examples, microzooplankton are still dependent mostly on the 
+discrete sampling.  Technological developments with acoustics, optics, and satellite should be achieved to 
+overcome the present difficulties encountered in the subarctic Pacific Ocean.  
+ 
+ 
+1. SUBARCTIC PACIFIC OCEAN 
+ 
+ The subarctic Pacific Ocean is isolated by the subarctic front from the other parts of Pacific 
+Ocean (Roden 1972) and has a variety of water masses (Favorite et al. 1976).  The Bering Sea and the Sea 
+of Okhotsk are isolated from the subarctic Pacific Ocean by the Aleutian Islands and the Kurile Islands, 
+respectively.  They in part are seasonally ice-covered and will be discussed by somewhere else. The entire 
+subarctic gyre has a positive Ekman vertical velocity (Gargett 1991).  This indicates that a wind-forced 
+upwelling replenishes nutrients in the euphotic zone.  The eastern and the western parts of the subarctic 
+Pacific Ocean are consist of the Alaskan Gyre, which encircles the Gulf of Alaska (Musgrave 1992), and 
+the western Subarctic Gyre, which encircles the western subarctic Pacific Ocean (Kawai 1972), 
+respectively.  In the present study the term of the western Subarctic Gyre is applied to a broad area 
+including the western subarctic domain defined by Dodimead et al. (1963).  The western Subarctic Gyre 
+often traps a warm core ring, which modifies the regional water structure (Kawasaki 1992).  The physical 
+structure of the Alaskan Gyre is characterized by a permanent halocline at 80-120 m (Tabata 1975).  The 
+annual exchange through the halocline is limited (Acara 1964, Tabata 1965) and relatively insignificant 
+(Denman and Gargett 1988).  On the other hand, a permanent halocline similar to the one in Alaskan Gyre 
+dose not exist at a shallow upper layer in the western Subarctic Gyre (Favorite et al. 1976).  Nutrients are 
+abruptly transported to the upper layer in winter.        
+ 
+ Even though the subarctic Pacific Ocean concerns this study, the difference in water structures 
+between two gyres, which are outside the effects of any land mass or continental shelf, within the ocean, 
+requires a specific monitoring system for each gyre to evaluate the response to the long-term forcing in 
+ 66
+this region.  Most data to present the Alaskan Gyre in the present study are obtained at the oceanic station 
+P (50
+°
+N, 145
+°
+W) and its vicinity.  However, data to present the western Subarctic Gyre are obtained from 
+station A11 (40
+°
+30'N, 146
+°
+00'E), which located the western edge of the western subarctic domain, but still 
+at the north of the subarctic boundary (Kawasaki 1992).  
+ 
+2. LOW TROPHIC LEVEL VARIABILITY  
+ 
+ The driving force for the surface water currents in the Alaskan Gyre and the western Subarctic 
+Gyre is the drag of the wind on the surface of the water (Fig. 1) although there is the argument on the drag 
+of the wind (Amorocho and DeVries 1980).  Wind directions are opposite between winter and summer in 
+the region of the subarctic Pacific.  This variable force may affect the current speeds in the gyres since the 
+geostrophic circulation is weak in the subarctic gyre.  However the general current system remains the 
+same regardless of wind directions.  A strong seasonal thermocline is developed during the heating period 
+in both gyres.  It occurs in May in the Alaskan Gyre (Tabata 1975) and in April in the western Subarctic 
+Gyre (Kasai et al. 1994).  Surface winter minimum temperature was higher than 5.5
+°
+C in the former gyre 
+(Fig. 2) and higher than 3
+°
+C in the latter gyre (Fig. 3).  Vertical mixing occurs in winter in both gyres.  
+However, vertical mixing dose not occur below 100 m in the former gyre (Tabata 1975) while it goes 
+deeper than 200 m in the latter gyre (Kasai et al. 1994). Winter nitrate concentrations in the surface mixed 
+layer are 13 uM in the Alaskan Gyre (Anderson et al. 1969) and 20 uM in the western Subarctic Gyre 
+(Kasai et al. 1994), respectively.  These values are reduced to a minimum of 6 uM in late summer in the 
+former gyre.  However they are reduced to less than 0.5 uM in the latter gyre (Fig. 4).  Winter chlorophyll 
+a concentrations are 0.2 mg m
+-3
+ in the Alaskan Gyre (Parsons and Anderson 1970) and 0.05 mg m
+-3
+ in the 
+western Subarctic Gyre (Kasai et al. 1994), respectively.  The former value increases to only 0.73 mg m
+-3
+ 
+in summer (Welschmeyer et al. 1993) while the latter value increases to higher than 5 mg m
+-3
+ in the 
+spring bloom (Fig. 5).  The seasonal change of chlorophyll a concentration shows a single peak in 
+summer in the Alaskan Gyre and one large in spring and one small peak in fall in the western Subarctic 
+Gyre.  According to the seasonal studies by Parsons and LeBrasseur (1968), Anderson et al. (1969), and 
+Parsons and Anderson (1970), the timing of the spring bloom is earliest along coast and latest in a central 
+area associated with the center of Alaskan Gyre.  The similar trend is also observed in the western 
+Subarctic Gyre (Taguchi et al. 1994, Kasai et al. 1994, Yoshimori et al. 1995).  In the Alaskan Gyre, 
+picoplankton (<2 um) is usually dominant beneath the seasonal thermocline in August (Miller et al. 
+1988).  These small cells prefer the regenerated ammonium to nitrate (Harrison and Wood 1988).  During 
+the spring bloom, larger cells than 10 um become the most abundant; more than 90% of total chlorophyll 
+a in the western Subarctic Gyre (Fig. 6).  These large cells assimilate nitrate effectively (Taguchi et al. 
+1992).       
+ 
+ Based on the ecosystem model, Frost (1993) described little seasonal change of phytoplankton 
+standing stock in the Alaskan Gyre with a much large short-term variability.  However, a study on 
+numerical model of spring bloom reveals a great seasonality in the western Subarctic Gyre (Yoshimori et 
+al. 1995).  Seasonal change in phytoplankton production rate is substantial in the Alaskan Gyre (Frost 
+1993).  Maximum daily primary production can exceed 1 gC m
+-2
+ and minimum values are below 0.2 gC 
+m
+-2
+ with a modelled annual production of 162 gC m
+-2
+.  Although no seasonal data for primary production 
+are completed at the present time, the similar substantial seasonal change in phytoplankton production is 
+expected in the western Subarctic Gyre.  
+      
+ Zooplankton was collected with a vertical tow of 350 um mesh net from 150 m to the surface in 
+the Alaskan Gyre (Parsons and Lalli 1988, Brodeur and Ware 1992).  Macro- and microzooplankton were 
+collected with a vertical tow of 333 um mesh net and 183-35 um mesh net from the bottom of surface 
+mixed layer in the western Subarctic Gyre (Saito et al. 1994a).  In the Alaskan Gyre there is a marked 
+increase in the biomass of macrozooplankton as measured by wet weight (converted to dry weight by 
+ 67
+using a factor of 0.1) from winter values of about 1 mg m
+-3
+ to spring maximum of about 8 mg m
+-3
+.  On 
+the other hand, average dry weights of macrozooplankton vary a range from about 5 to 400 mg m
+-3
+ in the 
+western Subarctic Gyre.  A ratio of the maximum to the minimum is 80, which is ten times higher than 
+one in the Alaskan Gyre.  Although seasonal change of microzooplankton biomass is not available in the 
+Alaskan Gyre, LeBrasseur and Kennedy (1972) provide the seasonal change of microzooplankton 
+community in numbers as an index of microzooplankton abundance.  They show that maximum number 
+of 30,000 individuals m
+-3
+ in winter and minimum number of 100 individuals m
+-3
+ in summer.  However, 
+these values seems low compared to <10 x 10
+6
+ ciliates m
+-3
+ (Landry et al. 1993).  Strom et al. (1993) 
+estimated ciliate carbon biomass using a conversion factor of 0.19 pgC um
+-3
+ (Putt and Stoecker 1989).  
+The ciliate biomass ranged from 1 to 7 mgC m 
+-3
+ during summer.  Simulated annual cycle of herbivorous 
+carbon biomass ranged from <10 to 40 gC m
+-3
+ (Frost 1993).  While herbivores is not the major consumers 
+of phytoplankton (Dagg 1993), the specific mortality rate caused by microzooplankton is balanced by the 
+specific growth rate of phytoplankton during spring and early summer (Landry et al. 1993).  In the 
+western Subarctic Gyre, microzooplankton carbon biomass changes from maximum of 100 mg m
+-3
+ in 
+spring to minimum of 1 mg m
+-3
+ in winter (Saito et al. 1994b).  Similar to the Alaskan Gyre, the ecological 
+importance of microzooplankton compared to macrozooplankton is significant in summer in the western 
+Subarctic gyre (Fig. 7).  However, maximum zooplankton biomass, which occurred at or immediately 
+after the spring bloom of phytoplankton, mostly consisted of macrozooplankton in the western Subarctic 
+Gyre.  
+      
+ Neocalanus plumchrus, N. cristatus, and Eucalanus bungii may comprise 80 to 95% of the 
+plankton biomass collected by 0.33 mm net in the Alaskan Gyre (Miller et al. 1984).  They are 
+particularly abundant in the spring and early summer at Station P. N. plumchrus, N. flemingeri, N. 
+cristatus, and E. bungii may comprise more than 95% immediately after the spring bloom in the western 
+Subarctic Gyre (Saito et al. 1994b).  
+ 
+ Chaetognaths are important among invertebrate carnivores in the Alaskan Gyre (Terazaki and 
+Miller 1986) and the western Subarctic Gyre (Terazaki et al. 1995).  Eukronia hamata, which inhabits the 
+epipelagic (0-200 m) and upper mesopelagic layer (200-500 m) is the most abundant species in the 
+Alaskan Gyre.  Seasonal maximum and minimum abundances are about 1.5 and 0.5 individuals per m
+3
+, 
+respectively.  Sagitta elegans, which inhabits the epipelagic layer, is the most abundant species in the 
+western Subarctic Gyre.  
+ 
+ Carbon flux determined by sediment trap experiments (Takahashi 1986) is estimated at 200 m by 
+fitting an exponential decay curve to data at great depths as studied by Pace et al. (1987).  The maximum 
+flux occurs in July and the annual carbon flux is estimated as 86 gC m
+-2
+ year
+-1
+ in the Alaskan Gyre 
+(Taguchi 1992).  Carbon flux determined by sediment trap experiments at 500 m (Hanaoka, unpublished 
+data) shows one small peak (30 mgC m
+-2
+ d
+-1
+) in spring and one large peak (100 mgC m
+-2
+ d
+-1
+) in fall in the 
+western Subarctic Gyre (Fig. 8).  Annual carbon flux at 1,145 m is estimated to be 12 gC m
+-2
+ year
+-1
+ in the 
+western Subarctic Gyre if 40 mgC m
+-2
+ day
+-1
+ was assumed for the period from May 12 to July 10 in which 
+data was lacking.  Annual carbon flux at 50 m estimated by the method of Pace et al. (1987) is 120 gC m
+-2
+ 
+year
+-1
+.  When the concept developed by Eppley and Peterson (1979) is adopted to both gyres, the annual 
+carbon flux can be converted to the annual primary production.  The f-ratio is defined as a ratio of new 
+production to new plus regenerated production. Annual new production estimated by Wheeler (1993) 
+based on 180 day sufficient light for primary production is 49 gC m
+-2
+, which corresponds to 30 % of 
+modelled annual primary production (Frost 1993).  This estimate is similar to the annual minimum 
+estimated by Frost (1993). In this study 40%, as suggested by Frost (1993) is adopted to the Alaskan Gyre 
+while 50% is applied to the western Subarctic Gyre since their primary production is more likely 
+controlled by nitrate than ammonium (Kasai et al. 1994).  When those values are applied to both gyres, 
+the annual primary production is estimated to be 215 gC m
+-2
+ year
+-1
+ in the Alaskan Gyre and 240 gC m
+-2
+ 
+ 68
+year
+-1
+ in the western Subarctic Gyre, respectively.  The former estimate is 1.3 times higher than the 
+estimate from 
+14
+C experiments (170 gC m
+-2
+ y
+-1
+) (Welschmeyer et al. 1993).  The independent estimate of 
+annual primary production at Station P by Wong (cited in Welchmeyer et al. 1993) is similar (140 gC m
+-2
+ 
+y
+-1
+).  When we consider error involved in those calculation, the difference between those two estimates 
+can be insignificant but needs to be studied.  
+ 
+3. RESPONSES OF LOW TROPHIC LEVEL TO LONG-TERM FORCING       
+ 
+ The western Subarctic Gyre locates between 40 and 55
+°
+N while the Alaskan Gyre locates 
+between 50 and 60
+°
+N.  Photosynthetically Available Radiation (PAR) should be similar between both 
+areas (Sverdrup et al. 1965).  However, more than 60% cloud coverage occurs with 60% of chance in the 
+western Subarctic Gyre and higher than 70% of chance in the Alaskan Gyre in July (Fig. 9).  This 
+difference may result in different level of PAR on the ocean surface.  Photosynthesis of phytoplankton 
+may respond to the different level of PAR, which is governed by a long-term climate change, to achieve 
+higher primary production in the western Subarctic Gyre.  
+ 
+ Occurrence of low pressure system is limited to the western Subarctic Gyre in summer (Fig. 10).  
+This may disturb temporarily a seasonal thermocline.  However, the low pressure occurs often over the 
+two areas in winter.  Vertical mixing of surface water would be strongly induced by wind in winter.  It is 
+very critical for the supply of nutrients from the deep water in the western Subarctic Gyre.  However the 
+amount of nutrient supply is dependent on the different water structures between two gyres.  The 
+permanent halocline in the Alaskan Gyre could reduce the amount of nutrient supply from deep water.  
+The upper ocean stratification above the permanent halocline may be related to a relatively higher 
+precipitation in the Alaskan Gyre than that in the western Subarctic Gyre (Terada and Hanzawa 1984) and 
+freshwater input as summer runoff from coastal areas along the eastern and northern boundaries of the 
+Alaskan Gyre (Royer 1982).  
+ 
+ Phytoplankton would respond to assimilate nutrients when a favorite condition comes in spring 
+(Sverdrup 1953).  The response of phytoplankton is different between two gyres.  Large diatoms respond 
+immediately to high nitrate concentrations in the western Subarctic Gyre while picoplankton assimilate 
+nutrients in the Alaskan Gyre.  Picoplankton may assimilate favorably ammonium regenerated by 
+microzooplankton in the Alaskan Gyre as shown in the oceanic surface water by Harrison and Wood 
+(1988).  Large diatoms may not be efficiently grazed by macrozooplankton but they sink to deep water 
+(Riebesell 1991).  However, in the western Subarctic Gyre, macrozooplankton increase immediately after 
+the increase of large diatoms (Fig. 11).  
+ 
+ Bakun (1973) indicates that the strong interannual variation in the intensity of the winter winds is 
+positively correlated with the average summer zooplankton biomass during 1956-1962 and 1980-1989 
+(Brodeur and Ware 1992).  An increase in the intensity of the zonal winds associated with the North 
+Pacific High could speed up the subarctic current and advect zooplankton into the southern Gulf of 
+Alaska (Brodeur and Ware 1992).  In the western Subarctic Gyre, the zonal index indicates a different 
+trend in the spring of 1991 (Fig. 12) when the spatial distribution of abundant zooplankton biomass 
+(>1.25 mgC m
+-3
+) is limited to the coastal water and sporadic locations (Fig. 11).  The high anomaly 
+observed in March 1991 may be related to the reduced growth of young copepodites in spring.  
+ 69
+4. RECOMMENDATION FOR LONG-TERM MONITORING  
+ 
+ Effective methods are partially listed for the long-term monitoring in the subarctic Pacific Ocean 
+(Table 1).  Technology for most measurements is available at the present time.  However, some 
+application should be considered to monitor the long-term variability of lower trophic levels in the 
+subarctic Pacific Ocean.  Such application should be made (1) to determine the biological processes in the 
+regenerated nutrient predominant ecosystem in the Alaskan Gyre, since preferential utilization of 
+ammonium by phytoplankton can account for the low standing stock of phytoplankton and the 
+underutilization of nitrate in the surface layer in summer, and (2) to determine the biological processes in 
+the large particle predominant ecosystem in the western Subarctic gyre.  
+ 
+ 
+ACKNOWLEDGMENTS  
+ 
+Discussion with K. Ohtani, Hokkaido University;  H. Saito and T. Kono, Hokkaido National Fisheries 
+Research Institute improved the earlier versions of this manuscript.  Critical reading by K. Banse is 
+greatly appreciated.  
+ 
+ 
+REFERENCES  
+ 
+Acara, A.  1964.  On the vertical transport velocity on Line P in the eastern subarctic Pacific Ocean. J. 
+Fish. Res. Bd. Canada.  21:397-407.  
+ 
+Amorocho, J. and J.J. DeVries.  1980.  A new evaluation of the wind stress coefficient over water 
+surfaces. J. Geophys. Res.  85:433-442.  
+ 
+Anderson, G.C., T.R. Parsons and K. Stephens.  1969.  Nitrate distribution in the subarctic Northeast 
+Pacific Ocean. Deep-Sea Res.  16:329-334.  
+ 
+Anderson, G.C., R.K. Lam, B.C. Booth, and J.M. Glass.  1977.  A description and numerical analysis of 
+the factors affecting the processes of production in the Gulf of Alaska. Univ. Washington, Dept. 
+Oceanogr. Spec. Rept. 76 (Ref.M-77-40): 231p.  
+ 
+Arhcer, D., S. Emerson, T. Powell and C.S. Wong.  1993.  Numerical bindcasting of sea surface pCO
+2
+ at 
+weathership station Papa. Progr. Oceanog. 32:319-351.  
+ 
+Bakun, A.  1973.  Coastal upwelling indices, west coast of North America, 1946-1971.  NOAA Tech. 
+Rept. NMFS SSRF-671:103.  
+ 
+Bakun, A.  1990.  Global climate change and intensification of coastal ocean upwelling. Science. 
+247:198-201.  
+Bricaud, A., A.L. Bedhomme and A. Morel.  1988.  Optical properties of diverse phytoplanktonic species:  
+experimental results and theoretical interpretation. J. Plankt. Res. 10:851-873.  
+ 
+Brodeur, R.D. and D.M. Ware.  1992.  Long-term variability in zooplankton biomass in the subarctic 
+Pacific Ocean. Fish. Oceanogr. 1:32-38.  
+ 
+Caldwell, D.R., T.M. Dillon, and J.N. Moum.  1985.  The rapid-sampling vertical profiler:  an evaluation. 
+J. Atmos. Ocean. Tech. 2:615-625.  
+ 70
+ 
+Dagg, M.  1993.  Grazing by the copepod community dose not control phytoplankton production in the 
+subarctic Pacific Ocean. Prog. Oceanog. 32:163-183.  
+ 
+Denman, K.L. and A.E. Gargett.  1988.  Multiple thermoclines are barriers to vertical exchange in the 
+subarctic Pacific during SUPER, May 1984. J. Mar. Res. 46:77-103.  
+ 
+Dodimead, A.J., F. Favorite and T. Hirano.  1963.  Review of the oceanography of the subarctic Pacific 
+region. Bull. Inter. North Pac. Fish. Comm. 13:1-195.  
+ 
+Eppley, R.W. and B.J. Peterson.  1979.  Particulate organic matter flux and planktonic new production in 
+the deep ocean.  Nature. 282:677-680.  
+ 
+Favorite, F., A.J. Dodimead and K. Nasu.  1976.  Oceanography of the Subarctic Pacific region, 1960-
+1971. Bull. Inst. North Pacific Comm. 33:1-187.  
+ 
+Fiedler, P.C.  1984.  Satellite observations of the 1982-1983 El Nino along the U.S. Pacific Coast. 
+Science 224:1251-1254.  
+ 
+Frost, B.W.  1993.  A modelling study of processes regulating plankton standing stock and production in 
+the open subsurface Pacific Ocean. Prog. Oceanog. 32:17-56.  
+ 
+Gargett, A.E.  1991.  Physical processes and the maintenance of nutrient-rich euphotic zones. Limnol. 
+Oceanogr. 36:1527-1545.  
+ 
+Gargett, A.E. and T.R. Osborn.  1981.  Small-scale shear measurements during the Fine and 
+Microstructure Experiment (FAME). J. geophys. Res. 86:1929-1944.  
+ 
+Gordon, H.R., D.K. Clark, J.W. Brown, O.B. Brown, R.H. Evans and W.W. Broenkon.  1983. 
+Phytoplankton pigment concentrations in the Middle Atlantic Bight:  Comparison of ship 
+determinations and CZCS estimates. Appl. Optics 22:20-36.  
+ 
+Harrison, W.G. and L.J.E. Wood.  1988.  Inorganic nitrogen uptake by marine picoplankton: Evidence for 
+size partitioning. Limnol. Oceanogr. 33:468-475.  
+ 
+Herman, A.W.  1992.  Design and calibration of a new optical plankton counter capable of sizing small 
+zooplankton. Deep-Sea Res. 39:395-415.  
+ 
+Kasai, H., H. Saito and S. Taguchi.  1994.  Variability in timing and magnitude of spring bloom in the 
+western subarctic Pacific off Hokkaido, Japan. PICES Third Annual Meeting Abstracts 
+Collection:20. 
+Kawai, H.  1972.  Hydrography of the Kuroshio extension, p.235-352. In H. Stommel and K. Yoshida 
+[ed.] Kuroshio - Its physical aspects. Univ. Tokyo Press.  
+ 
+Kawasaki, Y.  1992.  Process of modification and decay of the Kuroshio warm-core ring 86B in the North 
+Pacific western subarctic region. Bull. Hokkaido Natl. Fish. Res. Inst. 56:43-53. (in Japanese with 
+English abstract).  
+ 
+ 71
+Kiefer, D.A., W.S. Chamberlin and C.R. Booth.  1989.  Natural fluorescence of chlorophyll a: 
+Relationship to photosynthesis and chlorophyll concentration in the western Pacific gyre. Limnol. 
+Oceanogr. 34:868-881.  
+ 
+Landry, M.R., B.C. Monger, and K.E. Selph.  1993.  Time-dependency of microzooplankton grazing and 
+phytoplankton growth in the subarctic Pacific. Prog. Oceanog. 32:205-222.  
+ 
+LeBrasseur, R.J. and O.D. Kennedy.  1972.  Microzooplankton in coastal and oceanic areas of the Pacific 
+Subarctic water mass: a preliminary report, p.355-365. In A.Y. Tekenouti et al. [ed.] Biological 
+Oceanography of the Northern North Pacific Ocean. Idemitsu Shoten, Tokyo.  
+ 
+McAllister, C.D.  1969.  Aspects of estimating zooplankton production from phytoplankton production. J. 
+Fish. Res. Bd. Canada. 26:199-220.  
+ 
+Miller, C.B., B.W. Frost, H.P. Batchelder, M.J. Clemons and R.E. Conway.  1984.  Life histories of large, 
+grazing copepods in a subarctic ocean gyre: Neocalanus plumchrus, Neocalanus cristatus, and 
+Eucalanus bungii in the Northeast Pacific. Prog. Oceanogr. 13:201-243.  
+ 
+Miller, C.B., K.L. Denman, A.E. Gargett, D.L. Mackas, P.C. Booth, B.W. Frost, M.R. Landry, J.Lewin, 
+C.J. Lorenzen, M.J. Perry, M. Dagg and N. Welschmeyer.  1988.  Lower trophic level production 
+dynamics in the oceanic Subarctic Pacific Ocean, p. 1-26. In T. Nemoto and W. G. Pearcy [ed.] 
+Proceedings of the Japan-United States of America Seminor on the Biology of Micronekton of 
+the Subarctic Pacific. Bull. Ocean Res. Inst., Univ. Tokyo, No. 26, Part I. 
+ 
+Moor, C., J.R.V. Zaneveld and J.C. Kitchen.  1992.  Preliminary results from in situ spectral absorption 
+meter data. Ocean Optics 11, Proc. SPIE Int. Soc. Opt. Eng. 1750:330-337.  
+ 
+Musgrave, D.L., T.J. Weingartner, and T.C. Royer.  1992.  Circulation and hydrography in the 
+northwestern Gulf of Alaska. Deep-Sea Res. 39:1499-1512.  
+ 
+Napp, J.M., P.B. Oriner, R.E. Pieper, and D.V. Holliday.  1991.  Biovolume-size spectra of epipelagic 
+zooplankton using a Multi-frequency Acoustic Profiling System (MAPS). Deep-Sea Res. 40:445-
+459.  
+ 
+Pace, M.L., G.A. Knauer, D.M. Karl, and J.H. Martin.  1987.  Primary production, new production and 
+vertical flux in the eastern Pacific Ocean. Nature. 325:803-804.  
+ 
+Parslow, J.S.  1981.  Phytoplankton-zooplankton interactions:  data analysis and modelling (with 
+particular reference to Ocean Station P [50
+°
+N, 145
+°
+W] and controlled ecosystem experiments). 
+Ph.D. thesis, Univ. British Columbia.  
+ 
+Parsons, T.R. and G.C. Anderson.  1970. Large scale studies of primary production in the North Pacific 
+Ocean. Deep-Sea Res. 17:765-776.  
+ 
+Parsosns, T.R. and C.M. Lalli.  1988. Comparative oceanic ecology of the plankton communities of the 
+subarctic Atlantic and Pacific Oceans. Oceanogr. Mar. Biol. Annu. Rer. 26:317-359.  
+ 
+Putt, M. and D.K. Stoecker.  1989.  An experimentally determined carbon:volume ratio for marine 
+"oligotrichous" ciliates from estuarine and coastal waters. Limnol. Oceanogr. 34:1097-1103.  
+ 72
+Riebesell, U.  1991.  Particle aggregation during a diatom bloom. II. Biological aspects. Mar. Ecol. Prog. 
+Ser. 69:281-291.  
+ 
+Roden, G.I.  1972.  Temperature and salinity fronts at the boundaries of the subarctic-subtropical 
+transition zone in the western Pacific. J. geophys. Res. 77:7175-7187.  
+ 
+Royer, T.C.  1982.  Coastal fresh water discharge in the Northeast Pacific. J. geophys. Res. 87:2017-
+2021.  
+ 
+Saito, H., H. Kasai, and S. Taguchi.  1994a.  The effects of physical structure on plankton biomass in the 
+subarctic Pacific in summer. Bull. Japanese Soc. Fish. Oceanogr. 58:116-119. (in Japanese).  
+ 
+Saito, H., H. Kasai and S. Taguchi.  1994b.  Seasonal change in zooplankton biomass in the western 
+subarctic Pacific off Hokkaido, Japan. PICES symposium, October 21, 1994, Nemuro. 
+ 
+Sathyendranathe, S., T. Platt, E.P.W. Horne, W.G. Harrison, O. Ulloa, R. Outerbridge and N. Hoepffner.  
+1991.  Estimation of new production in the ocean by compound remote sensing. Nature. 353:129-
+133.  
+ 
+Strom, S.L., J.R. Postel and B.C. Booth.  1993.  Abundance, variability, and potential grazing impact of 
+planktonic ciliates in the open subarctic Pacific Ocea. Prog. Oceanog. 32: 185-203.  
+ 
+Sverdrup, H.U.  1953.  On conditions for the vernal blooming of phytoplankton. J. Cons. perm. int. 
+Explor. Mer. 18:287-295.  
+ 
+Sverdrup, H.U., M.W. Johnson and R.H. Fleming.  1965.  The ocean, Prentice-Hall, 1087p.  
+ 
+Tabata, S.  1965.  Variability of oceanographic conditions at Station P in the subarctic Pacific Ocean. 
+Trans. Royal Soc. Canada, Ser. 4, 3:367-418.  
+ 
+Tabata, S.  1975.  The general circulation of the Pacific Ocean and a brief account of the oceanographic 
+structure of the North Pacific Ocean. Part 1.  Circulation and volume transports. Atmosphere 
+13:134-168.  
+ 
+Taguchi, S.  1992.  Comparison of biological oceanographic processes between the Alaskan gyre and the 
+central gyre in the east North Pacific. Bull Japanese Soc. Fish. Oceanogr. 56:25-28.  
+ 
+Taguchi, S., H. Kasai, and H. Saito.  1994.  Estimation of vertical distribution of chlorophyll a off east 
+Hokkaido by Gaussian curve fitting. Proc. NIPR Symp. Polar Biol. 7:17-31.  
+Taguchi, S., H. Saito, H. Kasai, T. Kono and Y. Kawasaki.  1992.  Hydrography and spatial variability in 
+the size distribution of phytoplankton along the Kurile Islnads in the western subarctic Pacific 
+Ocean. Fish. Oceanogr. 1:227-237.  
+ 
+Takahashi, K.  1986.  Seasonal fluxes of pelagic diatoms in the subarctic Pacific, 1982-1983. Deep-Sea 
+Res. 33:1225-1251.  
+ 
+Terada, K. and M. Hanzawa.  1984.  Climate of the North Pacific Ocean, p. 431-503. In H. Van Loon 
+[ed.] Climates of the Oceans, Elsevier, Amsterdam.  
+ 
+ 73
+Terazaki, M. and C.B. Miller.  1986.  Life history and vertical distribution of pelagic chaetognaths at 
+Ocean Station P in the subarctic Pacific. Deep-Sea. Res. 33:323-337.  
+ 
+Terazaki, M., H. Saito, H. Kasai, T. Kono, Y. Kawasaki, and S. Taguchi.  1995.  Horizontal distribution 
+and seasonal change of epipelagic Chaetognatha Sagitta elegans in relation to hydrography 
+around the Kurile and Hokkaido Islands in the western subarctic Pacific Ocean. Fish. Oceanogr. 
+(in press).  
+ 
+Tsuda, R., Y. Kakui and T. Saito.  1989.  Observations of marine phytoplankton size using optical fiber 
+cables with the laser technique. Proc. Adv. Mar. Tech. Conf. 1:59-63.  
+ 
+Welschmeyer, N.A., S. Strom, R. Goericke, G. DiTullio, M. Belvin, and W. Petersen.  1993.  Primary 
+production in the subarctic Pacific Ocean: Project SUPER. Prog. Oceanog. 32:101-135.  
+ 
+Wheeler, P.A.  1993.  New production in the subarctic Pacific Ocean: Net changes in nitrate 
+concentrations, rates of nitrate assimilation and accumulation of particulate nitrogen. Prog. 
+Oceanog. 32:137-161.  
+ 
+Yan, X.H., P.P. Niler and R.H. Stewart.  1991.  Construction and baccuracy analysis of images of the 
+daily-mean mixed-layer depth. Int. J. Remote Sens. 12:2573-2584.  
+ 
+Yoshimori, A., J. Ishizaka, T. Kono, H. Kasai, H. Saito, M.J. Kishi and S. Taguchi.  1995.  Modeling of 
+spring bloom in the western Subarctic Pacific (off Japan) with observed vertical density structure. 
+J. Oceanogr. 51:471-488.       
+ 74
+Table 1. Effective methods for the long-term monitoring in the subarctic Pacific Ocean. ST and SP 
+indicate the satellite and ship observation including buoy system, respectively.  
+ 
+Measurements Information Obtained Method References   
+ 
+Wind vertical mixing ST, SP Yan et al. (1991) 
+PAR primary production ST, SP Kiefer et al. (1989) 
+PAR heating ST, SP Archer et al. (1993) 
+Temperature mixed layer depth ST, SP Yan et al. (1991)  
+Salinity vertical mixing ST, SP   
+Nutrient new production ST, SP Sathyendranath et al. 
+     
+ (1991) 
+Current   spatial distribution ST, SP Fiedler (1984)  
+Shear vertical distribution SP Gargett & Osborn  
+     (1981);   
+   Caldwell et al.  
+     (1985) 
+Natural fluorescence chlorophyll a primary production ST, SP Kiefer et al. (1989) 
+Absorption chlorophyll a ST, SP Moore et al. (1992) 
+Upwelling irradiance primary production ST Gordon et al. (1983) 
+Upwelling irradiance taxonomic group ST Bricaud et al. (1988) 
+Laser size distribution ST, SP Tsuda et al. (1989) 
+Acoustics biomass size distribution SP Napp et al. (1991) 
+Optics biomass SP Herman (1992) 
+Sediment Trap vertical flux SP Eppley & Peterson 
+     (1979) 
+ 
+ 
+ 75
+ 
+ 76
+ 
+ 77
+ 
+ 78
+ 
+ 79
+ 
+ 80
+ 
+ 81
+ 
+ 82
+ 
+ 83
+ 
+ 84
+ 
+ 85
+RECOMMENDATIONS 
+ 
+1. GENERAL FINDINGS 
+ 
+i) Some aspects of the climate-scale physics and 
+biology of the subarctic North Pacific are 
+understood, and long-term monitoring 
+programs can be scientifically designed based 
+on this knowledge and on existing technology.  
+The climate module of the Global Ocean 
+Observing System (GOOS) is a target for any 
+recommendations concerning monitoring for 
+the purposes of describing and understanding 
+climate.  GOOS, in addition to providing the 
+ocean component of the Global Climate 
+Observing System (GCOS), is a target for any 
+recommendations concerning monitoring for 
+the purposes of understanding climatic effects 
+(namely, variability and change) on the living 
+marine resources in the ocean, especially at the 
+lower trophic levels. 
+ 
+ii) Other aspects of the subarctic North Pacific 
+require more research, or new technology, 
+before monitoring programs can be 
+undertaken.  GCOS and GOOS are not targets 
+for these recommendations, because GCOS 
+and GOOS are not research programs or 
+funding agencies, however it would be useful 
+to keep GCOS and GOOS informed as to 
+research and technology needs and programs, 
+so that close contact can be initiated and 
+maintained to facilitate a future transition to 
+monitoring programs. 
+ 
+2. SPECIFIC FINDINGS AND RECOMMEN-
+DATIONS 
+ 
+I) The working papers prepared for this 
+Workshop are, in general, review papers of 
+high quality and broad interest.  They should 
+be published so as to provide the material in 
+archive and accessible form. 
+ 
+It is recommended that PICES publish the 
+review papers as a PICES Scientific Report, 
+after the authors have had an opportunity (two 
+months) to revise their papers based on the 
+discussions at the Workshop.  The report will 
+be restricted to the seven invited authors, plus 
+a summary statement at the beginning by the 
+co-editors, Prof. Sugimori and Dr. Briscoe.  
+Specific information on formats and text 
+requirements will be provided to the authors 
+by the co-editors. 
+ 
+PICES should treat the recommendations and 
+discussions of this Workshop as only the first 
+step regarding monitoring that is possible now 
+and the needs for new science studies and 
+technology development.  Therefore, it is 
+recommended that PICES form an 
+interdisciplinary, Monitoring Working Group 
+with the following terms of reference: 
+ 
+- The WG will be responsible for planning 
+the monitoring activities in the PICES 
+area, including proposing scientific and 
+technical priorities and schedules, and 
+including physical, biological, and 
+chemical measurements. 
+ 
+- The WG should cooperate with the GCOS 
+Ocean Observing Panel for Climate, the 
+GCOS Living Marine Resources science 
+planning group, the Scientific Steering 
+Committee of the PICES-GLOBEC 
+Climate Change and Carrying Capacity 
+Program, and other such bodies as may be 
+needed. 
+ 
+- The WG will work with the PICES 
+Technical Committee on Data Exchange 
+to ensure timely and open exchange of 
+monitoring data between participants and 
+to external data users, as a mechanism to 
+control the quality and relevance of the 
+data. 
+ 
+- The WG will report regularly as requested 
+by the PICES Science Board. 
+ 
+The WG will have a lifetime of two years, 
+which may be extended by the Science 
+Board if needed.  Its membership will be 
+two people from each member country, 
+ 86
+with credentials in the scientific and 
+technical areas concerned with the 
+monitoring activities.  The Chairman will 
+be named by the PICES Science Board. 
+ 
+ii) New technology is essential to effective 
+monitoring of the PICES area, but its 
+development requires attention for a long 
+period, often with not visible results, and at 
+great cost.  Nevertheless, it is essential. 
+It is recommended that PICES encourage its 
+member states to support the development of 
+the new technology required for monitoring 
+and identified in the report of this Workshop.  
+Particular attention should be paid to the 
+development of autonomous biological 
+instrumentation, without which monitoring of 
+ecosystem response to climate forcing will be 
+particularly difficult. 
+ 
+ 
+ 
+ 

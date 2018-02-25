@@ -1,0 +1,3844 @@
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 5 
+1996 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODELLING OF THE SUBARCTIC 
+NORTH PACIFIC CIRCULATION 
+(Report of Working Group 7) 
+ 
+Edited by Paul H. LeBlond and Masahiro Endoh 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 1996 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca 
+TABLE OF CONTENTS 
+ III
+ 
+ Page 
+EXECUTIVE SUMMARY v 
+ 
+1.0 INTRODUCTION 1 
+ 
+2.0 SCOPE OF REVIEW 2 
+ 
+3.0 REVIEW OF EXISTING MODELS 3 
+ 3.1 Surface circulation 3 
+ 3.1.1 General features 3 
+ 3.1.2 Specific regions 4 
+ Kuroshio Path 4 
+ Kuroshio-Oyashio Confluence 6 
+ Kuroshio Extension 7 
+ Alaskan Gyre 8 
+ 3.1.3 Variability 9 
+ Weather forcing 9 
+ Eddies and meanders 9 
+ Seasonal and interannual 10 
+ 3.1.4 Water properties 11 
+ 3.2 Intermediate circulation 11 
+ 3.3 Deep and bottom circulation 13 
+ 3.4 Assessment 14 
+ 
+4.0 PHYSICAL PROCESSES  15 
+ Resolution 15 
+ Partial models 15 
+ Ice modelling 16 
+ Topographic Stress 16 
+ Mixing processes 16 
+ Vortex interactions 17 
+ Numerical methods 17 
+ 
+5.0 MARGINAL SEAS 18 
+ Okhotsk 18 
+ Japan 18 
+ Bering 19 
+ 
+6.0 DATA REQUIREMENTS TO IMPROVE MODELS 20 
+ Bathymetry 20 
+ Atmospheric forcing 20 
+ Ocean properties 21 
+ Currents 21 
+ 
+7.0 APPLICATIONS OF MODELLING 22 
+ Navigation 22 
+ Pollution 22 
+ Climate  22 
+ Ocean productivity 23 
+ IV
+ CO
+2
+ exchange 24 
+ Fish migration and distribution 24 
+ Weather prediction 24 
+ Ocean prediction 25 
+ 
+8.0 CONCLUSIONS AND RECOMMENDATIONS 26 
+ 
+9.0 TABLES AND FIGURES 29 
+ 
+10.0 REFERENCES 64 
+ 
+11.0 APPENDICES 80 
+ Appendix 1. Terms of reference 80 
+ Appendix 2. Working Group membership 81 
+ Appendix 3. Working Group activities 83 
+ 
+ 
+ V
+EXECUTIVE SUMMARY  
+ 
+ This review focuses on modelling ocean circulation and its variability in the subarctic 
+North Pacific; it addresses issues specific to that region, and not the subject of ocean modelling in 
+general. The performance of existing models is assessed in relation to observations in the upper 
+ocean, intermediate waters and deep/abyssal waters.  Not surprisingly, the quality of model 
+results is generally found to match that of the observations.  Models of surface circulation, where 
+data are most abundant, reproduce many observed features, while the reliability of model results 
+at greater depths remains more problematic.  In general, model results are found too coarse and 
+insufficiently reliable for many of the applications towards which they have been developed 
+(fisheries, pollution, climate...) and significant improvements are required.  
+ 
+ We have identified a number of gaps in physical understanding and supporting data 
+which need be filled to improve model performance.  Many of these apply to ocean modelling in 
+general, but some, particularly with respect to the influence of marginal seas (Bering, Japan, 
+Okhotsk), are specific to the subarctic North Pacific.  Recommendations address ways of filling 
+these gaps and using international collaboration within PICES to foster development of better 
+ocean circulation models in the subarctic North Pacific.  
+  
+ 
+ 
+ 1
+1.0 INTRODUCTION 
+ 
+ Numerical modelling has become the 
+primary tool for analysis and design in many areas 
+of fluid mechanics.  This is also true of 
+atmospheric and oceanic flows, where numerical 
+models are used to explore the subtleties of flow 
+dynamics, examine the consequences of changes 
+in physical parameters and develop flow patterns 
+for domains of complex geometry under realistic 
+forcing conditions.  Numerical modelling has also 
+become a tool to guide observations, identifying 
+areas where the most revealing measurements 
+should be made and which data in turn should be 
+assimilated into predictive models (Smith, 1991).  
+Hydrodynamic models are readily extended, at 
+least in principle, to include chemical properties of 
+ocean waters and the lower trophic levels of 
+oceanic biology.  Modelling opens a window into 
+the future by simulating conditions resulting from  
+different scenarios and policies; it similarly offers 
+a tool for the exploration of past conditions.  
+ 
+ Numerical simulation represents a step 
+comparable to the invention of calculus in the 
+analysis and understanding of nature.  It will play 
+an increasingly important role in ocean science 
+and its applications.  In view of its highly 
+technical nature and rapid development, it is 
+important that progress and prospects in the 
+modelling of the oceans be frequently reviewed.  
+ 
+ Working Group 7 of PICES has been 
+charged with reviewing the state of modelling 
+efforts of the circulation of the subarctic Pacific. 
+Our terms of reference, presented in Appendix 1, 
+also require that we identify areas where progress 
+may be made through enhanced data coverage and 
+improved physical understanding, and that we 
+comment on the consequences of current 
+deficiencies in modelling the circulation on other 
+kinds of models pertaining, for example, to the 
+climate, ecosystems, and material transports.  Key 
+scientific questions arising in the oceanography of 
+the subarctic North Pacific have been summarized 
+in an earlier report by Working Group 6 of PICES 
+(Hargreaves and Sugimoto, 1993).  The success 
+and challenges of modelling the circulation and 
+ocean properties of our area may be assessed in 
+terms of the ability of models to answer these key 
+questions.  
+ 
+ We first define the scope of the review, 
+identifying the spatial and temporal scales of 
+relevant oceanic phenomena.  We follow with an 
+overview of the state of the art of existing models, 
+assessed in terms of their ability to reproduce 
+observations in areas of special interest.  We 
+continue with a discussion of improvements 
+thought to be required in understanding and 
+modelling physical processes. The role of 
+marginal seas and improvements required in 
+linking their circulation with that of the open 
+ocean are discussed next, followed by a discussion 
+of the need for additional data sources and quality.  
+Finally, we discuss the consequences of the 
+perceived deficiencies of North-Pacific circulation 
+models on the modelling of other properties.  
+Specific recommendations for achieving required 
+improvements are also presented. 
+ 
+ 2
+2.0 SCOPE OF REVIEW 
+ 
+ In approaching a topic as vast as ocean 
+modelling, it is important to clearly define the 
+scope of our review.  Our topic of interest is the 
+subarctic North Pacific, defined as that area north 
+of 30 °N, and not the world ocean, nor ocean 
+modelling in general, which have been reviewed 
+elsewhere (see for example Marotzke, 1994; 
+Weaver and Hughes, 1994; WOCE 1994; 
+McWilliams, 1996).  Furthermore, we under-
+stand circulation to mean fairly large-scale, slowly 
+varying motion. Although of great practical 
+interest, phenomena such as waves, tides, tsunamis 
+and similar high-frequency motions will  not be 
+discussed here, unless they happen to have some 
+effect in the longer term. We are interested, 
+however in mesoscale eddies, their strength, 
+position and variability.  Similarly, the modelling 
+of coastal basins on the continental shelf, where 
+great progress has been made in developing 
+practical simulation and decision-making tools, 
+will not be included in our review.  Only major 
+coastal regions, also known as marginal seas, will 
+be considered of interest, and then only because of 
+their influence on large-scale oceanic properties, 
+mainly through buoyancy fluxes and processes of 
+water mass formation. 
+ 
+ The smallest oceanic processes (surface 
+and internal wave breaking, turbulent entrainment, 
+shear instability, double diffusion...) take place 
+over scales of centimeters to tens of meters, well 
+below the resolution of large-scale models.  The 
+effect of these processes must perforce be 
+parameterized, and the appropriateness and 
+accuracy of such parameterizations is a general 
+concern in ocean modelling.  (cf. for example 
+Bryan, 1987; Cummins et al., 1990; Danabasoglu, 
+1994; Gargett and Holloway, 1992; Large et al., 
+1994).  Our review addresses issues of sub-grid-
+scale parameterization only in as much as they are 
+identified as being particularly pertinent to our 
+area of interest, the subarctic North Pacific.  
+ 
+ The smallest horizontal scale considered 
+of interest in open-ocean models is the Rossby 
+radius of the first internal mode, of the order of 20 
+km in length over most of the area of interest 
+(Emery et al., 1984).  Models capable of resolving 
+mesoscale eddies, which occur on that scale, are 
+said to be "eddy-resolving".  A resolution of 1/8th 
+of a degree seems to be sufficient to resolve most 
+features of interest.  In complicated areas, like the 
+Kuroshio-Oyashio confluence zone, a higher 
+resolution is needed to model dynamic and 
+bathymetric interactions. Enhanced resolution is 
+also necessary in coastal regions, where smaller 
+scales are often imposed by the boundary 
+geometry and by the punctual nature of buoyancy 
+sources, such as rivers.  The problem of matching 
+relatively coarse open-ocean models to finer-scale 
+marginal sea models is important in the subarctic 
+North Pacific, as in other ocean areas. In the 
+vertical, a higher level of resolution is often 
+required to resolve critical topographic details or 
+the structure of important transitions.  In 
+modelling the evolution of the seasonal 
+thermocline, and the processes through which 
+energy, momentum and mass are exchanged 
+between the atmosphere and the ocean, special 
+attention must be paid to the dynamics of the 
+mixed layer, in the upper 200-300 metres of the 
+ocean, so that the finest vertical resolution must be 
+applied to that region.    
+ 
+ An extremely important consideration in 
+modelling is verification against observations. 
+Ocean modelling has not reached the level of 
+sophistication of operational atmospheric weather 
+modelling, where extensive verification is possible 
+against a rich observational network. Perhaps that 
+degree of sophistication will come some day, 
+when model results can be routinely compared at 
+an eddy-resolving level against satellite altimetry 
+and temperature data (cf. Hurlburt, 1984 for a 
+review of this topic, and Carnes et al., 1995, for a 
+recent application to the North Pacific).  At this 
+point, it was agreed that models should be judged 
+on their ability to reproduce some key features 
+correctly, and part of the Working Group's 
+discussion focused on the identification of these 
+features, in specific areas.  
+ 
+ 3
+3.0 REVIEW OF EXISTING MODELS 
+ 
+ In terms of circulation patterns and 
+general water property structure, one may 
+recognize four superposed layers in the subarctic 
+North Pacific.  The uppermost, near-surface layer, 
+is subject to direct atmospheric interactions, and is 
+clearly the most energetic and variable layer of the 
+ocean. It includes the wind-mixed Ekman layer 
+and the cooling convection layer to the pycnocline 
+( ∼ 500 m).  This is arguably the layer of greatest 
+interest to human needs and activities, and also 
+that which has been observed in most detail.  This 
+layer has received the most modelling attention 
+and will be discussed in greatest detail.  Below it 
+(in the range 500 - 1,500 m), we find an 
+intermediate layer, which is particularly important 
+in the subarctic Pacific because of the presence of 
+the North Pacific Intermediate Water, a water mass 
+of relatively low salinity which extends over much 
+of the region.  The lower part of this later includes 
+flow associated with the northward spread of 
+Antarctic Intermediate Waters.  Further down 
+(1,500 - 4,000 m), we recognize a slow deep 
+circulation, which may be considered as a return 
+flow to the abyssal circulation (4,000 m to bottom) 
+associated with inflow of the mixed Antarctic 
+Bottom Water and North Atlantic Deep Water 
+steered by bottom topography.  Because so little 
+is known about these two deepest layers, they will 
+be lumped together in our discussion.   
+ 
+ While the region of interest is the 
+subarctic North Pacific, it is impossible to consider 
+the circulation in one area in complete isolation 
+from the rest of the ocean.  Vigorous flow from 
+the south enters the region in the west (the 
+Kuroshio);  the influence of El Niño penetrates 
+the ocean from the east as variability in seasonal to 
+decadal time scales.  There is also evidence, 
+mostly in the distribution of water properties, of 
+important meridional transport at depth.  For 
+example, Bingham and Lukas (1994) have 
+detected the presence of North Pacific 
+Intermediate Water near the Philippines, where it 
+appears to contribute to the Indonesian 
+Throughflow (Gordon, 1995) and hence to the 
+return branch of the main thermohaline conveyor 
+belt circulation.  Most models of the subarctic 
+North Pacific circulation have been, and will 
+continue to be parts of models concerned with the 
+entire Pacific Ocean and, increasingly, the whole 
+World Ocean.  
+ 
+3.1  Surface circulation 
+ 
+3.1.1  General Features 
+ 
+ The surface circulation is that about which 
+we know the most and where modelling efforts 
+have also been most intense.  Models have been 
+developed for wind-forcing, or thermohaline 
+forcing, or both. In simplified form, the surface 
+circulation of the North Pacific consists of a 
+clockwise subtropical gyre in the south and a 
+counter-clockwise subpolar gyre in the north (Fig. 
+1).  The subtropical gyre consists of a strong 
+western boundary current in the west, the 
+Kuroshio, and a more diffuse return circulation 
+over the rest of the ocean.  Similarly, the subarctic 
+gyre has strong flows on western boundaries 
+which, probably because of their geographical 
+configuration, partly break up the larger gyre in 
+sub-gyres:  the Alaskan Gyre, the Bering Sea 
+Gyre, the Western Subarctic Gyre and a gyre 
+within the Sea of Okhotsk. (Ohtani, 1991).  There 
+is much variability in the area bordering on the 
+Aleutian Island chain and some uncertainty in the 
+degree of connection, partly through the Bering 
+Sea, between the Alaskan Gyre in the east and the 
+Western Subarctic Gyre in the west.  The region 
+considered here includes all the subarctic gyres 
+and the northern part of the subtropical gyre.  
+ 
+ Existing circulation models readily 
+reproduce some of the gross features of the near-
+surface circulation.  For example, the 
+Cherniawsky and Holloway (1991) simplified 
+upper-ocean model, driven by wind-stress and 
+surface heat and fresh-water fluxes, yields an 
+Alaskan Gyre, a Western Subarctic Gyre and an 
+Okhotsk Sea Gyre (Fig. 2).  The absence of the 
+Aleutian Island chain in the model of course 
+makes any comparison with the observed 
+circulation impossible in that area.  
+ 
+ State-of-the-art eddy-resolving models of 
+the whole ocean (Semtner and Chervin, 1988, 
+ 4
+1992) or of the Pacific (Hurlburt et al., 1992, 
+1995) or some of its parts (Cummins and Freeland, 
+1993) typically include a number of vertical layers 
+(6 to 20) and a resolution of 1/2 to 1/16 of a 
+degree (although higher resolution models have 
+been developed for restricted regions).  Such 
+models, driven by observed winds, do reproduce 
+the main features of the circulation seen in Fig. 1, 
+and also exhibit considerable mesoscale eddy 
+activity, occurring where it is actually observed, 
+near Sitka (southeast Alaska), the Queen Charlotte 
+Islands, the Alaskan Stream and in the Kuroshio 
+extension region. Examples are shown in Fig. 3 -5.  
+ 
+ A more critical comparison of model 
+results with observations must focus on areas of 
+sufficient data density, where specific features are 
+clearly recognized.  We have identified four such 
+regions: the Kuroshio path south of Japan; the 
+Kuroshio-Oyashio confluence; the Kuroshio 
+extension; and the Alaskan Gyre.  
+ 
+3.1.2  Specific regions 
+ 
+a.  The Path of the Kuroshio 
+ 
+ South of Japan, the Kuroshio takes 
+different paths, changing between them on an 
+interannual basis (Fig. 6).  The two most frequent 
+paths are the "straight path", also referred to as N-
+type (normal) and a "large-meander path", also 
+called A-type (abnormal). These two states persist 
+for periods of several months to several years. The 
+next most persistent path is the "C-type", which 
+takes a detour south of Hachijo Island (Izu Ridge).  
+Two other paths (B and D) are transient features 
+observed during the transition period from one 
+stable path to another.  The predominantly 
+bimodal path characteristics of the Kuroshio south 
+of Japan are peculiar to this region and are not 
+observed in the Kuroshio extension, to the east, or 
+in other major western boundary currents.  Path 
+variations and duration have a strong effect on 
+fisheries, marine transportation and climate along 
+the southern coast of Japan.  There is a practical 
+need for understanding path dynamics and for a 
+predictive model of path selection. 
+ From a physical point of view, four kinds 
+of models of Kuroshio paths have been put 
+forward; all include the influence of ocean 
+bathymetry in the area south of Japan.  
+ 
+Boundary-value problem model.  Kozlov 
+(1986) has reviewed theoretical investigations of 
+the bi-modality of the Kuroshio south of Japan.  
+The first model is an inflow-outflow type of model 
+within the Shikoku Basin, where inflow and 
+outflow positions are constrained by the 
+bathymetry and the shape of the coastline.  Inflow 
+takes place through Tokara Strait in the Nansei 
+Island chain south of Kyushu;  outflow is through 
+the deeper portions of the Izu-Ogasawara Ridge, 
+between Miyake and Hachijo Islands (Fig. 6).  
+ 
+ As originally pointed out by White and 
+McCreary (1976), the presence of a standing 
+Rossby wave (and hence of one or more 
+meanders) of length λ = (U/ β)
+1/2
+ in a north-
+eastward inertial jet size within a basin of given 
+size is related to the flow velocity U and to the rate 
+of change of the Coriolis parameter β. Masuda 
+(1982) presented analytical solutions of Warren's 
+(1968) path equations for a nonlinear boundary-
+value problem.  He showed the dependence of the 
+path on inflow velocity, hysteresis phenomena in 
+path selection, and the presence of multiple 
+equilibrium states of the straight and large 
+meander paths for the same parameter values.  
+Yasuda et al. (1985) confirmed Masuda's results 
+with a barotropic model of the area south of Japan.  
+In both of these models, a straight path generally 
+occurs at a relatively high inflow velocity and a 
+large meander path at a slower inflow velocity. 
+Inclusion of a Munk layer in which viscous 
+dissipation takes place near the coast allows a 
+straight path also to occur at low inflow velocity.  
+ 
+ Yoon and Yasuda (1987) also investigated 
+the dependence of model results on the shape of 
+the northern boundary.  With the northern 
+boundary running at 23 ° north of east, rather than 
+zonally, a viscous straight path occurs at low 
+inflow velocity and a large meander path at a high 
+velocity, while at intermediate velocities both 
+paths can occur for the same parameter values 
+(Fig. 7).  Chao (1984) and Akitomo et al. (1991) 
+obtained similar results in different model 
+configurations.  Masuda (1989) confirmed the 
+existence of multiple equilibrium states as well as 
+ 5
+the effects of topography in laboratory 
+experiments. 
+ 
+ Geometry-forced meander model.  A 
+second type of model considers the nature of the 
+path of the Kuroshio to arise from a steady wave 
+of the stream forced by local coastal geometry, for 
+example, the Kyushu Peninsula, or the Kii 
+Peninsula.  White and McCreary (1976) examined 
+a lee-wave meander downstream of a coastal bump 
+corresponding to Kyushu.  Charney and Flierl 
+(1980) analytically examined interactions between 
+a jet and periodic coastal bumps and suggested the 
+possibility of multiple equilibrium paths.  
+Yamagata and Umatami (1987, 1989) also studied 
+such interactions and proposed and inlet-
+velocity/meander amplitude diagram similar to 
+that of Yasuda et al. (1985). 
+ 
+ Bottom control path model.  The third 
+type of model is that of a straight path controlled 
+by bottom topography.  Robinson and Taft (1972) 
+examined path characteristics and effects of 
+bottom topography using path equations.  In their 
+model, the path which escapes bottom control 
+becomes a free inertial jet and forms a large 
+meander.  Taft et al. (1973) suggested, on the 
+basis of observations, that the straight path could 
+not be entirely controlled by bottom topography.  
+Sekine (1988a, b, c; 1990) studied the effects of 
+bottom topography in a two-layer inflow and 
+outflow model with realistic bottom topography in 
+the lower layer, confirming the importance of 
+topography.  Martynov and Moiseev (1988) also 
+studied topographic control of the Kuroshio path. 
+ 
+ Eddy-resolving basin-scale Pacific 
+model.  Recently, it has become feasible to 
+investigate the path of the Kuroshio south of Japan 
+using eddy-resolving basin-scale Pacific models 
+(Fig. 4).  Using a 1/8 °, 6-layer Pacific Ocean 
+model north of 20 ° S with realistic geometry and 
+bottom topography, Hurlburt et al. (1996) were 
+able to simulate spontaneous transitions between 
+meander and straight paths south of Japan when 
+the model was forced by the Hellerman and 
+Rosenstein (1983) monthly wind-stress 
+climatology year after year.  When they allowed 
+interannual variations in the amplitude of the wind 
+forcing, they found that path selection shows little 
+sensitivity to Tokara Strait transport (transport 
+south of Kyushu) over the range simulated (36-72 
+Sv in yearly means).  The mean Tokara Strait 
+transport for straight paths and meander paths 
+differed by only 2 Sv.  However, interannual 
+increases in wind forcing or in Tokara Strait 
+transport gave rise to a predominant meander path 
+while decreases yielded a predominant straight 
+path.  Like Yoon and Yasuda (1987) they found 
+that baroclinic instability is an important element 
+of meander path formation.  They also found that 
+a seamount complex west of the Izu Ridge 
+enhances the fraction of time that the Kuroshio 
+spends in the meander path.  
+ 
+ Transition from straight to meander 
+path.  This transition usually occurs as follows: a 
+small "trigger" meander, generated south of 
+Kyushu, propagates eastward and develops into a 
+large meander (Yoshida, 1961; Shoji, 1972; 
+Sekine,1992).  Such a small meander is generated 
+in early spring almost every year and in the fall of 
+some years when the Kuroshio surface velocity 
+increases (Sekine and Toba, 1981a; Sekine, 1992).  
+These small meanders however do not necessarily 
+develop into a large and persistent meander path.  
+A detailed analysis (Matsumoto, 1994) shows that 
+only those small meanders generated from 
+February to August and propagating eastward with 
+a velocity below a critical value actually 
+developed into large meanders.  A number of 
+authors (Sekine and Toba, 1981b; Yoon and 
+Yasuda, 1987; Kubokawa, 1989) have examined 
+nonlinear vorticity dynamics of meanders in that 
+region and the effects of topography and 
+stratification on their stability.  
+ 
+ Comparison with observations of 
+bimodality.  Following from the above models, a 
+number of diagnostic diagrams relating path type 
+to Kuroshio volume transport have been proposed.  
+It remains impossible to choose between these 
+various diagrams because of the lack of sufficient 
+observations.  
+ Volume transport by the Kuroshio is 
+reported to be small during periods of large 
+meander paths south of Japan (Taft, 1972; Nitani, 
+1972;  Sekine et al., 1991).  In contrast, the 
+transport is large in the East China Sea during the 
+same periods (Nishizawa et al., 1982). This 
+ 6
+behaviour is confirmed by transport measurements 
+across 137 °E (Qiu and Joyce, 1972), and by cross-
+stream sea-level differences (measured between 
+Naze and Nishinoomote Islands) representative of 
+inflow into Tokara Strait (Kawabe 1980).  
+ 
+ These latter observations seem to support 
+the results of Yoon and Yasuda (1987) which 
+predict, for a two-layer, realistic coastal geometry 
+model, a straight Kuroshio path for low inflow 
+velocity and a multiplicity of possible states for 
+larger velocity.  However, these models do not 
+reproduce the "C-type" path which emerges in the 
+transition from a large meander to a straight path.  
+ 
+ Seasonal variability.  Geostrophic 
+transports calculated from hydrographic sections 
+south of Japan indicate maximum transports in 
+summer and minimum values in the winter 
+(Pavlova, 1964;  Masuzawa, 1965;  Nitani, 1972; 
+Taft, 1972, 1978;  Minami et al., 1979).  Sea-
+level differences across Tokara Strait indicate the 
+same seasonal variation (Blaha and Reed, 1982; 
+Kawabe, 1988).  This observed seasonal pattern is 
+opposite to the seasonal response expected from a 
+Sverdrup balance to applied wind-stress fields.  
+However, Greatbatch and Goulding (1989, 1990), 
+using a steady-state barotropic model forced by 
+monthly wind stress and including realistic 
+bathymetry, found that about half of the sea-level 
+difference could be explained by a local Sverdrup 
+balance.  Sekine and Kutsuwada (1994), also 
+pointed out that the volume transport south of 
+Japan is actually a maximum in the winter, as 
+expected from a Sverdrup balance, while the 
+vertical shear, which is what was estimated from 
+hydrographic data, is maximum in the summer.  
+On the other hand, Qiu (1992), using a 
+combination of satellite altimetry and 
+hydrographic data, showed that the eastward 
+flowing jet is strongest in July and August and that 
+the seasonal change is caused by the change in 
+intensity of the recirculation gyre south of Japan.   
+ 
+ While models have shed light on many of 
+the mechanisms which may be responsible for the 
+path taken by the Kuroshio, there is still much to 
+be learned in this complex area. Further 
+understanding of the Kuroshio south of Japan will 
+clearly require more accurate measurements of 
+Kuroshio transport and additional improvements 
+in numerical models.  Predictive ability will be 
+reached only when variations in the strength and 
+path of the Kuroshio can also be predicted... 
+perhaps in relation to some index of 
+meteorological forcing. 
+  
+b.  The Kuroshio-Oyashio Confluence 
+ 
+ Another area of great interest is the 
+Kuroshio-Oyashio confluence region, east of 
+northern Japan.  The details of the circulation in 
+that complex region have been studied extensively 
+(Kawai, 1972;  Kozlov, 1971, 1972; Mizuno and 
+White, 1983;  Qiu et al.1991; Yasuda et al. 1992;  
+Yasuda, 1995;  Yasuda et al. 1995;  Talley et al., 
+1995;  Hurlburt et al., 1996).  The complexity of 
+the circulation is illustrated by the various patterns 
+used to represent it (Fig. 8).  Overall, one may 
+characterize the region as one of extreme 
+variability, with rings and meanders appearing, 
+drifting and vanishing in a transition zone between 
+the Kuroshio and Oyashio frontal regions.  The 
+positions and properties of these features are of 
+great importance to regional fisheries, navigation 
+and climatology and, as for the region previously 
+discussed, predictive numerical modelling could 
+become an extremely useful tool.  
+ 
+ A prominent feature of the Kuroshio-
+Oyashio confluence region is a double front 
+system which consists of the Kuroshio front and 
+the subarctic (Oyashio) front.  The Kuroshio front 
+borders on the Kuroshio Extension, with current 
+speeds up to 3 m/s.  The Oyashio front is a water-
+mass front between cold, low-salinity subarctic 
+waters and warm, saline subtropical waters (Zhang 
+and Hanawa, 1992).  Temperature and salinity 
+differences across that front compensate in their 
+influence on the density; horizontal density 
+gradients are small and so is the velocity at the 
+front (Roden, 1972, 1977). 
+ 
+ Numerical model results should at least 
+resemble the kind of flow pattern seen in Fig. 8. 
+They should ensure detachment of the Kuroshio at 
+the correct latitude, include a branch of the 
+Oyashio along the coast of Japan, reproduce the 
+double front structure, and transfer warm water 
+ 7
+across the frontal zone well east of the Japanese 
+coast.  
+ 
+ Semtner and Chervin's (1992) global 1/2 ° 
+eddy-resolving, 20-level model gave a more 
+realistic output than previous coarser resolution 
+models.  It showed a bifurcated Kuroshio 
+Extension similar to observations.  Frontal 
+analyses comparing model products with 
+observations however put the Kuroshio Extension 
+about 5 ° south of observations (Garzoli et al., 
+1992) and yielded unrealistically strong currents at 
+the subarctic front.  The Oyashio coastal 
+southward flow is not reproduced in that model 
+and northward flow from the Kuroshio Extension 
+is instead dominant near the east coast of Japan. 
+Variability in the Kuroshio Extension was not 
+consistent with GEOSAT observations, although 
+model kinetic energy levels were comparable to 
+that of observations (Garaffo et al., 1992). Semtner 
+and Chervin (1992) concluded that their model 
+resolution was insufficient to reproduce the details 
+of the circulation in that area.  The 3.5 layer, 1/2 ° 
+resolution wind-driven model of Metzger et al. 
+(1992) also exhibits the required double front 
+structure, but was not compared in detail with 
+observations in this region.  In observations (Fig. 
+8) the northward flow from the Kuroshio 
+Extension to the Oyashio (subarctic front) is 
+separated from the east coast of Japan, a feature 
+simulated by Hurlburt et al. (1992, 1996), and 
+shown in Fig. 4 and Fig. 9.  Hurlburt et al. (1996) 
+find that this occurs because the bottom 
+topography reduces the separation between the 
+Oyashio and the Kuroshio Extension.  However, 
+baroclinic instability, and hence an eddy-resolving 
+model, is essential for the upper-ocean 
+topographic coupling that allows this to occur.  
+ 
+ The Oyashio coastal branch is an 
+important feature of the Kuroshio/Oyashio 
+confluence region.  The cold and relatively fresh 
+waters which it carries southwards are thought to 
+be important in the formation of North Pacific 
+Intermediate Waters (Yasuda et al., 1995).  The 
+coastal environment on the northeast coast of 
+Japan is significantly influenced by the presence 
+of the coastal Oyashio branch.  There is important 
+seasonal and interannual variability in the 
+southernmost latitude reached by this current 
+(Ogawa et al., 1987).  There is evidence for 
+decadal-scale fluctuations and a 3-4 year cycle 
+possibly linked to ENSO events (Takasugi and 
+Yasuda, 1994).  There are also years of extreme 
+cold waters, observed in the spring (Okuda, 1986).  
+In spite of the importance of the Oyashio coastal 
+branch, no model fully reproduces its presence and 
+variability, although the Hurlburt et al. (1996) 1/8 ° 
+and 1/16 ° models represent significant progress in 
+explaining these phenomena. 
+ 
+c.  Kuroshio Extension 
+ 
+ The Kuroshio Extension is that part of the 
+Kuroshio travelling eastward after detachment 
+from the Japanese coast.  It is an area of great 
+meandering and eddying motion, at the southern 
+edge of the Kuroshio/Oyashio confluence region. 
+This region has received modelling attention in the 
+past and has recently been the focus of intense 
+efforts through the Kuroshio Extension Regional 
+Experiment (Hogan et al., 1992; Hurlburt et 
+al.,1992, 1996;  Jacobs et al., 1995; Mitchell et 
+al., 1995) and the Megapolygon Experiment, 
+conducted by Russian scientists in 1987 (Ivanov, 
+1992).  Typical results, shown in Fig. 9, show that 
+eddy-resolving models do produce circulation 
+patterns which are generally consistent with what 
+is observed.  General statistical comparisons 
+would include the latitude of maximum current 
+and of maximum eddy activity. It would also 
+include simulation of the mean meanders east of 
+Japan shown in Figs. 1, 4 and 8.  Because the 
+meandering and eddy generation associated with 
+the Kuroshio Extension is due to flow instabilities 
+and is not a determininstic response to atmospheric 
+forcing, a detailed comparison of synoptic flow 
+patterns would require model initialization using 
+observational data which can resolve mesoscale 
+features such as those in Fig. 9.  Carnes et al. 
+(1995) have attempted to do this using satellite 
+altimeter data, front and eddy locations from 
+satellite infra-red imagery and 4-D data 
+assimilation.  Problems associated with this kind 
+of exacting comparison are discussed under the 
+section Variability below.   
+ 
+ Hurlburt et al. (1996) find that the latitude 
+of the Kuroshio Extension is associated with the 
+winter-time zero wind stress curl.  Both the 
+ 8
+Hellerman and Rosenstein (HR) monthly wind-
+stress climatology and a monthly climatology 
+derived from the European Centre for Medium-
+range Weather Forecasts (ECMWF) 1000 mb 
+winds have been used to drive their 1/8 ° 6-layer 
+Pacific model. East of about 150 °E the two wind 
+climatologies give a mean latitude for the 
+Kuroshio Extension in the model which differ by 
+about 3 ° of latitude: approximately 34 °N for the 
+HR winds (Fig. 4) and 37 °N for ECMWF winds 
+(Fig. 30).  The observed latitude is 35 °N.  In 
+addition, Hurlburt et al. (1996) find that the mean 
+meanders east of Japan are associated with the 
+trench and seamounts east of where the Kuroshio 
+separates from the coast. Again, the upper ocean-
+topographic coupling is achieved via baroclinic 
+instability.  
+ 
+ 
+d.  The Alaskan Gyre 
+ 
+ Another region of special interest is the 
+northeast Pacific, where the West Wind Drift 
+bifurcates into the Alaska Gyre and the California 
+Current.  Model results (see Figs. 4 and 5) do, of 
+course, reproduce the bifurcation.  There is also 
+considerable seasonal variability in the current 
+systems of the eastern boundary area. Surface 
+current patterns have been traditionally linked to 
+large-scale seasonal wind variations.  During 
+summer months, coastal upwelling conditions 
+prevail north from California as far north as the 
+Queen Charlotte Islands;  during winter months, 
+upwelling no longer occurs and the Davidson 
+Current is found inshore of the main subtropical 
+gyre.  
+ 
+ The Gulf of Alaska is also a region 
+characterized by abundant precipitation.  Strong 
+fresh water runoff, from the Columbia River 
+northward, contributes to a coastal buoyancy-
+driven current which gradually joins the 
+anticyclonic Alaska Gyre (Royer, 1981; Hickey et 
+al., 1991).  The fresh water inflow is partly 
+recirculated within the Alaska Gyre and 
+contributes to the relative freshness of subarctic 
+North Pacific waters and the strong halocline 
+found especially in the east.  
+ 
+ Regional models of the northeast Pacific 
+(Cummins, 1989, 1991; Cummins and Mysak, 
+1988; Cummins and Freeland, 1993; Lee et al., 
+1992) have explored links between variability of 
+the Alaska Gyre, wind-forcing and bathymetry. 
+Mesoscale eddy activity is much weaker than in 
+the western North Pacific, but eddies are 
+nevertheless present (Matthews et al., 1992; 
+Thomson et al., 1990).  Some features, like the 
+Sitka Eddy (Tabata, 1982;  Swaters and Mysak, 
+1985), may be related to bottom topography; 
+others may arise from the generation of Rossby 
+waves on the coast of North America (Cummins et 
+al., 1986;  Jacobs et al., 1993;  Melsom et al., 
+1995). 
+ 
+ Measurements made on the continental 
+shelf have illustrated the richness of variability 
+associated with direct wind forcing, shelf waves 
+and runoff pulses in an eastern boundary layer 
+(e.g., Mooers and Smith, 1968;  Huyer et al., 
+1975;  Hsieh, 1982; Hickey et al., 1991). Early 
+models often focussed on recognition of particular 
+types of wave or instability phenomenon;  efforts 
+have also been made at explaining observed 
+variability in terms of these phenomena and of 
+local as well as distant forcing (Gill and Schuman, 
+1974;  Hickey and Hamilton, 1980;  Halliwell 
+and Allen, 1984;  Federiuk and Allen, 1995).  
+ 
+ Coastal temperatures are deemed to be 
+strongly influenced by El Niño (Mysak, 1986). 
+The high resolution North Pacific model of Jacobs 
+et al. (1994) does reveal the propagation of coastal 
+Kelvin waves northwards from the equator along 
+the North American coast, as have earlier studies 
+(e.g., Johnson and O'Brien, 1990).  There has 
+long been discussion as to whether coastal 
+temperature changes are associated mainly with 
+local perturbations in atmospheric forcing or with 
+the effect of these Kelvin waves (Hamilton and 
+Emery, 1985). Recent calculations using the 1/8 ° 
+model of Hurlburt et al. (1996), show that 
+interannual fluctuations of sea level off southern 
+Alaska (Fig. 10) are well reproduced by the model 
+and that enhanced mesoscale activity in the Gulf 
+of Alaska (such as the Sitka Eddy) follows upon 
+El Niño activity (Melsom et al., 1995). 
+ 
+ 9
+ While the sharp surface halocline of the 
+Alaskan gyre is a strong obstacle to ventilation, 
+Van Scoy et al. (1991) have suggested that winter-
+time forcing might sometimes be strong enough to 
+overcome the potential energy of the halocline and 
+that the 26.8 density surface might outcrop in the 
+Alaskan gyre, either in multiple small areas in 
+response to storm forcing or infrequently in large 
+areas in response to interannual fluctuations of the 
+wind stress.  Using time series of tritium 
+concentration at Station P, Van Scoy and Druffel 
+(1993) suggest that ventilation to the density of the 
+NPIW occurs within the Alaskan gyre during El 
+Niño years.  
+ 
+3.1.3  Variability    
+ 
+ As we have already indicated in some 
+instances, what is most poorly understood and 
+modeled in all areas is the variability of the 
+circulation.  Understanding of the extent and 
+nature of the variability in turn affects 
+interpretation of the data and the definition of the 
+mean circulation.  We distinguish three types of 
+variations in ocean properties and circulation:  (i) 
+- changes directly related to atmospheric forcing, 
+with time-scales on the order of a week and spatial 
+scales of hundreds of kilometers;  (ii) - smaller 
+scale features, with time scales of weeks to 
+months: eddies, rings and meanders;  (iii) - longer 
+term, seasonal and interannual variations which 
+shift the axes of currents and modify their strength 
+and their water properties.   
+ 
+ Weather forcing consists of the response 
+of the upper ocean to momentum and energy 
+exchange across the sea surface.  This response 
+may be represented through local effects in so-
+called upper-layer models (Large et al., 1994) or 
+incorporated directly as input to more complex 
+three-dimensional models.  We are not discussing 
+here the high-frequency inertial oscillations 
+associated with the passage of storms and changes 
+in wind speed and direction.  On the scale of 
+atmospheric weather systems, the ocean responds 
+by moving under the wind's influence and by 
+changing its surface properties in response to 
+mixing and heat exchange with the atmosphere.  
+Predicting the meteorologically forced ocean 
+response is clearly limited in time by the skill of 
+weather forecasting.  However, the effect of free 
+waves initiated by atmospheric forcing may be 
+predictable on much longer, perhaps decadal time 
+scales (Jacobs et al., 1994). 
+ 
+ Eddies and meanders.  Mesoscale 
+variability is mostly, but not exclusively, 
+associated with regions of strong shear.  We have 
+already noted the presence of large meanders in 
+the path of the Kuroshio and of eddies and 
+meanders in the Kuroshio extension and in the 
+Oyashio.  The Alaskan Stream region, off the 
+Aleutian Islands, is another region of intense eddy 
+activity, as is the Kamchatka Current.  We have 
+noted above that mesoscale eddies are also found 
+in a region of weaker currents, in the Gulf of 
+Alaska.  
+ 
+ It is one thing to model the mean 
+circulation, it is another to actually reproduce the 
+eddies and meanders.  All models with sufficient 
+resolution do reproduce zones of high eddy kinetic 
+energy generally where it is observed in nature.  
+As a first test of the ability of models to reproduce 
+the appropriate level of eddy kinetic energy, one 
+may compare statistics of their eddy-generating 
+ability to observations.  The most suitable data 
+sets for comparison are those of satellite altimetry, 
+as used by Hogan et al. (1992) and Hurlburt et al. 
+(1992, 1995b, 1996), who showed some 
+compatibility between one model and some 
+observations in the Kuroshio Extension region.   
+ 
+ As noted earlier in our discussion of the 
+path of the Kuroshio, the exact shape of meanders 
+and eddies is sensitive to a variety of physical 
+effects and to the details of model structure.  
+Furthermore, the actual eddies observed at any one 
+time are partially the result of the recent history of 
+the upstream flow pattern:  there is a strong 
+dependence, in the model as in the ocean, on 
+initial conditions.  Fig. 11 illustrates the 
+dependence of the spatial variability on various 
+physical parameters.  
+ 
+ The task of correctly predicting the 
+evolution of mesoscale oceanic variability (e.g. of 
+individual meanders, eddies and eddy-shedding 
+events) is analogous to that of atmospheric 
+weather prediction.  The difference is that the 
+ 10
+time and space scales of oceanic mesoscale 
+variability are quite different from those of the 
+atmosphere.  With spatial scales of tens of 
+kilometres, much greater spatial resolution is 
+required to model oceanic mesoscale variability.  
+Time scales of weeks to months offer a wider 
+prediction window than in the atmosphere, 
+provided the effects of direct meteorological 
+forcing are not dominant.  Satellite remote 
+sensing can, in some cases, provide sufficiently 
+dense information for data assimilation into ocean 
+models and operational prediction.  A number of 
+attempts have shown that sea surface altimetry can 
+indeed be successfully assimilated into high-
+resolution models of active eddying regions, like 
+the Gulf Stream (De Mey and Ménard, 1989) and 
+the California current (White et al., 1990).  A 
+recent evaluation of forecast skills by Fox et al. 
+(1993) shows that Gulf Stream forecasts of up to 
+two weeks are possible.  Lai et al. (1994) in their 
+assessment of forecasting success, emphasized the 
+importance of starting with the right initial 
+conditions, assimilating data correctly and 
+successfully parameterizing sub-grid scale 
+phenomena.  Early attempts to apply similar 
+techniques to the Pacific Ocean have yielded 
+encouraging results (Carnes et al., 1995).  
+Sometimes, under clear skies, high resolution sea 
+surface temperature maps may also be used to 
+enhance the data base.  This is an area of rapid 
+and important development in marine modelling. 
+ 
+ Seasonal and Interannual Variability.  
+The path of the Kuroshio, the extension of the 
+Oyashio coastal branch, the latitude of the Alaska 
+- California Current bifurcation and the strength of 
+the Alaskan Gyre are all subject to longer term 
+variability.  In the upper layer, some of this 
+variability is found to be closely linked with direct 
+meteorological inputs at seasonal and interannual 
+to interdecadal scales.  Recent climate modelling 
+studies are convincing us that long-term oceanic 
+variation is one of the active components of the 
+global air-sea coupled system, as apparent in 
+interdecadal scale climate variations (Trenberth 
+and Hurrell, 1994).  We refer to this link in a later 
+section.  
+ 
+ Connections with the ENSO phenomenon 
+have already been mentioned above. Recent 
+numerical simulations (Jacobs et al., 1994) suggest 
+that the influence of the 1982/83 El Niño may 
+perhaps extend over more than a decade in the 
+North Pacific, propagating up the east coast of 27 
+the ocean as a Kelvin wave and travelling 
+westward as baroclinic Rossby waves.  Decadal 
+and interdecadal variations are important in the 
+atmosphere (Kitoh, 1991), in the sea-surface 
+temperature (Yukimoto et al., 1995) and in the 
+temperature and salinity of the upper 500 m of the 
+ocean (Watanabe et al., 1994).  Hurlburt et al. 
+(1996) simulate a decadal time scale flow 
+instability in the Kuroshio Extension that requires 
+an eddy-resolving basin-scale model.  The first 
+EOF of the observed long-term sea surface 
+temperature (SST) shows that both on the ENSO 
+time scale and on a  decadal time scale there are 
+clear signals on a pan-Pacific scale (Fig. 12). 
+Kitoh (1991) indicated in his atmospheric general 
+circulation model (AGCM) simulation that the 
+interannual and interdecadal variations of the 
+intensity of the Aleutian Low, and consequently 
+the cyclonic surface wind stress on the sea surface, 
+are mostly results of teleconnections with similar 
+variations of the central tropical Pacific associated 
+with ENSO.  Miller et al. (1994) simulated such 
+oceanic variations in middle to high latitudes using 
+observed wind stress and heat flux anomalies.  
+The study of the impact of this type of climatic 
+variations on ocean dynamics and on oceanic heat 
+transport is an active field of research in ocean 
+modelling. 
+ 
+ A key criterion for climate change 
+modelling, which is concerned with statistical 
+properties rather than synoptic details, is not the 
+predictive skill of the model for interannual 
+variability, but whether a model has a realistic 
+spatial and temporal spectrum of variability at 
+these time scales.  Global ocean-only models have 
+shown realistic modes of interannual variability 
+when forced with observed forcing (e.g. Chao and 
+Philander, 1993;  Jacobs et al., 1994;  Zhang and 
+Endoh, 1994), though it is clear that a model must 
+possess adequate resolution in the tropical region 
+in order to avoid distorting the important 
+equatorial Kelvin and Rossby waves. There are 
+also many additional areas of concern (Stockdale 
+et al., 1993).  Philander et al. (1992) noted that 
+low-resolution ocean models may not be capable 
+ 11
+of representing the important mechanisms of 
+ENSO, though in coupled systems they do possess 
+distinctive modes of oscillation. Recent 
+hypotheses suggest that decadal variability in the 
+Pacific may be either linked to the El Niño/La 
+Niña signal in the equatorial Pacific (Trenberth 
+and Hurrell, 1994) or to midlatitude air-sea 
+instabilities (Latif and Barnett, 1994).  
+ 
+ A useful summary of the nature and 
+predictability of oceanic variability is reproduced 
+as Table 1 (from Hurlburt, 1984).  
+ 
+3.1.4  Water properties 
+ 
+ The subarctic North Pacific is 
+characterized by the presence of a rather brackish, 
+approximately 100 m deep, upper layer.  This 
+layer extends south to a broad front which defines 
+the subarctic boundary region eastward of the 
+western boundary current region (Fig. 1).  The 
+brackish upper layer owes its existence to the 
+excess of precipitation over evaporation over the 
+subarctic North Pacific as well as to the inflow of 
+freshwater from many coastal rivers.  In addition, 
+the upper layer is subject to seasonal thermal 
+stratification.  The northern marginal seas 
+(Bering, Okhotsk) are also the site of extensive ice 
+formation.  Buoyancy fluxes through lateral 
+boundaries (including marginal seas) and the sea 
+surface are the main factors in determining near-
+surface water properties over most of the subarctic 
+north Pacific.  Advection plays an important role 
+in spatially limited, but nevertheless very 
+important areas, such as the Kuroshio/Oyashio 
+confluence area, where strong horizontal mixing 
+occurs.  
+ Extensive modelling of the seasonal 
+thermocline has focussed on subarctic North 
+Pacific waters (Denman and Miyake, 1973; 
+Martin, 1985;  Gaspar et al., 1990;  Thomas et 
+al., 1993).  A common technique, which has often 
+been found satisfactory, has been to ignore 
+advection entirely and to describe the evolution of 
+the thermocline by using a 1-D model which 
+includes air-sea exchanges and a parameterization 
+of vertical mixing.  This kind of model could then 
+be attached to a 3-D ocean model to describe the 
+evolution of its upper layer temperature. Large et 
+al. (1994) have reviewed the limitations of upper 
+layer models, which they find generally 
+inadequate, even in areas of weak advection.  
+ 
+ When advection is important, it must be 
+included in the evolution of upper layer properties.  
+Cherniawsky and Holloway (1991, 1993) have 
+examined various effects on the details of water 
+property distributions in the Kuroshio/Oyashio 
+extension region, using a 2.5 layer primitive-
+equations model with resolution of 1 ° in latitude 
+and 1.5 ° in longitude. Cherniawsky et al. (1990) 
+coupled a sea-ice model to the above to extend the 
+realism of the model.  The circulation which 
+results is not quite realistic, particularly in not 
+yielding a coastal branch of the Oyashio. 
+ 
+ Existing models are thought not to do very 
+well with respect to the distribution and generation 
+of water properties, most markedly in the 
+Kuroshio-Oyashio region.  Improvements in 
+model resolution, in the specification of 
+atmospheric forcing, in the understanding of the 
+exchange with neighbouring, especially coastal, 
+basins and in mixed-layer physics are necessary to 
+improve the situation.  We will return to this point 
+in our discussion of intermediate-water formation 
+and circulation. 
+ 
+3.2  Intermediate circulation  
+ 
+ The intermediate waters of the subarctic 
+Pacific may be defined with reference to T-S 
+properties shown in Fig. 13.  An examination of 
+this figure reveals several important properties of 
+the North Pacific.  First, there are two main parts 
+to the T-S diagram.  Subpolar gyre stations show 
+a T-S relation that begins in shallow water with 
+relatively low salinities, near 33.0, and low 
+temperatures, near 4 °C, and extends to very cold 
+(1 °C) and saline (34.7) water in the deepest 
+portions of the water column.  Subtropical gyre 
+stations, on the other hand, show relatively warm 
+and saline surface waters (34.2, > 10 °C), a mid-
+depth salinity minimum near potential density of 
+26.8, and deeper water similar to that of the 
+subpolar gyre.  The subtropical salinity minimum 
+defines the water usually called the North Pacific 
+Intermediate Water (NPIW).  The mechanism of 
+formation of this minimum observed in the 
+subtropical gyre is not well-understood, but it 
+ 12
+seems clear that it is related somehow to the 
+mixing of subpolar water across the subtropical-
+subpolar frontal boundary in the western North 
+Pacific, followed by advection and diffusion into 
+the subtropical gyre interior. 
+ 
+ A number of studies (i.e., Talley, 1993) 
+show that isopycnal surfaces at potential densities 
+greater than 26.6 are not generally in contact with 
+the atmosphere in the open North Pacific at any 
+time of the year, effectively eliminating direct air-
+sea interaction as a possible agent in the formation 
+of the subtropical salinity minimum.  (Although, 
+as we have noted earlier, there has been some 
+suggestion of ventilation within the Alaskan gyre).  
+Furthermore, at potential densities greater than 
+about 27.4 the T-S characteristics of the subpolar 
+and subtropical gyres become virtually 
+indistinguishable.  For this reason, a useful 
+definition of the intermediate layer of the North 
+Pacific is the layer lying between potential 
+densities of 26.7 and 27.4.  A useful map of the 
+salinity on the central NPIW surface within this 
+layer is given in the classic work of Reid (1965) 
+(Fig. 14).  Modelling of the intermediate 
+circulation of the subarctic North Pacific thus 
+includes a strong emphasis on the formation and 
+distribution of the NPIW.  
+ 
+ During most of the year the minimum 
+salinity in the subpolar water column is at the sea 
+surface, mainly due to the relatively low 
+evaporation rate at the surface of the North Pacific 
+compared to other oceans (Warren, 1983), while in 
+the subtropical gyre the minimum salinity in the 
+water column is generally located in the 
+intermediate layer, near sigma-theta of 26.8.  As 
+noted above, however, the two gyres must be 
+connected at that level, since the water in the 
+subtropical salinity minimum clearly at least 
+partially originated in the subpolar gyre (this was 
+already represented in Sverdrup et al, 1942;  Fig. 
+15).  The present generation of numerical models 
+does not adequately reproduce these large-scale T-
+S features, and indeed many existing models do 
+not produce a subtropical salinity minimum at all.  
+Modelling the distributions of ocean properties, 
+like temperature and salinity, which affect density 
+and hence circulation is a pre-requisite to the 
+development of models which can follow tracers 
+and pollutants.  Building accurate models of the 
+North Pacific that produce the gross large-scale 
+characteristics of both the subtropical and subpolar 
+gyres, and the interaction between them, is clearly 
+a high priority for the future of Pacific Ocean 
+modelling. 
+ 
+ The formation mechanism of the NPIW 
+has puzzled oceanographers for a long time 
+(Sverdrup et al., 1942;  Hasunuma, 1978;  Talley, 
+1993) and Talley et al. (1995) have reviewed 
+recent ideas on the process of formation of NPIW, 
+in the area which encompasses the 
+Kuroshio/Oyashio confluence, northeast of Japan. 
+Fig. 16 shows a schematic diagram of the currents 
+and features involved in the process, whereby 
+waters advected from the Oyashio, the Kuroshio 
+and from the Sea of Japan through Tsugaru Strait 
+mix, under atmospheric forcing, to create NPIW.   
+ 
+ Modelling the formation of NPIW is a 
+major challenge! Fukasawa et al. (1992) 
+developed an inverse model which uses Levitus's 
+data (1982) to estimate transport on isopycnal 
+surfaces at intermediate depths (Fig. 17).  Results 
+show a basin-scale circulation, as expected, and a 
+source in the Oyashio-Kuroshio mixing region. 
+Two source regions have however been suggested 
+for the origin of the low salinity water which 
+forms the core of the NPIW:  the first is the 
+Oyashio/Kuroshio mixing region (Talley and 
+Nagata, 1993;  Yasuda et al., 1995);  the other is 
+a process of direct spontaneous ventilation of 
+sigma-theta 26.8 water in the Alaskan gyre (Van 
+Scoy et al., 1991).  Yamanaka et al.'s (1995) 
+model shows that water supplies from both the 
+Bering and the Okhotsk Seas are necessary to 
+create the salinity minimum structure and support 
+the first region as a more likely source.  Qiu 
+(1995) has presented a local model which tries to 
+explain the salinity minimum structure in terms of 
+the surrounding water masses.  There is not 
+universal agreement on the reliability of model 
+results and a need for better resolution and better 
+control of diffusion parameters has been 
+expressed. Models developed do not exhibit the 
+sharp sub-polar/sub-tropical front seen in nature. 
+There is also little confidence in the amounts of 
+NPIW produced.  It is suggested that additional 
+tracers (beyond salt) should be used to test the 
+ 13
+intermediate circulation;  freons, for example, 
+might provide useful information of water age and 
+path.  
+ 
+ There is more to the intermediate 
+circulation than the spreading of NPIW. 
+Yamanaka et al. (1994) have performed 
+experiments with an Ocean General Circulation 
+Model with and without surface wind forcing for 
+the same surface climatological temperature and 
+salinity conditions.  In the absence of the wind 
+stress, the remaining thermohaline circulation is 
+only 10 to 20% of what is found in the presence of 
+wind forcing.  This result shows that the NPIW is 
+at a depth where wind forcing circulation is still 
+important in determining the circulation.  
+ 
+3.3  Deep and bottom circulation 
+ 
+ Available information indicates that one 
+should think of the circulation in the subarctic 
+North Pacific as consisting of at least four layers: 
+surface, intermediate, deep and bottom.  The layer 
+below the main pycnocline needs to be divided 
+into deep and bottom layers because most of the 
+northward flowing water (Lower Circumpolar 
+Water) returns southward as a mid-depth flow of 
+Pacific Deep Water (Fiadeiro, 1982;  Johnson and 
+Toole, 1993).     
+ 
+ When discussing the deep and bottom 
+circulation, exchanges with more southerly areas 
+of the Pacific and with other oceans become 
+extremely important, since at those depths, the 
+primarily thermohaline circulation is linked to the 
+global "conveyor belt" whose structure remains 
+mysterious in many areas, and which is perhaps 
+better represented through a more complicated 
+diagram than a simple "belt", such as that shown 
+in Fig. 18.  Schmitz (1995) provides a recent 
+summary of observational knowledge of the global 
+thermohaline circulation. An interpretation of deep 
+flows into the North Pacific, at 4,000 m and 5,000 
+m, by Kawabe and Taira (1995) is shown in Fig. 
+19.  This figure clearly reveals the general 
+western boundary current nature of the deep 
+circulation and the channeling influence of the 
+large scale bathymetry.  The absence of any 
+information over wide areas is also striking.   
+ 
+ Exchanges between the Pacific and the 
+Southern Ocean have been discussed in global 
+model results (Gill and Bryan, 1971;  Cox, 1989; 
+Semtner and Chervin, 1992;  Ishikawa et al.,1993;  
+Toggweiler and Samuels, 1993, Ishizaki, 1994;  
+Shriver and Hurlburt, 1995) and are still not well 
+enough understood.  Model results from Ishizaki 
+(1994), seen in Fig. 20, do however show some 
+general similarity with what is known of the flow.  
+Exchanges across the equatorial Pacific have been 
+modelled by Suginohara and Fukasawa (1988) and 
+Suginohara and Aoki (1991), whose results exhibit 
+a complex vertical structure of "stacked jets" along 
+the equator whose nature remains controversial 
+(Wang, 1995) and which seem difficult to 
+reconcile with observations such as those of Firing 
+(1989).   
+ 
+ Models suggest that the combined effects 
+of baroclinic instability and bottom topography are 
+very important in the Kuroshio/Oyashio extension 
+region (Hurlburt et al., 1995b, c, 1996).  The 
+bottom topography is an important factor in 
+steering deep flows and regulating the distribution 
+and intensity of baroclinic instability. The 
+baroclinic instability drives abyssal flows, 
+including eddy-driven deep mean flows, which are 
+then constrained to follow f/h contours of the 
+bottom topography (with f the Coriolis parameter 
+and h the ocean depth).  The abyssal flow in turn 
+tends to steer the upper ocean flow, including the 
+mean path of the Kuroshio/Oyashio extension. 
+Eddy-driven deep mean flows from the model are 
+consistent with mean abyssal currents measured in 
+the Kuroshio Extension Regional Experiment in 
+the region where the Kuroshio separates from the 
+coast of Japan (Hallock and Teague, 1995).  
+ 
+ The influence of unresolved eddies on 
+bottom interactions has been discussed by 
+Holloway (1992) and Eby and Holloway (1994). 
+Their method for including such "topographic 
+stresses" yields considerably different circulation 
+patterns at depth.  We shall return to this point 
+when discussing possible improvements to model 
+physics.  
+ 14
+3.4  Assessment 
+ 
+ It is tempting to be impressed by the 
+results of models such as those depicted in Fig. 9, 
+which reproduce the main features of the subarctic 
+North Pacific circulation and considerable realistic 
+detail of the circulation in some of the most 
+complex areas within the domain.  While the 
+achievements of state-of-the-art, eddy resolving 
+models are impressive, they nevertheless are just 
+beginning to reproduce characteristic features of 
+the western boundary currents and their region of 
+interaction, such as the latitude of detachment of 
+the Kuroshio and the frontal region of the 
+Kuroshio Extension. They are still incapable of 
+properly simulating water mass properties of the 
+upper layer and the properties and positions of 
+important fronts in vigorous mixing regions such 
+as the Oyashio-Kuroshio confluence.  Model 
+results for the deeper and abyssal circulation are 
+difficult to assess since there are few 
+measurements at great depths. 
+ 
+ Circulation modelling has made rapid 
+progress in recent years, and in particular, the 
+results of the high resolution models described, for 
+example, by Hurlburt et al. (1996) are very 
+encouraging and suggest that many of the 
+deficiencies currently identified in model results 
+will soon be corrected.  These deficiencies are 
+associated with the representation of physical 
+processes, atmospheric forcing, boundary 
+conditions at contacts with marginal seas, and 
+other data deficiencies.  These we shall consider 
+in turn.  
+ 
+ For convenience a list of physical models 
+of large-scale circulation and their general 
+characteristics is presented in Table 2. 
+ 
+ 15
+4.0 PHYSICAL PROCESSES 
+ 
+ While ad-hoc, correlative models may 
+sometimes do a good job at predicting some 
+natural phenomena, experience in atmospheric 
+sciences and in oceanographic modelling shows 
+clearly that better physics yields better and more 
+reliable results.  We have already alluded to a 
+number of situations where physical understanding 
+is lacking. These will now be discussed in more 
+detail.  
+ 
+ Model physics include first a correct 
+formulation of the basic physical principles which 
+control fluid motion and the changes in fluid 
+properties.  Difficulties in arriving at a correct 
+formulation start with the discretization of the 
+computational domain, which forces the 
+representation of unresolved physical phenomena 
+through some kind of parameterization.  Even in 
+eddy-resolving models, there remain sub-grid-
+scale phenomena, such as salt-fingering, cabelling, 
+waves, tides, turbulence, inertial motions, sharp 
+fronts, etc...which are either completely neglected 
+or included into some exchange parameter such as 
+an "eddy-viscosity". Sometimes, a more 
+complicated scheme is used, which attempts to 
+relate the state of the modeled flow and that of 
+smaller scale properties through some closure 
+hypothesis.  
+ 
+ Because such problems are an important 
+challenge to ocean modelling, they were very 
+much on the mind of members of Working Group 
+7.  Nevertheless, because of their generic nature, 
+they will receive only passing attention here, 
+focusing on a few points of particular pertinence to 
+the subarctic North Pacific.  We return briefly to 
+numerical techniques in the last section of this 
+chapter.   
+ 
+Resolution 
+ 
+ As discussed earlier, problems of 
+resolution are particularly important where strong 
+flows interact with bottom topography.  Another 
+situation is the eastward penetration of inertial jets 
+such as the Kuroshio Extension and their 
+associated high variability.  This is illustrated in 
+Fig. 21 by a comparison of simulations at 1/8 ° and 
+1/16 ° resolution.  It has been argued that 
+mesoscale resolution in the probable formation 
+region of NPIW (and perhaps in other areas) is not 
+sufficient to identify and characterize major 
+mixing processes.  Increasing the resolution is one 
+way to deal with this problem.  The development 
+of bigger and faster supercomputers has allowed 
+great progress in this direction.  In an area such as 
+the subarctic North Pacific, where marginal seas, 
+shelf regions and boundary currents are important 
+and need to be modeled at a greater resolution, 
+there is a need for techniques which can provide 
+variable resolution.  Possible classes of 
+techniques in this regard include the nesting of 
+different grid meshes (Spall and Holland, 1991) 
+and the use of unstructured gridding techniques 
+such as finite and spectral finite elements 
+(Iskandarani et al, 1994).  The enhanced-
+resolution capabilities of these new techniques will 
+be particularly significant for programs, such as 
+GLOBEC and others, which emphasize regional 
+physical/chemical/biological interactions.  The 
+other way to deal with inadequate resolution is to 
+improve the parameterization of sub-grid scale 
+phenomena, particularly mixing, to which we 
+return below. 
+ 
+ High vertical resolution is required in 
+regions where important physical phenomena take 
+place on small vertical scales:  in the upper, wind-
+influenced layer, and in some areas where sharp 
+pycnoclines occur.  Particular cases include the 
+fitting of upper layer models to the top of large 
+scale ocean models, an issue already raised above;  
+and ice modelling. 
+ 
+Partial models 
+ 
+ What we call a "partial model" is a model 
+which focuses on a range of depths or densities:  
+the upper, wind-influenced layer, or the salinity-
+minimum layer, and does not solve for the whole 
+thickness of the ocean.  (This is an unusual 
+terminology, but one which does not raise 
+confusion with "layer" and "level" models.) This 
+kind of model requires boundary conditions at its 
+upper or lower boundary, or both, from ocean 
+layers above or below it.  
+ 16
+ Because of the need for enhanced 
+resolution near the surface, a detailed upper-layer 
+model which handles the physics of air-sea 
+interactions is sometimes matched to a semi-
+passive deeper ocean or to an active fully three-
+dimensional model.  Cherniawsky and Holloway 
+(1991, 1993) have examined the response of the 
+upper layer of the North Pacific to a variety of 
+surface forcing regimes using this kind of 
+approach.  Sterl and Kattenberg (1994) have 
+embedded a mixed-layer model into an ocean 
+general circulation model of the Atlantic.  This 
+kind of approach is important and requires further 
+experimentation, especially where air-sea interface 
+fluxes are important.  
+ 
+ Large-scale upwelling associated with 
+Ekman suction is important in the eastern and the 
+western subarctic Pacific, due to the influence of 
+the prevailing atmospheric systems, such as the 
+Aleutian low.  Gradual nutrient replenishment 
+associated with this process, as well as direct wind 
+mixing, is thought to be important in determining 
+marine productivity.  However the situation is 
+complicated;  both upwelling and downwelling 
+occur over the subarctic region. Judging from 
+oxygen distributions, upwelling seems to be 
+significant only in the upper layers. Distributions 
+of other tracers, such as CFC's and tritium may 
+also shed light on vertical water movements and 
+need to be better understood (Van Scoy et al., 
+1991).    
+ 
+ Modelling the intermediate layer 
+circulation requires information about flows into it 
+from above and below, which may perhaps be 
+obtained from a meteorologically driven upper-
+layer above;  there is however no good 
+information on the distribution and variability of 
+the large scale deep upwelling velocity below.  
+ 
+Ice modelling 
+ 
+ The mechanical and thermodynamic 
+processes which regulate the growth and retreat of 
+sea ice are inadequately represented in current 
+large-scale ocean circulation models.  Although 
+some success has been reported in coarse-
+resolution coupled ice/ocean modelling of, for 
+example, the Arctic Ocean (Fleming and Semtner, 
+1991), available ice models have known 
+deficiencies at the higher resolutions necessary to 
+resolve processes in partially ice-covered regions 
+such as the Japan, Okhotsk and Bering Seas.  
+Alternate treatments of sea ice dynamics and 
+thermodynamics need exploration, both in 
+idealized settings and in fully coupled high-
+resolution basin-scale models of the North Pacific.  
+In particular, small scale prediction of ice cover is 
+extremely important for navigational purposes in 
+the marginal sea areas.   
+ 
+Topographic stress 
+ 
+ There is always a practical limit to 
+increasing resolution.  Holloway (1992) has 
+pioneered a different approach, which considers 
+interactions between unresolved eddies and the 
+bathymetry in terms of statistical principles. 
+Holloway (1992) and Eby and Holloway (1994) 
+suggested that relaxation of flows towards a 
+statistical highest entropy state rather than towards 
+a state of rest might lead to more realistic 
+representations of topographic stress. Fig. 22  
+shows a comparison between currents at a depth of 
+2,880 m obtained in the usual fashion and those 
+obtained when imposing relaxation to a statistical 
+state.  The deep currents are much stronger in the 
+second case and, in some areas,  in different 
+directions.  The Deep Western Boundary Current 
+in the Shikoku Basin, off Japan, is much stronger 
+in the second model and more in keeping with the 
+measurements of Fukasawa et al. (1986).  While 
+this approach is relevant to all ocean models, it is 
+also a clear example of the need for further work 
+in representing ocean physics in numerical 
+models, and especially in modelling deep currents.    
+ 
+Mixing processes 
+ 
+ Many problems of small scale physics 
+identified as relevant to the subarctic North Pacific 
+relate to the parameterization of mixing of water 
+properties at sub-grid scales, a point which we 
+have already alluded to earlier.  The idea of 
+isopycnal diffusion is based on movement of water 
+particles carrying their salinity and temperature by 
+steady subgrid-scale geostrophic neutral eddies.  
+An unstable or decaying eddy mixing (also double 
+diffusion) has a diapycnal component.  Accurate 
+ 17
+modelling of diapycnal fluxes (across isopycnal 
+surfaces) is a necessary pre-requisite for the 
+representation of thermohaline processes, 
+including water mass formation and conversion.  
+It seems that the representation of the diffusivity 
+tensor as being diagonal with respect to principal 
+axes lying in local isopycnal surfaces is necessary 
+for meeting this requirement.  (The diapycnal and 
+along-isopycnal diffusivities differ by many order 
+of magnitudes.)  While this can be done in fixed-
+level coordinate models, the necessary 
+introduction of horizontal numerical diffusion 
+cancels the effects of diffusivity tensor rotation 
+and re-introduces a spuriously high effective 
+diapycnal diffusivity, especially where isopycnal 
+surfaces slope strongly, as in strong boundary 
+currents (Redi, 1982;  McDougall and Church, 
+1988).  A more natural vehicle for representing 
+diapycnal diffusive processes in the ocean is the 
+isopycnal-layer model, in which potential density, 
+or some other suitable variable, is used as a 
+vertical coordinate in place of the geometric depth 
+(deSzoeke and Bennett, 1993;  deSzoeke, 1995).  
+In a numerical model based on isopycnal 
+coordinates the diapycnal diffusion can be very 
+accurately controlled.  This feature is a necessary 
+requirement for developing models of water mass 
+formation and transformation.  Gent and 
+McWilliams (1990) have discussed the same 
+situation in terms of an "eddy-induced transport 
+velocity" which arises from the skew-symmetric 
+component of a 3x3 tensor which parameterizes 
+the effect of oceanic eddy motions.  Gent et al. 
+(1995) have shown that this parameterization 
+yields results consistent with observed meridional 
+heat transport.  
+ 
+Vortex interactions 
+ 
+ The energetic regions east and south of 
+Japan are areas where meanders form and travel 
+along the Kuroshio and the Oyashio, and where  
+rings are created and transport water masses across 
+frontal zones (Yasuda et al., 1992; Yasuda, 1995).  
+Even in models where these features are resolved, 
+there is a lack of clear practical understanding of 
+the dynamics of ring and vortex interactions and of 
+their interaction with stratification and frontal 
+zones.  Further analysis of such features and their 
+interactions would shed light on the behaviour of 
+these complex regions.  
+ 
+Numerical Methods 
+ 
+ Model configuration (multi-level, multi-
+layer; spectral; sigma-coordinates...) discretization 
+methods (finite differences, elements, irregular or 
+nested grids...) and numerical techniques can have 
+a strong influence on the quality of the solutions of 
+geophysical hydrodynamic problems.  The 
+solutions obtained should be as physically faithful 
+as possible, without numerical artifacts of, for 
+example, dispersive, diffusive or advective nature;  
+they should also be robust and stable in the face of 
+parameter changes and forcing variations.  For 
+operational applications, speed of calculation is 
+also an important factor.  Methods most suitable 
+in one area, such as the deep ocean, may not be 
+appropriate in coastal areas;  models ideal for the 
+representation of some processes, say Rossby 
+wave propagation, may fail miserably in some 
+other regard.  Experimentation is a necessary and 
+important aspect of model development.   
+ 
+ At this stage of ocean modelling, it is 
+essential to foster independent experimentation 
+among different groups in different PICES 
+countries;  it is equally important to facilitate 
+frequent exchange of ideas and comparisons of 
+models results between these various groups so 
+that they may learn from each other and that 
+independent work may contribute to progress for 
+all.  
+ 
+ 
+ 18
+5.0  MARGINAL SEAS 
+ 
+ Three important semi-enclosed marginal 
+seas surround the subarctic North Pacific:  the Sea 
+of Okhotsk, the Sea of Japan and the Bering Sea. 
+These areas are the site of more extreme 
+thermohaline forcing than the open Pacific.  
+Runoff, cooling and ice formation in the marginal 
+seas contribute to water mass modifications which 
+affect the surface and intermediate water 
+properties of the subarctic North Pacific.  
+ 
+The Sea of Okhotsk 
+ 
+ The oceanography of the Sea of Okhotsk 
+has recently been extensively reviewed by Talley 
+and Nagata (1995).  This sea has extensive 
+shallow areas as well as deeper basins in the 
+middle and the south (Fig. 23).  The circulation 
+during the warm season consists of a cyclonic 
+gyre, with more intense currents along the coasts 
+and significant input from the Sea of Japan 
+through Soya Strait. (Fig. 24).  There is also 
+thought to be important inflow of water from the 
+Pacific through the passes of the Kuril 
+Archipelago.  Pacific Ocean waters circulating 
+through the Sea of Okhotsk are cooled and diluted 
+with fresh water.  Waters exiting the Sea at its 
+southeastern end mix with Oyashio waters and are 
+thought to be an important contributor to the 
+formation of NPIW.   
+ 
+ There have been few publications on 
+models of the Okhotsk Sea;  Luchin (1993), as 
+quoted in Talley and Nagata (1995), mentions 
+only his own modelling efforts (Luchin, 1982), 
+where he applied Sarkisyan's D1/18/ model 
+(Sarkisyan, 1977) to calculate summer currents 
+using available water density information and 
+atmospheric pressure fields described by 
+Timofeeva.  More recently, Kuzin et al. (1995) 
+have reported on diagnostic and one-month 
+prognostic calculations of the circulation in the 
+Sea of Okhotsk.  
+ 
+ The exchanges between the Pacific and 
+the Sea of Okhotsk through the Kurile Islands 
+occur in the vicinity of major anticyclonic eddies 
+of great persistence (Zyryanov, 1974).  The 
+origin, nature and role of these features remain 
+poorly understood, and need to be clarified in 
+order to understand the exchange between the Sea 
+of Okhotsk and the Pacific.  The complex 
+interactions suggested by Bobkov's (1993) 
+interpretation of the circulation near the southern 
+boundary of the Sea of Okhotsk (Fig. 25) present a 
+significant challenge to modelers.  Improved 
+numerical modelling will certainly prove to be an 
+important tool to unravel the subtleties of the 
+interactions of the Sea of Okhotsk with the Pacific.  
+ 
+The Sea of Japan 
+ 
+ The Sea of Japan is a deep basin, 
+connected to the rest of the Pacific by shallow sills 
+(Fig. 26).  Overviews of its oceanography and 
+circulation have been presented by Ichiye (1984) 
+and Takano (1991).  Overall circulation  (Fig. 
+27) is driven by winds, runoff and temperature 
+differences, and by inflow in the south through 
+Tsushima Strait with outflow through Tsugaru and 
+Soya Straits.  
+ 
+  There have been extensive theoretical and 
+numerical modelling studies of the Japan Sea 
+(Kawabe, 1982;  Yoon, 1982a, b, c;  Sekine, 
+1986, 1991;  Kang, 1988;  Seung and Kim, 1989, 
+1993;  Seung, 1992; Yoon, 1995;  and Holloway 
+et al., 1995).  Some recent simulations in the Sea 
+of Japan (Hurlburt et al., 1995b) have 
+demonstrated the sensitivity of the abyssal 
+circulation to horizontal resolution and shown the 
+importance of going to a very high resolution 
+(1/32 °) to reproduce the separation latitude of the 
+East Korea Warm Current.  The state of 
+modelling in that area is well developed but still 
+subject to the general limitations regarding 
+physical processes and data support stated 
+elsewhere in this report (cf. also Vasilyev and 
+Makashin, 1992;  Kozlov et al., 1995).   
+ 
+ As far as the circulation in the subarctic 
+North Pacific is concerned, the Sea of Japan is 
+important because it contributes water to the 
+Pacific through Tsugaru Strait, south of Hokkaido, 
+and through Soya Strait and along the north shore 
+of Hokkaido, into the Kuroshio/Oyashio 
+confluence region and the area of formation of the 
+ 19
+North Pacific Intermediate Water (Vasilyev and 
+Dudka, 1994).   
+ 
+The Bering Sea 
+ 
+ The Bering Sea includes a very wide 
+shallow shelf as well as a deep basin in the south 
+(Fig. 28).  Extensive ice formation during winter 
+is a dominant feature of its surface layer.  Alaskan 
+Stream waters flows into the Bering Sea through 
+Aleutian passes in the east and participates in the 
+dominant cyclonic circulation which exits 
+southwards as the East Kamtchatka current (Fig. 
+1).  There has been extensive international study 
+of the Bering Sea (Arsenyev, 1967;  Takenouti 
+and Ohtani, 1974;  Sayles et al., 1979;  Stabeno 
+and Reed, 1994;  Verkhunov, 1995).  Recent 
+modelling (Overland et al. 1994) efforts reproduce 
+some of the features of this circulation (Fig. 29). 
+ 
+ As seen in Fig. 1, the general surface 
+circulation of the subarctic north Pacific includes 
+flow through the Bering Sea and Sea of Okhotsk 
+gyres.  These two marginal seas thus participate 
+in the general cyclonic circulation of the subpolar 
+gyre and play an important role in meridional 
+transport of surface waters and their properties. 
+Contributions from the Bering Sea to the Oyashio 
+and from flow having passed through the Sea of 
+Okhotsk are important to the formation of the 
+NPIW and thus to thermohaline forcing of the 
+surface and intermediate circulations.  
+ 
+ Overall, temperature and salinity 
+distributions within the marginal seas and mass 
+transport through them and out at their boundaries 
+are not sufficiently well documented to provide 
+reliable boundary conditions for ocean-scale 
+models.  No satisfactory modelling of the 
+subarctic North Pacific is possible without 
+including these fluxes.  Because these basins are 
+much smaller than the whole subarctic North 
+Pacific, they may be easier to model with a degree 
+of resolution sufficient to reproduce all relevant 
+features and may be used as test areas for new 
+developments.  
+ 
+ 20
+6.0  DATA REQUIREMENTS 
+ 
+ A broad observation, arising from our 
+review of models of the subarctic North Pacific 
+circulation, is that the quality of the models is 
+generally similar to that of the observations in the 
+area, or layer modeled.  For example, models of 
+the upper layer, about which most is known, are 
+better and more reliable than those of the deep 
+ocean.  The quality and density of data available 
+in an area determine the level of knowledge of that 
+area and hence set the standards for modelling.  
+As a general principle, one could then state that 
+the best way to improve the quality of models is to 
+improve the quality and quantity of oceanographic 
+data.  Since data are much more expensive than 
+model results, some careful thought has to be 
+given to gathering those data which will lead to 
+the greatest degree of model improvement.  
+ 
+Bathymetry 
+ 
+ The simplest area of data improvement, 
+which may be done once for all, is in the 
+description of bottom topography.  A precise 
+specification of bottom topography is essential for 
+accurate modelling of processes in shallow areas, 
+especially at the junction of marginal seas with the 
+deep ocean.  The importance of topographic 
+accuracy is also felt strongly where the Kuroshio 
+closely approaches the Japanese coast, before it 
+flows over the Izu ridge.  In that region, 
+baroclinic interactions with bottom slopes and 
+other vorticity effects are particularly important 
+and strongly affect the separation latitude and the 
+subsequent fate of the Kuroshio and of its 
+meanders. 
+ 
+ ETOPO5 (NOAA, 1986), the industry-
+standard bottom topography file for ocean 
+modelling is thought to be unreliable in some areas 
+below 200 m.  The Kurile Island region in 
+particular is very poorly defined in ETOPO5 and 
+there are some doubts about the accuracy of sill 
+depths in that region.  Nearshore bathymetric 
+information is usually available in national files, 
+and the problem may be resolved by ensuring 
+general access to all sources of bathymetric 
+information within PICES partners.  
+ 
+Atmospheric forcing 
+ 
+   Accurate characterization of the wind field 
+and of surface buoyancy flux constituents is 
+crucial for reliable modelling of the subarctic 
+north Pacific.  A comparison of results obtained 
+by a high-resolution ocean model using 
+respectively Hellerman-Rosenstein (climato-
+logical data from ship observations) and ECMWF 
+(output from ECMWF weather forecasting model 
+with assimilation of observations) wind forcing is 
+shown in Fig. 30.  There are significant 
+differences in the path of the Kuroshio between 
+the two simulations.  In their model of the 
+Kuroshio/Oyashio confluence region mentioned 
+above, Cherniawsky and Holloway (1991, 1993) 
+and Cherniawsky et al. (1990) found a significant 
+sensitivity of the Oyashio front to wind-stress and 
+to buoyancy inputs.  These examples point out the 
+need for the best local wind measurements and 
+analysis as inputs to ocean models.  Long-term 
+(many decades), high quality fields of winds and 
+surface fluxes are needed to anchor studies of the 
+sensitivity of ocean property and circulation 
+variability to these fluxes.  A first step would be 
+for PICES to initiate a review of the status of these 
+fields. It is suspected that the biggest weakness is 
+the surface freshwater fluxes [i.e. evaporation - 
+precipi-tation].  The suggested review would be 
+an important step in deciding "... the kinds of 
+observations and other information needed to 
+improve circulation models". 
+ 
+ Re-analysis of atmospheric forcing 
+functions is now underway at a number of 
+agencies and will yield higher quality input to 
+ocean models and to coupled ocean atmosphere 
+models.  These efforts are designed to provide 
+consistently-analyzed atmospheric fields through 
+time using state-of-the art data assimilation 
+techniques.  This will reduce the inconsistencies 
+due to operational changes found in time-series 
+analyses from operational products at weather 
+forecast centres. 
+ 
+ Accurate modelling of the surface 
+circulation also depends critically on the 
+availability of winds measured as closely as 
+ 21
+possible to the sea-surface. In this respect, the 
+availability of satellite scatterometer wind 
+information is particularly important.  Support 
+should be expressed for the continuation of 
+programs, such as the Japanese ADEOS mission 
+which carry out this function.  
+ 
+Ocean properties 
+ 
+ Oceanographic data are necessary for 
+initialization, boundary conditions, assimilation 
+and verification.  Information necessary to specify 
+sea-surface fluxes is thought to be a weak point, 
+especially in thermohaline models (precipitation 
+and evaporation at sea).  More detailed 
+climatologies than that of Levitus are necessary, 
+especially in complicated regions. PICES should 
+exert its influence on member states to increase the 
+accessibility to local data sets collected by 
+fisheries, defense and other agencies.  It is also 
+thought to be important to continue to collect 
+satellite data (altimetry, ocean color, 
+scatterometry, infra-red radiation):  PICES should 
+also push for continuation of "Earth  Observation" 
+programs in member countries.  The Oyashio 
+region east of the Kuriles is poorly sampled, 
+especially in the winter [40-50 °N, 145-170 °E];  
+more information is required in that area to 
+understand water properties leading to 
+intermediate water formation.  Finally, acoustic 
+monitoring of ocean properties promises to yield 
+large- scale information about ocean climate and 
+perhaps ocean circulation.  PICES countries 
+should keep an interest in such methods as a 
+means of monitoring some aspects of the subarctic 
+North Pacific. 
+ 
+Currents 
+ 
+ Sufficiently long-lasting direct current 
+measurements, both at fixed moorings and by 
+tracked drifters, are sorely lacking in many areas 
+of the subarctic Northern Pacific.  Their absence 
+makes critical comparison with model results 
+difficult.  Long-lasting drifters, which can follow 
+the flow at  controlled depths (or density levels), 
+offer a particularly attractive means of comparing 
+data and model results below the surface.  The 
+results recently reported by Riser (1995) and Taira 
+et al. (1995), using respectively RAFOS and 
+SOFAR floats, in intermediate and deep waters of 
+the western Pacific are an especially satisfying 
+beginning in this respect and provide direct 
+information over long periods of time on deep 
+motions.  Satellite altimetry is already being used 
+to infer geostrophic flows from sea-level slopes 
+(e.g. Fox, 1993) and will develop into an 
+operational tool to monitor surface currents and 
+for data assimilation into prognostic models of 
+ocean currents.  Every encouragement should be 
+given by PICES to the deployment of drifters, 
+especially at depth, and to satellite missions 
+carrying altimeters.   
+ 
+ 22
+7.0 APPLICATIONS OF MODELLING 
+ 
+ Oceanographers wish to know about the 
+ocean's circulation because they will then know 
+where water goes, where it carries heat and 
+materials away, how it affects ocean productivity, 
+etc... Knowing the circulation may be a goal in 
+itself, but it also has numerous practical 
+consequences.  
+ 
+Navigation 
+ 
+ Knowledge of ocean currents is useful to 
+plan the most effective shipping routes at sea: this 
+was precisely the motivation for Benjamin 
+Franklin to publish the earliest map of the Gulf 
+Stream, off new England.  While modern 
+shipping is less sensitive to ocean currents, there 
+remains an area where ocean models can be 
+extremely helpful to shipping.  This is in ice-
+covered regions where winds and ocean currents 
+move sea-ice around, alternately hindering or 
+favouring navigation.  Coupled atmospheric-
+ocean-ice models in the Sea of Okhotsk and the 
+Bering Sea may still bring benefits in planning 
+navigation in those areas.  
+ 
+Ocean Pollution 
+ 
+ The spread of noxious substances 
+dissolved in or carried by ocean waters is a 
+growing global concern.  Radioactive substances, 
+dissolved gases and fine particulate matter might 
+pose threats to ecosystems or unexpectedly 
+catalyze geobiochemical reactions;  on the other 
+hand, they may also provide information on 
+mixing and advection in the oceans.  The interests 
+of PICES members in maintaining high ocean 
+productivity within a clean environment already 
+clash with their own polluting industrial activities 
+in near-shore areas;  they may soon also be causes 
+of friction between member countries. A good 
+understanding of ocean circulation and its 
+variability is essential for the management of 
+marine pollution.  Existing ocean models can only 
+provide broad guidance on contamination levels 
+and paths taken by pollutants. 
+ 
+ Material floating at the surface of the 
+ocean (flotsam) is a special kind of pollutant 
+which often travels long distances to accumulate 
+on distant shores.  Because of the visibility of 
+flotsam, there has been wide concern about its fate 
+at sea (Shaw and Day, 1994).  In the absence of 
+predictive models capable of describing surface 
+currents on a day-to-day basis over wide ocean 
+areas, imaginative short cuts have been developed 
+to satisfy immediate needs.  Wakata and Sugimori 
+(1990) used average monthly ship-drift data to 
+estimate the trajectories and average density 
+distributions of floating debris in the North 
+Pacific.  Kubota (1994) derived climatic monthly 
+values of surface drift using COADS data (for 
+calculating Stokes and Ekman drift) and climatic 
+averages of water properties to estimate the 
+monthly-mean geostrophic component of the 
+surface flow.  The need for better temporal 
+resolution of surface drift led Ingraham and 
+Miyahara (1988, 1989) to develop the OSCURS 
+(Ocean Surface CURrents Simulation) model 
+which uses daily winds in combination with a 
+climatological geostrophic current field to 
+prescribe a surface drift velocity.  This model has 
+been applied with some success to tracking 
+drifting objects (Ebbesmeyer and Ingraham, 1992, 
+1994) and to explore possible effects of ocean 
+currents on salmon migration (Thomson et al., 
+1992, 1994).  OSCURS of course cannot include 
+mesoscale eddies.  Comparisons between 
+OSCURS calculations and the drift rate of 
+satellite-tracked WOCE drifters, drogued at 15 m, 
+show considerable similarity, but also reveal that 
+OSCURS speeds often exceed WOCE drifter 
+speeds by 50% or more (Fig. 31).  This result 
+reminds us of the presence of strong shears near 
+the ocean surface and the sensitivity of surface 
+drifter motion to direct wind action.  
+ 
+Climate 
+ 
+ Under climate change, we understand 
+large-scale changes in ocean properties on time 
+scales exceeding that of the ENSO phenomenon. 
+There is evidence for interdecadal shifts in ocean 
+properties (the 1976-88 shift, for example:  cf. 
+Trenberth and Hurrell, 1995) in the subarctic 
+North Pacific.  There is also evidence for longer 
+term changes in near-surface ocean temperature 
+ 23
+and salinity (Thomson and Tabata, 1989). Whether 
+observed changes are of anthropogenic origin or 
+part of long-term natural fluctuations is a question 
+of pressing and continuing relevance. Recognizing 
+long-term oceanic climate variability and 
+understanding its causes requires global models of 
+great reliability.  
+ 
+ Secular trends in ocean properties are 
+small, of the order of 0.1 °C/ decade or less 
+(Thomson and Tabata, 1989) and could arise from 
+a heat flux imbalance of the order of 1 W m
+-2
+.  
+This is much smaller than the routine accuracy of 
+surface flux measurements, although high-quality 
+process experiments, such as the TOGA COARE 
+experiment, have attained this level of accuracy 
+over limited areas and short times.  This being the 
+case, the interpretation of long time scale 
+modelling exercises must be subject to great 
+caution and it may be that ocean circulation 
+models run over decadal time scales should be 
+used to study the sensitivity of the ocean to small 
+changes in surface fluxes;  they may also be 
+useful for identifying causal patterns and linkages 
+between modeled changes and subtle forcing 
+modifications. 
+ 
+ In addition to natural inter-decadal 
+fluctuations one should also be concerned with 
+changes associated with modified ocean 
+conditions under global warming scenarios 
+associated with  a doubling and a quadrupling of 
+atmospheric CO
+2
+ levels.  Some studies (e.g. 
+Manabe and Stouffer, 1994) indicate a very strong 
+response in the North Atlantic, where the 
+thermohaline circulation collapses, mostly due to 
+the greatly increased excess of precipitation and 
+runoff over evaporation following atmosphering 
+warming.  The situation in the Pacific is more 
+linear, with increasing atmospheric CO
+2
+  leading 
+to increasing temperature (Weaver, 1993).  
+Knutson and Manabe (1994) have performed a 
+relevant simulation with a global coupled ocean-
+atmosphere general circulation model with global 
+warming induced by a 4 x CO
+2
+ atmosphere and a 
+control 1 x CO
+2
+ atmosphere.  Despite a 5 °C 
+warming in the equatorial Pacific and a 50% 
+increase in time-mean atmospheric water vapour 
+in the 4 x CO
+2
+ simulation, they found no 
+intensification of the ENSO-like sea-surface 
+temperature fluctuations, but rather a slight 
+decrease in their magnitude.  Any coupled ocean-
+atmosphere models should successfully represent 
+ENSO in order to represent interdecadal variability 
+in the North Pacific circulation.  This is another 
+strong justification for extending North Pacific 
+models to equatorial regions.   
+ 
+Ocean productivity 
+ 
+ There is growing interest in fisheries 
+management in understanding large-scale 
+variations in ocean productivity and in the 
+carrying capacity of commercially important 
+species, especially anadromous fish (e.g. Hinch et 
+al., 1995;  Kuznetsov, 1995).  Modelling ocean 
+productivity consists of imbedding food-web 
+models within physical circulation and ocean 
+property models.  There is already great interest 
+in modelling various parts of the ecosystem (e.g. 
+Frost, 1993;  SUPER, 1993;  Sugimoto and 
+Hargreaves, 1993).  Exploration and proper 
+representation of the links between wind and 
+boundary mixing, Ekman pumping and 
+productivity, especially their interannual 
+variability, which are important physical factors 
+on the biology, require high quality wind-driven 
+models, and in turn high quality winds.  The re-
+analysis of winds mentioned earlier is a welcome 
+development in this respect.  
+ 
+ Marginal seas and shelf areas are also 
+areas of high biological productivity.  Variations 
+in the production of commercial species of greatest 
+interest often depend on phenomena and 
+interactions occurring on scales well below those 
+now resolved by ocean wide and regional models.  
+A major challenge for fishery oceanographers will 
+be to find a way to use the results of large scale 
+models within the scope of more local interests.  
+ 
+ Interannual variations in circulation and 
+water mass patterns may have unexpected results 
+on carrying capacity that will require coupled 
+physical-biological models to quantify and test 
+hypotheses regarding mechanisms of cause and 
+effect.  For example, in the vicinity of Hawaii, in 
+the central North Pacific subtropical gyre, the 
+1991-92 ENSO event appeared to create a more 
+stable surface layer. Karl et al. (1995) documented 
+ 24
+a resulting increase in relative abundance of 
+nitrogen-fixing microalgae such that the food-web 
+shifted from nitrogen-limitation to phosphorus-
+limitation, with accompanying changes in food-
+web structure and trophic flows.  
+ 
+CO
+2
+ exchange 
+ 
+ At this point, we cannot reliably estimate 
+the ocean-atmosphere CO
+2
+ transfer rate.  Both 
+ecosystem and CO
+2
+ system studies will require 
+explicit mixed layers embedded in Ocean General 
+Circulation Models.  These models will have to 
+represent adequately fluxes at the based of the 
+mixed layer [the Large et al. (1994), kind of 
+model].  Current GCM models of the CO
+2
+ system 
+contain highly constrained biology (e.g. Maier-
+Reimer, 1993), although Drange (1994) has 
+developed a version of the Miami isopycnic model 
+(Black et al., 1989) of the North Atlantic for the 
+CO
+2
+ system that includes a 7-compartment 
+ecosystem module.  No doubt similar attempts 
+will be made in the subarctic North Pacific in the 
+next few years.  
+ 
+ Wallace (1995), in his discussion of 
+monitoring carbon inventories emphasizes the 
+need for further measurements and better models 
+to understand the uptake of tracers (including 
+CO
+2
+) and interpretation of tracer results.  
+ 
+Fish migration and distribution 
+ 
+ The distribution and migrations of fish 
+populations are influenced by ocean properties.  It 
+has long been a goal of fisheries oceanographers to 
+discover reliable links between routinely measured 
+ocean properties and the distribution of 
+commercially exploited fish stocks.  More 
+recently there has arisen a broad concern about the 
+effects of climate change and its effect on the 
+carrying capacity of the ocean (Beamish, 1995).  
+ 
+ Once some relation has been established 
+between fish habitat and ocean properties, 
+modelling can help by keeping track of the 
+location and extent of waters having these 
+properties.  Forecasting of mesoscale variability 
+may assist in directing fishing activity;  seasonal 
+and interannual variability may affect stock 
+assessment;  long-term climate variations may 
+lead to significant changes in carrying capacity 
+and in migration routes.  For example, in the 
+northwest Pacific, a relationship between 
+oceanographic conditions and saury fishing 
+grounds has been found, suggesting that inter-
+decadal oceanographic variations may lead to 
+significant changes in migration routes (Yasuda 
+and Watanabe, 1994;  Yasuda and Kitagawa, 
+1995).  Welch et al. (1995) have recently 
+discovered significant temperature limits to 
+salmon habitat in the subarctic North Pacific. 
+Prospects of global warming threaten to reduce the 
+extent of this habitat.  
+ 
+ Fish migration studies require not only 
+ocean property distributions, but also currents.  In 
+studying the effects of ocean currents on the 
+homing migration of sockeye salmon to the Fraser 
+River, Thomson et al. (1991, 1993) and Dat et al. 
+(1995) used surface current vectors from the 
+OSCURS model.  Francis and Hare (1994) used 
+the same model in their bioenergetic studies.  
+There is a clear need for better models of surface 
+currents, and a comparison of the Hurlburt et al. 
+(1996) model with WOCE drifter paths and 
+OSCURS results would be in order. 
+  
+ Fisheries are an important economic 
+activity of PICES countries and a better, more 
+quantitative knowledge of the influence of ocean 
+conditions on fish habitat and fish migrations is 
+necessary to improve planning and management of 
+fishing activities.  Existing circulation models are 
+neither detailed enough nor reliable enough to 
+follow fish habitat and predict migrations.  
+ 
+Weather prediction 
+ 
+ The influence of ocean temperatures on 
+weather needs little discussion and is indeed the 
+original source of interest of meteorological 
+agencies in the oceans.  Better long-term weather 
+prediction in North America relies in part on a 
+better predictive knowledge of sea surface 
+temperature in the North Pacific.  Refinement of 
+Ocean-Atmosphere Coupled General Circulation 
+Models is already a goal of Meteorological 
+Agencies in member countries and it is important 
+ 25
+for PICES to maintain close contact with these 
+agencies as well as with ocean-oriented bodies.  
+  
+Ocean prediction 
+ 
+ Prediction of ocean properties in real time, 
+using methods similar to those of atmospheric 
+weather prediction, is possible only with a good 
+understanding of physics, powerful modelling 
+tools and extensive data.  Dense sampling over a 
+wide area is necessary to initiate a model and 
+assimilate data into a prediction scheme. Coupling 
+satellite altimetry with high-resolution models 
+could allow predictive modelling of surface flows 
+and their variability in regions of particular 
+interest.  Preferred application would be to areas 
+where rapid knowledge of the varying position of 
+fronts, eddies or other features is thought to be 
+relevant to economic activity, such as fishing, or to 
+public safety, as in weather prediction.  Because 
+of the limits of resolution (now at best +/- 2 cm) of 
+the altimetry, the technique is currently applicable 
+only in regions of sufficiently high eddy kinetic 
+energy.  The development of ocean predicting 
+systems has been reported by Robinson et al. 
+(1989), Glen et al. (1991) and Miller et al. (1995).  
+Fox et al. (1993) and Lai et al. (1994) have 
+described operational applications in the Atlantic;  
+Carnes et al. (1995) reported on efforts to apply 
+similar methods to the North Pacific.  In all 
+discussions of ocean prediction, one should recall 
+earlier comments about ocean predictability, as 
+summarized in Table 1.  
+ 
+ 26
+8.0  CONCLUSIONS AND RECOMMENDATIONS 
+ 
+Conclusions 
+ 
+ Our review has clearly shown that 
+modelling of the circulation of the subarctic North 
+Pacific is an area of intense scientific activity and 
+that great progress has been made in recent years.  
+This activity is taking place in the broader context 
+of ocean modelling in general and often as a 
+geographical component of pan-Pacific or even 
+global models.  Progress has been driven by need 
+for a better understanding and predictability of 
+weather, climate, fisheries, navigation and 
+environmental protection;  it has been facilitated 
+by technological developments in numerical 
+modelling techniques and computing technology. 
+ 
+ A comparison of model results with 
+available information on ocean currents and 
+properties shows that, although models reproduce 
+some of the main features of the circulation, many 
+important features remain poorly modeled and 
+indeed unexplained.  
+ 
+ It is noteworthy that models have received 
+the most attention and yield their best performance 
+in areas where the observations are most detailed:  
+Model results are also most detailed and closest to 
+observations in the upper ocean, where data are 
+most abundant.  Results at great depths are less 
+reliable, if only because there are fewer 
+observations to compare them to.  
+ 
+ Confidence in model results thus 
+continues to be established in relation to 
+observations.  There are still too many difficulties 
+in representing oceanic physics on coarsely 
+discretized grids to believe model results simply 
+on the basis of the physics which they contain;  
+furthermore, there remain many contentious points 
+about how well the physics are represented in 
+existing models.  For example, we still don't 
+know to what extent boundary layer versus interior 
+mixing governs large scale dynamics.   
+ 
+ Existing circulation models are still 
+incapable of providing reliable explanations of 
+variations in large-scale ocean productivity or in 
+regional oceanographic features pertinent to 
+fisheries.  There has nevertheless been significant 
+progress made in high-resolution modelling of the 
+North Pacific circulation, particularly in modelling 
+high-latitude El Niño effects, which suggests that 
+further progress is to be expected in that area.  
+Because of current difficulties in modelling the 
+mechanisms and rate of production of North 
+Pacific Intermediate Water, and the lack of 
+sufficient observations, it is not yet possible to 
+assess the rate of ventilation of the subarctic North 
+Pacific and its rate of uptake of carbon dioxide.  
+The unreliability of deep circulation models 
+remains an obstacle to connecting the subarctic 
+North Pacific to global ocean models.  
+ 
+ While predictive modelling of the 
+response of the ocean to meteorological forcing 
+remains limited by the predictability of 
+atmospheric circulation, longer-term predic-
+tability is possible in situations where a large 
+component of variability is associated with 
+internal dynamics, such as in the evolution of 
+Kuroshio meanders, or of El Niño effects.  Ocean 
+model predictive skills thus depend on the 
+phenomena under consideration, as well as on 
+model structure and the use of data assimilation 
+techniques (Hurlburt, 1984).  Proposals for 
+improvements in ocean modelling capability must 
+take careful account of such considerations. 
+Furthermore, given current developments in 
+coupled ocean-atmosphere modelling, ocean 
+predictive modelling on climatological time scales 
+will soon be merged with ENSO models, North 
+Pacific mid-to-high latitudes ocean and 
+atmosphere system prediction and global warming 
+models.  Ocean models will then be an internal 
+component of climate models.   
+ 
+ All the above problems are however 
+characteristic of ocean modelling in general: 
+similar difficulties are encountered in other 
+oceans.  Some would argue that since 20 years of 
+intense modelling efforts have still left a number 
+of important deficiencies in models of the North 
+Atlantic, a smaller ocean, it might be unwise in the 
+short term to strive for full representation of 
+subarctic North Pacific features in eddy-resolving 
+models, and that the emphasis should focus on a 
+ 27
+better understanding of the physics of specific 
+processes (such as formation of the North Pacific 
+Intermediate Water).  Others disagree with this 
+opinion and would insist that detailed 
+observational comparisons are as important in the 
+Pacific as in the Atlantic. Recent high-resolution 
+models of the North Pacific (Hurlburt et al., 1995) 
+have been more successful at describing the 
+separation position of the Kuroshio and its 
+interaction with topography than similar attempts 
+with the Gulf Stream.  However, computing 
+facilities will remain for some time one of the 
+limiting factors in the development of high-
+resolution models of the Pacific Ocean circulation. 
+ 
+ Numerical ocean modelling will continue 
+to develop, driven by the needs of those who 
+would apply its results as well as by the scientific 
+ambition of modelers.  Academic and operational 
+models will continue to be improved as physical 
+and computational understanding is refined and 
+the machinery's power increases.  What is of 
+concern to this Working Group is what can be 
+done by PICES to facilitate the improvement of 
+circulation models in the subarctic North Pacific 
+and to bring the greatest benefits to participating 
+countries.  Our recommendations will address 
+these issues.  
+ 
+ In keeping with our observation that the 
+best models are developed where the best data are 
+available, our first set of recommendations 
+addresses the continuing need for information 
+about the ocean to stimulate model development 
+and permit verification.  Fundamentally, the more 
+we know about the ocean, especially about those 
+aspects in which we are most interested, the better 
+our models will become.  Ocean modelling is still, 
+and will long remain, at a stage where model 
+results cannot replace data.  One of the most 
+effective means for PICES to assist in improving 
+models of the circulation of the subarctic North 
+Pacific is to recommend action to fill data gaps 
+and to make data available to modelers of all 
+participating countries.  
+ 
+Recommendation 1. PICES should press for 
+filling data gaps seen by the Working Group as 
+impediments to model development in the 
+following areas:  
+1.1 -  ocean bathymetry, currently available in 
+files such as ETOPO5, with 5-minute 
+resolution, is inadequate for coastal models, 
+marginal seas, and flow-topography 
+interactions. General availability of geo-
+referenced high resolution (1 km or better) 
+bathymetry is required for reliable modelling 
+in those circumstances.  PICES should 
+mandate a small group with the responsibility 
+of making this information available to its 
+members.  
+ 
+1.2 -  extensions of ocean property atlases to 
+finer spatial and temporal resolution are 
+desirable, especially in areas of active mixing 
+(Kuroshio/Oyashio confluence) and strong air-
+sea exchanges (Bering and Okhotsk Seas).  
+PICES should create, or stimulate within one 
+of its members, the creation of a group of 
+people devoted to the formulation and 
+accomplishment of that task.  
+ 
+1.3 -  ocean-atmospheric exchanges are a 
+dominant forcing of oceanic models;  high-
+resolution, re-analyzed atmospheric heat flux, 
+freshwater flux and wind stress fields are 
+essential for modelling of upper layer 
+properties and circulation.  PICES should 
+initiate, or stimulate, a detailed review of the 
+quality and availability of time-series of all 
+meteorological forcing fields over the 
+subarctic North Pacific as a step towards 
+improving the reliability of models.  
+ 
+1.4 -  high spatial and temporal resolution of 
+ocean properties, especially sea-level height 
+(through satellite altimetry), is essential for 
+documenting the circulation and facilitating 
+model verification. PICES should express 
+strong support for national and international 
+satellite missions for observation of the 
+oceans.   
+ 
+Recommendation 2. PICES should express 
+support for the development of the Ocean 
+Observing System and offer assistance in 
+coordinating its implementation in the subarctic 
+North Pacific. 
+ 
+ 28
+Recommendation 3. Data are useful only when 
+available.  PICES should encourage the 
+development of avenues of rapid, informal as well 
+as formal, data exchange between agencies, 
+institutions and individual scientists in 
+participating countries, so that collaboration may 
+be enhanced and model development hastened. 
+ 
+ A second set of recommendations aims at 
+encouraging development of models for the 
+benefit of PICES countries.  Although we have 
+indicated a number of areas in which 
+improvements are needed in physics and in 
+computing, we do not attempt to be prescriptive of 
+details:  progress will be accelerated by means of 
+providing modelers with information, equipment 
+and challenges. 
+ 
+Recommendation 4. To encourage develop-
+ment of modelling, PICES should sponsor or 
+support interdisciplinary, international workshops 
+concerned with modelling specific geographical 
+areas or addressing specific fundamental issues. 
+These workshops should be carefully focussed, 
+identifying needs, state-of-the-art, challenges and 
+suggestions for improvements.  
+ 
+ Suggested geographical areas could be: 
+the Kuroshio/Oyashio confluence; the Kuroshio 
+extension; Bering Sea - Pacific Ocean exchange, 
+etc.... Modelling topics could be: matching 
+marginal sea to the deep ocean;  the deep and 
+abyssal circulation;  data assimilation and its 
+application to circulation models as well as to 
+other, not exclusively physical, ocean properties. 
+ 
+Recommendation 5. To enhance the utility of 
+models to a broad community of ocean scientists 
+and decision makers of countries with different 
+languages and scripts, PICES should encourage 
+the development of visualization methods 
+applicable to large (the whole subarctic North 
+Pacific domain) as well as small scale (e.g. 
+Kuroshio path simulations) situations and capable 
+of carrying impactful insight about all kinds of 
+ocean phenomena.  A competition for the most 
+successful visualization satisfying these criteria 
+could be a feature of PICES meetings, with 
+appropriate prizes.  
+ 29
+9.0 TABLES AND FIGURES 
+ 
+Table 1. Predictability of Oceanic Phenomena (adapted from Hurlburt, 1984).  
+ 
+CLASS EXAMPLE IMPLICATIONS 
+1. Strong, rapid (less 
+than a week), and 
+direct 
+Upper mixed layer, surface waves, 
+upwelling (both coastal and 
+equatorial processes), storm surges 
+Forecasts are short range; limited by 
+atmospheric predictive skill, less 
+sensitive to errors in initial state; 
+more sensitive to errors in forcing 
+2. Slow (weeks to 
+months) and indirect 
+Mesoscale eddies, meandering 
+currents, frontal locations, features 
+related to low instabilities on the 
+mesoscale 
+Forecasts may have range of month 
+or more; more sensitive to initial 
+state; less sensitive to errors in 
+forcing; statistics may be predicted 
+via simulation; requires operational 
+oceanographic data; altimeter data 
+promising 
+3. Slow (weeks to 
+years) and direct 
+El Nino; much of the tropical ocean 
+circulation; gyres; patterns associated 
+with geometric constraints, i.e., med. 
+circulation 
+Long range forecasts possible; 
+sensitive only to errors in forcing on 
+long time scale; “Nowcasting” and 
+forecasting feasible using ocean 
+models with sparse ocean data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30
+ 31
+ 
+ 32
+ 
+ 33
+ 
+ 34
+ 
+ 35
+ 
+ 36
+ 
+ 37
+ 
+ 38
+ 
+ 39
+ 
+ 40
+ 
+ 41
+ 
+ 42
+ 
+ 43
+ 
+ 44
+ 
+ 45
+ 
+ 46
+ 
+ 47
+ 
+ 48
+ 
+ 49
+ 
+ 50
+ 
+ 51
+ 
+ 52
+ 
+ 53
+ 
+ 54
+ 
+ 55
+ 
+ 56
+ 
+ 57
+ 
+ 58
+ 
+ 59
+ 
+ 60
+ 
+ 61
+ 
+ 62
+ 
+ 63
+ 64
+10.0 REFERENCES 
+ 
+Akitomo, K., T.Awaji, and N. Imasato.  1991.  Kuroshio path variation south of Japan, 1. Barotropic 
+inflow-outflow model.  J. Geophys. Res.  96: 2549-2560. 
+ 
+Arsenyev, V.S.  1967.  Current and water masses of the Bering Sea.  Izd. Nauka, Moskva (In Russian, 
+with English summary).  (Transl. from Russian by 1968, National Marine Fisheries, Northwest 
+Fisheries Centre, Seattle, WA.)  135 p. 
+ 
+Beamish, R.J. (Editor)  1995.  Climate Change and Northern Fish Populations.  Can. Spec. Publ. Fish. 
+Aquat. Sci. 121.  National Research Council, Ottawa. 
+ 
+Bingham, F.M., and R. Lukas.  1994.  The southward intrusion of North Pacific Intermediate Water 
+along the Mindanoa Coast.  J. Phys. Oceanogr.  24: 141-154. 
+ 
+Blaha, J., and R. Reed.  1982.  Fluctuation of sea-level in the western North Pacific and inferred flow of 
+the Kuroshio.  J. Phys. Oceanogr.  12: 669-678. 
+ 
+Bobkov, A.A.  1993.  New schema of the circulation and water mass distribution in the southern Kuril 
+area.  Umi to Sora.  69: 41-52. 
+ 
+Brodeur, R.D., and D.M. Ware.  1992.  Long-term variability in zooplankton biomass in the subarctic 
+Pacific Ocean.  Fisheries Oceanography.  1: 32-38. 
+ 
+Bryan, F.  1987.  Parameter sensitivity of primitive equation ocean general circulation models.  J. Phys. 
+Oceanogr.  17: 970-985. 
+ 
+Carnes, M.R., D.N. Fox, R.C. Rhodes, and O.M. Smedstad.  1995.  Data assimilation in a North Pacific 
+monitoring and prediction system.  In P. Malanotte-Rizzoli [ed.]  Modern Approaches to Data 
+Assimilation in Ocean Modeling.  Elsevier, Amsterdam (in press). 
+ 
+Chao, S.-Y.  1984.  Bimodality of the Kuroshio.  J. Phys. Oceanogr.  14: 92-103. 
+ 
+Chao, Y., and S.G.H. Philander.  1993.  On the structure of the Southern Oscillation.  Climate.  6: 450-
+469. 
+ 
+Charney, D.G., and G.R. Flierl.  1980.  Oceanic analogues of large-scale atmospheric motions, p. 504-
+548. In B.Warren and C. Wunsch [ed.] Evolution of Physical Oceanography. MIT Press. 
+ 
+Cherniawsky, J., C.W. Yuen, C.A. Lin, and L.A. Mysak.  1990.  Numerical experiments with a wind-
+and buoyancy-driven two-and-a-half layer upper ocean model.  J. Geophys. Res.  95: 16149-
+16167. 
+ 
+Cherniawsky, J., and G. Holloway.  1991.  An upper-ocean general circulation model for the North 
+Pacific: preliminary experiments.  Atmosphere-Ocean.  29: 737-784. 
+ 
+Cherniawsky, J., and G. Holloway.  1993.  On the western boundary current separation in an upper-
+ocean general circulation model of the North Pacific.  J. Geophys. Res.  98: C12, 22,843-
+22,853. 
+ 65
+Cox, M.D.  1989.  An idealized model of the world ocean. Part I.: The global scale water masses.  J. 
+Phys. Oceanogr.  19:  1730-1752. 
+ 
+Cummins, P.F.  1989.  A quasi-geostrophic circulation model of the Northeast Pacific.  Part II. Effects 
+of topography and seasonal forcing.  J. Phys. Oceanogr.  19: 1649-1668. 
+ 
+Cummins, P.F.  1991.  The barotropic response of the subpolar North Pacific to stochastic forcing.  J. 
+Geophys. Res.  96: 8869-8880. 
+ 
+Cummins, P.F., and H.J. Freeland.  1993.  Observations and modelling of wind-driven currents in the 
+northeast Pacific.  J. Phys. Oceanogr.  23: 488-502. 
+ 
+Cummins, P.F., G. Holloway, and A.E. Gargett.  1990.  Sensitivity of the GFDL oceanic general 
+circulation model to a parameterization of vertical diffusion.  J. Phys. Oceanogr.  20: 817-830. 
+ 
+Cummins, P.F., and L.A. Mysak.  1988.  A quasi-geostrophic circulation model of the northeast Pacific.  
+Part I: A preliminary numerical experiment.  J. Phys. Oceanogr.  18: 1261-1286. 
+ 
+Cummins, P.F., L.A. Mysak, and K. Hamilton.  1986.  Generation of annual Rossby waves in the North 
+Pacific by the wind stress curl.  J. Phys. Oceanogr.  16: 1179-2289. 
+ 
+Danabasoglu, G., J.C. McWilliams, and P.R. Gent.  1994.  The role of mesoscale tracer transports in the 
+global ocean circulation.  Science.  264: 1123-1126. 
+ 
+Dat, C.G., P.H. LeBlond, K.A.Thomson, and W.J. Ingraham.  1995.  Compass orientation in migrating 
+Fraser River sockeye salmon.  Fisheries Ocgy.  4: 209-216. 
+ 
+Delworth, T., S, Manabe, and R.J. Stouffer.  1993.  Interdecadal variations of the thermocline circulation 
+in a coupled ocean-atmosphere model.  J. Climate.  6: 1993-2011. 
+ 
+DeMey, P., and Y. Ménard.  1989.  Synoptic analysis and dynamical adjustment of GEOS 3 and 
+SEASAT altimeter eddy fields in the Northwest Atlantic.  J. Geophys. Res.  94: 6221-6230. 
+ 
+Denman, K.L., and M. Miyake.  1973.  Upper layer modification at Ocean Station Papa: observations 
+and simulation.  J. Phys. Oceanogr.  3: 185-196. 
+ 
+DeSzoeke, R.A..  1995.  A model of wind- and buoyancy-driven ocean circulation.  J.Phys. Oceanogr.  
+25: 918-941. 
+ 
+DeSzoeke, R.A., and A.F. Bennett.  1993.  Microstructure fluxes across density interfaces.  J. Phys. 
+Oceanogr.  23: 2254-2264. 
+ 
+Dodimead, A.J., F. Favorite, and T. Hirano.  1963.  Salmon of the North Pacific Ocean. - Part II. Review 
+of oceanography of the Subarctic Pacific Region.  Internat.  North Pacific Fish. Comm. Bull.  
+13: 195 pp. 
+Drange, H.  1994.  An isopycnic coordinate carbon cycle model for the North Atlantic; and the 
+possibility of disposing of fossil fuel CO2 in the ocean. Dr. Scient. Thesis, Dept. Math. and 
+Nansen Environmental and Remote Sensing Center, Univ. Bergen, Norway.  286 p. 
+ 
+ 66
+Ebbesmeyer, C.C., and W.J. Ingraham.  1992.  Shoe spill in the North Pacific.  Eos, Trans. AGU. 73: 
+316. 
+ 
+Ebbesmeyer, C.C., and W.J. Ingraham.  1994.  Pacific toy spill fuels ocean current pathways research.  
+Eos.  75: 425. 
+ 
+Eby, M., and G. Holloway.  1994.  Sensitivity of a large scale ocean model to a parameterization of 
+topographic stress.  J. Phys. Oceanogr.  24: 2577-2588. 
+ 
+Emery, W.J., W.G. Lee, and L. Magaard.  1984.  Geographic and seasonal distributions of Brunt-
+Vaisala frequency and Rossby radii in the North Pacific and North Atlantic.  J. Phys. Oceanogr.  
+14: 294-317. 
+ 
+Favorite, F., A.J. Dodimead, and K. Nasu.  1976.  Oceanography of the Subarctic Pacific region, 1960-
+71.  Internat.  North Pacific Fish. Comm. Bull.  33: 1-187. 
+ 
+Federiuk, J., and J.S. Allen.  1995.  Upwelling circulation on the Oregon continental shelf. Part II: 
+simulations and comparisons with observations.  J. Phys. Oceanogr.  25: 1867-1889. 
+ 
+Fiadeiro, M.E.  1982.  Three-dimensional modeling of tracers in the deep-Pacific Ocean: II. 
+Radiocarbon and the circulation.  J. Mar. Res.  40: 537-550. 
+ 
+Firing, E.  1989.  Mean zonal currents below 1,500 m near the equator, 159oW.  J.Geophys.Res.  94: 
+2023-2028. 
+ 
+Fleming. G.H., and A.J. Semtner, Jr.  1991.  A numerical study of interannual ocean forcing on Arctic 
+ice.  J. Geophys. Res.  96: 4589-4603. 
+ 
+Fox, D.N., M.R. Carnes, and J.L. Mitchell.  1993.  Circulation model experiments of the Gulf Stream 
+using satellite-derived fields.  Naval Research Laboratory, Stennis Space Center, MS.  NOARL 
+Report 55. 
+ 
+Frost, B.W.  1993.  A modelling study of processes regulating plankton standing stock production in the 
+subarctic Pacific Ocean.  Progress in Oceanography.  32: 17-56. 
+ 
+Fukasawa, M., N. Hagiwara, and Y. Sugimori.  1992.  Circulation of North Pacific Intermediate Water.  
+PORSEC92 Proceedings.  Vol. 2.  516-520. 
+ 
+Fukasawa, M., T. Teramoto, and K. Taira.  1986.  Abyssal current along the northern periphery of 
+Shikoku Basin.  J. Oceanogr. Soc. Japan.  42: 459-472. 
+ 
+Garaffo, Z., S.L. Garzoli, W. Haxby, and D. Olson.  1992.  Analysis of a general circulation model. 2. 
+Distribution of kinetic energy in the South Atlantic and Kuroshio/Oyashio systems.  J. Geophys. 
+Res.  97: 20139-20153. 
+ 
+Gargett, A.E., and G. Holloway.  1992.  Sensitivity of the GFDL ocean model to different diffusivities 
+for heat and salt.  J. Phys. Oceanogr.  22: 1158-1177. 
+ 
+ 67
+Garzoli, S.L., Z. Garaffo, G. Podesta, and O. Brown.  1992.  Analysis of a general circulation model 
+product. - 1. Frontal systems in the Brazil/Malvinas and Kuroshio/Oyashio regions.  J.Geophys. 
+Res.  97: C12, 20,117-20,138. 
+ 
+Gaspar, P., Y. Gregoris, and J.M. Lefevre.  1990.  A simple eddy kinetic energy model for simulations 
+of oceanic vertical mixing: test at station Papa and the long term upper ocean study site.  J. 
+Geophys. Res.  95: 16179-16193. 
+ 
+Gent, P.R. and J.C. McWilliams.  1990.  Isopycnal mixing in ocean circulation models.  J. Phys. 
+Oceanogr.  20: 150-155. 
+ 
+Gent, P.R., J. Willebrand, T.J. McDougall, and J.C. McWilliams.  1995.  Parameterizing eddy-induced 
+tracer transports in ocean circulation models.  J. Phys. Oceanogr.  25: 463-474. 
+ 
+Gill, A.E., and K. Bryan.  1971.  Effects of geometry on the circulation of a three-dimensional southern-
+hemisphere ocean model.  Deep-Sea Res.  18: 685-721. 
+ 
+Gill, A.E., and E.H. Schumann.  1974.  The generation of long shelf waves by the wind.  J. Phys. 
+Oceanogr.  4: 83-90. 
+ 
+Glenn, S.M., D.L. Porter, and A.R. Robinson.  1991.  A synthetic geoid validation of Geosat mesoscale 
+dynamic topography in the Gulf Stream region.  J. Geophys. Res.  96: 7145-7166. 
+ 
+Gordon, A.L.  1995.  When is appearance reality?  A comment on Why does the Indonesian 
+Throughflow appear to originate from the North Pacific.  J. Phys. Oceanogr.  25: 1561-1567. 
+ 
+Greatbatch, R.J., and A. Goulding.  1989.  Seasonal variations in a linear barotropic model of the North 
+Pacific driven by the Hellerman and Rosenstein wind stress field.  J. Geophys. Res.  94: C9, 
+12,645-12,665. 
+ 
+Greatbatch, R.J., and A. Goulding.  1990.  Seasonal transport variation through the Tokara Strait.  J. 
+Oceanogr. Soc. Japan.  46: 9-20. 
+ 
+Halliwell, G.R., and J.S. Allen.  1984.  Large-scale sea-level response to atmospheric forcing along the 
+west coast of North America, summer 1973.  J. Phys. Oceanogr.  14: 864-886. 
+ 
+Hallock, Z.R., and W.J.Teague.  1995.  A Pacific deep western boundary current off the Japan coast. In: 
+1995 U.S. WOCE Report, U.S. WOCE Implementation Report No. 7: 7-9. 
+ 
+Hamilton, K., and W.J. Emery.  1985.  Regional atmospheric forcing of interannual surface temperature 
+and sea-level variability in the northeast Pacific, p. 22-30. In: W.S. Wooster and D.L. Fluharty 
+[ed.] El Niño North. 
+ 
+Hare, S.R., and R.C. Francis.  1994.  Fisheries management implications of climate-driven interdecadal 
+variations in fishery production.  Paper presented at Fisheries Management Global Trends.  
+Seattle, WA.  June 14-16, 1994. 
+Hargreaves, B., and T. Sugimoto [ed.].  1993.  PICES Working Group 6 Annual Report. In: PICES 
+Scientific Report No. 1.  Oct. 1993. 
+ 
+ 68
+Hasunuma, K.  1978.  Formation of the intermediate salinity minimum in the northwestern Pacific 
+Ocean. Bull.  Ocean Res. Inst.  University of Tokyo.  9: 47 p. 
+ 
+Hellerman, S., and M. Rosenstein.  1983.  Normal monthly wind stress over the world ocean with error 
+estimates.  J. Phys. Oceanogr.  13: 1093-1104. 
+ 
+Hickey, B.M., and P. Hamilton.  1980.  A spin-up model as a diagnostic tool for interpretation of current 
+and density measurements on the continental shelf of the Pacific Northwest.  J. Phys. Oceanogr.  
+10: 12-24. 
+ 
+Hickey, B.M., R.E. Thomson, H. Yih, and P.H. LeBlond.  1991.  Wind and buoyancy-driven 
+fluctuations in the Vancouver Island Coastal Current.  J. Geophys. Res.  96: C6, 10507-10538. 
+ 
+Hinch, S.G., M.C. Healey, R.E. Diewert, and M.A Henderson.  1995.  Climate change and ocean 
+energetics of Fraser River sockeye salmon.  In: Beamish, R.J. [ed.]  Climate Change and 
+Northern Fish Populations.  Can. Spec. Publ. Fish. Aquat. Sci. 121.  National Research Council, 
+Ottawa. 
+ 
+Hogan, P.J., H.E. Hurlburt, G. Jacobs, A.J. Wallcraft, W.J. Teague, and J.L Mitchell.  1992.  Simulation 
+of GEOSAT, TOPEX/Poseidon, and ERS-1 altimeter data from a 1/8 ° Pacific Ocean model: 
+effects of space-time resolution on mesoscale sea surface height variability.  Marine Technology 
+Society Journal.  26: No 2. 98-107. 
+ 
+Holloway, G.  1992.  Representing topographic stress for large-scale ocean models.  J. Phys. Oceanogr.  
+22: 1033-1046. 
+ 
+Holloway, G., T. Sou. and M. Eby.  1995.  Dynamics of circulation of the Japan Sea.  J. Marine 
+Research.  53: 539-569. 
+ 
+Hsieh, W.W.  1982.  Observations of continental shelf waves off Oregon and Washington.  J. Phys. 
+Oceanogr.  12: 887-896. 
+ 
+Hurlburt, H.E.  1984.  The potential for ocean prediction and the role of altimeter data.  Marine 
+Geodesy.  8: 17-66. 
+ 
+Hurlburt, H.E., P.J. Hogan, E.J. Metzger, W.J. Schmitz, Jr., and Alan J. Wallcraft.  1995b.  Dynamics of 
+eddy-resolving models of the Pacific Ocean and the Sea of Japan. Proc. Internat.  Workshop on 
+Numerical Prediction of Oceanic Variations.  Tokyo.  7-11 Mar. 1995.  p 51-57. 
+ 
+Hurlburt, H.E., E.J. Metzger, and P.J. Hogan.  1995c.  Dynamics of deep western boundary currents off 
+Japan. 1995 U.S. WOCE Report.  U.S. WOCE Implementation Report 7: 41-42. 
+ 
+Hurlburt, H.E., A.J. Wallcraft, Z. Sirkes, and E.J. Metzger.  1992.  Modeling of the global and Pacific 
+oceans: On the path to eddy-resolving ocean prediction.  Oceanography.  5: 9-18. 
+ 
+Hurlburt, H.E., A.J. Wallcraft, W.J. Schmitz Jr., P.J. Hogan, and E.J. Metzger.  1996.  Dynamics of the 
+Kuroshio/Oyashio current system using eddy-resolving models of the North Pacific ocean.  J. 
+Geophys. Res.  101: 941-976 
+ 
+ 69
+Huyer, A., B.M. Hickey, J.D. Smith, and R.D. Pillsbury.  1975.  Alongshore coherence at low frequency 
+in currents observed over the continental shelf off Oregon and Washington.  J. Geophys. Res.  
+80: 3495-3505. 
+ 
+Ichiye, T. [ed.]  1984.  Ocean Hydrodynamics of the Japan and East China Seas.  Elsevier.  423 p. 
+ 
+Ingraham, W.J., and R.K. Miyahara.  1988.  Ocean surface current simulations in the North Pacific 
+Ocean and Bering Sea (OSCURS -Numerical model) NOAA Technical Memorandum NMFS 
+F/NWC-130.  155 p. 
+ 
+Ingraham, W.J., and R.K. Miyahara.  1989.  Tuning the OSCURS numerical model to ocean surface 
+current measurements in the Gulf of Alaska.  NOAA Technical Memorandum NMFS F/NWC-
+168.  67 p. 
+ 
+Ishikawa, I., Y. Yamanaka, and N. Suginohara.  1994.  Effects of presence of a circumpolar region on 
+buoyancy-driven circulation.  J. Oceanography.  50: 247-263. 
+ 
+Ishizaki, H.  1994.  A simulation of the abyssal circulation in the North Pacific Ocean, 1: flow field and 
+comparison with observations.  J. Phys. Oceanogr.  24: 1921-1939. 
+ 
+Ishizaki, H.  1994.  A simulation of the abyssal circulation in the North Pacific Ocean, part II: 
+theoretical rationale.  J. Phys. Oceanogr.  24: 1941-1954. 
+ 
+Iskandarani, M., D.B. Haidvogel, and J.P. Boyd.  1995.  A staggered spectral finite element model for 
+the shallow water equations.  Int. J. Num. Methods Fluids (in press) 
+ 
+Ivanov, Yu A. [ed.]  1992.  Experiment Megapolygon.  Nauka, Moscow (In Russian). 
+ 
+Jacobs, G.A., W.J. Emery, and G.H. Born.  1993.  Rossby waves in the Pacific Ocean extracted from 
+Geosat altimeter data.  J. Phys. Oceanogr.  23: 1155-1175. 
+ 
+Jacobs, G.A., H.E. Hurlburt, J.C. Kindle, E.J. Metzger, J.L. Mitchell, W.J. Teague, and A.J. Wallcraft.  
+1994.  Decadal-scale trans-Pacific propagation and warming effects of an El Niño anomaly.  
+Nature.  370: 360-363. 
+ 
+Johnson, G.C., and J.M. Toole.  1993.  Flow and deep and bottom waters in the Pacific at 10 ° N.  Deep-
+Sea Res.  40: 371-394. 
+ 
+Johnson, M.A., and J.J. O'Brien.  1990.  The northeast Pacific Ocean response to the 1982-83 El Niño.  
+J. Geophys. Res.  95: C5, 7155-7166. 
+ 
+Kang, Y.Q.  1988.  On the formation of the East Korean Warm Current.  Ocean Res.  10: 1-6. 
+ 
+Karl, D.M., R. Letelier, D. Hebel, L. Tupas, J. Dore, J. Christian, and C. Winn.  1995.  Ecosystem 
+changes in the North Pacific subtropical gyre attributed to the 1991-92 El Niño.  Nature.  373: 
+230-234. 
+ 
+Kawabe, M.  1980.  Sea level variation around the nansei Islands and the large meander in the Kuroshio 
+south of central Japan.  J. Oceanogr. Soc. Japan.  36: 227-235. 
+ 
+ 70
+Kawabe, M.  1982.  Branching of the Tsushima Current in the Japan Sea. Part II. Numerical experiment.  
+J. Oceanogr. Soc. Japan.  38: 183-192. 
+ 
+Kawabe, M.  1988.  Variability of the Kuroshio velocity assessed from the sea-level differences between 
+Naze and Nishinoomote.  J. Oceanogr. Soc. Japan.  44: 293-304. 
+ 
+Kawabe, M., and K. Taira.  1995.  Flow distribution at 165oE in the Pacific Ocean. In Sakai, H. and Y. 
+Nozaki [ed.]  Biogeochemical Processes and Ocean Flux in the Western Pacific.  Terra 
+Scientific, Tokyo. 
+ 
+Kawai, H.  1972.  Hydrography of the Kuroshio Extension. In H. Stommel and K. Yoshida [ed.] 
+Kuroshio: Physical aspects of the Japan Current. University of Washington Press, 235-352. 
+ 
+Kitoh, A.  1991.  Interannual variations in an Atmospheric GCM forced by the 1970- 1989 SST. Part II: 
+low frequency variability of the wintertime northern hemisphere extratropics.  J. Meteorol. Soc. 
+Japan.  69: 271-291. 
+ 
+Knutson, T.R., and S. Manabe.  1994.  Impact of increased CO2 on simulated ENSO-like phenomena.  
+Geophys. Res. Lett.  21: 2295-2298. 
+ 
+Kozlov, V.F.  1971.  The experiment of current calculations in the subarctic frontal zone of the 
+Northwest Pacific.  Okeanologia.  4: 568-576 (in Russian). 
+ 
+Kozlov, V.F.  1972.  Calculation of three-dimensional structure of current in the subarctic front zone and 
+in the North-Western Pacific.  In N.P. Bulgakov [ed.] Subarctic Fronts in the North-Western 
+Pacific. Institute of Oceanology of the USSR, Far Eastern Science Center, Pacific Institute of 
+Oceanology, Vladivostok, (in Russian). 
+ 
+Kozlov, V.F.  1986.  Theoretical investigations on bo-modality of Kuroshio to the south of Japan. Itogi 
+Nauki & Techniki.  VINITI Moscow.  6: 113-135 (in Russian). 
+ 
+Kozlov, V.F., V.G. Makarov, O.A. Ryabov, and V.G. Yarichin.  1995.  Vergence zones of the depth 
+currents in the Sea of Japan due to bottom relief.  Meteorol. Hydrolog.  N8: 58-62 (in Russian). 
+ 
+Kubokawa, A.  1989.  Growing solitary disturbance in a baroclinic boundary current.  J. Phys. 
+Oceanogr.  19: 182-192. 
+ 
+Kubota, M.  1994.  A mechanism for the accumulation of floating marine debris north of Hawaii.  J. 
+Phys. Oceanography.  24: 1059-1064. 
+ 
+Kuzin, V.I., E.N. Golubeva, A.M. Martynov, G.A Platov, A.D. Nelezin, and A.N. Man'ko.  1995a.  
+Diagnosis of two paths of the Kuroshio.  Bulletin of the Novosibirsk Computing Center, Series: 
+Numerical Modelling in Atmosphere, Ocean and Environmental Studies.  Issue 3, 1995. 
+ 
+Kuzin, et al.  1995b.  PICES Workshop on Sea of Okhotsk.  Vladivostok, July 1995. 
+ 
+Kuznetsov, V.V.  1995.  Influence of climatic changes on succession processes in the community of 
+neritic pelagic fishes in the Kuroshio-Oyashio zone. In R.J. Beamish [ed.]  Climate Change and 
+Northern Fish Populations.  Can. Spec. Publ. Fish. Aquat. Sci. 121.  National Research Council, 
+Ottawa. 
+ 71
+Lai, C.-C.A., W. Qian, and S.M. Glenn.  1994.  Data assimilation and model evaluation experiment 
+datasets.  Bull. Amer. Meteol. Soc.  75: 793-809. 
+ 
+Lambeck, K.  1995.  Understanding Ocean Dynamics.  Nature.  373: 474-475. 
+ 
+Large, W.G., J.C. McWilliams, and S.C. Doney.  1994.  Oceanic vertical mixing: a review and a model 
+with a nonlocal boundary layer parameterization.  Re. Geophysics.  32: 363-403. 
+ 
+Latif, M., and T.P. Barnett.  1994.  Causes of decadal climate variability over the North Pacific and 
+North America.  Science.  266: 634-637. 
+ 
+LeBlond, P.H., I. Jardine, G. Bakker, J. Ingraham, and R.E. Thomson.  1995.  Near-surface drift in the 
+northeast Pacific: WOCE drifter data and OSCURS model results. (in preparation). 
+ 
+Lee, W., G. Holloway, and W. Hsieh.  1992.  Importance of bottom topography in the seasonal cycle of 
+the North Pacific subarctic gyre.  Atmos. Ocean.  30: 140-145. 
+ 
+Luchin, V.A.  1982.  Diagnostic calculations of the circulation of the waters of the Sea of Okhotsk 
+during the summer period.  Tr. DVNII.  96: 69-77 (in Russian). 
+ 
+Luchin, V.A.  1993.  Systems of currents and peculiarities of temperature distribution in the Okhotsk 
+Sea.  In Hydrometeorology and Hydrochemistry of the Seas, Vol. 9, Okhotsk Sea. 
+Gidrometeoizdat, Sankt Petersburg (in Russian). 
+ 
+Maier-Reimer, E.  1993.  Geochemical cycles in an ocean general circulation model.  Pre-industrial 
+tracer distributions.  Global Biogeochemical Cycles.  7: 645-677. 
+ 
+Manabe, S., and R.J. Stouffer.  1994.  Multiple-century response of a coupled ocean-atmosphere model 
+to an increase of atmospheric carbon dioxide.  J. Climate.  7: 5-23. 
+ 
+Marotzke, J.  1994.  Ocean models in climate problems, p. 79-109. In P. Malanotte-Rizzole and A.R. 
+Robinson [ed.]  Ocean Processes in Climate Dynamics:  Global and Mediterranean Examples. 
+Kluwer, Dordrecht. 
+ 
+Martin, P.J.  1985.  Simulation of the mixed layer at OWS November and Papa with several models.  J. 
+Geophys. Res.  90: 903-916. 
+ 
+Martynov, A.V., and V.M. Moiseev.  1988.  The influence of the bottom topography perturbations on 
+the Kuroshio path near the Izu-Ogasavara Ridge.  Mathematical modelling in the investigation of 
+the oceanic dynamics.  Novosibirsk.  1988.  p. 48-59 (in Russian). 
+ 
+Masuda, A.,  1982.  An interpretation of the bimodal character of the stable Kuroshio path.  Deep-Sea 
+Research.  29: 471-484. 
+ 
+Masuda, A.  1989.  A laboratory experiment on the Kuroshio meander.  Deep-Sea Research.  36: 1067-
+1081. 
+ 
+Masuzawa, J.  1965.  A note on the seasonal variation of the Kuroshio velocity.  J. Oceanogr. Soc. 
+Japan.  21: 117-118 (in Japanese). 
+ 
+ 72
+Matthews, P.E., M.A. Johnson, and J.J. O'Brien.  1992.  Observation of mesoscale ocean features in the 
+northeast Pacific using Geosat radar altimetry data.  J Geophys Res.  97: C11, 17829-17840. 
+ 
+Matsumoto, K.  1994.  The Kuroshio meander in 1993.  J. Fish. Oceanogr. Soc. Japan.  58: 182-185 (in 
+Japanese). 
+ 
+McDougall, T.J., and J.A. Church.  1986.  Pitfalls with the numerical representation of isopycnal and 
+diapycnal mixing.  J. Phys. Oceanogr.  16: 196-199. 
+ 
+McWilliams, J.C.  1996.  Modeling the ocean general circulation.  Ann. Rev. Fluid Mechanics.  28: 
+215-248. 
+ 
+Melsom, A., H.E. Hurlburt, E.J. Metzger, S. D. Meyers, and J.J. O'Brien.  1995.  El Niño induced ocean 
+eddies in the Gulf of Alaska. (Submitted to Science) August 1995. 
+ 
+Metzger, E.J., H.E. Hurlburt, J.C. Kindle, Z. Sirkes, and J.M. Pringle.  1992.  Hindcasting of wind-
+driven anomalies using a reduced-gravity global ocean model.  Marine Techology Society 
+Journal.  26: No. 2,  23-32. 
+ 
+Miller, A.J., D.R. Cayan, T.P. Barnett, N.E. Graham, and J.M. Oberhuber.  1994.  Interdecadal 
+variability of the Pacific Ocean: model response to observed heat flux and wind stress anomalies.  
+Climate Dynamics.  9: 287-302. 
+ 
+Miller, A.J., H.G. Arango, A.R. Robinson, W.G. Leslie, P.-M. Poulain, and A. Warn-Varnas.  1995.  
+Quasigeostrophic forecasting and physical processes of Iceland-Faroe frontal variability.  J. 
+Phys. Oceanogr.  25: 1273-1295. 
+ 
+Miller, A.J., D.R. Cayan, T.P. Barnett, N.E. Graham, and J.M. Oberhuber.  1994.  Interdecadal 
+variability of the Pacific ocean: model response to observed heat flux and wind stress anomalies.  
+Climate Dynamics.  9: 287-302. 
+ 
+Minami, H., E. Kamihira, K. Komura, H. Eguchi, and J. Nishizawa.  1979.  Statistical features of the 
+oceanographic conditions south of Honshu, Japan.  Part 2: In spring and autumn off Kii 
+Peninsula.  Bull. Kobe Mar. Obs.  197: 1-11 (in Japanese with English abstract). 
+ 
+Mitchell, J.L., W.J. Teague, G.A. Jacobs, and H.E. Hurlburt.  1995.  Kuroshio Extension dynamics from 
+satellite altimetry and a model simulation.  J. Geophys. Res.  101: 1045-1058. 
+ 
+Mizuno, K., and W.B. White.  1983.  Annual and interannual variability of the Kuroshio Current 
+system.  J. Phys. Oceanogr.  13: 1848-1869. 
+ 
+Mooers, C.N.K., and R.L. Smith.  1968.  Continental shelf waves off Oregon.  J. Geophys. Res.  73: 
+549-557. 
+ 
+Moroshkin.  1964.  New scheme of the surface Okhotsk Sea currents.  Oceanology.  1: 641-643. 
+ 
+Mysak, L.A.  1986.  El Niño, interannual variability and fisheries in the northeast Pacific Ocean.  Can. 
+J. Fish. Aquat. Sci.  43: 464-497. 
+ 
+Nagata, Y.  1995.  Subarctic North Pacific in Global Climate System.  PICES Press.  3: 9-11. 
+ 73
+Nishizawa, J., E. Kamihira, K. Konuma, R. Kumabe, and M. Miyazaki.  1982.  Estimation of Kuroshio 
+mass transport flowing out of the East China Sea to the North Pacific.  La Mer (Tokyo).  20: 55-
+59. 
+ 
+Nitani, H.  1972.  Beginning of the Kuroshio, p. 129-156.  In H. Stommel and K. Yoshida [ed.] 
+Kuroshio: its physical aspects. University of Tokyo Press. 
+ 
+NOAA.  1986.  ETOPO5 digital relief of the surface of the earth.  Data Announcement 86-MGG-07.  
+National Geophysical Data Center, Washington, D.C. 
+ 
+Ogawa, Y., M. Hirai, and I. Yasuda.  1987.  Fluctuations of the first Oyashio intrusion and its influences 
+on coastal fishery-resources.  Bull. Tohoku Region.  Fish. Res. Lab.  49: 1-16 (in Japanese with 
+English abstract). 
+ 
+Ohtani, K.  1991.  To confirm again the characteristics of the Oyashio.  Bull.  Hokkaido Nat. Fish. Res. 
+Inst.  55: 1-24 (in Japanese). 
+ 
+Okuda, K.  1986.  Occurrence of extremely low temperature in the coastal region of the Tohoku area 
+associated with interannual variation of the Oyashio.  Bull. Tohoku Region.  Fish. Res. Lab.  
+48: 87-96 (in Japanese with English abstract). 
+ 
+Overland, J.E., M.C. Spillane, H.E. Hurlburt, and A.J. Wallcraft.  1994.  A numerical study of the 
+circulation of the Bering Sea basin and exchange with the North Pacific.  J. Phys. Oceanogr.  
+24: 736-758. 
+ 
+Pavlova, Y.V.  1964.  The seasonal variations of the Kuroshio current.  Oceanologia.  Vol. 4, No 4. p. 
+625-640 (in Russian). 
+ 
+Philander, S.G.H., R.C. Pacanowski, N.-C. Lau, and M.J. Nath.  1992.  Simulation of ENSO with a 
+global atmospheric GCM coupled to a high-resolution, tropical Pacific Ocean GCM.  J. Climate.  
+5: 308-329. 
+ 
+Qiu, B.  1992.  Recirculation and seasonal change of the Kuroshio from satellite altimetry observations.  
+J. Geophys. Res.  97: C11, 17801-17811. 
+ 
+Qiu, B.  1995.  Why is the North Pacific Intermediate Water confined on density surfaces around sigma-
+theta = 26.8 ?  J. Phys. Oceanogr.  25: 168-180. 
+ 
+Qiu, B., and T.M. Joyce.  1992.  Internannual variability in the mid- and low-latitude western North 
+Pacific.  J. Phys. Oceanogr.  22: 1,062-1,079. 
+ 
+Qiu, B., and K. Kelly.  1993.  Upper-ocean heat balance in the Kuroshio Extension region.  J. Phys. 
+Oceanogr.  23: 2027-2041. 
+ 
+Qiu, B., K. Kelly, and T. Joyce.  1991.  Mean flow and variability of the Kuroshio Extension from 
+Geosat altimetry data.  J. Geophys. Res.  96: 18,491-18,507. 
+ 
+Reid, J.L. Jr.  1965.  Intermediate Waters of the Pacific Ocean.  The Johns Hopkins Oceanographic 
+Studies, 5, 96 p.  The Johns Hopkins University Press.  Baltimore. 
+ 
+ 74
+Redi, M.N.  1982.  Oceanic isopycnal mixing by coordinate rotation.  J.Phys. Oceanog.  12: 1154-
+1158. 
+ 
+Riser, S.C.  1995.  New Lagrangian measurements of the flow field at mid-depth in the western North 
+Pacific.  IAPSO XXI General Assembly, Honolulu, 5-12 Aug 1995.  Abstracts, p. 18. 
+ 
+Robinson, A.R., and B. Taft.  1972.  A numerical experiment for the path of the Kuroshio.  J. Mar. Res.  
+30: 65-101. 
+ 
+Robinson, A.R., S.M. Glenn, M.A. Spall, L.J. Walstad, G.M. Gardner, and W.G. Leslie  1989.  
+Forecasting Gulf Stream meanders and rings.  EOS.  70: 1464-1473. 
+ 
+Roden, G.I.  1972.  Temperature and salinity fronts at the boundaries of the subarctic-subtropical 
+transition zone in the western Pacific.  J. Geophys. Res.  77: 7175-7187. 
+ 
+Roden, G.I.  1977.  Oceanic subarctic fronts of the central Pacific: structure and response to atmospheric 
+forcing.  J. Phys. Oceanogr.  7: 761-778. 
+ 
+Royer, T.C.  1981.  Baroclinic transport in the Gulf of Alaska: fresh water driven coastal current.  J. 
+Marine Res.  39: 251-266. 
+ 
+Sarkisyan, A.  1977.  Numerical analysis and prognosis of sea currents.  Gidrometeoizdat, Leningrad.  
+181 p. 
+ 
+Sayles, M.A., K. Aagaard, and L.K. Coachman.  1979.  Oceanographic Atlas of the Bering Sea Basin.  
+Univ. of Washington Press.  158 p. 
+ 
+Schmitz, W.J. Jr.  1995.  On the interbasin scale global circulation circulation.  Rev. Geophys.  33: 
+151-173. 
+ 
+Sekine, Y.  1986.  Wind-driven circulation in the Japan Sea and its influence on the branching of the 
+Tsushima Current.  Progr. Oceanogr.  17: 297-313. 
+ 
+Sekine, Y.  1988a.  Anomalous southward intrusion of the Oyashio east of Japan. 1. Influence of the 
+seasonal and interannual variations of the wind stress over the North Pacific.  J.Geophys. Res.  
+93: 2247-2255. 
+ 
+Sekine, Y.  1988b.  A numerical experiment on the anomalous southward intrusion of the Oyashio east 
+of Japan. Part I. Barotropic model.  J. Oceanogr. Soc. Japan.  44: 60-67. 
+ 
+Sekine, Y.  1988c.  Coastal and bottom topographic effects on the path dynamics of the western 
+boundary current with special reference to the Kuroshio south of Japan.  La Mer (Tokyo).  26: 
+99-114. 
+ 
+Sekine, Y.  1990.  A numerical experiment on the path dynamics of the Kuroshio with reference to the 
+formation of the large meander path south of Japan.  Deep-Sea Res.  37: 359-380. 
+ 
+Sekine, Y.  1991.  A numerical experiment on the seasonal variation of the oceanic circulation in the 
+Japan Sea, p. 113-128. In K. Takano [ed.]  1991.  Oceanography of Asian Marginal Seas. 
+Elsevier.  431 p. 
+ 75
+Sekine, Y.  1992.  On the signs of formation of the Kuroshio large meander south of Japan.  Japan J. 
+Fish. Oceanogr.  36: 13-22 (in Japanese with English abstract). 
+ 
+Sekine, Y., and K. Kutsuwada.  1994.  Seasonal variation in volume transport of the Kuroshio south of 
+Japan.  J. Phys. Oceanogr.  24: 261-272. 
+ 
+Sekine, Y., and Y. Toba.  1981a.  Velocity variation of the Kuroshio during formation of the small 
+meander south of Kyushu.  J. Oceanogr. Soc. Japan.   37: 87-93. 
+ 
+Sekine, Y., and Y. Toba.  1981b.  A numerical experiment on the generation of the small meander of the 
+Kuroshio off southeastern Kyushu.  J. Oceanogr. Soc. Japan.  37: 234-242. 
+ 
+Sekine, Y., Y. Sato, H. Takamori, and I. Sakamoto.  1991.  Observation of the volume transport of the 
+Kuroshio south of Japan.  Bull. Fac. Bioresouces.  Mie Univ.  6: 57-82. 
+ 
+Semtner, A.J., and R.M. Chervin.  1988.  A simulation of the global ocean circulation with resolved 
+eddies.  J.Geophys. Res.  93: 15,502-15,522. 
+ 
+Semtner, A.J., and R.M. Chervin.  1992.  Ocean general circulation from a global eddy-resolving model.  
+J. Geophys. Res.  97: 5493-5550. 
+ 
+Seung, Y.H.  1992.  A simple model for separation of East Korea Warm Current and formation of North 
+Korea Cold Current.  J. Oceanol. Soc. Korea.  27: 189-196. 
+ 
+Seung, Y.H., and K. Kim.  1989.  On the possible role of local thermal forcing on the Japan Sea 
+circulation.  J. Oceanol. Soc. Korea.  24: 29-38. 
+ 
+Seung, Y.H., and K. Kim.  1993.  A numerical modeling of the East Sea circulation.  J. Oceanol. Soc. 
+Korea.  28: 292-304. 
+ 
+Shaw, D.G., and R.H. Day.  1994.  Colour- and form-dependent loss of plastic micro-debris from the 
+North Pacific Ocean.  Marine Pollution Bulletin.  28: 39-43. 
+ 
+Shoji, D.  1972.  The variation of the Kuroshio south of Japan, p. 127-134. In H. Stommel and K. 
+Yoshida [ed.] Kuroshio: its physical aspectsUniv. Tokyo Press. 
+ 
+Shriver, J.F., and H.E. Hurlburt.  1995.  The contribution of the global thermohaline circulation to the 
+Pacific-to-Indian Ocean throughflow via Indonesia.  J. Geophys. Res.  (submitted). 
+ 
+Smith, N.  1991.  The role of models in an ocean observing system.  Joint CCCO-JSC Ocean Observing 
+System Development Panel.  OOSDP Background Report No. 1. 
+ 
+Spall, M.A., and W.R. Holland.  1991.  A nested primitive equation model for oceanic applications.  J. 
+Phys. Oceanogr.  21: 205-220. 
+ 
+Stabeno, P.J., and R.K. Reed.  1994.  Circulation in the Bering Sea basin observed by satellite-tracked 
+drifters: 1986-1993.  J. Phys. Oceanogr.  24: 848-854. 
+ 
+ 76
+Sterl, A., and A. Kattenberg.  1994.  Embedding a Mixed Layer Model into an Ocean General 
+Circulation Model of the Atlantic - The Importance of Surface Mixing for Heat Flux and 
+Temperature.  J Geophys Res.  99: C7, 14139-14157. 
+ 
+Stockdale, T., D. Anderson, M. Davey, P. Delecluse, A. Kauenberg, Y. Kitamura, M. Latif, and T. 
+Yamagata.  1993.  Intercomparison of tropical ocean GCMs. World Climate Research 
+Programme WCRP-79, WMO/TD No. 545.  World Meteorological Organization, Geneva.  43 p. 
+ 
+SUPER.  1993.  Pelagic ecodynamics in the Gulf of Alaska. Results from the SUPER program.  
+Progress in Oceanography.  32: No. 1-4, Oxford.  358 p. 
+ 
+Suginohara, N., and Fukasawa.  1988.  Set-up of deep circulation in multi-level numerical models.  J. 
+Ocean. Soc. Japan.  44: 315-336. 
+ 
+Suginohara, N., and S. Aoki.  1991.  Buoyancy-driven circulation as horizontal convection on beta-
+plane.  J. Marine Res.  49: 295-320. 
+ 
+Sverdrup, H.U., M.W. Johnson, and R.H. Fleming.  1942.  The Oceans Prentice Hall.  1087 p. 
+ 
+Swaters, G.E., and L.A. Mysak.  1985.  Topographically-induced baroclinic eddies near a coastline, with 
+application to the northeast Pacific.  J. Phys. Oceanogr.  15: 1470-1485. 
+ 
+Tabata, S.  1982.  The anticyclonic, baroclinic eddy off Sitka, Alaska, in the northeast Pacific Ocean.  J. 
+Phys. Oceanogr.  12: 1260-1282. 
+ 
+Taft, B.  1972.  Characteristics of the flow of the Kuroshio south of Japan, p. 165-214. In H. Stommel 
+and K. Yoshida [ed.]  Kuroshio: its physical aspects. Univ. Tokyo Press. 
+Taft, B.  1978.  Structure of the Kuroshio south of Japan.  J. Mar. Res.  36: 77-117. 
+ 
+Taira, K., D. Yamagimoto, and N. Shikama.  1995.  Circulations at mid-depth in the Shikoku Basin and 
+in the Japan Sea measured with Lagrangian methods.  IAPSO XXI General Assembly, Honolulu, 
+5-12 Aug. 1995.  Abstracts, p. 18. 
+ 
+Takano, K. [ed.]  1991.  Oceanography of Asian Marginal Seas.  Elsevier.  431 p. 
+ 
+Takasugi, S., and I. Yasuda.  1994.  Variations in the Oyashio water in the Tohoku area and off Iwate 
+coastal region.  J. Fish. Oceanogr.  58: 253-259. 
+ 
+Takenouti, A.Y., and K. Ohtani.  1974.  Currents and water masses in the Bering Sea: a review of 
+Japanese work, p. 39-57.  In D.W. Hood and J.J. Kelly [ed.] Oceanography of the Bering Sea. 
+Institute of Marine Science.  Univ. of Alaska. 
+ 
+Talley, L.D.  1993.  Distribution and formation of North Pacific Intermediate Water.  J. Phys. 
+Oceanogr.  23: 517-537. 
+ 
+Talley, L.D., and T.M. Joyce.  1992.  The double silica maximum in the North Pacific.  J. Geophys. 
+Res.  97: 5465-5480. 
+ 
+Talley, L.D., and Y. Nagata [ed.]  1995.  The Okhotsk Sea and the Oyashio Region. PICES Scientific 
+Report No. 2.  227 p. 
+ 77
+Talley, L.D., Y. Nagata, M. Fujimura, T, Iwao, T. Kono, D. Inagake, M. Hirai, and K. Okuda.  1995.  
+North Pacific intermediate water in the Kuroshio/Oyashio mixed water region.  J. Phys. 
+Oceanography.  25: 475-501. 
+ 
+Thomas, F., J.-F. Minster, F. Gaspar, and Y. Gregoris.  1993.  Comparing the behaviour of two ocean 
+surface models in simulating dissolved oxygen concentration at Ocean Weather Station P.  Deep-
+Sea Res.  40: 395-408. 
+ 
+Thomson, K.A., W.J. Ingraham, M.C. Healey, P.H. LeBlond, C. Groot, and C.G. Healey.  1992.  The 
+influence of ocean currents on latitude of landfall and migration speed of sockeye salmon 
+returning to the Fraser River.  Fisheries Oceanography.  1: 163-179. 
+ 
+Thomson, K.A., W.J. Ingraham, M.C. Healey, P.H. LeBlond, C. Groot, and C.G. Healey.  1994.  
+Computer simulations of the influence of ocean currents on Fraser River sockeye salmon 
+(Oncorhynchus nerka) return times.  Can. J. Fish. Aquat. Sci.  51: 441-449. 
+ 
+Thomson, R.E., P.H. LeBlond, and W.J. Emery.  1990.  Analysis of deep-drogued satellite tracked 
+drifter measurements in the Northeast Pacific.  Atmosphere-Ocean.  28: 409-443. 
+ 
+Thomson, R.E., and S. Tabata.  1989.  Steric sea level trends in the northeast Pacific Ocean: possible 
+evidence for global sea level rise.  J. Climate.  2: 542-553. 
+ 
+Toggweiler, J.R., and B. Samuels.  1993.  Is the magnitude of the deep outflow from the Atlantic Ocean 
+actually governed by South Hemisphere winds? p. 303-331. In M. Heimann [ed.] The Global 
+Carbon Cycle. Springer Verlag.  Berlin. 
+Toole, J.M., K.L. Polzin, and R.W. Schmitt.  1994.  Estimates of diapycnal mixing in the abyssal ocean.  
+Science.  264: 1120-1123. 
+ 
+Trenberth, K.E., and J.W. Hurrell.  1994a.  Decadal atmosphere-ocean variations in the Pacific.  Clim 
+Dynam.  9: 303-319. 
+ 
+Trenberth, K.E., and J.W. Hurrell.  1994b.  Decadal coupled atmosphere-ocean variations in the North 
+Pacific Ocean.  In R.J. Beamish [ed.]  Climate Change and Northern Fish Populations.  Can. 
+Spec. Publ. Fish. Aquat. Sci.  121.  National Research Council, Ottawa. 
+ 
+Van Scoy, K.A., and E.R.M. Druffel.  1993.  Ventilation and transport of thermocline and intermediate 
+waters in the Northeast Pacific during recent El Niños.  J.Geophys. Res.  96: 16801-16810. 
+ 
+Van Scoy ,K.A., D.B. Olson, and R.A. Fine.  1991.  Ventilation of North Pacific Intermediate Waters: 
+the role of the Alaskan Gyre.  J.Geophys. Res.  96: 16,801-16,810. 
+ 
+Vasilyev, A.S., and K.V. Dudka.  1994.  On the water exchange between the Okhotsk and Japan Seas 
+with Pacific Ocean.  Meteorol. Hydrol.  10: 56-64. 
+ 
+Vasilyev, A.S., and V.P. Makashin.  1992.  Ventilation of the Japan waters in winter.  La Mer.  Tokyo.  
+30: N3, 169-177. 
+ 
+Verkhunov, A.V.  1995.  Climate change and variability of the Bering Sea current system, p.73-80.  In: 
+R.J. Beamish [ed.]  Climate Change and Northern Fish Populations.  Can. Spec. Publ. Fish. 
+Aquat. Sci.  121.  National Research Council.  Ottawa. 
+ 78
+Wakata, Y., and Y. Sugimori.  1990.  Lagrangian motions and global density distributions of floating 
+matter in the ocean simulated using shipdrift data.  J. Phys Oceanogr.  20: 125-138. 
+ 
+Wallace, D.W.R.  1995.  Monitoring Global Ocean Carbon Inventories.  Ocean Observing System 
+Development Panel.  Texas A&M University.  TX. 54 p. 
+ 
+Warren, B.A.  1968.  Topographic influences on the path of the Gulf Stream.  Tellus.  15: 167-183. 
+ 
+Warren, B.A.  1983.  Why is no deep water formed in the North Pacific?  J. Mar. Res.  41: 327-347. 
+ 
+Watanabe, K.  1963.  On the reinforcement drift of the East Sakhalin Current preceding to the ice season 
+off the coast of Hokkaido - Study in sea ice in the Okhotsk Sea (IV).  Oceanogr. Mag.  14: 117-
+130. 
+ 
+Watanabe, T., and K. Mizuno.  1994.  Decadal changes of thermal structure in the North Pacific.  
+International WOCE Newsletter.  15: 10-13. 
+ 
+Weaver, A.J., and T.M.C. Hughes.  1994.  Stability and variability of the thermohaline circulation and 
+its link to climate.  Trends in Physical Oceanography.  Research Trend Series.  Council of 
+Scientific Research Integration.  Trivandrum, India.  1: 15-70. 
+ 
+Welch, D.W., A.I. Chigirinsky, and Y. Ishida.  1995.  Upper thermal limits on the late spring 
+distribution of Pacific Salmon (Oncorhynchus spp.) in the northeast Pacific Ocean.  Can. J. Fish. 
+Aquat. Sci.  52: 489-503 
+ 
+White, W.B., and J.P. McCreary.  1976.  The Kuroshio meander and its relationship to the large-scale 
+ocean circulation.  Deep-Sea Res.  23: 33-47. 
+ 
+White, W.B., C.K. Tai, and W.R. Holland.  1990.  Continuous assimilation of simulated GEOSAT 
+altimetric sea level into a numerical synoptic ocean model of the California current.  J. Geophys. 
+Res.  95: 3124-3148. 
+ 
+WOCE.  1994.  WOCE Strategy for Ocean Modeling.  Science Plan for Ocean Modeling, WOCE 
+Numerical Experimentation Group.  WOCE Report No. 112/94.  WOCE International Project 
+Office.  Wormley, UK. 
+ 
+Yamagata, T., and S. Umatani.  1987.  The capture of current meander by coastal geometry with 
+possible application to the Kuroshio current.  Tellus.  39A: 161-169. 
+ 
+Yamagata, T., and S. Umatani.  1989.  Geometry-forced coherent structure as a model of the Kuroshio 
+large meander.  J. Phys. Oceanogr.  19: 130-138. 
+ 
+Yamanaka, G., Y. Kitamura, and M. Endoh.  1994.  personal communication. 
+ 
+Yamanaka, G., Y. Kitamura, and M. Endoh.  1995.  Numerical simulation of the middle layer in the 
+North Pacific using an ocean general circulation model with isopycnal mixing parameterization.  
+Umi to Sora.  71: 17-23 (in Japanese, with English abstract and figure captions). 
+ 
+Yasuda, I.  1995.  Geostrophic vortex merger and streamer development in the ocean: with special 
+reference to the merger of Kuroshio warm-core rings.  J. Phys. Oceanogr.  25: 979-996. 
+ 79
+Yasuda, I., and D. Kitagawa.  1995.  Early fishing grounds of saury in the northwestern Pacific 
+(submitted to Fish. Oceanogr.) 
+ 
+Yasuda, I., K. Okuda, and M. Hirai.  1992.  Evolution of a Kuroshio warm-core ring: variability of the 
+hydrographic structure.  Deep-Sea Res.  39: (Suppl.) S131-S161. 
+ 
+Yasuda, I., K. Okuda, and K. Mizuno.  1986.  Numerical study on the vorticies near boundaries -
+Considerations on warm-core rings in the vicinity of east coast of Japan.  Bull. Tohoku Reg. 
+Fish. Res. Lab.  48: 67-86 (in Japanese with English abstract). 
+ 
+Yasuda, I., K. Okuda, and Y. Shimizu.  1995.  Distribution and modification of North Pacific 
+intermediate water in the Kuroshio-Oyashio interfrontal zone.  (submitted to J. Phys. Oceanogr.) 
+ 
+Yasuda, I., and Y. Watanabe.  1994.  On the relationship between the Oyashio front ans saury fishing 
+grounds in the north-western Pacific: a forecasting method for fishing ground location.  Fish. 
+Oceanogr.  3: 172-181. 
+ 
+Yasuda, I., J.-H. Yoon, and N. Suginohara.  1985.  Dynamics of the Kuroshio large meander: barotropic 
+model.  J. Oceanogr. Soc. Japan.  41: 259-273. 
+ 
+Yoon, J.H.  1982a.  Numerical experiment on the circulation in the Japan Sea.  Part I. Formation of the 
+East Korea Warm Current.  J. Oceanogr. Soc. Japan.  38: 43-51. 
+ 
+Yoon, J.H.  1982b.  Numerical experiment on the circulation in the Japan Sea. Part II.  Influence of 
+seasonal variations in atmospheric conditions on the Tsushima Current.  J. Oceanogr. Soc. Japan.  
+38: 81-94. 
+ 
+Yoon, J.H.  1982c.  Numerical experiment on the circulation in the Japan Sea. Part III.  Formation of 
+the nearshore branch of the Tsushima Current.  J. Oceanogr. Soc. Japan.  38: 119-124. 
+ 
+Yoon, J.H.  1995.  Numerical modeling of the ocean miniature "Japan Sea", p. 81-84. In Proceedings of 
+International Workshop on Numerical Prediction of Oceanic Variations  Science and Technology 
+Agency and Japan Meteorological Agency.  Tokyo, 7-11 Mar 1995. 
+ 
+Yoon, J.H., and I. Yasuda.  1987.  Dynamics of the Kuroshio large meander: two layer model.  J. Phys. 
+Oceanogr.  17: 66-81. 
+ 
+Yukimoto, S., M. Endoh, Y. Kitamure, A. Kitoh, T. Motoi, A. Noda, and T. Tokioka.  1995.  ENSO and 
+decadal variability in an MRI-coupled atmosphere-ocean GCM.  To be submitted to Climate 
+Dynamics. 
+ 
+Zhang, R.H., and M. Endoh.  1994.  Simulation of the 1986-87 El Niño and 1988 La Niña events with a 
+free surface tropical Pacific Ocean general circulation model.  J. Geophys. Res.  99: 7743-7759. 
+ 
+Zhang, R., and K. Hanawa.  1992.  Features of the water-mass front in the northwestern North Pacific.  
+J. Geophys. Res.  98: 967-975. 
+ 
+Zyryanov, V.N.  1974.  On the question about water exchange through the northern Kuril Straits.  
+Oceanology.  14: N1, 16-21. 
+ 80
+11.0 APPENDICES 
+ 
+Appendix 1. Terms of Reference 
+ 
+Working Group 7 on  
+Modelling of the Subarctic North Pacific Circulation 
+ 
+Terms of Reference 
+ 
+Although the subarctic oceans play an important role in the earth's climate system as a region where 
+strong air-sea interactions occur and active ventilation of the oceans takes place, the present state of 
+modelling of the subarctic oceans is not satisfactory even with respect to the physics.  This is one of the 
+most important unresolved questions for constructing an accurate climate forecasting system.  In view of 
+the importance of modelling of the North Pacific Circulation for the global climate forecast, the Working 
+Group will: 
+ 
+- Review the status of present physical modelling efforts on the subarctic North Pacific 
+circulation and identify the gaps and problem areas, 
+- Identify the kinds of observations and other information needed to improve 
+circulation models, 
+ 
+- Identify what kinds of knowledge of the related physical processes and of local ocean 
+dynamics (such as in marginal seas) are needed to improve the circulation models, 
+and 
+ 
+- Identify how the incompleteness of the present physical model of the subarctic North 
+Pacific influences other modelling efforts such as the global climate, ecosystems, 
+material transport, etc. 
+ 
+A focus on physical aspects of modelling will be maintained. 
+ 81
+Appendix 2. Membership of Working Group 
+ 
+Dr. Inkeon Bang 
+Korea Ocean Research & Development Institute 
+(KORDI) 
+Ansan P.O. Box 29, 
+Seoul, 
+Republic of Korea.  425-600 
+Fax: (82-345) 400-6120 
+Internet: jkbang@sari.kordi.re.kr 
+ 
+Dr. Lev N. Bocharov 
+Pacific Research Institute of Fisheries & 
+Oceanography (TINRO) 
+4 Shevchenko Alley, 
+Vladivostok, 
+Russia.  690600 
+Fax: 7 (4232) 257-783 
+Internet: root@tinro.marine.su 
+ 
+Dr. Kyung-Il Chang 
+Korea Ocean Research & Development Institute 
+(KORDI) 
+Ansan P.O. Box 29, 
+Seoul, 
+Republic of Korea.  425-600 
+Fax: (82-345) 400-6209 
+Internet: kichang@sari.kordi.re.kr 
+ 
+Dr. Roland de Szoeke 
+College of Oceanography 
+Oregon State University 
+Oceanography Admin. Bldg. 104, 
+Corvallis, OR  97331-5503 
+U.S.A. 
+Phone: (1-503) 737-3160 
+Fax: (1-503) 737-2064 
+Internet: szoeke@oce.orst.edu 
+ 
+Dr. Kenneth L. Denman 
+Head, Ocean Physics Division 
+Institution of Ocean Sciences 
+P.O. Box 6000, 
+Sidney, B.C., 
+Canada.  V8L 4B2 
+Phone: (1-604) 363-6346 
+Fax: (1-604) 363-6746 
+Internet: denman@ios.bc.ca 
+ 
+Dr. Masahiro Endoh 
+Oceanographic Research Department 
+Meteorological Research Institute 
+1-1 Nagamine, 
+Tsukuba, Ibaraki-ken, 
+Japan.  305 
+Phone: (81-298) 53-8652 
+Fax: (81-298) 55-1439 
+Internet: endoh@mri-1.jma.go.jp 
+ 
+Dr. Dale Haidvogel 
+Institute of Marine and Coastal Sciences 
+Rutgers University 
+P.O. Box 231, 
+New Brunswick, NJ  08903-0231 
+U.S.A. 
+Phone: (1-908) 932-6555 x256 
+Fax: (1-908) 932-8578 
+Internet: dale@ahab.rutgers.edu 
+ 
+Dr. Harley Hurlburt 
+Naval Research Laboratory, MC 7320 
+Stennis Space Center 
+MS  39529-5004 
+U.S.A. 
+Phone: (1-601) 688-4626 
+Fax: (1-601) 688-4759 
+Internet: hurlburt@nrlssc.navy.mil 
+ 
+Prof. Paul H. LeBlond 
+Department of Oceanography 
+University of British Columbia 
+#1461-6270 University Blvd., 
+Vancouver, B.C., 
+Canada.  V6T 1Z4 
+Phone: (1-604) 822-2496 
+Fax: (1-604) 822-6091 
+Internet: leblond@ocgy.ubc.ca 
+ 
+Dr. Vladimir V. Navrotsky 
+Head, Hydrophysics Laboratory 
+Pacific Oceanological Institute 
+43 Baltiyskaya Street, 
+Vladivostok, 
+Russia.  690041 
+Phone: (7-4232) 31-2568 
+Fax: (7-4232) 31-2573 
+Internet: poi@stv.iasnet.com 
+Prof. Stephen C. Riser 
+School of Oceanography, WB-10 
+University of Washington 
+Seattle, WA  98195-6000 
+U.S.A. 
+ 82
+Phone: (1-206) 543-1187 
+Fax: (1-206) 329-0858 
+Internet: riser@krill.ocean.washington.edu 
+ 
+Prof. Nobuo Suginohara 
+Climate System Research Center 
+University of Tokyo 
+4-6-1 Komaba, Meguro-ku, 
+Tokyo, Japan.  153 
+Phone: (81-3) 5453-3956 
+Fax: (81-3) 5453-3964 
+Internet: nobuo@ccsr.u-tokyo.ac.jp 
+ 
+Dr. Moon-Sik Suk 
+Korea Ocean Research & Development Institute 
+(KORDI) 
+Ansan P.O. Box 29, 
+Seoul, 
+Republic of Korea.  425-600 
+Fax: (82-345) 400-6123 
+Internet: mssuk@sari.kordi.re.kr 
+ 
+Dr. Lynne D. Talley 
+Scripps Institution of Oceanography 
+University of California, San Diego 
+La Jolla, CA  92093-0230 
+U.S.A. 
+Phone: (1-619) 534-6610 
+Fax: (1-619) 534-0704 
+Internet: ltalley@ucsd.edu 
+ 
+Dr. Yury N. Volkov 
+Far Eastern Regional Hydrometeorological 
+Research Institute (FERHRI) 
+24 Dzerzhinsky Street, 
+Vladivostok, 
+Russia.  690600 
+Fax: 7 (4232) 227754 
+ 
+Dr. Zhang-Gui Wang 
+Senior Research 
+National Research Center for Marine 
+Environmental Forecast 
+8 Daihuisi Road, Haidian District, 
+Beijing, 
+People’s Republic of China.  100081 
+Phone: (86-10) 831-8882 x153 
+Fax: (86-10) 831-3593 
+Dr. Andrew Weaver 
+School of Earth and Ocean Research 
+University of Victoria 
+P.O. Box 1700, 
+Victoria, B.C., 
+Canada.  V8W 2Y2 
+Phone: (1-604) 721-6120 
+Fax: (1-604) 721-6200 
+Internet: weaver@ocean.seaoar.uvic.ca 
+ 
+Dr. Ichiro Yasuda 
+Hokkaido University 
+Kita-19, Nishi-8, Kita-ku, 
+Sapporo, Hokkaido, 
+Japan.  060 
+Phone: (81-11) 706-2363 
+Fax: (81-11) 726-6234 
+Internet: ichiro@eoas.hokudai.ac.jp 
+ 
+Dr. Sinjae Yoo 
+Korea Ocean Research & Development Institute 
+(KORDI) 
+Ansan P.O. Box 29, 
+Seoul, 
+Republic of Korea.  425-600 
+Phone: (82-345) 400-6221 
+Fax: (82-345) 408-5820 
+Internet: sjyoo@sari.kordi.re.kr 
+ 
+Prof. Yao-Chu Yuan 
+Second Institute of Oceanography 
+P.O. Box 1207, 
+Hangzhou, 
+People’s Republic of China.  310012 
+Phone: (86-571) 807-6924 x352 
+Fax: (86-1) 807-1539 
+ 
+Dr. Rong-Hua Zhang 
+LASG, Institute of Atmospheric Physics 
+Chinese Academy of Science 
+Beijing, 
+People’s Republic of China.  100080 
+Phone: (86-10) 256-0172 
+Fax: (86-10) 256-2347 
+ 
+ 
+ 
+ 83
+Appendix 3. Working group activities 
+ 
+ The working group was created at the PICES meeting in Seattle in October 1993. 
+ 
+ Members of the working group were selected by their respective governments in early 1994. 
+ 
+ The co-chairmen, LeBlond and Endoh, began electronic communication at that time, circulated 
+ideas and suggestions and solicited input from members of the WG.  
+ 
+ It was resolved to hold a meeting in Vancouver in June 1994. Following that meeting, 
+participants, as well as other members of the working group, were sent a rough draft of the report, 
+with requests for contributions at specific points. An interim report was compiled by the co-
+chairmen and used as a basis for discussions at the PICES meeting in Nemuro. 
+ 
+ After a period of reflection, work towards completion of a report was resumed through 
+communication between the co-chairmen in the spring of 1995. A revised draft was circulated in 
+July and comments requested from all Group members towards completion of the report. These 
+comments were incorporated in the draft final report presented at the Qingdao meeting.  Final 
+corrections were made to the manuscript in the fall of 1995 following input from the Qingdao 
+meeting. 
+ 
+ 
+ 

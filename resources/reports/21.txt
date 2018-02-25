@@ -1,0 +1,2540 @@
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 21 
+2002 
+ 
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+ 
+ 
+REPORT OF  
+THE PICES 2002 VOLUNTEER OBSERVING SHIP WORKSHOP 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+Charles B. Miller 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2002 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+E-mail:  secretariat@pices.int        Home Page:  http://www.pices.int 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ Page 
+ 
+Executive Summary.......................................................................................................................v 
+ 
+Workshop overview .......................................................................................................................1 
+ 
+Instrumentation and cost ..............................................................................................................5 
+ 
+Proposal development....................................................................................................................7 
+ 
+Potential funding sources ..............................................................................................................8 
+ 
+Appendix 1 
+Current status of the Pacific CPR program................................................................................9 
+ 
+Appendix 2 
+Marine environmental monitoring using ferries in Japan........................................................11 
+ 
+Appendix 3 
+Evaluation of upstream location of sampled water using model ship experiments.................15 
+ 
+Appendix 4 
+Summary of the operations of the EU FP5 project “Ferry-Box”.............................................23 
+ 
+Appendix 5 
+List of participants ...................................................................................................................37 
+ 
+ 
+ 
+EXECUTIVE SUMMARY 
+ 
+PICES and the Exxon Valdez Oil Spill Trustee Council’s Gulf Ecosystem Monitoring (GEM) 
+program presently sponsor a plankton monitoring program in the subarctic Pacific, that uses 
+commercial “volunteer observing ships” (VOS) to tow a Continuous Plankton Recorder (CPR) 
+along repeated routes from southern California to Alaska, and from British Columbia to Japan.  
+Value of the CPR data would be greatly enhanced by additional underway measurements from 
+the VOS. 
+ 
+A workshop to identify and evaluate potential add-on sensor and archival modules was held on 
+April 4-5, 2002, in Seattle.  The recommended system would include one group of instruments 
+making measurements of water from the ship’s engine room sea-water intake, and a second 
+group of instruments (mounted on or near the bridge) making optical, acoustic, and sea-state 
+measurements, and perhaps deploying expendable subsurface profiling probes (XBT or XCTD).  
+Total price for the acquisition and testing of the first unit would probably be under US$250,000.  
+Subsequent units could be assembled for about US$150,000. 
+ 
+Workshop participants recommend that a technical proposal for funding such a system be 
+developed, and seek endorsement by PICES and approval to proceed with proposal development 
+as an official PICES activity. 
+ 
+ 
+David L. Mackas 
+MONITOR Task Team Co-Chairman 
+ 
+REPORT OF THE PICES 2002 VOLUNTEER OBSERVING SHIP 
+WORKSHOP 
+ 
+ 
+Workshop overview 
+ 
+On April 4-5, 2002, the PICES MONITOR 
+Task Team, the PICES Continuous Plankton 
+Recorder (CPR) Advisory Panel, and the 
+Exxon Valdez Oil Spill Trustee Council’s 
+Gulf Ecosystem Monitoring (GEM) program 
+convened a workshop in Seattle, U.S.A., to 
+consider enhanced instrumentation for 
+volunteer observing ships (VOS), 
+particularly instruments to complement CPR 
+data.  Ships instrumented to gather 
+oceanographic data secondarily to their main 
+mission can range from fishing vessels to 
+the largest commercial ships on long trans-
+oceanic runs.  The focus of the workshop 
+was the latter, with the expectation that 
+suitably instrumented ships could obtain 
+data from the farthest ocean reaches on a 
+frequent and recurring basis for long 
+periods. 
+ 
+The rationale is old, simple and excellent.  
+The long time scales of significant oceanic 
+environmental events, such as coupled 
+changes of climatic and fishery regimes, 
+require long time series of data to document 
+them.  There is also continuous need for 
+“sea-truth” measurements for comparison to 
+satellite observations.  In the subarctic North 
+Pacific, there are interannual variations in 
+timing of seasonal events that are keys to 
+understanding its ecology.  At the present 
+time, expedition style cruises aboard 
+dedicated research ships are too expensive 
+and too irregular to accomplish this, 
+particularly far from shore where only 
+reasonably large, expensive vessels can 
+venture.  Therefore, the workshop 
+participants aimed to review developments 
+in instrumentation that can be used to 
+provide rich data sets when coupled to 
+commercial vessel sea chests.  Large vessels 
+move many cubic meters of water per 
+minute through their intake systems for 
+cooling and other purposes.  Our 
+instrumental requirements will be liters per 
+minute and can readily and safely be 
+coupled to these larger flows. 
+ 
+Relevant experience was represented among 
+the workshop participants (see group photo 
+on the next page) as follows: 
+ 
+Drs. Sonia D. Batten and David W. Welch 
+manage the PICES Continuous 
+Plankton Recorder operations on 
+tankers running between Valdez, 
+Alaska, and Long Beach, California, 
+and from Vancouver to Japan. 
+Dr. David Hydes has experience with the 
+European Union “Ferry Box” program 
+that instruments several ferries 
+operating around Europe. 
+Dr. Akira Harashima is instrumenting ferries 
+operating in Japanese waters and 
+crossing to Korea, Hong Kong and 
+Malaysia. 
+Dr. David Cutchin has experience with 
+installing, maintaining and retrieving 
+data from thermosalinograph and XBT 
+systems on commercial ships.  
+Dr. Ronald Zaneveld is working with a 
+range of optical instruments suitable 
+for sea chest instrumentation. 
+Dr. Ricardo Letelier is familiar with 
+fluorometers and fast repetition rate 
+fluorometers which could be utilized 
+on VOS. 
+Capt. Robert Decker manages data transfer 
+communications for several NOAA 
+operations. 
+ 
+ 
+ 
+Participants of the PICES MONITOR VOS Workshop:  front row from left - Sei-ichi Saitoh 
+(PICES MONITOR Task Team, University of Hokkaido, Japan), David Cutchin (Scripps 
+Institution of Oceanography, U.S.A.), Ricardo Letelier (Oregon State University, U.S.A.), David 
+Mackas (PICES MONITOR Task Team, Institute of Ocean Sciences, Canada, Workshop 
+Chairman), Akira Harashima (National Institute for Environmental Studies, Japan);  back row 
+from left - Robert Decker (NOAA SEAS, U.S.A.), Phillip Mundy (Exxon Valdez Oil Spill 
+Trustee Council, U.S.A.), Warren Wooster (University of Washington, U.S.A., local host), 
+Ronald Zaneveld (Oregon State University, U.S.A.), Charles Miller (PICES CPR, Oregon State 
+University, U.S.A.), David Welch (PICES CPR, Pacific Biological Station, Canada), Sonia 
+Batten (PICES CPR, Sir Alister Hardy Foundation for Ocean Science, UK), David Hydes 
+(National Environmental Research Council, Southampton Oceanography Centre, UK);  Not in 
+picture:  Jeffrey Napp (National Marine Fisheries Service, U.S.A.). 
+ 
+ 
+Dr. Phillip Mundy is responsible for the 
+EVOS Gulf Ecosystem Monitoring 
+(GEM) initiative, concerned with the 
+ecosystem health of the Gulf of 
+Alaska. 
+Dr. Sei-ichi Saitoh is expert in satellite 
+oceanography. 
+The other participants are oceanographers 
+interested in time-series sampling. 
+ 
+The workshop opened with a presentation by 
+Dr. Batten on the status of a PICES VOS 
+program now in operation.  That is the 
+spring-summer CPR sampling aboard 
+tankers of the Polar Corporation running 
+from Valdez to Long Beach, and a once per 
+year CPR tow from Seaboard International 
+Ltd. ships running from Vancouver to Japan 
+via the Bering Sea.  Her written report on 
+progress of the PICES CPR program is 
+attached as Appendix 1.  In brief, three years 
+of CPR data from the Valdez-Long Beach 
+line have shown large interannual variations 
+in developmental timing and abundance of 
+dominant Gulf of Alaska zooplankton 
+species (principally copepods of the genus 
+Neocalanus).  CPR results demonstrate 
+extended seaward transport of coastal 
+plankton stocks (Acartia spp., Calanus 
+marshallae) by the Haida eddy and other 
+large coastal eddies along the coasts of 
+British Columbia and southeast Alaska.  The 
+CPR data also appear to represent plankton 
+abundance changes associated with the 
+possible regime shift of 1998-99. 
+ 
+A forthcoming addition to the east-west 
+CPR run is a seabird observer to be directed 
+by Dr. William Sydeman of the Point Reyes 
+Bird Observatory (4990 Shoreline Highway 
+Stinson Beach, CA).  Subsequent to the 
+VOS meeting, insurance considerations 
+were successfully negotiated with Seaboard 
+International Ltd. for placement of an 
+observer.  The primary concern is the 
+possibility that ship time would be lost if an 
+observer were to require diversion because 
+of sickness or injury.  From this experience 
+we are learning the problems and 
+possibilities of placing scientists on board 
+VOS, which eventually may be as valuable 
+as bird data.  
+ 
+In addition to producing some actual PICES 
+science, the CPR program shows that 
+shipping companies are willing to help with 
+well-designed oceanographic observations 
+which do not interfere with their transport 
+operations.  While the workshop was not 
+convened to consider improvements to the 
+CPR, the participants recognize that an 
+expanded and improved CPR program has 
+been endorsed by both PICES and LMR-
+GOOS.  We heartily second this 
+endorsement. 
+ 
+Next, currently active VOS instrumentation 
+systems operating in Japan and Europe were 
+reviewed.  The Japanese program is 
+managed by the Center for Global 
+Environmental Research (CGER) and 
+Marine Environmental Research Laboratory 
+(MERL) of the Japanese National Institute 
+for Environmental Studies (NIES).  Dr. 
+Harashima of MERL/NIES reported on 
+instrument suites making continuous 
+computerized records of data on a number of 
+runs, including one from Tokyo to Malaysia.  
+Instrumentation includes:  temperature, 
+salinity, pH, fluorescence, dissolved oxygen, 
+periodic automated filtration and sample 
+storage for shoreside analysis of nutrients 
+(NO
+3
+, NO
+2
+, NH
+4
+, PO
+4
+, Si(OH)
+4
+), and 
+preserved whole water sampling for 
+microscopic analysis of phytoplankton.  
+Other than this work, CGER/NIES is 
+conducting a monitoring program to 
+evaluate the CO
+2
+ flux across the surface of 
+the North Pacific using a VOS.  A report by 
+Dr. Harashima on the Japanese VOS 
+sampling program is presented as  
+Appendix 2. 
+ 
+An important result of tow basin and 
+numerical modeling research by Dr. 
+Harashima and colleagues is that intake 
+water on a large ship can be displaced 
+downward from its original position near the 
+ocean surface by several meters.  That is, 
+intakes do not sample water that was 
+originally at their depth below the surface, 
+but effectively sample somewhat higher in 
+the water column.  Appendix 3 details the 
+model basin and numerical simulation of 
+displacement of water approaching hull 
+intakes. 
+ 
+Dr. Hydes reported that the European Union 
+is supporting a wide array of different ferry 
+instrumentation efforts, under an umbrella 
+organization called the “E.U. Ferry Box 
+Program”.  The common effort is to examine 
+data comparability and to push forward with 
+addition of pollutant identification 
+instrumentation.  Various systems include:  
+temperature, salinity, turbidity, fluorescence, 
+and CO
+2
+.  A system under development by 
+Dr. Hydes at the Southampton 
+Oceanography Centre determines nutrients 
+on a relatively high frequency basis, 
+operating on water drawn from an intake 
+stream with a reagent addition and 
+colorimetry system comparable to 
+autoanalyzers but compact and fully 
+automated.  Good stability has been 
+achieved, but frequent checks with standards 
+remain an essential part of establishing and 
+sustaining data reliability.  Indeed, the 
+standard checks are included in his system’s 
+automation scheme.  Such gear is becoming 
+available from several other laboratories 
+around the world and is nearly ready for 
+commercialization.  Details provided in 
+writing by Dr. Hydes are presented as 
+Appendix 4.  Particularly interesting is the 
+use of cell phone technology for data 
+transfer in coastal regions.  For U.S. 
+applications access can probably be obtained 
+from Iridium phone service. 
+ 
+Japanese and European ferry systems are 
+also carrying various bridge instrumentation, 
+including radiometers, both upward looking 
+(sky and total downward radiance) and 
+water-leaving radiance meters.  The latter 
+are much more problematic, according to 
+Dr. Zaneveld, because the results are 
+extremely sensitive to angle of the 
+instrument relative to the sea surface (which 
+is hard to hold constant) and to bubbles that 
+are copiously, but variably, produced by 
+both waves and the instrumented ship. 
+ 
+Dr. Cutchin and Capt. Decker reported on 
+bridge wing XBT operations.  These involve 
+automated or manual launch from ships at 
+regular locations along standard routes.  One 
+example is the WOCE program on ships 
+running between Hawaii and Alaska.  
+Expense of the expendable probes is a 
+significant issue, with current prices of 
+US$40 each for XBT probes and US$600 
+for XCT (conductivity) probes.  The latter 
+have proved prohibitive for all but very 
+special operations. 
+ 
+Dr. Saitoh reported on satellite remotely-
+sensed data which could usefully be collated 
+with the VOS trackline data.  Examples 
+include surface temperature and ocean color, 
+surface roughness (a proxy for wind speed), 
+and sea-surface elevation (a proxy for 
+geostrophic current fields).  Benefits of this 
+collation are mutual:  the remotely-sensed 
+data provide a broader spatial view that 
+greatly aids interpretation of features 
+observed by the VOS, while the VOS 
+provides valuable open-ocean sea-truth 
+sampling needed for calibration of satellite 
+algorithms. 
+ 
+The group discussed a wide range of issues 
+regarding gear installation on VOS.  Cabling 
+between engine room instruments and 
+bridge instruments to gather data in a 
+common computer came in for particular 
+attention.  Experience (Cutchin, Hydes, 
+Decker, others) shows that running cable 
+can be difficult and, therefore, expensive.  
+Cabling and all other aspects of installation 
+depend upon excellent relations with the 
+shipping company and ship’s personnel at 
+all levels.  This takes negotiating skill and 
+constant attention to relationships 
+throughout any VOS program.  Positive 
+relationships are as important to success as 
+reliable equipment and good maintenance 
+when the ships reach port. 
+ 
+A highly specific discussion followed, of 
+available instruments, the value of the data 
+they produce and the problems they present.  
+Potential instrumentation discussed divides 
+into engine room (water intake) and bridge 
+measurements.  The following box shows 
+the lists which appear to workshop members 
+to be the practical, meaningful measure-
+ments available “off the shelf” at the present 
+time.  Participants felt that, if at all possible, 
+the instruments at each location should be 
+combined into two reasonably compact 
+packages that could be transported, 
+mechanically installed, and wired as 
+modular units.  In order to represent input 
+and cooperation throughout PICES, we 
+dubbed these the PICES Ferry box and 
+PICES VOS Wing Pod.  We will gladly 
+name it after any agency or other entity 
+willing to fund development (e.g., the 
+PICES/GEM Ferry Box). 
+ 
+ 
+ 
+ 
+The Ferry Box and Wing Pod systems must 
+be coupled with suitable and redundant 
+computing and recording capability to 
+archive the substantial data sets that will be 
+produced, and to maintain accurate time 
+marks for all observations, accounting for 
+varying instrumental delays (those of 
+automated nutrient analysis, for example).  
+Several options for frequent or real-time 
+telemetry of data to shore exist, including 
+application of Iridium satellite phone 
+technology.  A variety of computational and 
+communications hardware and software 
+issues are involved in this aspect of the 
+design.  All of them have solutions.  A 
+rough cost estimate, with adequate 
+engineering money included, suggested that 
+the first system could be assembled for 
+around US$250,000.  Subsequent, 
+installable copies of the Mark I would run 
+about US$130,000 each. 
+ 
+Instrumentation and cost  
+ 
+Further evaluations of each component 
+instrument and selections among available 
+designs will be part of the engineering 
+effort.  Expertise available at the workshop 
+provided preliminary knowledge of 
+frequently used systems and costs.  We list 
+that preliminary data here (all costs are in 
+US dollars): 
+ 
+ 
+ 
+Components of proposed VOS Data Systems 
+ 
+Ferry Box     Wing Pod 
+ Flow-through T and S    XBT launcher 
+ T via hull conductance (+0.1ºC)  Downwelling irradiance 
+ Fluorometer     Recording of ship high frequency
+ Transmissometry      echosounder and Doppler speed log
+ OPC      Meteorology package 
+ Spectral absorbance (AC-9)   Navigation (GPS) 
+  Nutrient concentration   Accelerometer (sea state)  
+ Colored-DOM fluorescence    
+PICES Ferry Box – An engine room system to be coupled to VOS sea chests: 
+Flow-through temperature and salinity (thermosalinograph) 
+SeaBird $8,000 
+SST via hull conductance (+ 0.1ºC) $500 
+Fluorometer, flowthrough - general level of phytoplankton biomass 
+Turner Designs $3,000 
+Transmissometer - light beam C (attenuation) and particle concentration 
+Seatech $3,000 
+Optical Plankton Counter - evaluation of zooplankton abundance and size distribution 
+Full description at http://www.focaltech.ns.ca/ product-opc.html 
+Focal Technologies  $12,000 
+Spectral absorbance (AC9) - evaluation of relative abundance of absorbing pigments and, thus, 
+of phytoplankton composition by measuring light absorbance at 9 wavelengths. 
+SeaLabs AC9 $16,000 
+Nutrient concentrations – NO
+3
+, PO
+4
+, Si(OH)
+4
+, Several systems in test phases 
+ $15,000 
+CDOM fluorescence – measure of colored dissolved organic matter;  varies strongly in inshore-
+offshore direction, a measure of “neriticity”.  Measure is blue fluorescence excited with UV. 
+Adapted Turner Designs Fluorometer $3,000 
+ 
+Instrument component cost - $60,500 
+ 
+Pumps, plumbing, housing, safety alarms and other fittings will cost ~ $10,000. 
+Instrument control and data storage computer systems should cost about $5,000. 
+ 
+Total cost ~ $75,000 
+ 
+PICES Wing Pod – for deployment on the bridge wing: 
+XBT launcher – spaced vertical profiles of ocean temperature 
+Sippican $3,000 
+Downwelling irradiance – measure of light intensity above the ship 
+LiCor, several others $8,000 
+Recording of ship’s high frequency echosounder – read out cable required 
+Recording of ship’s Doppler log – readout cable required 
+Meteorology package - air temperature, humidity, apparent wind speed 
+Several systems  $5,000 
+Navigation (dedicated GPS) 
+Many manufacturers $3,000 
+Vertical Acceleration (sea state) – response will vary from ship to ship 
+ $5,000 
+ 
+Instrument component cost - $24,000 
+ 
+Attachments, housings, data storage ~ $10,000 
+ 
+Total cost ~ $ 35,000 
+Dr. Zaneveld has noted in reviewing a draft 
+of this report, that a FerryBox system 
+including an AC9 spectral absorbance 
+system will not require a chlorophyll 
+fluorometer.  The AC9 will measure 
+chlorophyll absorption as [a(676) - a(6650)], 
+which is better correlated with extracted 
+chlorophyll than standard fluorometer 
+output, since the quantum efficiency of 
+fluorescence is not involved.  The AC9 
+transmission at 650 nm also replaces the 
+standard transmissometer, which measures 
+at 650 nm.  He also stated that with some 
+plumbing the AC9 can alternately pass water 
+filtered at 0.2 m to obtain a measure of 
+colored dissolved organic matter (CDOM), 
+which by subtraction provides a measure of 
+light absorption by particles.  The AC9 can 
+thus reduce costs by about $8,000. 
+ 
+In the future, the PICES Ferry Box could be 
+upgraded to include fast repetition rate 
+fluorometry (FRRF, potentially a 
+photosynthesis rate measurement), a 100-
+wavelength spectro-photometer, a FlowCam 
+for accumulating particle images and the 
+pollutant sensors under development in 
+Europe.  The PICES WingPod could 
+eventually include a downlooking LIDAR 
+system to profile chlorophyll.  Both Ferry 
+Box and Wing Pod should include physical 
+space and data capacity for new 
+instrumentation not yet developed even in 
+concept.  It is possible that the biggest 
+contribution of the PICES VOS systems 
+could be stimulation of completely new 
+measurements. 
+ 
+Workshop participants recognize that 
+development of the PICES VOS systems 
+must include careful computer hardware 
+selection and detailed software design for 
+data logging.  Data formats suitable to 
+NODC or other data archiving organizations 
+should be used.  Computer media and 
+formats should adhere to standards likely to 
+last or remain accessible long into the future.  
+In addition to storing raw instrumental 
+output (volts, counts, etc.), data streams 
+logged at sea should, when possible, be 
+converted to standard units (engineering, SI, 
+or oceanographic such as PSU) for parallel 
+storage.  Data storage should be redundant.  
+Calibration and data quality control 
+protocols should be part of system design as 
+well as operation.  It may be desirable for 
+the systems to provide regular telemetry to 
+the deploying laboratories.  For example, 
+shore-based inspection of near-real-time 
+data from the VOS would allow prompt 
+detection and diagnosis of most foreseeable 
+instrument faults, and would greatly aid on-
+board or “next port call” repair.  Use of 
+satellite phone (Iridium) facilities seems 
+possible and likely to be inexpensive.  
+(Iridium facilities were recently acquired by 
+the U.S. government and are available for 
+qualified scientific applications.) 
+ 
+Expertise to develop and assemble 
+components and software is likely to cost in 
+the order of $100,000.  Initial deployments 
+will require that the systems be accompanied 
+at sea by a technical expert.  This will incur 
+costs for insurance, passage, sea pay, 
+transport home, etc.  This might run to 
+$20,000.  Unanticipated contingencies might 
+cost $30,000.  Thus, both the Ferry Box 
+and Wing Pod could be developed for 
+approximately $250,000 or less.  Second 
+and later copies could be produced for about 
+$150,000 each, perhaps less. 
+ 
+Proposal development 
+ 
+Members of the PICES CPR Advisory Panel 
+will prepare a detailed proposal to develop 
+these VOS systems in the near future.  It is 
+our hope that PICES will take a strong 
+interest in supporting development of the 
+PICES Ferry Box and PICES Wing Pod.  
+The currently active European and Japanese 
+programs for ferry instrumentation show 
+that complex, long-term and frequent data 
+strongly indicative of ecosystem conditions 
+can be generated by VOS programs.  The 
+full extent of the North Pacific can be 
+sampled in this way at very reasonable cost. 
+ 
+Potential funding sources 
+ 
+It is obvious that sources of funding must be 
+identified to develop and sustain VOS data 
+collection in the North Pacific.  The 
+following agencies should be interested in 
+this work: 
+ 
+U.S. NOAA, National Marine Fisheries 
+Service 
+U.S. NOAA and other entities involved in 
+Global Ocean Observing System 
+development 
+U.S. NASA - SeaWIFS, MODIS, EOS and 
+other programs needing comparative 
+sea surface data   
+Fisheries and Oceans Canada 
+Environment Canada 
+Gulf Environmental Monitoring (GEM) 
+program of the Exxon Valdez Oil Spill 
+Trustee Council 
+Sloan Foundation Census of Marine Life 
+Packard Foundation 
+Japan Ministry of Education, Science and 
+Technology (MEXT)  
+Japan Ministry of the Environment (MOE) 
+ 
+Since instrumentation will partly come from 
+small business concerns, it is likely that 
+some support can be obtained from the U.S. 
+Small Business Innovative Research 
+Program.  It is possible that shipping (e.g., 
+Maersk-SeaLand, Columbus Lines, 
+Seaboard International) and ferry (Alaska 
+Marine Highway) companies would assist 
+with costs in return for publicity or 
+shipboard data displays. 
+ 
+Appendix 1 
+Current status of the Pacific CPR program 
+ 
+Sonia D. Batten 
+Sir Alistair Hardy Foundation for Ocean Science, 1, Walker Terrace, The Hoe, Plymouth, UK.  
+PL1 3BN  E-mail:  soba@wpo.nerc.ac.uk 
+ 
+ 
+By the end of 2001, a total of 13 CPR 
+deployments had been made along two 
+transects (Fig 1).  Sampling success was 
+high and processing of selected samples for 
+plankton abundance has now been 
+completed. 
+ 
+Highlights of some of the data analyses were 
+presented at the workshop.  The monthly 
+distribution of the copepods Neocalanus 
+plumchrus/flemingeri (one of the most 
+abundant copepods in surface waters during 
+spring/early summer) along the Alaska to 
+California transect were shown.  A similar 
+pattern was evident in both 2000 and 2001.  
+Highest abundances occurred in May and 
+throughout all months abundances were 
+higher in the central portion of the transect.  
+There was some evidence that the peak 
+distribution had shifted further south in 
+2001.  Stage composition analysis also 
+suggested that development was faster, or 
+occurred earlier, in 2001 than in 2000.  
+ 
+24th June-3rd July 2000
+ 10th-20th June 2001
+2000               2001  
+21
+st
+ –26
+th
+ March      22
+nd
+-27
+th
+ April   
+29
+th
+ April-5
+th
+ May    20
+th
+-25
+th
+ May   
+17
+th
+-22
+nd
+ June         27
+th 
+June-2
+nd
+ July  
+19
+th
+-24
+th
+ July            10
+th
+-16
+th
+ August 
+23
+rd
+-29
+th
+ August      21
+st
+-25
+th
+ September    
+1997 
+21st July-6th August 
+ 
+Fig. 1 Upper panel shows the N/S transect, run 5 times in 2000 and 2001, and once in 1997.  
+Lower panel shows the E/W transect, run once in 2000 and 2001.  Symbols indicate sample 
+positions. 
+Estimates of total mesozooplankton 
+abundance for 1°-latitude bands along the 
+Alaska to California transect showed a 
+recurring peak between about 39-42°N.  The 
+peak was sometimes an order of magnitude 
+higher than the abundances at adjacent 
+latitudes.  Satellite images of chlorophyll 
+concentration (from SeaWiFS) show a 
+region of high chlorophyll on the shelf and 
+extending over the slope, with a noticeable 
+front perpendicular to the coast in this area.  
+It is likely that the peak in abundance 
+coincides with the point at which the CPR 
+transect intersects this front, as it approaches 
+the coast from the open ocean.  
+ 
+A trial sampling of the Alaska to California 
+transect was carried out in summer 1997.  
+Comparisons of abundance for the same 
+periods in 2000 and 2001 show that 
+abundances were much lower, particularly in 
+the open Gulf of Alaska, and in fact at no 
+time in 2000 and 2001 were such high 
+abundances found along the whole transect 
+as in 1997.  The cause may be climate 
+related, since 1997 was an El Niño year and 
+2000/2001 witnessed more normal 
+conditions, however as yet a mechanism 
+remains unclear.  If estimates of biomass 
+prove to be as variable as the abundances, 
+then implications for other trophic levels 
+will be considerable. 
+ 
+Community composition along the single, 
+annual, Vancouver to Japan transect showed 
+that distinct regional variations in 
+community structure exist.  Furthermore, the 
+regional variability appears stronger than the 
+interannual variability, at least in the two 
+years sampled so far.  Further funding 
+should enable the sampling of this transect 
+more frequently in 2002, so that within-year 
+variability can be determined. 
+The Alaska to California transect sampled 
+within, or close to, large (~200 km diameter) 
+anticyclonic eddies that form along the 
+western continental shelf edge in the winter.  
+These eddies are clearly visible in sea 
+surface altimetry maps from TOPEX/ 
+POSEIDON/ERS satellites.  Samples in the 
+region of the eddies contained significant 
+numbers of coastal or shelf-origin plankton 
+taxa.  The oceanic occurrence of these taxa 
+appears to be related to the strength of these 
+eddies, since occurrences on CPR samples 
+were more frequent in 2000, when the eddy 
+was stronger, than in 2001.  
+ 
+To summarise, the data analyses described 
+show that the three years of CPR data 
+(including the trial in 1997) have provided 
+large-scale distribution data for key plankton 
+taxa.  Some information on within year 
+variability is also available, at least for 
+spring through summer.  Interannual 
+changes are already proving to be 
+considerable.  Satellite imagery has proved 
+useful in linking the observed abundances 
+and species distributions with the mesoscale 
+features that may explain them.  
+ 
+Additional funding has been obtained for 
+2002, which will enable further sampling 
+(autumn and winter baseline data can be 
+acquired as well as additional east to west 
+sampling) and further data analyses.  It is 
+also hoped that the CPR program will be 
+supplemented in 2002 by the addition of a 
+thermosalinograph (and fluorometer) to the 
+vessel operating the Alaska to California 
+transect.  A trial Vancouver to Japan transect 
+is also planned which will include a marine 
+bird/cetacean observer on board. 
+ 
+ 
+Appendix 2 
+Marine environmental monitoring using ferries in Japan 
+ 
+Akira Harashima 
+National Institute for Environmental Studies (NIES), 16-2 Onogawa, Tsukuba, Ibaraki 305-8506, 
+Japan.  E-mail:  harashim@nies.go.jp 
+ 
+ 
+Since 1991, NIES has been conducting a 
+marine monitoring program by deploying 
+flow-through equipment on the continuous 
+seawater intake system of the ships of 
+opportunity, to get the temporal/spatial 
+variation of marine environmental variables 
+with high temporal/spatial resolution 
+(Harashima et al. 1997), targeting the 
+detection and the evaluation of 
+anthropogenic impacts to the seas, as well as 
+the development of monitoring techniques.  
+The tracks (Fig. 1) and periods of each leg 
+were:  
+Line-1: Kobe - Seto Inland Sea - Tsushima 
+Strait - Pusan, 1991 - 1993; 
+Line-2: Osaka - Seto Inland Sea - Beppu, 
+1994 - ongoing; 
+Line-3: Osaka - Naha, 1994 - 1998; 
+ 
+We extended this program to the Asian 
+marginal seas by using container ships, 
+whose route was: 
+ 
+Line-4: Japan - Hong Kong - Singapore - 
+Port Kelang.  
+125KE 130KE
+135KE
+140KE
+145KE
+25KN
+30KN
+35KN
+Line 1
+3.
+Line 2
+Line  4
+Line 3, 3'
+Line 1: Ferry "Dan-Noh" ( Pusan - Kobe ) 1991-93
+Line 3 & 3': Ferry "Kuroshio" ( Osaka - Okinawa ) 1994-98
+Line 2: Ferry "Sunflower" ( Seto Inland Sea ) 1994- ongoing  
+Line 4 : Container Ship "Aligator Hope" or "ACX-LILY"  
+                   ( Japan - Hong Kong or Port Kelang )  1997 - 
+Osaka Bay
+Bisan Seto
+Beppu Bay
+KORDI's Line : Ferry "SEMO"  ( Incheon - Cheju )  1998 - 
+KORDI's Line
+ 
+ 
+Fig. 1 Tracks of ferries used for monitoring. 
+One of the technical points worth special 
+mention is that we constructed an opened 
+system that consists of a measurement tank 
+containing several sensors with free water 
+surface in it, and a sampling faucet on a sink 
+on Line-1, 2 and 3, and that we deployed 
+automated filtration samplers to obtain filter 
+papers and filtered water samples to be 
+analyzed in the laboratory on Line-1 and 2, 
+instead of the closed system usually 
+designed for measuring only T, S and in vivo 
+fluorescence.  On Line-4, seawater was 
+sampled manually by the ship crew 
+following an instruction chart showing how 
+to take and filtrate by expendable syringes, 
+fix and reserve the samples for analyzing 
+dissolved inorganic nutrients and 
+phytoplankton community structures.  These 
+setups allowed us to investigate multiple 
+kinds of items such as those described in the 
+following papers by multiple authors 
+compiled in a comprehensive report 
+(Harashima and Kinugi, 2000): 
+ 
+ 
+Paper-1:   Marine environmental monitoring and related studies using ferry boats -
+ Description of the decadal experience and synthesis of the products  
+Paper-2: Technical points in designing and maintaining the unattended marine environmental 
+monitoring system deployed on ferryboats  
+Paper-3: A model ship experiment on the original depth of the seawater taken for the 
+monitoring system deployed on ferryboats  
+Paper-4: Inter-comparison between the ocean color from satellite mapping and the in vivo 
+fluorescence from ferry monitoring 
+Paper-5: Advancement in the online evaluation of the health of the sea and the detection of 
+plankton using ship of opportunity 
+Paper-6: Development of a flow-through measurement of pCO
+2
+ with high time response  
+Paper-7: Temporal/spatial variation of nutrients and silica deficit  
+Paper-8: Method of phytoplankton analysis for evaluation of marine environmental quality 
+Paper-9: Measurement of size spectra of phytoplankton by a bio-particle counter 
+Paper-10: Measurement of biogenic sulfur compounds in the marine environment 
+Paper-11: Observation of the marine environmental change before and after the passage of a 
+typhoon 
+Paper-12: Observation of marine pollution with hazardous chemicals using ferries 
+Paper-13: Monitoring of organo-tin species in seawater of the Seto Inland Sea 
+Paper-14: Comprehensive monitoring of the Seto Inland Sea to detect global change 
+Paper-15: Possibility of a short-term prediction model using biogeochemical data obtained by 
+ferry monitoring 
+ 
+Results of Paper-3 by Ship Research 
+Institute
+ 
+(Hinatsu et al. 2000) showed that 
+the seawater taken into the flow-through 
+system via the inlet comes from near the sea 
+surface even if the inlet is located at around 
+-5 m, because of the lowering of streamlines  
+beside the hull with model ship experiments 
+and CFD (Computational Fluid Dynamics), 
+which is referred to here as one of the basics 
+to evaluate the outcomes from flow-through 
+systems.  
+ 
+ 
+References 
+ 
+Harashima, A. et al. (1997): Monitoring 
+algal blooms and related biogeochemical 
+changes with a flow-through system 
+deployed on ferries in the in Kahru, M. 
+and Brown, C. B. (eds.) Monitoring 
+Algal Blooms – New Techniques for 
+Detecting Large Scale Environmental 
+Change-, 85-112, Springer. 
+ 
+Harashima, A. and Kunugi, M. (Eds.) 
+Comprehensive Report on Marine 
+Environmental Monitoring and Related 
+Studies Using Ferry Boats, 38-45, 
+CGER-Report CGER-M007-2000, 
+Center for Global Environmental 
+Research, National Institute for 
+Environmental Studies, 180pages (in 
+Japanese with abstracts and figure 
+captions in English).  
+ 
+Hinatsu, M. et al. (2000): A model ship 
+experiment on the original depth of the 
+seawater taken for the monitoring 
+system deployed on ferryboats, in 
+Reference
+2)
+, 38-45.  
+ 
+Appendix 3 
+Evaluation of upstream location of sampled water using model ship 
+experiments 
+ 
+Munehiko Hinatsu
+1
+, Yoshiaki Tsukada
+1
+, Yoshimasa Minami
+1
+, Hiroshi Tomita
+1
+ and Akira 
+Harashima
+2 
+1
+ Ship Research Institute, 6-38-1 Shinkawa, Mitaka, Tokyo 181-0004, Japan.  E-mail: 
+hinatsu@srimot.go.jp 
+2 
+National Institute for Environmental Studies, 16-2 Onogawa, Tsukuba, Ibaraki 305-0053, 
+Japan.  E-mail:  harashim@nies.go.jp 
+ 
+ 
+Abstract 
+ 
+In the monitoring of sea healthiness using a 
+voluntary observation ship (hereafter 
+abbreviated as VOS), information of the 
+original depth of sampled water is very 
+important for sampled water analyses.  The 
+objective of the research is to develop a 
+method to estimate the original depth of 
+sampled water.  In order to do that, first of 
+all, we use a model ship experiment.  In the 
+experiment, we inject a dye from the 
+upstream of the ship and pick the water up 
+from the inlet, then the occupation rate of 
+dye in the picked up water is analyzed using 
+a spectrophotometer.  The occupation rate is 
+mapped onto the position of dye injection 
+and will thus show the original location of 
+sampled water as a contour map.  Further, 
+numerical simulation of flow around the 
+ship is done and streamline tracing is carried 
+out.  Thus the water trajectories that pass 
+near the inlet are roughly estimated.  These 
+results agree with the experiment. 
+ 
+Introduction 
+ 
+Recently, the importance of environmental 
+safeguards of the ocean has been 
+recognized, and along this trend, the 
+National Institute for Environmental Studies 
+(NIES) has been carrying out sea healthiness 
+monitoring using VOS, such as container 
+ships and ferry ships, which are operated in 
+Asia and the Seto Inland Sea.  In the 
+monitoring, sampled seawater is obtained 
+through an inlet located on the ship hull.  
+However, in order to evaluate the sea 
+healthiness through the chemical analyses of 
+sampled water, it is important to know the 
+original depth of the sampled water. 
+ 
+This study is related to the experimental 
+estimation of the original upstream location 
+of sampled water which is obtained through 
+an inlet set on the ship hull.   
+ 
+Experiment 
+ 
+In order to evaluate the original location of 
+sampled water, we shed dye tracer from the 
+upstream of the ship and suck water from 
+the inlet hole set on the ship hull.  Sampled 
+water is then analyzed through a 
+spectrophotometer, so the concentration of 
+dye in the sampled water can be determined.  
+The contour map of the concentration of dye 
+contained in the sampled water and the 
+location of the dye shedding position show 
+the original location of sampled water.  
+Figure 1 shows the setup of the experiment.  
+In the study, we used potassium 
+permanganate (KMnO
+4
+) as dye tracer.  Here 
+we name this method the “dye concentration 
+method”. 
+ 
+The 2 m-long model ship used in the 
+experiment is in a training ship hull form, 
+not exactly the same as the VOS hull form, a 
+car ferry ship operating in the Seto Inland 
+Sea - because the hull form of VOS is 
+confidential.  The location of inlet is roughly 
+the same as that set on the VOS, that is 
+22.5% of ship length in front of the A.P. 
+(rudder post) and 52% of draft upper from 
+the bottom.  We also added another inlet at 
+the bottom in the same lengthwise location.  
+ 
+The model ship is towed with the velocities 
+of 0.5 m/sec and 1.377 m/sec.  Sampled 
+water is sucked by a computer-controlled 
+injector.   
+ 
+ 
+ 
+ 
+Fig. 1 Schematic setup of experiment. 
+ 
+ 
+The rate of suction is set to 0.536 ml/sec and 
+the injector and the inlet are connected with 
+the pipe whose inner diameter is 1 mm.  Dye 
+is shed through 3 mm-diameter pipe.  The 
+dye is stored in a container set on the towing 
+carriage of the model ship, and it is shed 
+only by gravitational force.  The outlet of 
+dye is set at 5% of the ship length upstream 
+from the bow (F.P.).  
+ 
+Estimation of ship flow 
+ 
+The flow around the model ship is computed 
+using CFD, and streamlines that start near 
+the bow are simulated as shown in Figure 2.  
+In the figure, we look up the ship from an 
+oblique angle beneath the ship stern.  The 
+tracers shed around the ship bow near the 
+waterplane go down to the bottom around 
+midship, and go up toward the waterplane 
+around the stern.  This is a general trend for 
+ship flows.  Therefore, we can roughly 
+expect that the sampled water sucked from 
+the mid-draft at the stern would originally 
+exist near the waterplane. 
+ 
+Result of experiments 
+Preliminary investigation on dye diffusion 
+ 
+At first, in order to investigate to what 
+extent the dye diffuses, we shed dye and 
+suck it in a uniform flow without the model 
+ship.  The distance between the dye-shed 
+outlet and inlet for dye-suck is set at 1650 
+  
+Fig. 2 Trajectories of streamlines starting 
+from around ship bow. 
+ 
+ 
+Fig. 3a Vertical distribution of diffused 
+dye under uniform flow. 
+ 
+ 
+ 
+Fig. 3b Horizontal distribution of diffused 
+dye under uniform flow. 
+mm, corresponding to the distance between 
+the dye outlet and the inlet set on the hull in 
+the model ship test.  In Figure 3, result of the 
+diffusion is shown.  Here the velocity of 
+uniform flow is 0.5 m/sec and the depth of 
+outlet is 60 mm.  The vertical and horizontal 
+diffusion are shown in Figures 3a and 3b, 
+respectively.  The vertical axis means the 
+ratio of concentration of dye in %.  The area 
+of diffusion can be estimated to be not more 
+than a circle of a 50 mm radius.  
+ 
+Original location of sampled water 
+collected through side inlet 
+ 
+The results are shown in Figures 4 to 7.  
+Figures 4 and 5 show the result at a ship 
+speed of 0.5 m/sec and Figures 6 and 7 are 
+at 1.377 m/sec.  In Figure 4, we show the 
+contour map of the concentration of dye in 
+the sampled water.  The peak point of this 
+map means that we can recover the dye most 
+when the dye is shed from that point.  In 
+other words, we can say that the sampled 
+water must come from around the peak point 
+in all probability. 
+ 
+In the figure, the center of the circle is the 
+gravitational center of the concentration of 
+the dye, and the area of the circle is 
+equivalent to that obtained by dividing the 
+total amount of dye concentration by the 
+maximum value of concentration.  In Figure 
+5, the arrows show the horizontally 
+integrated values of the concentration.  
+Therefore the vertical position of the longest 
+arrow shows the most probable location 
+where the sampled water comes from.  From 
+these figures, we can find out that the 
+sampled water collected at the side inlet 
+mainly exists near the free surface 
+originally.  This result is consistent with the 
+result of CFD. 
+ 
+In case of higher ship speed, the same trend 
+can be obtained as shown in Figures 6 and 7. 
+ 
+ 
+ 
+ 
+ 
+Fig. 4 Contour of percentage of dye in sample water picked up from side inlet (V
+m
+=0.5 m/s, 
+thick line 0.1%, contour interval 0.02%). 
+ 
+ 
+ 
+ 
+Fig. 5 Integrated percentage of dye in sample water along horizontal direction (side inlet, 
+V
+m
+=0.5 m/s). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 6 Contour of percentage of dye in sample water picked up from side inlet (V
+m
+=1.377 m/s, 
+thick line 0.1%, contour interval 0.02%). 
+ 
+ 
+ 
+ 
+Fig. 7 Integrated percentage of dye in sample water along horizontal direction (side inlet, 
+V
+m
+=1.377 m/s). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 8 Contour of percentage of dye in sample water picked up from bottom inlet (V
+m
+=0.5 
+m/s, Thick Line 0.1%, contour interval 0.02%). 
+ 
+ 
+ 
+ 
+Fig. 9 Integrated percentage of dye in sample water along horizontal direction (bottom inlet, 
+V
+m
+=0.5 m/s). 
+ 
+ 
+Original location of sampled water 
+collected through bottom inlet 
+ 
+In Figures 8 and 9, contour maps of the 
+concentration of dye in the sampled water 
+are shown.  The ship speed is 0.5 m/sec in 
+this case.  Since the streamlines starting 
+from under the bulbous bow run beneath the 
+bottom along the symmetry plane of the 
+ship, much more dye is recovered when dye 
+is shed near the bulbous bow.  Further, the 
+contour map is narrower than that in the case 
+of the side inlet.  This trend holds even when 
+the ship speed is higher.  From this, we may 
+say that the inlet to collect sample water 
+should be set on the centerline of the bottom 
+because the original location of sampled 
+water must be much more limited.  
+ 
+Concluding remarks and future work 
+ 
+Through the experiment to estimate the 
+original location of sampled water, we got 
+the following results: 
+1. The original location of sampled water 
+can be estimated quantitatively by use of 
+the “dye concentration method”. 
+ 
+2. When we use the side inlet, mostly water 
+at the depth of 13.1% of draft was 
+recovered.  This depth may correspond 
+to 0.71 m for VOS, although the shape 
+of the model ship hull is different from 
+VOS operating in the Seto Inland Sea.  
+ 
+We still have the following future works to 
+consider: 
+ 
+1. The dependence of Reynolds number on 
+the result must be considered. 
+ 
+2. The development of an estimation 
+method based on CFD technique is also 
+necessary. 
+ 
+3. The effect of ship motion in waves on 
+the result must be evaluated. 
+
+Appendix 4 
+Summary of the operations of the EU FP5 project “Ferry-Box” 
+ 
+David Hydes 
+National Environmental Research Council, Southampton Oceanography Centre, European Way, 
+Empress Dock, Southampton, UK.  SO14 3ZH.  E-mail:  djh@soc.soton.ac.uk 
+ 
+ 
+Introduction 
+ 
+This document briefly outlines the plans of 
+Southampton Oceanography Centre and the 
+European FerryBox consortium, to work 
+with the operators of merchant vessels to 
+install scientific instrumentation onto ferries 
+with the aim of greatly increasing our 
+knowledge and the stability of the marine 
+ecosystem.  It is essential to have the 
+knowledge to be able to separate variability 
+in the marine system from permanent 
+change. 
+ 
+The European FerryBox consortium 
+ 
+The European FerryBox consortium is a 
+group of 11 partners who are working 
+together to develop operational 
+oceanographic products based on data 
+collected from ferries.  They are:  GKSS - 
+Research Centre Geesthacht GmbH, 
+Southampton Oceanography Centre, 
+Netherlands Institute for Sea Research, 
+Finnish Institute of Marine Research, 
+National Centre for Marine Research 
+(Greece), Proudman Oceanographic 
+Laboratory, Norwegian Institute for Water 
+Research, HYDROMOD Scientific 
+Consulting (Germany), Chelsea Instruments 
+(England), Instituto Español de 
+Oceanografía, and Estonian Marine Institute.  
+The consortium combines SMEs, scientific, 
+operational and policy-oriented institutions.  
+By collaborating in the FerryBox project, 
+the partners will be setting about the task of 
+defining the relative variability of important 
+ecosystem components in the whole range of 
+European marine environments.  This will 
+encompass the oligotrophic eastern 
+Mediterranean to hyper-nutrified northern 
+European estuaries, as well as the full range 
+of physical forcing from low (Mediterranean 
+and Baltic) to high tidal mixing (North and 
+Irish Seas), and from low (coastal, Baltic) to 
+high (Mediterranean) salinity waters. 
+ 
+FerryBox routes  
+ 
+The selection of the FerryBox lines (Fig. 1) 
+is based on representing the wide range of 
+European marine systems from oligotrophic 
+to hyper-nutrified, and the large range in 
+hydrodynamic conditions and processes.  
+Each of the routes has end users who will be 
+making use of the products of the FerryBox 
+project. 
+ 
+The main interests of the FerryBox lines are: 
+ 
+R1  Baltic Sea (closed sea) 
+Eutrophication, (blue)-algal blooms, 
+sampling strategy 
+R2  Skagerrak (shelf sea) 
+Validation of satellite data, combination 
+in situ and satellite data (RS)  
+R3  Southern North Sea 
+Nutrient input, eutrophication, algal 
+classification, ground truth 
+R4  Wadden Sea (tidal sea) 
+Water currents, sediment transport 
+R5  Irish Sea (shelf sea) 
+Transport and mixing on western 
+Scottish shelf, algal growth 
+ 
+Fig. 1 Map of routes to be operated in the Ferry-Box project. 
+ 
+ 
+R6  Solent (UK) (estuary) 
+Transport from river to sea, estuarine 
+eutrophication 
+R7  Bay of Biscay (oceanic) 
+Water mass exchange shelf - ocean, 
+range of plankton environments 
+R8  Mediterranean Sea (oligotrophic) 
+Nutrient gradients, upwelling, data 
+assimilation with buoys systems 
+ 
+Definitions:  Operational oceanography, 
+GOOS, EuroGOOS and FerryBox 
+ 
+Operational oceanography is best described 
+by the diagram on the next page (Fig. 2).  It 
+is essentially the systematic and long-term 
+collection of oceanographic data in ways 
+that minimises aliasing in the observations.  
+The data is then fed directly into an 
+established system to provide useful 
+products.  These may be nowcasts of present 
+conditions or it is assimilated into numerical 
+models to produce forecasts.  Such 
+systematic collection of data is essential for 
+distinguishing climate and ecosystem 
+variability from permanent change. 
+ 
+GOOS (Global Ocean Observing System):  
+The aim of the organisations signing up to 
+the GOOS concept is to contribute to 
+establishing a permanent global system for 
+observations, modelling and analysis of 
+marine and ocean variables to support 
+operational ocean services world-wide.   
+ 
+Fig. 2 Elements of operational oceanography. 
+ 
+GOOS will provide accurate descriptions of 
+the present state of the oceans, including 
+living resources;  continuous forecasts of the 
+future conditions of the sea for as far ahead 
+as possible;  and the basis for forecasts of 
+climate change (IOC 1998, IOC 2000). 
+ 
+EuroGOOS is the European division of 
+GOOS.  It is subdivided into action groups.  
+The best developed of these is BalticGOOS 
+which has started work on the strong base of 
+activities co-ordinated by HELCOM.  A 
+MediterraneanGOOS pilot project is 
+underway and a scheme for a North West 
+European Shelf was published in November 
+2001, as the NOOS action plan (Droppert et 
+al., 2000) 
+ 
+FerryBox:  A practical approach to the 
+establishment of cost effectively monitoring 
+systems is the use of ships-of-opportunity to 
+carry sets of scientific instruments (boxes).  
+The most useful data are those which are 
+collected in a regular fashion.  They are 
+easier to interpret and are suitable for 
+assimilation into numerical models.  Ships 
+which travel in this manner are ferries - 
+hence FERRYBOX.  EuroGOOS has 
+highlighted the fact that over 800 ferry 
+routes are operating in European waters. 
+ 
+Aims and objectives of the FerryBox 
+consortium 
+ 
+A serious hindrance to understanding marine 
+systems is the lack of monitoring systems 
+that provide continuous observations.  
+Currently observations mostly lack spatial 
+coverage and temporal resolution required to 
+determine a true view of the state of the 
+marine environment and changes within it.  
+Moves to overcome this problem are being 
+championed world-wide by the GOOS 
+initiative and in Europe by EuroGOOS.   
+ 
+The FerryBox consortium plans to show 
+how ferries can be used for automatic high 
+quality measurements of environmentally 
+important parameters.  Emphasis is on the 
+comparability of the data, and on the use of 
+data to solve scientific and applied 
+problems.  The main problems that will be 
+addressed in the first stage are 
+eutrophication and its effects on water 
+quality, and water and sediment transport.  It 
+will show that the accuracy of prognostic 
+numerical models (such as those predicting 
+storm surge) can be improved by 
+assimilation of FerryBox data.  It will 
+demonstrate the reliability of the system for 
+monitoring at all times of year, and the 
+potential for improving management of 
+European waters of different oceanographic 
+character.  It will recommend to the 
+European marine community how future 
+FerryBoxes can be operated and show the 
+benefits to operational services of additional 
+sensors, enhanced coverage and information 
+density.  It offers opportunities for the 
+European marine industry to exploit. 
+ 
+The project will demonstrate that ship-borne 
+instrumentation packages (FerryBoxes) can 
+cost effectively deliver information of 
+immediate scientific value, based on a co-
+ordinated approach and the development of 
+standardisation procedures.  It will quantify 
+environmental variability on a European-
+wide scale and improve understanding of 
+water quality-related processes, specifically 
+eutrophication, transport of water sediments 
+and contaminants. 
+ 
+Programme of work 
+ 
+A key element of the GOOS approach is that 
+data is easily and rapidly available after 
+collection to the user community whether 
+they are scientists, managers or the general 
+public.  Data are worthless if their quality 
+are unknown.  Therefore before the partners 
+exchange data, all partners will collaborate 
+on developing a standard scheme for 
+validating the accuracy and precision of all 
+data that is used in the FerryBox project, 
+both from Ferry Boxes, other collection 
+methods or archived records.  It is important 
+that FerryBox data are data “that can stand 
+the test of time”.  We will set up the 
+procedures for the rapid exchange of data 
+that is accompanied by all the appropriate 
+meta-data.  This will be web based and use 
+“Marine XML”. 
+ 
+We will concentrate on 3 scientific areas 
+relevant to issues of water quality, 
+ecosystem dynamics and climate variability 
+and change.  These will be: 
+ 
+1. Eutrophication including plankton 
+productivity and variability in 
+productivity in relation to physical and 
+bio-geochemical constraints.  
+2. Transport of sediments (and associated 
+contaminants) over long and short 
+spatial and temporal scales.  
+ 
+3. Determination of the stability and 
+transport of water masses in the 
+Mediterranean, Baltic, and on and 
+adjacent to the Western European shelf.  
+ 
+The work will be based on analysis of 
+FerryBox data in conjunction with other 
+time series data in adjacent waters, including 
+remote sensing observations where this 
+exists by:  (i) statistical presentation of the 
+data, and (ii) recognition of patterns in the 
+data which test our hypotheses about 
+specific processes.   
+ 
+There will be emphasis on the quantification 
+of horizontal gradients and their variability 
+in space and time, and on seasonal variations 
+and events.  The latter in particular, for 
+instance, blooms or the effects of storms / 
+high river discharges, have not in general 
+been adequately sampled.   
+ 
+An important aspect of the GOOS initiative 
+is the development of prognostic numerical 
+models for marine systems, that can be run 
+using the assimilation of observations to 
+improve their accuracy as is the practice in 
+weather forecasts.  Work on numerical 
+models will involve experiments in data-
+assimilation of FerryBox data into existing 
+models, to produce recommendations on the 
+strengths and weaknesses of assimilation 
+schemes and their benefits.  In addition, 
+coupled hydrodynamic-biological models 
+will be used in studies to explore 
+interactions between processes (e.g. spring-
+neap tidal modulation of coastal plume 
+stratification; algal blooms triggered by 
+mixing events), and enhance the 
+interpretative studies carried out  by direct 
+data analysis. 
+ 
+Advances expected from the FerryBox 
+project 
+ 
+Major advances 
+1. The project will move of the study of 
+water quality issues from national efforts to 
+a truly pan-European effort.  The FerryBox 
+project will demonstrate the feasibility of, 
+and provide the basis for, a trans-European 
+operational co-operative network of 
+operators and end-users.  This is a very 
+major advance.  For the first time, data free 
+from the aliasing inherent in normal 
+infrequent spot surveys will be replaced by 
+high frequency data of known comparability 
+across European waters. 
+ 
+2. A Europe-wide assessment of variability 
+in process relating to eutrophication, water, 
+sediment and contaminant transport will be 
+done.  This will provide a baseline against 
+which future and past changes in ecosystem 
+stability can be judged. 
+ 
+3. The accuracy of pre-operational models 
+will be improved by the assimilation of 
+FerryBox data.  Improved scientific 
+understanding of processes (particularly 
+eutrophication, sediment resuspension and 
+water mass mixing) will be derived through 
+the use of a combination of data analysis and 
+process modelling. 
+ 
+Examples of other advances 
+ 
+1. Demonstration of the benefits of being 
+able to link FerryBox data (which gives 
+wide area and detailed cover) to existing less 
+frequent time series measurements. 
+ 
+2. Detailed measurement of sediment 
+transport in relation to water flow and 
+forcing by weather (storms). 
+ 
+3. Measurement of production and biomass 
+in a range of environments - near shore 
+plumes, open waters and at fronts, effects of 
+storm stirring. 
+ 
+4. Contribution to the development of 
+Ecological Quality objectives for 
+eutrophication (EEA, OSPAR). 
+ 
+5. Database for a pilot project for the North 
+Sea on the Ecosystem approach to Fisheries 
+management (under the guidance of ICES, 
+IOC and EuroGOOS). 
+ 
+6. An effective system for calibration and 
+verification of Ferry-Box and related data, 
+and recommendations for maintenance anti-
+fouling procedures. 
+ 
+7. An effective procedure for the rapid 
+transfer of meta-data and quality controlled 
+data using a web based approach. 
+ 
+Forward look 
+ 
+In addition to its value in supporting the 
+development of prognostic models, the 
+future expansion of the FerryBox concept 
+has two natural developments.  Firstly, an 
+increase in the numberof routes operated.  
+New routes will arise from user (scientific 
+and management) requirements for 
+additional data.  Experience gained in the 
+FerryBox project will enable the choice of 
+future routes to be optimised.  Secondly, an 
+increase in the number of standard variables 
+measured.  A range of new sensors have and 
+are being developed, some of which, e.g. 
+sensors for O
+2
+, CO
+2
+, nutrients and active 
+fluorescence, will be tested by FerryBox 
+operators during this project.  Future 
+applications will be determined by the type 
+of information needed by the data users.  
+Water quality managers within the EU water 
+framework directive might be expected to 
+require measurements of nutrients and 
+dissolved oxygen in waters which are, or are 
+potentially, eutrophic.  A combination of 
+measurements of plankton productivity and 
+algal type may enable harmful algal blooms 
+to be forecast.   
+ 
+Southampton Oceanography Centre’s 
+(SOC) first FerryBox operation:  
+Southampton-Isle of Wight Ferry on the 
+Red Funnel - Red Falcon 
+ 
+FerryBoxes are packages of instruments 
+(Boxes) mounted in the engine rooms of 
+merchant ships working regular routes 
+(mostly ferries).  They sub-sample the ships’ 
+cooling water intake.  Standard 
+measurements on a number of European 
+FerryBoxes are temperature, salinity, 
+transmission (clarity/suspended solids), and 
+chlorophyll-fluorescence (plankton).  These 
+are the instruments on the SOC’s first 
+FerryBox installed in 1999, on the Red 
+Funnel Group ferry the Red Falcon.  The 
+purpose of this system is to provide detailed 
+monitoring of the growth of plankton in 
+Southampton Water and the Solent.  A big 
+question mark against many scientific 
+findings is - were enough observations made 
+for the data to represent the true situation?  
+This is a common problem in oceanography 
+where the costs of using purpose built 
+research vessels to gather data are very high.  
+The FerryBox systems can provide a cost-
+effective solution to this problem.  We can 
+now see when plankton really grows in 
+Southampton Water gather than having to 
+gathering data when we think it might in 
+growing. 
+ 
+Relatively calm water, plentiful sunlight and 
+supplies of dissolved nitrogen compounds 
+and phosphate in the water are essential for 
+the growth of plankton.  The Southampton 
+water system receives large loads of the 
+essential chemical nutrients for plant growth 
+nitrogen and phosphorus from run off of 
+agricultural fertilisers and from discharges 
+from sewage works.  The Southampton 
+Water/Solent system is hypernutrified but it 
+is debatable at the moment whether or not 
+the system is “eutrophic”.   Eutrophic is a 
+term that implies that the ecosystem is being 
+damaged by an excessive supply of 
+nutrients.  Signs of “eutrophication” (very 
+noticeable prolonged blooms of plankton 
+and reduced concentration of oxygen in the 
+water) were seen in the 1980’s but have not 
+occurred recently.  
+ 
+Data from the Red Falcon are being used to 
+look in greater detail than has previously 
+been possible, at how the growth of plankton 
+in the spring and summer is controlled by 
+the complex relationships between sunlight, 
+concentrations of nutrients and the tidal 
+energy of the system, that controls the rate at 
+which growing colonies of plankton are 
+stirred up and dispersed.  The FerryBox data 
+show that plankton growth starts in late 
+spring in the less tidally stirred and clearer 
+waters of the Solent.  The first bloom will 
+occur when good weather at this time of 
+year coincides with neap tidal conditions.  
+Then throughout the summer into 
+September, significant accumulations of 
+plankton will occur during neap tides.  In 
+exceptional circumstance of good weather, 
+plankton will continue to accumulate more 
+quickly than they are dispersed during a 
+spring tide.  The area of the estuary affected 
+moves into Southampton Water in the 
+summer towards the source of nutrients 
+being supplied by the rivers. 
+ 
+Southampton Oceanography Centre’s 
+second FerryBox operation:  Portsmouth 
+to Bilbao on the P&O European Ferries - 
+Pride of Bilbao 
+ 
+In April 2002, SOC started running a second 
+FerryBox on the P&O European Ferry’s 
+vessel, the Pride of Bilbao.  This ferry 
+operates all year round between Portsmouth  
+ 
+and Bilboa.  It will link the observations we 
+are now making in Southampton Water to 
+the Atlantic Ocean - the source of the high 
+salinity waters in the English Channel.  The 
+wealth of data that will be collected on the 
+ferry has the potential to improve our 
+understanding of a wide range of 
+oceanographic processes occurring in the 
+Atlantic Ocean and the English Channel.  An 
+important objective is to set up a durable, 
+reliable and cost effective system that will 
+have a sufficiently long life to provide 
+baseline information on the influence of 
+climatic variability through the region. 
+ 
+Scientific tasks of the Portsmouth Bilboa 
+Ferry Box extend from the local to the 
+global.  They include:  
+ 
+Local  
+null Dispersion of sediments, nutrients 
+and other contaminants from the 
+Solent into the English Channel. 
+null The occurrence and movement of 
+plankton blooms between open 
+channel waters and the Solent. 
+ 
+Wider area 
+null Scaling of the patchiness of plankton 
+blooms in regions with different 
+hydrographic characteristics along 
+the route.  Including the influence of 
+fronts in maintaining blooms. 
+null Scaling of the frequency and 
+intensity of the features related to 
+internal waves. 
+null Assessment of the transport of water 
+masses from the shelf break into the 
+English Channel, and the control of 
+transport processes on the supply of 
+nutrients from the Atlantic Ocean 
+into shelf sea waters. 
+ 
+ 
+Global 
+Study of the winter mixing processes which: 
+null Transfer heat from the oceans. 
+null Control the amount of nutrients in 
+the surface layer of the ocean 
+controlling the productivity of the 
+spring bloom and the draw down of 
+carbon. 
+null Provide the nutrient supply to shelf 
+waters. 
+ 
+Technical development associated with 
+the SOC FerryBoxes 
+ 
+Technical development associated with the 
+SOC FerryBoxes include: 
+ 
+1. Rapid ship-to-shore communication of 
+data from ship to shore so that it can be used 
+operationally in numerical models and for 
+guiding detailed sampling by research ships. 
+ 
+2. Extension of the analyses performed 
+automatically to include surveying of 
+biologically produced green house gasses.  A 
+major problem in assessing the role of these 
+gasses in global warming is a lack of 
+knowledge about variability through the 
+year of their production rates in the oceans. 
+ 
+3. Use of advanced fluorometric techniques 
+to gather physiological information about 
+plankton.  On the base of which blooms may 
+be predicted and detailed estimates of the 
+variation in productivity can be made. 
+ 
+References 
+ 
+Droppert, L.J., Cattle, H., Stel, J.H. Behrens 
+H.W.A. (eds) 2000. “The NOOS Plan: 
+North West Shelf Operational 
+Oceanographic System, 2002-2006”.  
+EuroGOOS Publication No.18, 
+Southampton Oceanography Centre, 
+Southampton. ISBN 0-904175-46-4. 
+IOC, 1998.  The GOOS 1998 Prospectus.  
+IOC, Paris, 168pp 
+IOC, 2000.  The Strategic Design Plan for 
+the coastal Component of GOOS.  
+GOOS Report 90, IOC, Paris. 
+ 
+Details of EU FerryBox project routes 
+(The numbering follows the map on Figure 
+1.) 
+ 
+R1 Routes of the FIMR (Finland) Algaline 
+project 
+ 
+FerryBox measurements have been made 
+operationally by FIMR since 1992.  The 
+Algaline project has three sets of FerryBox 
+equipment on merchant ships and one on a 
+Coast Guard vessel.  FerryBoxes are run in 
+co-operation with other research institutes.  
+Algaline (FIMR) is co-ordinating the 
+project.  Each institute is responsible for the 
+maintenance of a given system, practical 
+work and laboratory analyses.  FIMR 
+provides help on technical problems.  The 
+equipment is owned chiefly by FIMR and by 
+the other institutes. 
+ 
+The amount of data collected on the ferries 
+in the framework of Algaline project is large 
+(1.5 million observations annually).  Data is 
+quality controlled and inter-calibrated 
+annually within the project. 
+ 
+On the ships, salinity, temperature and 
+chlorophyll-a fluorescence are measured at 
+ca. 5 m depth and in ca. 100 m intervals.  
+The samples are considered to represent the 
+upper layer. 
+ 
+Route:  Helsinki-Travemunde 
+Ship:  cargo ship Finnpartner 
+Responsible institute:  FIMR 
+Parameters measured onboard:  S, T, Chl-a 
+fluorescence 
+Lab analyses:  Phytoplankton species, Chl-a, 
+nutrients (PO
+4
+, NO
+3
+, NH
+4
+, Si, Total P, 
+Total N) 
+ 
+Route:  Helsinki-Stockholm 
+Ship:  passenger ship Silja Serenade 
+Responsible institute:  Uusimaa Regional 
+Environment Centre, Finland 
+Parameters measured onboard:  S, T, Chl-a 
+fluorescence 
+Lab analyses:  Chl-a, nutrients (PO
+4
+, NO
+3
+, 
+NH
+4
+, Si, Total P, Total N), turbidity, 
+phytoplankton species from some 
+samples 
+ 
+Route:  Helsinki-Tallinn-Rostock-Tallinn-
+Helsinki (samples taken between Tallinn 
+and Helsinki) 
+Ship:  passenger ship Finnjet 
+Responsible institutes:  City of Helsinki 
+Environment Centre, and Finland, 
+Estonian Marine Institute 
+(phytoplankton analyses) 
+Parameters measured onboard:  S, T, Chl-a 
+fluorescence 
+Lab analyses:  Phytoplankton species, Chl-a, 
+nutrients (PO
+4
+, NO
+3
+, NH
+4
+, Si, Total P, 
+Total N), turbidity 
+ 
+Route:  Archipelago Sea (2001 first year of 
+measurements, good data from two months) 
+Ship:  Finnish Coast Guard vessel Telkkä 
+Responsible institute:  Southwest Finland 
+Regional Environment Centre 
+Parameters measured onboard:  S, T, Chl-a 
+fluorescence  
+Lab analyses:  Chl-a 
+ 
+Potential operations 
+Southeast Finland Regional Environment 
+Centre is in the project and has FerryBox 
+equipment, but does not have them on a 
+ship.  Was used on a route in the Eastern 
+Gulf of Finland, and they are trying to find a 
+new ship. 
+ 
+West Finland Regional Environment Centre 
+is also in the project and has FerryBox 
+equipment but no ship at present.  They will 
+receive EU-Life “Bothnian Bay Project” 
+funding for three years starting 2002, this 
+should be enough to set up a new route in 
+the Gulf of Bothnia.  Equipment was bought 
+to the Environmental Centre by local 
+industrial companies. 
+ 
+Zooplankton 
+FIMR tested a traditional CPR in 
+zooplankton monitoring on the route Hanko-
+Lubeck in years 1998-1999.  In 2001, the 
+shipping company Transfennica bought a 
+traditional CPR to FIMR.  It will be used on 
+the route Lubeck-Hanko or Trelleborg-
+Hanko starting 2002.  The ship crew can 
+operate the CPR, but one scientist or 
+technical assistant has to take care of the 
+maintenance and get the samples.  The goal 
+is to have operational zooplankton 
+monitoring, which Juha Flinkman is 
+developing.  Additionally, U-tow is used on 
+the research vessel Aranda.  From 2000 and 
+2001, there is data on vertical distribution of 
+zooplankton in several sea regions of the 
+Baltic. 
+ 
+Uses and dissemination 
+Data are used for monitoring and 
+assessments, scientific projects, calibration 
+and verification of models, and for 
+interpreting satellite images.  Quick 
+dissemination of information on  HABs and 
+phytoplankton species in general to the 
+public via faxes, Internet etc., has been very 
+important.  Results are presented on the 
+Internet in four languages (Finnish, 
+Swedish, English and Estonian) on the web 
+site made in co-operation with several 
+research institutes (for details see 
+http://meri.fimr.fi).  Web site will be 
+renewed in spring 2002. 
+ 
+Linked operations 
+FIMR has co-operation with Finnish Coast 
+Guard.  In addition to the flow-through 
+system onboard Telkkä, CTD measurements 
+are made and samples for oxygen 
+concentration analysis are taken in the Gulf 
+of Finland on guard ship Merikarhu.  
+Additionally, Coast Guard pilots and crew 
+of several guard ships make visual 
+observations of algal blooms.  Visual 
+observations of algal blooms are also made 
+by the crew of Transfennica cargo ships.  At 
+FIMR, the Ice Service takes care of sea 
+surface temperature measurements using 
+hull thermometers in cargo ships. 
+ 
+Contact: 
+Phytoplankton:  Johanna Argillander and 
+Algaline group (E-mail:  
+algaline@fimr.fi) 
+Zooplankton: Juha Flinkman (E-mail:  
+juha.flinkman@fimr.fi) 
+http://meri.fimr.fi 
+http://meri.fimr.fi/Algaline/eng/EnPublicAlg
+alineDB.nsf/ByMeasurementParameter/
+52A9CE436C3D8969C22567A1003A4
+4F7?OpenDocument 
+http://meri.fimr.fi/Algaline/eng/EnPublicAlg
+alineDB.nsf/cdee4ceb7a446ce6c22565d
+0003d850e/02ebb944bbb8479ac22567eb
+0034e8e2?OpenDocument 
+ 
+ 
+R2 Norwegian Institute for Water 
+Research (Norway) 
+ 
+Route:  Oslo (Norway) to Hirtshals 
+(Denmark) 
+Ship:  Color line Color Festival 
+First installed September 2001. 
+Measurements continuous since start 
+(approx.). 
+Journey time:  8-12 hours;  Oslo-Hirtshals 
+18:30 - 7:00 (night), return 9:00 -17:00 
+(day). 
+Measurements:  T and S (Seabird), turbidity 
+and chlorophyll-fluorescence (Seapoint), 
+light (PAR) (Li-Cor).   
+Logging interval is 1 per minute.  Remote 
+data transfer continuous over satellite 
+link (Internet)  (1 obs./minute). 
+Instrument control:  about 1 per week.  
+Calibration interval is not decided yet 
+(testing). 
+Automatic water sampler (ISCO) released at 
+pre-installed waypoints and is used for 
+control measurements and sampling of 
+phytoplankton and nutrients etc. 
+ 
+Purpose 
+Constructing and testing the system.  Use it 
+in combination with satellite observations 
+(calibration of sensors).  Explore the system 
+as an early warning system for toxic algae 
+blooms. 
+ 
+Contact 
+Project leader:  Jan Magnusson (E-mail:  
+jan.magnusson@niva.no) 
+Co-operator:  Kai Sørensen (E-mail:  
+(kai.sorensen@niva.no) 
+http://www.niva.no 
+ 
+ 
+R3 GKSS – Research Centre Geesthacht 
+GmbH (Germany) 
+ 
+Route:  Cuxhaven (D) to Harwich (GB) 
+(before March 2002 from Hamburg to 
+Harwich)  
+Ship:  Scandinavian Seaways (Copenhagen, 
+DK) Admiral of Scandinavia 
+First on installed November 2001  
+Journey time:  16h 45min (600 km) (before 
+March 2002 - 20h (700 km)).  3-4 return 
+voyages per week.  Measurement season 
+year around. 
+Measurements:  T and S (FSI; USA), 
+turbidity (Endress&Hauser; D + 
+Turner;USA), pH and O
+2
+ 
+(Endress&Hauser; D), fluorescence 
+(Turner; USA) 
+Algae Classes (bbe; D), NO
+3
+, NH
+4
+, PO
+4
+, 
+SiO
+2
+ (pump photometer: ME; D), NO
+3
+ 
+(UV detection; TRIOS; D) 
+Measurement rate 0.1 Hz (exception 
+nutrients: 10-15 min time interval).  
+Logged on board, remote control and 
+download (several times per week) by 
+cell phone link 
+Special features:  Automatic start/stop of the 
+system controlled by GPS position, 
+extensive  cleaning procedures (after 
+each voyage: high pressure flushing of 
+certain  sensors (O
+2
+, pH, fluorometer) 
+and flushing with acidified water of the 
+whole  system), storage of housekeeping 
+data (pressure, flow rates etc.)  
+Instruments serviced:  1 per week and 
+calibration samples collected. 
+ 
+Purpose  
+Monitoring of nutrient load, algae blooms 
+(including algae classes) in the southern 
+North Sea, validation of remote sensing 
+(ENVISAT), calibration of ecological 
+models 
+ 
+Developments in 2002 
+Check and improvement of algorithms for 
+algae classes and calibration with laboratory 
+measurements, test of UV-NO
+3
+ detection, 
+test of long time stability, optimisation of 
+maintenance intervals 
+ 
+Contact  
+Wilhelm Petersen (E-mail:  
+wilhelm.petersen@gkss.de) 
+Friedhelm Schroeder (E-mail:  
+friedhelm.schroeder@gkss.de) 
+http://www.gkss.de 
+http://coast.gkss.de/projects/ferrybox/ 
+ 
+ 
+ 
+R4 Netherlands Institute for Sea Research 
+(The Netherlands) 
+ 
+Route:  Texel (Wadden Sea island) to den 
+Helder (mainland of the Netherlands)  
+Ship:  TESO ferry Schulpengat (since 1998) 
+Distance:  4 km 
+Travel time:  15 minutes;  Ferry runs from 
+06.00 am to 22.00 pm, each 30 minutes, 
+thus 30 transects per day 
+Sensors in a throughflow system measure 
+temperature, salinity and fluorescence at 
+1Hz 
+ADCP attached near the keel measures 
+currents and echo-intensity with a 
+frequency of 2 Hz 
+Data are transferred to the nearby research 
+institute by telemetry each time when the 
+ferry is in the harbour on Texel. 
+Data are directly shown to the public on a 
+screen in the passenger lounge 
+ 
+Contact 
+Logistic manager:  Theo Hillebrand (E-mail:  
+hill@nioz.nl) 
+Software manager:  Frans Eijgenraam  
+(E-mail:  eijg@nioz.nl) 
+Scientist in charge:  Herman Ridderinkhof  
+(E-mail:  rid@nioz.nl) 
+http://www.nioz.nl/en/deps/fys/niozteso/enht
+ml/niozteso.html 
+http://www.nioz.nl/en/deps/fys/niozteso/enht
+ml/results.html 
+ 
+ 
+R5 Proudman Oceanographic Laboratory 
+(Liverpool, UK) 
+ 
+Plans for 2002/3 
+Route:  Liverpool – Douglas (Isle of Man)  
+Ship:  Isle of Man Steam Packet Company 
+Lady of Mann 
+Winter months only  (October - March) 
+Journey time:  4 hours, twice per day, 5 days 
+a week (not mid-week) 
+Instruments:  Idronaut CTD, Sea-Point 
+turbidity and Chelsea Instruments 
+MINItracka II fluorimeter & Flow rate 
+monitor. 
+Status of equipment - being installed 
+ 
+Plan to transmit data (+GPS) by GSM phone 
+/ Iridium, instrument a Sea-Cat, measure 
+nutrients. 
+ 
+Purpose  
+Monitoring of blooms and Mersey plume in 
+the eastern Irish Sea 
+ 
+Contact 
+Scientist in charge:  John Howarth (E-mail:  
+mjh@pol.ac.uk) 
+http://www.pol.ac.uk 
+ 
+ 
+R6 Southampton Oceanography Centre 
+(UK) 
+ 
+Route:  Southampton to Cowes (Isle of 
+Wight) 
+Ship:  Red Funnel Lines Red Falcon 
+First installed on April 1999 
+Measurement season:  April to October 
+Journey time:  1 hour (17 miles), up to 8 
+return voyages per day.  
+Measurements:  Temperature, conductivity, 
+and turbidity (pressure to check flow in 
+system) (WS Ocean Systems UMI data 
+sonde), Chlorophyll-fluorescence (CI 
+Aquatraka) 
+Measurement rate:  1 Hz logged on board 
+down loaded weekly 
+Remote data transfer:  Sample of data 
+averaged for 1 minute sent ashore by cell 
+phone link at 15-minute intervals 
+Instruments serviced:  1 per week and 
+calibration samples collected 
+ 
+Plan to extend measurements to nitrate using 
+solid state UV based method. 
+ 
+Purpose  
+Monitoring of intensity, timing and duration 
+of algal blooms in a hyper-nutrified estuary  
+ 
+Contact 
+System manager:  Susan Hartman (E-mail:  
+suh@soc.soton.ac.uk) 
+http://soc.soton.ac.uk 
+http://www.soc.soton.ac.uk/GDD/Sonus/ani
+mation.htm 
+ 
+ 
+R7 Southampton Oceanography Centre 
+(UK) with Instituto Español de 
+Oceanografía Santander, Spain 
+ 
+Routes:  Portsmouth (UK) – Bilbao (Spain) 
+(& Portsmouth - Cherbourg) 
+Ship:  P & O Eurpean Ferries Ltd Pride of 
+Bilbao 
+Installed 12 April 2002 
+Measurement season:  year round except 
+January when ship in refit 
+Journey time:  Portsmouth – Bilbao - 34 
+hours, 2 per week;  Portsmouth – 
+Cherbourg - 10 hours, 1 per week 
+Measurements:  Temperature, conductivity, 
+Chlorophyll fluorescence (Chelsea 
+Instruments Mini-Pack), water flow, 
+turbidity (from May 2002) 
+Measurement rate:  1 Hz logged on board 
+down loaded weekly 
+Remote data transfer and control:  Data will 
+be transferred to shore using an 
+ORBCOMM satellite link.  The effective 
+data transfer rate will depend on the 
+efficiency of connection to the satellites 
+and will only be known when the system 
+is operational.  The interface unit being 
+developed will allow remote control of 
+the instruments – (remote re-boot and 
+changes in sampling rates) 
+Instruments serviced:  1 per week and 
+calibration samples collected 
+In 2002, samples for nutrients and 
+chlorophyll will be collected manually on 1 
+crossing per month. 
+ 
+Plan to extend measurements to nitrate using 
+solid state UV based method. 
+ 
+Purpose  
+Monitoring of intensity, timing and duration 
+of algal blooms, detailed observations of 
+mixing events particularly in winter and 
+“up-welling” at shelf break front in summer.  
+Ground truthing of satellite observations of 
+frontal features and changes in “bio-mass”.  
+Estimation of events producing significant 
+water movement on shelf and the through 
+the English Channel.   
+ 
+Developments in 2002 
+Development of data interface and satellite 
+communications 
+Testing of use of a Fast Repetition Rate 
+Fluorimeter (Chelsea Instruments 
+Fasttraka) 
+Work on autonomous (wet chemical) 
+nutrient measurements 
+ 
+Contact 
+Scientist in change:  David Hydes (E-mail:  
+djh@soc.soton.ac.uk) 
+Data manager:  Susan Hartman (E-mail:  
+suh@soc.soton.ac.uk) 
+Control system developments:  Nick Crisp  
+(E-mail:  ncr@soc.soton.ac.uk) 
+Satellite communications:  Jon Campbell  
+(E-mail:  joc@soc.soton.ac.uk) 
+ 
+Pride of Bilbao section will be 
+complemented by monthly surveys along the 
+Northern Iberian Shelf.  
+ 
+Scientists in chage:  Alicia Lavin and César 
+González-Pola (Spain) (E-mail:  
+Cesar.Pola@gi.ieo.es) 
+ 
+R.V. José Rioja. Instituto Español de 
+Oceanografía (Santander, SPAIN). 
+ 
+To be installed spring-early summer 2002. 
+Monthly track along coast and three 
+standard perpendicular to coast sections. 
+ 
+Route:  Santander-Gijón-Cudillero (~260 
+km) 
+Measurements:  Temperature and 
+conductivity (SBE21), Chlorophyll-
+fluorescence and spectral algae class 
+determination (Bbe Fluoroprobe, 
+Moldaenke) 
+Data will be downloaded monthly when 
+finishing the cruises (no real time data 
+transmission ). 
+ 
+Purpose 
+Study physical features at the southern Bay 
+of Biscay (thermohaline fronts due to 
+upwelling processes, runoff, poleward 
+winter current, eddies shedding, etc.) and 
+also algal monitoring. 
+ 
+ 
+R8 National Centre for Marine Research 
+(Greece) 
+ 
+Route:  Athens – Heraklion (Crete)  
+Ship:  Minoan Lines  
+Scheduled for mid-2003  
+Journey time:  9 hours (160 miles)  
+Measurements:  Temperature, conductivity, 
+turbidity, Chlorophyll-fluorescence  
+Measurement rate:  1 Hz logged on board 
+down loaded weekly.  Cell-phone data 
+telemetry 
+Instruments serviced:  1 per week and 
+calibration samples collected.  
+ 
+Contact 
+Scientists in charge:  Haris Kontoyiannis 
+(hk@ncmr.gr) and Kostas Nittis 
+(knittis@ncmr.gr)  
+http://www.ncmr.gr 
+Other associated routes 
+ 
+Route:  Kiel-Oslo by FTZ - Universitaet 
+Kiel (Buesum, Germany) 
+Using “Blue Box” system developed with 
+Go-Systems gmbh 
+http://www.go-sys.de/start/start_englisch. 
+htm 
+Includes development of algal species 
+monitor 
+Contact:  K. H. Vanselow (E-mail:  
+vanselow@ftz-west.uni-kiel.de) 
+ 
+EU Cavasoo project 
+Development of CO
+2
+ monitoring systems on 
+4 trans Atlantic routes 
+http://envsol.env.uea.ac.uk/temp/tracer/e072
+/welcome.htm
+ 
+Appendix 5  
+ 
+List of participants 
+ 
+Canada 
+ 
+Mackas, David L. 
+Fisheries & Oceans Canada 
+Institute of Ocean Sciences 
+P.O. Box 6000, 
+Sidney, B.C., V8L 4B2, Canada 
+MackasD@pac.dfo-mpo.gc.ca 
+ 
+Welch, David W. 
+Fisheries & Oceans Canada 
+Pacific Biological Station 
+3190 Hammond Bay Road, 
+Nanaimo, B.C., V9T 6N7, Canada 
+WelchD@pac.dfo-mpo.gc.ca 
+ 
+Japan 
+ 
+Harashima, Akira 
+National Institute for Environmental Studies 
+Water & Soil Environment Dept. 
+16-2 Onogawa, 
+Tsukuba, Ibaraki, 305-8506, Japan 
+harashima@nies.go.jp 
+Saitoh, Sei-ichi 
+Hokkaido University 
+Graduate School of Fisheries Sciences 
+3-1-1 Minato-cho 
+Hakodate, Hokkaido, 041-8611, Japan 
+ssaitoh@salmon.fish.hokudai.ac.jp 
+ 
+ 
+U.S.A. 
+ 
+Cutchin, David 
+7533 Draper Avenue, 
+La Jolla, CA  92037, U.S.A. 
+dcutchin@ucsd.edu 
+ 
+Decker, Bob 
+NOAA 
+AOML/OAR/PHOD 
+7600 Sand Point Way NE, 
+Seattle, WA  98115, U.S.A. 
+Bob.Decker@noaa.gov 
+ 
+Letelier, Ricardo 
+Oregon State University 
+College of Oceanic & Atmospheric Sciences 
+104 Ocean Administration Building, 
+Corvallis, OR  97331-5503, U.S.A. 
+letelier@coas.oregonstate.edu 
+ 
+ 
+Miller, Charles B. 
+Oregon State University 
+College of Oceanic & Atmospheric Sciences 
+Oceanography Administration Bldg., 
+Corvallis, OR  97331-5503, U.S.A. 
+cmiller@coas.oregonstate.edu 
+ 
+Mundy, Phillip R. 
+Science Coordinator, 
+Exxon Valdez Oil Spill Trustee Council 
+441 West 5th Avenue, Suite 500, 
+Anchorage, AK  99501-2340, U.S.A. 
+phil_mundy@oilspill.state.ak.us 
+ 
+Napp, Jeffrey M. 
+National Marine Fisheries Service 
+Alaska Fisheries Science Center 
+7600 Sand Point Way NE, 
+Seattle, WA  98115-6349, U.S.A. 
+Jeff.Napp@noaa.gov 
+Wooster, Warren S. 
+School of Marine Affairs 
+University of Washington 
+3707 Brooklyn Avenue, 
+Seattle, WA  98105-6715, U.S.A. 
+wooster@u.washington.edu 
+ 
+Zaneveld, Ron 
+Oregon State University 
+College of Oceanic & Atmospheric 
+104 Ocean Administration Building, 
+Corvallis, OR  97331-5503, U.S.A. 
+zaneveld@coas.oregonstate.edu 
+ 
+ 
+United Kingdom 
+ 
+Batten, Sonia D. 
+Sir Alister Hardy Foundation for Ocean 
+Science 
+1 Walker Terrace, The Hoe, 
+Plymouth, PL1 3BN, United Kingdom 
+soba@mail.pml.ac.uk 
+ 
+Hydes, David 
+Southampton Oceanography Centre 
+Empress Dock, 
+Southampton, Hampshire, SO14 3ZH, 
+United Kingdom 
+djh@soc.sohon.ac.uk 
+ 
+ 
+ 

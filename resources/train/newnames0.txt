@@ -1,0 +1,1700 @@
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 1 
+1993 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PART 1.  COASTAL PELAGIC FISHES  
+(Report of Working Group 3) 
+ 
+Edited by <START:person> John R. Hunter <END> and <START:person> Tokio Wada <END> 
+ 
+PART 2.  SUBARCTIC GYRE  
+(Report of Working Group 6) 
+ 
+Edited by <START:person> Brent Hargreaves <END> and <START:person> Takashige Sugimoto <END>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 1993 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 3 
+1995 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT OF THE PICES-STA WORKSHOP ON MONITORING 
+SUBARCTIC NORTH PACIFIC VARIABILITY 
+ 
+Jointly sponsored by PICES and the Science and Technology Agency of Japan 
+ 
+ 
+Convenor: 
+<START:person> Yukihide Hayashi <END>, Science and Technology Agency, Japan 
+ 
+Co-Chairmen: 
+<START:person> Yasuhiro Sugimori, <END>  Tokai University / Chiba University, Japan 
+<START:person> Melbourne G. Briscoe, <END>  NOS, NOAA, U.S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 1995 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca 
+ iii
+TABLE OF CONTENTS 
+ 
+ 
+     Page 
+FOREWORD  iv 
+ 
+AGENDA   v 
+ 
+INTRODUCTION:  OCEANIC INTERDECADAL CLIMATE IN THE NORTH 
+    PACIFIC OCEAN AND LIVING RESOURCES  
+    VARIABILITY 1 
+ 
+PROCEEDINGS  - SUBARCTIC PACIFIC CLIMATE VARIABILITY 
+<START:person> Kimio Hanawa <END>.    Interannual to decadal scale variations in the North Pacific 6 
+<START:person> Lynne D. Talley <END> & <START:person> Xiaojun Yuan <END>.  Summary of variability of physical conditions  
+ in the subarctic North Pacific 16 
+<START:person> Vladimir V. Plotnikov <END> & <START:person> Gennady I. Yurasov <END>.  Seasonal and interannual variability  
+  of ice cover in the North Pacific marginal seas 26 
+<START:person> Stephen C. Riser <END>.  Space and time scales of variability in the subarctic North  
+  Pacific:  Implications to monitoring the system 35 
+ 
+  - ECOSYSTEM RESPONSE 
+<START:person> N. Brent Hargreaves. <END> PICES-GLOBEC international program on climate change 
+  and carrying capacity 61 
+<START:person> Warren S. Wooster. <END>  PICES-GLOBEC International Program on Climate Change 
+  and Carrying Capacity - An update on progress 63 
+<START:person> Satoru Taguchi. <END>   Monitoring of lower trophic level variability and response 
+  to long-term forcing in the subarctic Pacific Ocean 65 
+ 
+RECOMMENDATIONS 85 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 4 
+1996 
+ 
+ 
+ 
+ 
+SCIENCE PLAN 
+ 
+PICES-GLOBEC ‘94 Workshop Steering Committee Chairman: 
+<START:person> N.B. Hargreaves <END> 
+ 
+ 
+IMPLEMENTATION PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT OF THE PICES-GLOBEC INTERNATIONAL PROGRAM ON  
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 1996 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca 
+
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 5 
+1996 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODELLING OF THE SUBARCTIC 
+NORTH PACIFIC CIRCULATION 
+(Report of Working Group 7) 
+ 
+Edited by <START:person> Paul H. LeBlond <END> and <START:person> Masahiro Endoh <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 1996 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca 
+
+
+
+TABLE OF CONTENTS
+FOREWORD
+Page
+vii
+1. REPORT OF THE PICES WORKSHOP ON THE OKHOTSK SEA AND
+ADJACENT AREAS 1
+1. Outline of the workshop 1
+2. Summary reports from sessions 1
+3. Recommendations of the workshop 10
+4. Acknowledgments 10
+II. SCIENTIFIC PAPERS SUBMITTED FROM SESSIONS
+1. Physical Oceanography Sessions
+A. Circulation and water mass structure of the Okhotsk Sea and Northwestern
+Pacific
+<START:person> Valentina D. Budaeva <END> & <START:person> Vyacheslav G. Makarov. <END>  Seasonal variability of the
+pycnocline in La Perouse Strait and Aniva Gulf 13
+<START:person> Valentina D. Budaeva <END> & <START:person> Vyacheslav G. Makarov <END>. Modeling of the typical
+water circulations in the La Perouse Strait and Aniva Gulf region 17
+<START:person> Nina A. Dashko, <END>  <START:person> Sergey M. Varlamov, <END>  <START:person>  Young-Ho Han <END> & <START:person> Young-Seup Kim. <END> 
+Anticyclogenesis over the Okhotsk Sea and its influence on weather 21
+<START:person> Boris S. Dyakov, <END>  <START:person> Alexander A. Nikitin <END> & <START:person> Vadim P. Pavlychev. <END>  Research of
+water structure and dynamics in the Okhotsk Sea and adjacent Pacific 29
+<START:person> Howard J. Freeland, <END>  <START:person> Alexander S. Bychkov, <END>  <START:person> C.S. Wong, <END>  <START:person> Frank A. Whitney <END> &
+<START:person> Gennady I. Yurasov. <END>  The Ohkotsk Sea component of Pacific
+Intermediate Water 36
+<START:person> Emil E. Herbeck, <END>  <START:person> Anatoly I. Alexanin, <END>  <START:person> Igor A. Gontcharenko, <END>  <START:person> Igor I. Gorin, <END> 
+<START:person> Yury V. Naumkin <END> & <START:person> Yury G. Proshjants. <END>  Some experience of the
+satellite environmental support of marine expeditions at the Far East
+Seas 45
+<START:person> Alexander A. Karnaukhov. <END>  The tidal influence on the Sakhalin shelf hydrology 54
+<START:person> Yasuhiro Kawasaki. <END>  On the formation process of the subsurface mixed water
+around the Central Kuril Islands 61
+<START:person> Lloyd D. Keigwin. <END>  Northwest Pacific paleohydrography 71
+<START:person> Talgat R. Kilmatov. <END>  Physical mechanisms for the North Pacific Intermediate
+Water formation 78
+<START:person> Vladimir A. Luchin. <END>  Water masses in the Okhotsk Sea 81
+<START:person> Andrey V. Martynov, <END>  <START:person> Elena N. Golubeva <END> & <START:person> Victor I. Kuzin. <END>  Numerical
+experiments with finite element model of the Okhotsk Sea circulation 89
+<START:person> Nikolay A. Maximenko, <END>  <START:person> Anatoly I. Kharlamov <END> & <START:person> Raissa I. Gouskina. <END> 
+Structure of Intermediate Water layer in the Northwest Pacific 99
+<START:person> Nikolay A. Maximenko <END> & <START:person>  Andrey Yu. Shcherbina <END>. Fine-structure of the North
+Pacific Intermediate Water layer 104
+<START:person> Renat D. Medjitov <END> & <START:person> Boris I. Reznikov. <END>  An experimental study of water
+transport through the Straits of Okhotsk Sea by electromagnetic method 111
+iii
+<START:person> Valentina V. Moroz. <END>  Oceanological zoning of the Kuril Islands area in the
+spring-summer period
+117
+<START:person> Yutaka Nagata. <END>  Note on the salinity balance in the Okhotsk Sea
+120
+<START:person> Alexander D. Nelezin. <END>  Variability of the Kuroshio Front in 1965-1991
+124
+<START:person> Vladimir I. Ponomarev, <END>  <START:person> Evgeny P. Varlaty <END> & <START:person> Mikhail Yu. Cheranyev. <END>  An
+experimental study of currents in the near-Kuril region of the Pacific
+Ocean and in the Okhotsk Sea
+131
+<START:person> Stephen C. Riser, <END>  <START:person> Gennady I. Yurasov <END> & <START:person> Mark J. Warner. <END>  Hydrographic and
+tracer measurements of the water mass structure and transport in the
+Okhotsk Sea in early spring
+138
+<START:person> Konstantin A. Rogachev <END> & <START:person> Andrey V. Verkhunov. <END>  Circulation and water mass
+structure in the southern Okhotsk Sea, as observed in summer, 1994
+144
+<START:person> Lynne D. Talley. <END>  North Pacific Intermediate Water formation and the role of the
+Okhotsk Sea
+150
+<START:person> Anatoly S. Vasiliev <END> & <START:person> Fedor F. Khrapchenkov. <END>  Seasonal variability of integral
+water circulation in the Okhotsk Sea
+158
+B. Sea ice and its relation to circulation and climate
+<START:person> V.P. Gavrilo, <END>  <START:person> G.A. Lebedev <END> & <START:person> A.P. Polyakov. <END>  Acoustic methods in sea ice
+dynamics studies
+167
+<START:person> Nina M. Pestereva <END> & <START:person> Larisa A. Starodubtseva. <END>  The role of the Far-East
+atmospheric circulation in the formation of the ice cover in the Okhotsk
+Sea
+172
+<START:person> Yoshihiko Sekine. <END>  Anomalous Oyashio intrusion and its teleconnection with
+Subarctic North Pacific circulation, sea ice of the Okhotsk Sea and air
+temperature of the northern Asian continent
+177
+C. Waves and tides
+<START:person> Vladimir A. Luchin. <END>  Characteristics of the tidal motions in the Kuril Straits
+188
+<START:person> George V. Shevtchenko. <END>  On seasonal variability of tidal constants in the
+northwestern part of the Okhotsk Sea
+194
+D. Physical oceanography of the Japan Sea/East Sea
+<START:person> Mikhail A. Danchenkov, <END>  <START:person> Kuh Kim, <END>  <START:person> Igor A. Goncharenko <END> & <START:person> Young-Gyu Kim. <END> 
+A "chimney" of cold salt waters near Vladivostok
+198
+<START:person> Christopher N.K. Mooers <END> & <START:person> Hee Sook Kang. <END>  
+Preliminary results from a
+numerical circulation model of the Japan Sea
+202
+<START:person> Lev P. Yakunin. <END>  Influence of ice production on the deep water formation in the
+Japan Sea
+215
+2. Fisheries and Biology Sessions
+A. Communities of the Okhotsk Sea and adjacent waters: composition, structure
+and dynamics
+<START:person> Lubov A. Balkonskaya. <END>  Exogenous succession of the southwestern Sakhalin algal
+communities
+221
+<START:person> Tatyana A. Belan, <END>  <START:person> Yelena V. Oleynik, <END>  <START:person> Alexander V. Tkalin <END> & <START:person> Tat'yana S. Lishavskaya. <END>  
+Characteristics of pelagic and benthic communities on
+the North Sakhalin Island shelf
+227
+iv
+<START:person> Lev N. Bocharov <END> & <START:person> Vladimir K. Ozyorin. <END>  Fishery and oceanographic database
+of Okhotsk Sea 230
+<START:person> Victor V. Lapko. <END>  Interannual dynamics of the epipelagic ichthyocen structure in
+the Okhotsk Sea 237
+<START:person> Valentina I. Lapshina. <END>  Quantitative seasonal and year-to-year changes of
+phytoplankton in the Okhotsk Sea and off Kuril area of the Pacific 240
+<START:person> Lyudmila N. Luchsheva. <END>  Biological productivity in anomalous mercury
+conditions (northern part of Okhotsk Sea) 247
+<START:person> Inna A. Nemirovskaya. <END>  Origin of hydrocarbons in the ecosystems of coastal
+region of the Okhotsk Sea 253
+<START:person> Tatyana A. Shatilina. <END>  Elements of the Pacific South Kuril area ecosystem 257
+<START:person> Vyacheslav P. Shuntov <END> & <START:person> Yelena P. Dulepova. <END>  Biota of the Okhotsk Sea:
+Structure of communities, the interannual dynamics and current status 263
+B. Abundance, distribution, dynamics of the common fishes of the Okhotsk Sea
+<START:person> Yuri P. Diakov. <END>  Influence of some abiotic factors on spatial population dynamics
+of the West Kamchatka flounders (Pleuronectidae) 272
+<START:person> Gordon A. McFarlane, <END>  <START:person> Richard J. Beamish <END> & <START:person> Larisa M. Zverkova. <END>  An
+examination of age estimates of walleye pollock (7heragra
+chalcogramma) from the Sea of Okhotsk using the burnt otolith method
+and implications for stock assessment and management 78
+<START:person> Larisa P. Nikolenko. <END>  Migration of Greenland turbot (Reinhardtius
+hippoglossoides) in the Okhotsk Sea 286
+<START:person> Galina M. Pushnikova. <END>  Fisheries impact on the Sakhalin-Hokkaido herring
+population 292
+<START:person> Vidar G. Wespestad. <END>  Is pollock overfished? 299
+C. Salmon of the Okhotsk Sea: biology, abundance and stock identification
+<START:person> Vladimir A. Belyaev, <END>  <START:person> Alexander Yu. Zhigalin. <END>  Epipelagic Far Eastern sardine of
+the Okhotsk Sea 304
+<START:person> Yuri E. Bregman, <END>  <START:person> Victor V. Pushnikov, <END>  <START:person> Lyudmila G. Sedova <END> & <START:person> Vladimir Ph. Ivanov. <END>  
+A preliminary report on stock status and productive capacity
+of horsehair crab Erimacrus isenbeckii (Brandt) in the South Kuril
+Strait 12
+<START:person> Natalia T. Dolganova. <END>  Mezoplankton distribution in the West Japan Sea 318
+<START:person> Vladimir V. Efremov, <END>  <START:person> Richard L. Wilmot, <END>  <START:person> Christine M. Kondzela, <END>  
+<START:person> Natalia V. Varnavskaya, <END>  <START:person> Sharon L. Hawkins <END> & <START:person> Maria E. Malinina. <END> 
+Application of pink and chum salmon genetic baseline to fishery
+management 25
+<START:person> Vyacheslav N. Ivankov <END> & <START:person> Valentina V. Andreyeva. <END>  Strategy for culture,
+breeding and numerous dynamics of Sakhalin salmon populations 332
+<START:person> Alla M. Kovalevskaya, <END>  <START:person> Natalia I. Savelyeva <END> & <START:person> Dmitry M. Polyakov. <END>  Primary
+production in Sakhalin shelf waters 337
+<START:person> Tatyana N. Krupnova. <END>  Some reasons for resource reduction of Laminaria
+japonica (Primorye region) 341
+<START:person> Lyudmila N. Luchsheva <END> & <START:person> Anatoliy I. Botsul. <END>  Mercury in bottom sediments of
+the northeastern Okhotsk Sea 345
+V
+<START:person> Pavel A. Luk'yanov, <END>  <START:person> Natalia I. Belogortseva, <END>  <START:person> Alexander A. Bulgakov, <END> 
+<START:person> Alexander A. Kurika <END> & <START:person> Olga D. Novikova. <END>  Lectins and glycosidases
+from marine macro and micro-organisms of Japan and Okhotsk
+Seas 348
+<START:person> Boris A. Malyarchuk, <END>  <START:person> Olga A. Radchenko, <END>  <START:person> Miroslava V. Derenko, <END> 
+<START:person> Andrey G. Lapinski <END> & <START:person> Leonid L. Solovenchuk. <END>  
+PCR-fingerprinting of
+mitochondrial genome of chum salmon, Oncorhynchus keta 353
+<START:person> Alexander A. Mikheev. <END>  Chaos and relaxation in dynamics of the pink salmon
+(Oncorhynchus gorbuscha) returns for two regions
+356
+<START:person> Yuri A. Mitrofanov <END> & <START:person> Larisa N. Lesnikova. <END>  Fish-culture of Pacific Salmons
+increases the number of heredity defects
+363
+<START:person> Larisa P. Nikolenko. <END>  Abundance of young halibut along the West Kamchatka
+shelf in 1982-1992
+367
+<START:person> Sergey A. Nizyaev. <END>  Living conditions of golden king crab Lithodes aequispina in
+the Okhotsk Sea and near the Kuril Islands
+371
+<START:person> Ludmila A. Pozdnyakova <END> & <START:person> Alla V. Silina. <END>  Settlements of Japanese scallop in
+Reid Pallada Bay (Sea of Japan)
+375
+<START:person> Galina M. Pushnikova. <END>  Features of the Southwest Okhotsk Sea herring
+378
+<START:person> Vladimir I. Radchenko <END> & <START:person> Igor I. Glebov. <END>  Present state of the Okhotsk herring
+stock and fisheries outlook
+384
+<START:person> Alla V. Silina <END> & <START:person> Ida I. Ovsyannikova. <END>  Distribution of the barnacle Balanus
+rostratus eurostratus near the coasts of Primorye (Sea of Japan)
+391
+<START:person> Galina I. Victorovskaya. <END>  Dependence of urchin Strongylocentrotus intermedius
+reproduction on water temperature
+396
+<START:person> Anatoly F. Volkov, <END>  <START:person> Alexander Y. Efimkin <END> & <START:person> Valery I. Chuchukalo. <END>  Feeding
+habits of Pacific salmon in the Sea of Okhotsk and in the Pacific waters
+of Kuril Islands in summer 1993
+400
+<START:person> Larisa M. Zverkova <END> & <START:person> Georgy A. Oktyabrsky. <END>  Okhotsk Sea walleye pollock
+stock status
+403
+<START:person> Tatyana N. Zvyagintseva, <END>  <START:person> Elena V. Sundukova, <END>  <START:person> Natalia M. Shevchenko <END> &
+<START:person> Ludmila A. Elyakova. <END>  Water soluble polysaccharides of some Far-
+Eastern seaweeds
+408
+3. Biodiversity Program
+A. Biodiversity of island ecosystems and seasides of the North Pacific
+<START:person> Larissa A. Gayko. <END>  Productivity of Japanese scallop Patinopecten yessoensis
+(IAY) culture in Posieta Bay (Sea of Japan)
+417
+III. APPENDICES
+1. List of acronyms
+423
+2. List of participants
+424
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 7 
+1997 
+ 
+ 
+ 
+ 
+ 
+WORKSHOP ON CONCEPTUAL/THEORETICAL STUDIES AND MODEL 
+DEVELOPMENT 
+INCLUDING THE MODEL TASK TEAM REPORT 
+Edited by <START:person> R. Ian Perry, <END>  <START:person> Sinjae Yoo <END> and <START:person> Makoto Terazaki <END> 
+ 
+ 
+BASS TASK TEAM REPORT 
+Edited by <START:person> Richard J. Beamish <END> and <START:person> Makoto Terazaki <END> 
+ 
+ 
+REX TASK TEAM REPORT 
+Edited by <START:person> Anne B. Hollowed, <END>  <START:person> Vladimir I. Radchenko <END> and <START:person> Tokio Wada <END>  
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+ 
+ 
+ 
+ 
+April 1997 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P .O. Box 6000, Sidney, B.C. Canada.  V8L 4B2 
+pices@ios.bc.ca 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 5 
+1996 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODELLING OF THE SUBARCTIC 
+NORTH PACIFIC CIRCULATION 
+(Report of Working Group 7) 
+ 
+Edited by <START:person> Paul H. LeBlond <END> and <START:person> Masahiro Endoh <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 1996 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca 
+
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 9 
+1998 
+ 
+ 
+ 
+ 
+ 
+PICES CLIMATE CHANGE AND CARRYING CAPACITY WORKSHOP 
+ON THE DEVELOPMENT OF COOPERATIVE RESEARCH  
+IN COASTAL REGIONS OF THE NORTH PACIFIC 
+ 
+October 17-18, 1997 
+Pusan, Republic of Korea 
+ 
+ 
+Sponsored by: 
+PICES-GLOBEC  
+CCCC REX Task Team 
+ 
+ 
+Organizing Committee: 
+<START:person> Anne B. Hollowed, <END>  <START:person> Tsutomu Ikeda, <END>  <START:person> Vladimir I. Radchenko <END> 
+and <START:person> Tokio Wada <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 1998 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca  http://pices.ios.bc.ca 
+
+PICES Scientific Report No. 10
+1999
+PROCEEDINGS OF THE
+1998 SCIENCE BOARD SYMPOSIUM ON
+THE IMPACTS OF THE 1997/98 EL NIÑO EVENT ON
+THE NORTH PACIFIC OCEAN AND ITS MARGINAL SEAS
+Symposium Co-convenors:
+<START:person> Howard J. Freeland <END> (Canada), <START:person> William T. Peterson <END> (U.S.A.) and <START:person> Al Tyler <END> (U.S.A.)
+March 1999
+Secretariat / Publisher
+North Pacific Marine Science Organization (PICES)
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C. Canada.  V8L 4B2
+pices@ios.bc.ca
+http://pices.ios.bc.ca
+iii
+TABLE OF CONTENTS
+Page
+Preface....................................................................................................................v
+<START:person> James J. O’Brien. <END>   The big picture - The ENSO of 1997-98
+<START:person> James E. Overland, <END>  <START:person> Nicholas A. Bond <END> & <START:person> Jennifer Miletta Adams. <END>   Atmospheric
+anomalies in 1997:  Links to ENSO?
+<START:person> Vladimir I. Ponomarev, <END>  <START:person> Olga Trusenkova, <END>  <START:person> Serge Trousenkov, <END>  <START:person> Dmitry Kaplunenko, <END> 
+<START:person> Elena Ustinova <END> & <START:person> Antonina Polyakova. <END>   The ENSO signal in the northwest
+Pacific
+<START:person> Robert L. Smith, <END>  <START:person> A. Huyer, <END>  <START:person> P.M. Kosro <END> & J.A. Barth <END>.  Observations of El Niño off
+Oregon:  July 1997 to present (October 1998)
+<START:person> Patrica A. Wheeler <END> & <START:person> Jon Hill. <END>   Biological effects of the 1997-1998 El Niño event off
+Oregon:  Nutrient and chlorophyll distributions
+<START:person> William T. Peterson. <END>   Hydrography and zooplankton off the central Oregon coast during
+the 1997-1998 El Niño event
+<START:person> William Crawford, <END>  <START:person> Josef Cherniawsky, <END>  <START:person> Michael Foreman <END> & <START:person> Peter Chandler. <END> 
+El Niño sea level signal along the west coast of Canada.
+<START:person> Howard J. Freeland <END> & <START:person> Rick Thomson. <END>   The El Niño signal along the west coast of
+Canada - temperature, salinity and velocity
+<START:person> Frank A. Whitney, <END>  <START:person> David L. Mackas, <END>  <START:person> David W. Welch <END> & <START:person> Marie Robert. <END>   Impact of
+the 1990s El Niños on nutrient supply and productivity of Gulf of Alaska waters
+Craig McNeil, David Farmer & Mark Trevorrow.  Dissolved gas measurements at
+Stn. P4 during the 97-98 El Niño
+<START:person> Kristen L.D. Milligan, <END>  <START:person> Colin D. Levings <END> & <START:person> Robert E. DeWreede. <END>   Data compilation
+and preliminary time series analysis of abundance of a dominant intertidal kelp
+species in relation to the 1997/1998 El Niño event
+<START:person> S.M. McKinnell, <END>  <START:person> C.C. Wood, <END>  <START:person> M. Lapointe, <END>  <START:person> J.C. Woodey, <END>  <START:person> K.E. Kostow, <END>  
+<START:person> J. Nelson <END> & <START:person> K.D. Hyatt. <END>   Reviewing the evidence that adult sockeye salmon strayed from
+the Fraser River and spawned in other rivers in 1997
+<START:person> G.A. McFarlane <END> & <START:person> R.J. Beamish. <END>   Sardines return to British Columbia waters
+<START:person> Ken H. Morgan. <END>   Impact of the 1997/98 El Niño on seabirds of the northeast Pacific
+<START:person> Thomas C. Royer <END> & <START:person> Thomas Weingartner. <END>   Coastal hydrographic responses in the
+northern Gulf of Alaska to the 1997-98 ENSO event
+<START:person> John F. Piatt, <END>  <START:person> Gary Drew, <END>  <START:person> Thomas Van Pelt, <END>  <START:person> Alisa Abookire, <END>  <START:person> April Nielsen, <END> 
+<START:person> Mike Shultz <END> & <START:person> Alexander Kitaysky. <END>   Biological effects of the 1997/98 ENSO
+in Cook Inlet, Alaska
+<START:person> H.J. Niebauer<START:person> .  The 1997-98 El Niño in the Bering Sea as compared with previous
+ENSO events and the “regime shift” of the late 1970s
+<START:person> A.S. Krovnin, <END>  <START:person> G.P. Nanyushin, <END>  <START:person> M.Yu. Kruzhalov, <END>  <START:person> G.V. Khen, <END>  <START:person> M.A. Bogdanov, <END> 
+<START:person> E.I. Ustinova, <END>  <START:person> V.V. Maslennikov, <END>  <START:person> A.M. Orlov, <END>  <START:person> B.N. Kotenev, <END>  <START:person> V.V. Bulanov <END>
+& <START:person> G.P. Muriy. <END>   The state of the Far East seas during the 1997/98 El Niño event
+Stacy Smith & Susan Henrichs.  Phytoplankton collected by a time-series sediment
+trap deployed in the southeast Bering Sea during 1997
+iv
+<START:person> Cynthia T. Tynan. <END>   Redistributions of cetaceans in the southeast Bering Sea relative
+to anomalous oceanographic conditions during the 1997 El Niño
+<START:person> Akihiko Yatsu, <END>  <START:person> Junta Mori, <END>  <START:person> Hiroyuki Tanaka, <END>  <START:person> Tomowo Watanabe, <END> 
+<START:person> Kazuya Nagasawa, <END>  <START:person> Yikimasa Ishida, <END>  <START:person> Toshimi Meguro, <END>  <START:person> Yoshihiko Kamei <END> 
+& <START:person> Yasunori Sakurai. <END>   Stock abundance and size compositions of the neon
+flying squid in the central North Pacific Ocean during 1979-1998
+<START:person> O.B. Feschenko. <END>   A new point of view concerning the El Niño mechanism
+<START:person> Nathan Mantua. <END>   97/98 Ocean climate variability in the northeast Pacific:  How much
+blame does El Niño deserve?
+<START:person> Vadim P. Pavlychev. <END>   Sharp changes of hydrometeorological conditions in the
+northwestern Pacific during the 1997/1998 El Niño event
+<START:person> Jingyi Wang. <END>   Predictability and forecast verification of El Niño events
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 11 
+1999 
+ 
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+SUMMARY OF THE 1998 MODEL, MONITOR AND  
+REX WORKSHOPS, AND TASK TEAM REPORTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by <START:person> R.C. Dugdale <END> (MODEL), <START:person> Douglas E. Hay <END> (REX),  
+<START:person> Gordon A. McFarlane <END> (BASS), <START:person> Bruce A. Taft <END> (MONITOR)  
+and <START:person> Sinjae Yoo <END> (MODEL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 1999 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  pices@ios.bc.ca   Home Page:  http://pices.ios.bc.ca
+
+  
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 12 
+1999 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCEEDINGS OF THE S ECOND PICES WORKSHOP 
+ON THE OKHOTSK SEA A ND ADJACENT AREAS 
+ 
+ 
+ 
+ 
+Edited by 
+ 
+Drs. <START:person> Vyacheslav B. Lobanov, <END>  <START:person> Yutaka Nagata <END> and <START:person> Stephen C. Riser <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 1999 
+Secretariat / Publishe r 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E - mail:    pices@ios.bc.ca    Home Page:  http://pices.ios.bc.ca 
+ iii
+TABLE OF CONTENTS 
+ 
+ Page 
+ 
+Preface...................................................................................................................... v 
+<START:person> Masaaki Aota. <END>   Long-term tendencies of sea ice concentration and air temperature in the  
+ Okhotsk Sea coast of Hokkaido .............................................................................. 1 
+<START:person> Hajime Ito <END> & <START:person> Miki Yoshioka. <END>   Geography of the seasonally ice covered seas .............................. 3 
+<START:person> George V. Shevchenko <END> & <START:person> Victor F. Putov. <END>   On wind and tide induced sea-ice  
+ drift on the northeastern shelf of Sakhalin Island (analysis of radar data).......................... 11 
+<START:person> Boris S. Dyakov, <END>  <START:person> A.A. Nikitin, <END>  <START:person> L. S. Muktepavel <END> & <START:person> T.A. Shatilina. <END>   Variability of the  
+ Japan and Okhotsk Seas ice cover depending on geopotential field H500 over the  
+ Far-Eastern region ........................................................................................... 19 
+<START:person> Aleksandr G. Petrov <END> & <START:person> Nikolay A. Rykov. <END>   Intermediate cold layer and ice cover in  
+ the Sea of Okhotsk ........................................................................................... 25 
+<START:person> Vladimir Ponomarev, <END>  <START:person> Olga Trusenkova, <END>  <START:person> Elena Ustinova <END> & <START:person> Dmitry Kaplunenko. <END>    
+ Interannual variations of oceanographic and meteorological characteristics  
+ in the Sea of Okhotsk ........................................................................................ 31 
+<START:person> George V. Shevchenko <END> & <START:person> Akie Kato. <END>   Seasonal and interannual changes of atmospheric 
+  pressure, air and water temperature in the area of the Kuril Ridge................................. 41 
+<START:person> George V. Shevchenko <END> & <START:person> Vladimir Yu. Saveliev. <END>   Spatial variability of the wind field  
+ in the area of the Kuril Islands  ............................................................................ 49 
+<START:person> Alexander L. Figurkin <END> & <START:person> Igor A. Zhigalov. <END>   Seasonal variability and specifity of the  
+ oceanological conditions in the northern Okhotsk Sea in 1997 ...................................... 55 
+<START:person> Igor A. Zhabin. <END>   Ventilation of the upper portion of the intermediate water in the  
+ Okhotsk Sea .................................................................................................... 61 
+<START:person> Vladimir A. Luchin <END> & <START:person> Alexander L. Figurkin. <END>   Oceanographic conditions over the 
+ Kashevarov Bank ............................................................................................. 69 
+<START:person> Toshiyuki Awaji, <END>  <START:person> Tomohiro Nakamura, <END>  <START:person> Takaki Hatayama, <END>  <START:person> Kazunori Akimoto <END>  
+ & <START:person> Takatoshi Takizawa. <END>   Tidal exchange through the Kuril Straits................................. 77 
+<START:person> Tomohiro Nakamura, <END>  <START:person> Toshiyuki Awaji, <END>  <START:person> Takaki Hatayama, <END>  <START:person> Kazunori Akimoto, <END>   
+ <START:person> Takatoshi Takizawa <END> & <START:person> Masao Fukasawa. <END>   Vertical mixing induced by  
+ tidally generated internal waves in the Kuril Straits .................................................... 83 
+<START:person> Katsuro Katsumata <END> & <START:person> Ichiro Yasuda. <END>   Water exchange between the Okhotsk Sea  
+ and the North Pacific Ocean estimated by simple models ............................................. 89 
+<START:person> Konstantin A. Rogachev. <END>   Oyashio west path culmination as the consequence of a  
+ rapid thermohaline transition in the Pacific Subarctic.................................................. 95 
+<START:person> Yasuhiro Kawasaki. <END>   On the year-to-year change in subarctic water characteristics  
+ around the Kuril Islands ....................................................................................101 
+<START:person> Alexander L. Figurkin <END> & <START:person> Evgeniy E. Ovsyannikov. <END>   Influence of oceanological  
+ conditions of the West Kamchatka shelf waters on spawning grounds and on 
+ pollock egg distribution .....................................................................................107 
+<START:person> Igor E. Kochergin <END> & <START:person> Alexander A. Bogdanovsky. <END>   Transport and turbulence  
+ characteristics for the northeastern Sakhalin shelf conditions........................................115 
+<START:person> Igor E. Kochergin, <END>  <START:person> Alexander A. Bogdanovsky, <END>  <START:person> Valentina D. Budaeva, <END>   
+ <START:person> Vyacheslav G. Makarov, <END>  <START:person> Vasily F. Mishukov, <END>  <START:person> S.N. Ovsienko, <END>   
+ <START:person> Victor F. Putov, <END>  <START:person> L.A. Reitsema, <END>  <START:person> J.W. Sciallabba, <END>  <START:person> O.O. Sergucheva <END>  
+ & <START:person> P.V. Yarosh. <END>   Modeling of oil spills for the shelf conditions of northeastern Sakhalin ....123 
+ iv 
+ 
+ 
+<START:person> Valentina D. Budaeva <END> & <START:person> Vyacheslav G. Makarov. <END>   A peculiar water regime of currents  
+ in the area of eastern Sakhalin shelf ......................................................................131 
+<START:person> Nikolay A. Rykov. <END>   The oceanographic databases on the Sakhalin shelf ...................................139 
+<START:person> Akifumi Nakata, <END>  <START:person> Iori Tanaka, <END>  <START:person> Hiroki Yagi, <END>  <START:person> Tomomi Watanabe, <END>   
+ <START:person> Gennady A. Kantakov <END> & <START:person> Andrew D. Samatov. <END>   Formation of high-density  
+ water (over 26.8 sigma-t) near the La Perouse Strait (the Soya Strait) ............................145 
+<START:person> Minoru Odomaki <END> & <START:person> Kouji Iwamoto. <END>   Currents and tidal observations by Hydrographic  
+ Department of Maritime Safety Agency, off the Okhotsk coast of Hokkaido ....................149 
+<START:person> Yasushi Fukamachi, <END>  <START:person> Genta Mizuta, <END>  <START:person> Kay I. Ohshima, <END>  <START:person> Motoyo Itoh, <END>   
+ <START:person> Masaaki Wakatsuchi <END> & <START:person> Masaaki Aota. <END>   Mooring measurements off  
+ Shiretoko Peninsula, Hokkaido in 1997-1998...........................................................153 
+<START:person> Mikhail A. Danchenkov, <END>  <START:person> David Aubrey <END> & <START:person> Stephen C. Riser. <END>   Oceanographic features  
+ of the La Perouse Strait.....................................................................................159 
+<START:person> Iori Tanaka <END> & <START:person> Akifumi Nakata. <END>   Results of direct current measurements in the La Perouse  
+ Strait (the Soya Strait), 1995-1998........................................................................173 
+<START:person> Gennady A. Kantakov <END> & <START:person> George V. Shevchenko. <END>   In situ observations of Tsushima  
+ and West-Sakhalin currents near La Perouse (Soya) Strait...........................................177 
+<START:person> Irina Y. Bragina. <END>   Geographical and biological characteristics of the net zooplankton  
+ in the southwestern part of the Sea of Okhotsk during 1987-1996..................................187 
+List of corresponding authors .....................................................................................201 
+
+
+ 
+ii 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 13 
+2000 
+ 
+ 
+ 
+ 
+ 
+BIBLIOGRAPHY OF THE OCEANOGRAPHY OF  
+THE JAPAN/EAST SEA 
+ 
+ 
+ 
+Compiled by 
+ 
+<START:person> Mikhail A. Danchenkov, <END>  <START:person> David G. Aubrey, <END>  <START:person> Gi Hoon Hong <END>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2000 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+pices@ios.bc.ca http://pices.ios.bc.ca 
+
+ 
+ 
+ 
+i  
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 14 
+2000 
+ 
+ 
+ 
+ 
+ 
+ 
+PREDATION BY MARINE BIRDS AND MAMMALS IN 
+THE SUBARCTIC NORTH PACIFIC OCEAN 
+ 
+ 
+ 
+ 
+Edited by  
+ 
+ 
+<START:person> George L. Hunt, <END>  <START:person> Jr. Hidehiro Kato <END> and 
+<START:person> Stewart M. McKinnell <END>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2000 
+Secretariat / Publisher 
+North Pacific Marine Science Organization 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+E-mail: pices@ios.bc.ca        Home Page: http://pices.ios.bc.ca 
+
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 15 
+2000 
+ 
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+REPORT OF THE 1999 MONITOR AND  
+REX WORKSHOPS, AND THE 2000 MODEL WORKSHOP ON  
+LOWER TROPHIC LEVEL MODELLING 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+ 
+<START:person> Bernard A. Megrey <END> (MODEL), <START:person> Bruce A. Taft <END> (MONITOR) and  
+<START:person> William T. Peterson <END> (REX) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2000 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  pices@ios.bc.ca   Home Page:  http://pices.ios.bc.ca 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 16 
+2001 
+ 
+ 
+ 
+ 
+Environmental Assessment of Vancouver Harbour 
+Data Report for the PICES Practical Workshop 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+<START:person> Carla M. Stehr <END> and <START:person> Toshihiro Horiguchi <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2001 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int Home Page:  http://www.pices.in 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 17 
+2001 
+ 
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+ 
+REPORT OF  
+THE 2000 BASS, MODEL, MONITOR AND REX WORKSHOPS,  
+AND THE 2001 BASS/MODEL WORKSHOP 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+ 
+<START:person> Gordon A. McFarlane <END> (BASS), <START:person> Bernard A. Megrey <END> (MODEL), 
+<START:person> Bruce A. Taft <END> (MONITOR) and <START:person> William T. Peterson <END> (REX) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2001 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int   Home Page:  http://www.pices.int 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 18  
+2001 
+ 
+ 
+ 
+ 
+ 
+ 
+Proceedings of the PICES/CoML/IPRC Workshop on 
+“Impact of Climate Variability on Observation and Prediction of  
+Ecosystem and Biodiversity Changes in the North Pacific” 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+ 
+<START:person> Vera Alexander, <END>  <START:person> Alexander S. Bychkov, <END>  
+<START:person> Patricia Livingston <END> and <START:person> Stewart (Skip) M. McKinnell <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2001 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int   Home Page:  http://www.pices.int 
+
+Table of Contents 
+ 
+ 
+Section I - Presentations and Discussions at Plenary Sessions 
+ 
+Introduction and Overview of Workshop Objectives 3 
+ 
+Plenary Session Presentations 
+<START:person> Cynthia Decker. <END>   The Census of Marine Life:  An update on activities 5 
+<START:person> Julian P. McCreary, <END>  Jr.  Decadal climate variability in the Pacific Ocean, and  
+theories as to its cause 9 
+<START:person> Warren S. Wooster. <END>   Comments on LMR-GOOS recommendations 14 
+<START:person> Kees Zwanenburg. <END>   Background and objectives of POGO 17 
+<START:person> Kees Zwanenburg. <END>   Plans for a CoML Workshop on Canadian Marine Biodiversity: 
+Pacific, Arctic, and Atlantic 19 
+<START:person> David W. Welch. <END>   An appraisal of current Pacific Ocean monitoring efforts existing 
+within PICES countries 22 
+<START:person> David W. Welch. <END>   Census of Marine Life - POST (Pacific Ocean Salmon Tagging) 
+proposal 23 
+ 
+Reports of the Breakout Group Discussions 
+Breakout Group 1:  Physical/Chemical Oceanography and Climate 25 
+Breakout Group 2:  Phytoplankton, Zooplankton, Micronekton and Benthos 31 
+Breakout Group 3:  Fish, Squid, Crabs and Shrimps 36 
+Breakout Group 4:  Highly Migratory Fishes, Seabirds and Marine Mammals 38 
+ 
+Closing Plenary Discussion and Recommendations 41 
+ 
+ 
+Section II -  Extended Abstracts of Individual Presentations at Breakout 
+Group Sessions 
+ 
+Breakout Group 1:  Physical/Chemical Oceanography and Climate  
+ 
+<START:person> Steven J. Bograd. <END>   CalCOFI hydrographic climatology 47 
+<START:person> Lynn deWitt <END> and <START:person> Roy Mendelssohn. <END>   Improving access to environmental datasets: 
+Data holdings at Pacific Fisheries Environmental Laboratory 49 
+<START:person> Kimio Hanawa. <END>   Japanese repeat hydrographic lines in the North Pacific 54 
+<START:person> Andrei S. Krovnin, <END>  <START:person> Gennady V. Khen, <END>  <START:person> Elena Ustinova <END> and <START:person> Marat Bogdanov. <END>   
+Monitoring of climatic variations in Far Eastern Seas 57 
+<START:person> Vyacheslav B. Lobanov. <END>   On time-series observation programs in the northwestern 
+Pacific in Russia 62 
+<START:person> S. Allen Macklin. <END>   Physical and biophysical time-series originating from or used by  
+Fisheries Oceanography Coordinated Investigations (FOCI) in the North Pacific  
+Ocean and Bering Sea 64 
+<START:person> James E. Overland. <END>   Gridded atmospheric re-analysis fields 74 
+iii
+<START:person> Fangli Qiao. <END>   Research on the physical-biological-chemical coupled numerical 
+model in China 75 
+ 
+Breakout Group 2:  Phytoplankton, Zooplankton, Micronekton and Benthos  
+ 
+<START:person> Hal Batchelder. <END>   U.S. GLOBEC Northeast Pacific Program:  Observations,  
+retrospective studies and model products 79 
+<START:person> Sonia D. Batten <END> and <START:person> David W. Welch. <END>   The Continuous Plankton Recorder 
+survey of the North Pacific 84 
+<START:person> Richard D. Brodeur. <END>   Micronekton data sets in North Pacific 86 
+<START:person> David M. Checkley, <END>  Jr.  Zooplankton in the California Cooperative Oceanic 
+Fisheries Investigations 90 
+<START:person> Sanae Chiba. <END>   Japan Sea time-series:  Qualitative study on lower trophic level  
+ecosystem may reveal the process on climate-ecosystem interaction 93 
+<START:person> Rita Horner. <END>   Phytoplankton data from the Gulf of Alaska, British Columbia and  
+the Pacific coast of the U.S., with emphasis on harmful algal bloom species 96 
+<START:person> Shin-ichi Ito. <END>   Physical and lower-trophic level data time-series in the Mixed  
+Water Region 107 
+<START:person> Young-Shil Kang. <END>   Monitoring system and long-term trend of zooplankton in 
+the Korean waters 111 
+<START:person> Toru Kobari <END> and <START:person> Tsutomu Ikeda. <END>   180º longitude - Oceanographic time-series  
+information 114 
+<START:person> Carina Lange. <END>   Phytoplankton time-series in the California Current 118 
+<START:person> David L. Mackas. <END>   Canadian activities and plans for zooplankton, phytoplankton, 
+micronekton, and benthos monitoring in the Pacific Ocean 122 
+<START:person> William T. Peterson, <END>  <START:person> Julie Keister, <END>  <START:person> Leah Feinberg <END> and <START:person> Cheryl Morgan. <END>    
+Monitoring of coastal pelagic ecosystems off Oregon, Washington and  
+N. California - Hydrographic and plankton time-series 125 
+<START:person> Sei-ichi Saitoh <END> and <START:person> Kosei Sasaoka. <END>   East-west variability of primary production  
+in the subarctic North Pacific derived from Multi-Sensor Remote Sensing  
+during 1996-2000 129 
+<START:person> Kazuaki Tadokoro. <END>   Long-term variations of plankton biomass in the  
+North Pacific 132 
+ 
+Breakout Group 3:  Fish, Squid, Crabs and Shrimps  
+ 
+<START:person> Kerim Aydin. <END>   North Pacific multispecies and ecosystem models of the  
+Alaska Fisheries Science Center (and selected others) 137 
+<START:person> Steven R. Hare. <END>   Life history of Pacific halibut (Hippoglossus stenolepis) 144 
+<START:person> Steven R. Hare. <END>   Biological and physical environment databases of the  
+International Pacific Halibut Commission 146 
+<START:person> Suam Kim. <END>   Fishery data of the Republic of Korea 149 
+<START:person> Victor V. Lapko. <END>   TINRO’s time-series data on Russian fish and ecosystems 151 
+<START:person> Patricia Livingston <END> and <START:person> Anne B. Hollowed. <END>   Groundfish, crab, shrimp and  
+other time-series of the Alaska Fisheries Science Center 152 
+iv
+<START:person> Gordon A. McFarlane. <END>   Groundfish and pelagic time-series maintained by  
+the Stock Assessment Division of Fisheries and Oceans, Canada 155 
+<START:person> Bernard A. Megrey. <END>   FOCI biological time-series available for use as ecosystem  
+indicators from the Fisheries Oceanography Coordinated Investigation 158 
+<START:person> H. Geoffrey Moser. <END>   The California Cooperative Oceanic Fisheries Investigations  
+ichthyoplankton time-series 164 
+<START:person> Yasunori Sakurai. <END>   Long-term monitoring of subarctic North Pacific ecosystems  
+by the T/S Oshoro Maru and Hokusei Maru (Hokkaido University):   
+The present and the future 170 
+<START:person> Qi-Sheng Tang <END> and <START:person> Xian-Shi Jin. <END>   Time-series information in the Yellow Sea  
+and Bohai Sea 172 
+<START:person> Akihiko Yatsu, <END>  <START:person> Hiroshi Nishida, <END>  <START:person> Minoru Ishida, <END>  <START:person> Akira Tomosada, <END>   
+<START:person> Takahiro Kinoshita <END> and <START:person> Tokio Wada. <END>   Trajectories of catch and stock  
+abundance of dominant small pelagic fishes and common squid with some  
+related environmental indices around Japan 175 
+ 
+Breakout Group 4:  Highly Migratory Fishes, Seabirds and Marine Mammals  
+ 
+<START:person> Douglas F. Bertram. <END>   Seabirds reflect changes in ocean climate 179 
+<START:person> Hidehiro Kato. <END>   Assessment of feeding impact by higher trophic predators 182 
+<START:person> Phillip R. Mundy, <END>  <START:person> Cherri Womac <END> and <START:person> Carrie Holba. <END>   Data summary:   
+Impact of climate variability on observation and prediction of ecosystem and  
+biodiversity changes in the North Pacific 183 
+<START:person> Robert Olson. <END>   Yellowfin, bigeye, skipjack, bluefin, and albacore tunas in  
+the Eastern Pacific Ocean 184 
+<START:person> Jeffrey J. Polovina. <END>   Biological time-series for the central North Pacific 197 
+<START:person> Hiroshi Ueda, <END>  <START:person> Masahide Kaeriyama <END> and <START:person> Shigehiko Urawa. <END>   Recent progress  
+in salmon migration research in Japan 199 
+<START:person> Yutaka Watanuki. <END>   Seabird monitoring program at Teuri Island, Hokkaido,  
+Japan 201 
+ 
+ 
+Appendix 1.  Workshop agenda 203 
+ 
+Appendix 2.  List of participants 205 
+ 
+
+ 
+ PICES Scientific Report No. 19 
+2001 
+ 
+  
+ 
+ 
+Commercially Important Crabs, Shrimps and  
+Lobsters of the North Pacific Ocean 
+ 
+ 
+ 
+ 
+ 
+Edited by  
+<START:person> Robert S. Otto <END> and <START:person> Glen S. Jamieson <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 2001 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+E-mail:  secretariat@pices.int        Home Page:  http://www.pices.int 
+
+
+PICES Scientific Report No. 20 
+2002 
+ 
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+ 
+ 
+REPORT OF  
+2001 BASS/MODEL, MONITOR and REX Workshops,  
+and THE 2002 MODEL/REX Workshop 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+<START:person> Harold P. Batchelder <END> (CCCC IP), <START:person> Gordon A. McFarlane <END> (BASS), <START:person> Bernard A. Megrey <END> (MODEL), 
+<START:person> David L. Mackas <END> (MONITOR), <START:person> William T. Peterson <END> (REX) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2002 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+E-mail:  secretariat@pices.int       Home Page:  http://www.pices.int    
+ 
+- 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ Page 
+ 
+Executive Summary.......................................................................................................................v 
+ 
+Report of the 2001 BASS/MODEL Workshop 
+To review ecosystem models for the subarctic gyres ................................................................1 
+ 
+Report of the 2001 MONITOR Workshop 
+ To review progress in monitoring the North Pacific .................................................................9 
+<START:person> Sonia D. Batten <END> 
+ PICES Continuous Plankton Recorder pilot project.................................................................10 
+ <START:person> Phillip R. Mundy <END> 
+ GEM (Exxon Valdez Oil Spill Trustee Council`s “Gulf Ecosystem Monitoring” 
+ initiative) and U.S. GOOS plans in the North Pacific ..............................................................12 
+<START:person> Ron McLaren <END> and <START:person> Brian O`Donnell <END> 
+ A proposal for a North Pacific Action group of the international Data Buoy 
+ Cooperation Panel ................................................................................................................13 
+<START:person> Gilberto Gaxiola-Castrol <END> and <START:person> Sila Najera-Martinez <END> 
+ The Mexican oceanographic North Pacific program:  IMECOCAL..........................................14 
+<START:person> Sydney Levitus <END> 
+ Building global ocean profile and plankton databases for scientific research.............................17 
+ 
+Report of the 2001 REX Workshop 
+ On temporal variations in size-at-age for fish species in coastal areas around 
+ the Pacific Rim.........................................................................................................................19 
+<START:person> Brian J. Pyper, <END>  <START:person> Randall M. Peterman, <END>  <START:person> Michael F. Lapointe <END> and <START:person> Carl J. Walters <END> 
+ Spatial patterns of covariation in size-at-age of British Columbia  
+ and Alaska sockeye salmon stocks and effects of abundance and ocean temperature .................20 
+<START:person> R. Bruce MacFarlane, <END>  <START:person> Steven Ralston, <END>  <START:person> Chantell Royer <END> and <START:person> Elizabeth C. Norton <END> 
+ Influences of the 1997-1998 El Niño and 1999 La Niña on juvenile Chinook salmon  
+ in the Gulf of the Farallones.................................................................................................25 
+<START:person> Olga S. Temnykh <END> and <START:person> Sergey L. Marchenko <END> 
+ Variability of the pink salmon sizes in relation with abundance of Okhotsk Sea stocks..............29 
+<START:person> Ludmila A. Chernoivanova, <END>  <START:person> Alexander N. Vdoven <END> and <START:person> D.V. Antonenko <END> 
+ The characteristic growth rate of herring in Peter the Great Bay (Japan/East Sea) .....................34 
+<START:person> Nikolay I. Naumenko <END> 
+ Temporal variations in size-at-age of the western Bering Sea herring.......................................37 
+<START:person> Evelyn D. Brown <END>
+ Effects of climate on Pacific herring, Clupea pallasii, in the northern Gulf of Alaska 
+ and Prince William Sound, Alaska.........................................................................................44 
+<START:person> Jake Schweigert, <END>  <START:person> Fritz Funk, <END>  <START:person> Ken Oda <END> and <START:person> Tom Moore <END> 
+ Herring size-at-age variation in the North Pacific....................................................................47 
+<START:person> Ron W. Tanasichuk <END> 
+ Implications of variation in euphausiid productivity for the growth, production and 
+ resilience of Pacific herring (Clupea pallasi) from the southwest coast of Vancouver Island......57 
+<START:person> Chikako Watanabe, <END>  <START:person> Ahihiko Yatsu <END> and <START:person> Yoshiro Watanabe <END> 
+ Changes in growth with fluctuation of chub mackerel abundance in the Pacific waters off 
+ central Japan from 1970 to 1997............................................................................................60 
+<START:person> Yoshiro Watanabe, <END>  <START:person> Yoshiaki Hiyama, <END>  <START:person> Chikako Watanabe <END> and <START:person> Shiro Takayana <END>
+ Inter-decadal fluctuations in length-at-age of Hokkaido-Sakhalin herring and Japanese 
+ sardine in the Sea of Japan ....................................................................................................63 
+<START:person> Pavel A. balykin <END> and <START:person> Alexander V. Buslov <END> 
+ Long-term variability in length of walley pollock in the western Bering Sea and 
+ east Kamchtka......................................................................................................................67 
+<START:person> Alexander A. Bonk <END> 
+ Effect of population abundance increase on herring distribution in the western Bering Sea........69 
+<START:person> Sergey N. Tarasyuk <END> 
+ Survival of yellowfin sole (Limanda aspera Pallas) in the northern part of the Tatar Strait 
+ (Sea of Japan) during the second half of the 20
+th
+ century .........................................................71 
+ 
+Report of the 2002 MODEL/REX Workshop 
+ To develop a marine ecosystem model of the North Pacific Ocean including 
+ pelagic fishes............................................................................................................................77 
+Summary ..................................................................................................................................77 
+Workshop overview ..................................................................................................................77 
+Workshop presentations ...........................................................................................................80 
+<START:person> Bernard A. Megrey, <END>  <START:person> Kenny Rose, <END>  <START:person> Francisco E. Werner, <END>  <START:person> Robert A. Klumb <END> and  
+<START:person> Douglas E. Hay <END>
+  A generalized fish bioenergetics/biomass model with an application to Pacific herring ........ 80 
+<START:person> Robert A. Klumb <END> 
+ Review of Clupeid biology with emphasis on energetics ...................................................88 
+<START:person> Douglas E. Hay <END> 
+ Reflections of factors affecting size-at-age and strong year classes of herring in 
+ the North Pacific ............................................................................................................94 
+<START:person> Shin-ichi Ito, <END>  <START:person> Yutaka Kurita, <END>  <START:person> Yoshioki Oozeki, <END>  <START:person> Satoshi Suyama, <END>  <START:person> Hiroya Sugisaki <END>  
+and  <START:person> Yongjin Tian <END> 
+ Review for Pacific saury (Cololabis saira) study under the VENFISH project ....................97 
+<START:person> Alexander V. Leonov <END> and <START:person> Gennady A. Kantakov <END> 
+ Formalization of interactions between chemical and biological compartments in  
+ the mathematical model describing the transformation of nitrogen, phosphorus,  
+ silicon and carbon compounds ..............................................................................................100 
+Herring group report and model results .................................................................................107 
+Saury group report and model results ....................................................................................114 
+Model experiments and hypotheses.........................................................................................119 
+Recommendations...................................................................................................................120 
+Achievements and future steps................................................................................................122 
+Acknowledgements .................................................................................................................122 
+References ..............................................................................................................................122 
+Appendix 1 List of participants............................................................................................129 
+Appendices 2-5 FORTRAN codes .......................................................................................131 
+
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 21 
+2002 
+ 
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+ 
+ 
+REPORT OF  
+THE PICES 2002 VOLUNTEER OBSERVING SHIP WORKSHOP 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+<START:person> Charles B. Miller <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2002 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+E-mail:  secretariat@pices.int        Home Page:  http://www.pices.int 
+
+  
+ 
+PICES SCIENTIFIC  
+REPORT No. 22 2002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Science:  The first ten years  
+and a look to the future 
+  
+ 
+  
+  
+PICES Scientific Report No. 22 
+2002 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Science:  The first ten years  
+and a look to the future 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+<START:person> R. Ian Perry, <END>  <START:person> Patricia Livingston <END> and <START:person> Alexander S. Bychkov <END>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2002 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+                 E-mail:  secretariat@pices.int        Home Page:  http://www.pices.int 
+ 
+ 
+  
+  
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ Page 
+ 
+Introduction................................................................................................................................................. 1 
+ 
+<START:person> Warren S. Wooster. <END>   PICES - the first decade, and beyond ....................................................................... 5 
+ 
+<START:person> Paul H. LeBlond. <END>   The Physical Oceanography and Climate Committee:  The first decade .................... 13 
+ 
+<START:person> D.E. Harrison <END> and <START:person> Neville Smith. <END>   Ocean observing systems and prediction - the next ten years .......... 19 
+ 
+<START:person> Tsutomu Ikeda <END> and <START:person> Patricia A. Wheeler. <END>    Ocean impacts from the bottom of the food web  
+to the top:  Biological Oceanography Committee (BIO) retrospective....................................................... 25 
+ 
+<START:person> Timothy R. Parsons. <END>    Future needs for biological oceanographic studies in the Pacific Ocean.............. 35 
+ 
+<START:person> Douglas E. Hay, <END>  <START:person> Richard J. Beamish, <END>  <START:person> George W. Boehlert, <END>  <START:person> Vladimir I. Radchenko, <END>   
+<START:person> Qi-Sheng Tang, <END>  <START:person> Tokio Wada, <END>  <START:person> Daniel W. Ware <END> and <START:person> Chang-Ik Zhang. <END>   Ten years FIS in PICES: 
+An introspective, retrospective, critical and constructive review of fishery science in PICES .................. 43 
+ 
+<START:person> Richard F. Addison, <END>  <START:person> John E. Stein <END> and <START:person> Alexander V. Tkalin. <END>   Marine Environmental  
+Committee in review................................................................................................................................... 55 
+ 
+<START:person> Robie W. Macdonald, <END>  <START:person> Brian Morton, <END>  <START:person> Richard F. Addison <END> and  <START:person> Sophia C. Johannessen. <END>  
+Marine environmental contaminant issues in the North Pacific:  What are the dangers and  
+how do we identify them?........................................................................................................................... 61 
+ 
+<START:person> R. Ian Perry, <END>  <START:person> Anne B. Hollowed <END> and <START:person> Takashige Sugimoto. <END>   The PICES Climate Change and 
+Carrying Capacity Program:  Why, how, and what next?........................................................................... 87 
+ 
+List of acronyms...................................................................................................................................... 101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 23 
+2002 
+ 
+ 
+ 
+ 
+ 
+Harmful algal blooms  
+in the PICES region of the North Pacific  
+ 
+ 
+ 
+ 
+Edited by 
+<START:person> F.J.R. “Max” Taylor <END> and <START:person> Vera L. Trainer <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2002 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+E-mail:  secretariat@pices.int        Home Page:  http://www.pices.int 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+Foreword.........................................................................................................................................1 
+ 
+Background and objectives ...........................................................................................................3 
+ 
+Country reviews and status reports 
+ 
+Section I. Western North Pacific 
+ 
+Japan  
+<START:person> Yasuwo Fukuyo, <END>  <START:person> Ichiro Imai, <END>  <START:person> Masaaki Kodama <END> and <START:person> Kyoichi Tamai. <END>    
+Red tides and harmful algal blooms in Japan ................................................................7 
+People’s Republic of China  
+<START:person> Tian Yan, <END>  <START:person> Ming-Jiang Zhou <END> and <START:person> Jing-Zhong Zou. <END>   A national report of  
+HABs in China.............................................................................................................21 
+Republic of Korea 
+<START:person> Sam Geun Lee, <END>  <START:person> Hak Gyoon Kim, <END>  <START:person> Eon Seob Cho <END> and <START:person> Chang Kyu Lee. <END>    
+Harmful algal blooms (red tides):  Management and mitigation in Korea..................39 
+Russia 
+<START:person> Tatiana Y. Orlova, <END>  <START:person> Galina V. Konovalova, <END>  <START:person> Inna V. Stonik, <END>   
+<START:person> Tatiana V. Morozova <END> and <START:person> Olga G. Shevchenko. <END>   Harmful algal blooms  
+on the eastern coast of Russia. .....................................................................................47 
+ 
+Section II. Eastern North Pacific 
+ 
+Canada  
+<START:person> F.J.R. “Max” Taylor <END> and <START:person> Paul J. Harrison. <END>   Harmful marine algal blooms  
+in western Canada........................................................................................................77 
+United States of America 
+<START:person> Vera L. Trainer. <END>   Harmful algal blooms on the U.S. west coast. ..............................89 
+Mexico 
+<START:person> Jose L. Ochoa, <END>  <START:person> S. Lluch-Cota, <END>  <START:person> B.O. Arredondo-Vega, <END>  <START:person> E. Nuñes-Vázquez, <END>   
+<START:person> A. Heredia-Tapia, <END>  <START:person> J. Pérez-Linares <END> and <START:person> R. Alonso-Rodriguez. <END>   Marine  
+Biotoxins and harmful algal blooms in Mexico’s Pacific littoral..............................119 
+ 
+Summary and conclusions.........................................................................................................129 
+ 
+Appendices 
+ 
+A. Members of the Working Group............................................................................................137 
+B. Original terms of reference  (Vladivostok, 1999)..................................................................141 
+C. Annual reports of WG 15.......................................................................................................143 
+D. Workshop report on taxonomy and identification of HAB species and data management...149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 24 
+2003 
+ 
+ 
+ 
+ 
+CO
+2
+ in the North Pacific Ocean 
+ 
+ 
+ 
+PICES Working Group 13 
+Final Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+ 
+<START:person> Richard A. Feely <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2003 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int   Home Page:  http://www.pices.int 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 25 
+2003 
+ 
+ 
+ 
+ 
+PICES-GLOBEC INTERNATIONAL PROGRAM ON 
+CLIMATE CHANGE AND CARRYING CAPACITY 
+ 
+ 
+The BASS/MODEL Report on Trophic Models of the 
+Subarctic Pacific Basin Ecosystems 
+ 
+ 
+ 
+ 
+ 
+Compiled and edited by 
+ 
+<START:person> Kerim Y. Aydin, <END>  <START:person> Gordon A. McFarlane, <END>  <START:person> Jacquelynne R. King <END> and <START:person> Bernard A. Megrey <END> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 2003 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int   Home Page:  http://www.pices.int

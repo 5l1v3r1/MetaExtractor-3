@@ -1,0 +1,484 @@
+INTRODUCTION 
+ 
+Project scope 
+ 
+The PICES Carrying Capacity and Climate Change (CCCC) BAsin Scale Studies (BASS) Task Team was established to facilitate studies of the impacts of climate change and climate variability on the physical and biological processes in the gyres of the western and eastern subarctic Pacific Ocean. 
+ 
+In general, the oceanography and ecology of the eastern (ESA) and western (WSA) basins of the subarctic Pacific (Fig. 1) are poorly understood relative to the coastal areas.  It is known that the central subarctic Pacific is productive as indicated by the large abundance of Pacific salmon, squid and other important fishes.  Recent studies also suggest that the oceanography of the gyres is closely linked to the decadal scale changes in climate.  Therefore, it is important that there is a co-ordinated effort to focus on the priority research issues, and to exchange scientific information on a timely basis. 
+ 
+At the PICES Sixth Annual Meeting, the BASS Task Team sponsored a symposium on the Ecosystem dynamics of the Eastern and Western Gyres of the Subarctic Pacific.  The purpose was to bring together available information on the two gyres in a comparative framework.
+
+ 
+Papers presented at the meeting were published in a special issue (Beamish et al. 1999a) of Progress in Oceanography (Guest Editors:  R.J. Beamish, S. Kim, M. Terazaki and W.S. Wooster). 
+ 
+A follow-up workshop was convened in Hakodate, Japan (October 2000), to identify potential models which might have utility for examining gyre systems (McFarlane et al. 2001). 
+Trophodynamic linkages that were likely to be common, as well as those that were model-specific, were identified, and shortcomings were highlighted.  
+Discussions included identifying data groups and potential data sources, incorporating climate and oceanographic change in models, and linking models of the oceanic gyre to models of coastal regions. 
+ 
+Participants recognized that modelling would play an increasingly prominent role in examining the dynamics of the gyres, and recommended the BASS and MODEL Task Teams examine the feasibility of using the ECOPATH/ECOSIM modelling approach as a means to organize our understanding of ecosystems of the subarctic gyres.  
+Specific objectives were to:  (a)  synthesize all trophic level data in a common format, (b)  examine trophic relations in both gyres using ECOPATH/ECOSIM, and (c) examine methods of incorporating the PICES NEMURO lower trophic level model into the analysis. 
+ 
+ 
+ 
+ 
+ 
+Three workshops followed in Honolulu, U.S.A. (March 2001), then Victoria, Canada (October 2001), and finally in La Paz, Mexico (April 2002), where the ECOPATH/ECOSIM baseline models were developed, linked to the NEMURO model, and a number of hypotheses tested (see Appendices C to F for workshop reports). 
+ 
+The purpose of this approach was to provide a “picture” of the two subarctic gyres, and to facilitate our understanding of how these systems respond to natural and anthropogenic change.  
+This report presents our current understanding of the dynamics of these systems.  Further, this report should serve as an outline for data availability and more critically, gaps in upper trophic level biological data as they affect our understanding of the function and variation in the subarctic gyres’ food webs.  
+Finally, it is hoped that the report will form the basis of future work to link the subarctic gyre system to coastal systems. 
+ 
+Climate change, carrying capacity and food web models of the subarctic Pacific Ocean 
+ 
+The subarctic Pacific consists of a major cyclonic gyre surrounded on the north by coastline and boundary currents, and on the south by the Subarctic Current, which isolates the gyres from subtropical waters.  
+The main gyre is pinched at its longitudinal center by the Aleutian Islands, which causes re-circulation of its waters into two sub-gyres: the Western Subarctic and Eastern (Alaskan) Subarctic Gyres (Fig. 2).  
+The two subarctic gyres are biologically distinct, supporting different species and production patterns from plankton through predatory marine mammals (Beamish 1999).  
+As such, the two separate ecosystems are the primary subjects for comparison in this report. 
+ 
+The biological production, carrying capacity, and food webs of the Eastern and Western Gyres have been subjects of considerable speculation, especially given difficulty of access, and the relatively limited data collection performed in these high seas areas (Pearcy et al. 1999).  
+This interest has been driven in part by the fact that the gyres are a “rearing and growth” area for Pacific salmon (Oncorhynchus spp.), and are therefore production areas for important commercial fisheries.  
+Additionally, the link between climate and fisheries on decadal (regime shift) scales points to important ecosystem interactions occurring within the gyres and in synchrony with Pacific-wide events (e.g., the Pacific Decadal Oscillation, Mantua et al. 1997). 
+
+Western and Eastern Subarctic Gyres (WSA and ESA, shaded gray areas), boundary currents (arrows), and subarctic/subtropical frontal zones (dotted lines).  
+Oceanographic features are approximate and may change on interannual time scales. 
+ 
+Attempts to quantify the carrying capacity and/or maximum production rates of fish in the gyres have revealed a fundamental paradox.  
+Calculations of zooplankton biomass and production, when compared to demands made by 
+foraging salmon, the dominant fish, invariably indicated a surplus of available food.  
+Models constructed in the 1970s (Favorite and Laevastu sustain ten times the 1970s standing stock of salmon. 
+ 
+Yet during the 1980s and 1990s, when the system contained only twice the total salmon biomass examined by Favorite and Laevastu, salmon sizes declined (Bigler et al. 1996, Ishida et al. 1993, Ricker et al. 1995).  
+Conservative production estimates, using observed 1980s and 1990s zooplankton and salmon biomass, indicate that adult salmon consume between 0.04% and 0.10% of available annual zooplankton production (Brodeur et al. 1999).  
+Since salmon are a dominant pelagic nekton in the region, it seems at a first glance unlikely that this level of consumption would lead to competition for prey, and thus represent an ecosystem at its carrying capacity for salmon.  
+However, as suggested by Pearcy et al. (1999), trophic and seasonal compression of salmon foraging opportunities may reveal more specific foraging limitations: calculations of the forage available for salmon and other large nekton in the gyres is re-examined here. 
+ 
+Further, it is clear that environmental forcing on multi-year scales, for example through the PDO and ENSO, affects the biology of higher trophic levels in these ecosystems and across the globe (Beamish 1993; Brodeur and Ware 1995; Hollowed et al. 1998; Francis et al. 1998; Beamish et al. 1999b).  
+The effects of climate are not limited to the direct increase or decrease of the biomass of the entire system.  Animals with longer-than-annual life histories integrate short term changes, and their biomass may not respond immediately to changes in ocean conditions.  
+In order to move from correlative to mechanistic relationships linking climate and biology, it is necessary to construct models, either conceptual or quantitative, which account for appropriate time scales of interaction through the food web.  
+Links may not be linear or direct, and scale is critical.   
+ 
+For example, the shoaling mixed layer is used by Polovina et al. (1995) to predict increases in zooplankton production based on the increased concentration of nutrients within the mixed layer.  
+However, as Freeland et al. (1998) point out, while the mixed layer may concentrate nutrients during the spring growth of zooplankton, it may also limit resupply of nutrients later in the season.  
+Thus, while the overall quantity of zooplankton production averaged annually may increase, the extent of the bloom throughout a season, and the resulting zooplankton community structure and transfer of energy to other portions of the food web, may increase for some species but decrease for others. 
+ 
+To examine such indirect and possibly unexpected interactions, food web models are a useful tool, rates across trophic levels on both seasonal and interannual scales.  To accomplish this, multiple models should be examined in concert, with some models covering small or short scale dynamics (such as those associated with plankton dynamics), and some covering the annual scales of fisheries models.  
+Finally, migration models linking gyres with coastal areas should be used to expand the view to examining synchronous changes that have been reported in marine populations across the widest possible area of the North Pacific. 
+ 
+Purposes of these models 
+ 
+The ECOPATH models presented here are based on the pooling of available data from both sides of the Pacific Ocean.  Data from these ecosystems has been brought together and discussed in previous international workshop settings (Beamish et al. 1999a):  the present work represents the first steps in an ongoing quantitative synthesis.  
+These models provide a quantitative framework for future data collection. 
+ 
+Various conceptual food web models of the gyres have been constructed (Sanger 1972;  Pauly and Christensen 1996;  Brodeur et al. 1999), usually with a combination of quantitative and qualitative data.  
+These previous models have begun to address and assess the “carrying capacity” of the subarctic Pacific for many important species, especially Pacific salmon:  this work is continued here. 
+ 
+More critically, in view of regime- or longer-term climatic change, and the acknowledged importance of links between climate and the production of Pacific salmon and other species, it is desirable to focus research priorities based on quantitative assessments of current notions of subarctic ecosystem sensitivities and interactions.  
+Due to the difficulty of data collection in the open ocean, the ecological links with coastal ecosystems, and the necessity of strong international collaboration in future research of these ecosystems, it is useful to have a quantitative framework for pooling information. 
+ 
+ECOPATH, as a tool, is a relatively straightforward method for constructing a quantitative food web for the purposes of hypothesis exploration and data synthesis.  
+The food webs created are similar to those created through other synthetic methods:  the resulting models represent a “snapshot” of what is essentially a moving target, a changing ecosystem.  
+By providing the snapshot as a step in continuing workshops and collaborations, we examine our view of the ecosystem’s sensitivities to change as viewed and modeled through the data currently available.  
+Moreover, we are able to use this framework as a guide to data synthesis, by providing foci for continued international collaboration and collective research.   
+ 
+By simultaneously presenting two models built on a similar framework for two different systems (Eastern and Western Gyres), we stress a comparative approach in examining the underlying comparisons are emphasized in the results of this work.  
+This comparative approach is crucial to understanding the synchronous interactions (in coastal and oceanic ecosystems throughout the world.   
+ 
+The dynamic simulations presented here using ECOSIM include attempts to fit or model changes in biomass as they might occur given certain types of physical forcing.  
+In these models we attempt to take into account the dynamic nature of multiple pathways available in the food webs, and through the examination of simplified interannual patterns, to begin stretching from the correlative to the mechanistic relationship.  Finally, we report on the first stages of linking a smaller-scale nutrient-phytoplankton-zooplankton model (NEMURO) with ECOSIM to partially bridge the gap between the seasonal production cycle and the longer time periods associated with regime shifts. 
+ 
+ 
+ 
+ 
+ 
+METHODS 
+ 
+Model setting 
+ 
+The Eastern and Western Subarctic Gyres as defined by PICES are broad and heterogeneous areas, with currents and other oceanographic boundaries ensuring that multiple ecosystem processes occur within the gyres (Fig. 2).  
+ECOPATH, on the other hand, is a “closed system” model that assumes spatial homogeneity.  
+However, since biological data do not exist in the gyres for explicitly separating sub-areas, it was decided that two basin models, one for each of the west and east, would be most appropriate. 
+ 
+The original aim was to create models that were targeted to “central gyre” rather than boundary current processes.  However, in many cases data for central gyre processes was unavailable.  
+Specifically, in the east, the plankton data and driftnet fishery data were dominated by information near the sub-arctic boundary and NEMURO model calibrated to the Station P region (Subarctic Boundary) were used.  
+In the west, many of the surveys were dominated by both southern boundary processes (in the case of sardines and Pacific pomfret) or Kamchatka Current specific data (in the case of data provided by Russian colleagues).  
+Finally, for species such as marine mammals for which only aggregate North Pacific biomass estimates were available, species were assumed to occur in the gyres in proportion to their area as defined by PICES sub-areas (Fig. 1, Table 1) rather than as defined by shifting oceanographic boundaries (Fig. 2). 
+ 
+The time period chosen for the model was to be as close to present-day as possible;  however, when the project was initiated it was recognized that an oceanographic “regime shift” in the late 1990s may have occurred for which biological data was not yet available.  
+Additionally, one of the primary sources of data for upper trophic level fish species, the Japanese squid driftnet fishery, was operative mainly during the late 1980s.  
+Therefore, the target time period for data was chosen to be the late 1980s/early 1990s.  While data outside this time period was used when necessary, data quality as reported in Appendix A was downgraded appropriately, with very little data being included from “pre-1976” regime conditions. 
+ 
+ 
+Table 1 Ocean surface areas of PICES sub-regions shown in Figure 1, to the nearest thousand square kilometers (Hunt et al. 2000). 
+
+ 
+While ECOPATH is a closed-system model, it does allow some scope for accounting for migrating species, provided that migration is a relatively small proportion of the biomass.  
+However, the dominant commercial fish species in the gyres, and thus a major focus for the models, were Pacific salmon species, all of whom leave the gyres for freshwater systems during the adult phase of their life cycle.  
+Rather than attempting to model “outside” coastal and freshwater processes, salmon data was calibrated to represent “within-system” growth and mortality processes only, and thus the dynamics of juvenile salmon were left as an input to the model (rather than a derived result). 
+ 
+Finally, pink salmon, a dominant upper trophic-level species in the gyres, have a two-year high/low biomass cycle which has been shown to affect the diets and distribution of other species in the subarctic Pacific (Tadokoro et al. 1996).  
+Rather than attempting to capture an “average” ecosystem which might never exist, it was decided years only for the base ECOPATH salmon species, and thus capture the maximum impact that pink salmon might be expected to have in the system.  
+However, it was not possible, due to limited data, might have similar cycles (such as euphausiids or micronektonic squid, Aydin 2000). 
+ 
+Other specific data issues, which were revealed later during the modelling process, are detailed in Appendix A by functional group, and noted in the “Results and discussion” section as they might affect our perceptions of the model.  
+In general, the results reported are those which are relatively robust to changes in the above initial assumptions.  
+It should be noted that, at the outset, a major goal of this work was to provide a “gyre-specific” outline for one portion of the Pacific salmon life cycle to guide future research.  
+The most important next step in examining subarctic processes will be to link these results with coastal and freshwater processes, and in doing so to examine climate/ecosystem interactions as a whole. 
+ 
+ 
+ 
+Base ECOPATH formulation 
+ 
+ECOPATH with ECOSIM (EwE) is a tool for constructing a food web model from fisheries and biological data by subjecting the data to the constraint of ecosystem-level mass-balance.  
+The model assists in the construction of a quantitative food web by ensuring that the biomass inputs and outputs of each ecosystem component (functional group or species) provide a consistent accounting within the specified range of uncertainty in the data.   
+ 
+ECOPATH’s strength lies in its emphasis on using data collected and analyzed in many common types of fisheries analyses (especially stock assessment and food habits studies), and its ability to combine the data into a single coherent picture.  
+ECOPATH is a food web analysis tool that has gained broad recognition as a methodology for assembling and exploring data on marine food webs (Polovina 1985; Christensen and Pauly 1992; Christensen et al. 2000; see the website www.ECOPATH.org for the latest available software, manuals, and list of published models).  
+ 
+ECOPATH is a mass-balance model, built by solving a simple set of linear equations which quantify the amount of material (measured in biomass, energy or tracer elements) moving in and out of each compartment (functional group) in a modeled food web.  
+A single functional group (food web compartment) may be a single species or a set of trophically similar species.  
+The master ECOPATH equation is, for each functional group (i) with predators (j): 
+
+ 
+The definition of the parameters in the above equation, and the general methods used to derive each parameter, are given in Table 2.  
+ 
+The preferred method for using the ECOPATH model is to input all parameters from independent data sources, except for ecotrophic efficiency (EE) for each functional group.  
+ECOPATH will estimate vector EE values by solving the resulting set of linear equations, with EE as the unknown for each functional group, utilizing the generalized inverse method (Mackay 1981) to guarantee a solution.  
+The estimation of EE is the primary tool for data calibration in ECOPATH:  independent estimates of consumption and production of different species often lead to initial conclusions that species are being preyed upon more than they are produced (EE>1.0), which is impossible under the mass-balance assumption (Christensen et al. 2000).  
+ 
+By using an EE greater than 1.0 as a diagnostic tool for error, it is then possible to assess the relative quality of each piece of input data to adjust inputs to a self-consistent whole.  
+This process is known as “balancing” the model:  it does not imply that the true ecosystem is in equilibrium but rather quantifies the uncertainty contained in the estimates of supply and demand present in the system. 
+ 
+In cases where biomass or P/B ratio are unknown for a functional group, the EE for the group may be fixed (usually at a value between 0.8-1.0) and used to estimate the minimum biomass or production rate required to satisfy the consumption rates of the group’s predators.  
+In our study, this “minimum production” method was used only in cases where no reasonable estimate of biomass is available for a group.  
+ 
+The mass-balance constraints of ECOPATH do not in themselves require or assume that the modeled ecosystem is in equilibrium, but rather require that any directional component (known increase or decrease of biomass) be included in the mass-balance accounting through the biomass accumulation (BA) term.  
+However, in practice, especially in systems with sparse data such as the subarctic gyres, the necessary averaging of data over longer (climatic regime-scale) time periods requires an added assumption of relative stability. 
+ 
+Within a modeled regime, it is assumed that the ecosystem lies close (within the range of short-term process noise) to an attractive and relatively stable equilibrium for all modeled biomass components.  
+The system is not assumed to exist in this state in any given instant;  rather, like a carrying capacity for an individual species, it is the state towards which the ecosystem would tend in the absence of driving perturbations (changes in fishing rates, climate, or other process-related noise).   
+ 
+Table 2 Parameters and parameter calculation methods for the ECOPATH master equation. 
+
+ 
+Ecotrophic Efficiency EE (proportion) Estimated by ECOPATH or set at standard level to estimate biomass 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ECOPATH model building and balancing 
+ 
+The construction of an ECOPATH model for each of the two regions shown in Figure 1 was an iterative process of data gathering and examination.  
+Data were collected and/or contributed by Task Team members and workshop participants, and graded by quality as fully documented in Appendix A.   
+ 
+During this initial data gathering and preparation, no attempt was made to adjust or balance the input parameters based on mass-balance concerns.  
+The results of this initial phase was an unbalanced model;  that is, a quantitative food web for which many of the functional groups’ EEs were far greater than 1.0, indicating potential errors in the input data or incorrect/incomplete model formulation.  
+These unbalanced models were presented at the initial three-day workshop in Honolulu, U.S.A. (Appendix D) and, based on discussion of data quality and sources, adjustments were made to balance the model (reduce all EEs below 1.0) as discussed in Appendix A.  
+ 
+After conducting this initial balancing exercise, varied metrics of ecosystem structure, such as community respiration, production, trophic level, and niche habitat were calculated from the balanced models of the two ecosystems.  
+Further, initial ECOSIM runs (perturbation analyses) were performed as described below.  
+The results of these runs with the initial balanced models often highlighted connections in the model which were felt by workshop participants to be inaccurate, represent model pathologies, or not accord with limited historical data and/or experience.  
+After this workshop, additional data sources were targeted and provided which helped to clarify many of these data gaps (see Appendix A).   
+ 
+Thus, several generations of balanced models were produced and subjected to the similar tests before the final workshop in La Paz, Mexico (Appendix F).  
+The two models presented here, one for each of the Eastern and Western Gyres, represent the final iteration of these models.  
+In several cases documented in Appendix A, data did not exist to clarify perceived model errors and thus recommendations for future data collection are provided. 
+ 
+The comparative ecosystem metrics of energy flow and niche habitat reported in the “Results and Discussion” section are from these two final models.  
+Most of the calculation methods for these metrics are documented in the ECOPATH literature, specifically in the User’s Manual (Christensen et al. 2000);  cases where our calculations differed are indicated in the section.   
+ 
+Dynamic simulations using ECOSIM 
+ 
+This assumption of relative stability becomes a formal constraint in the extension of the ECOPATH model to dynamic predictions through the use of ECOSIM.  
+ECOSIM uses the mass-balance solution to the ECOPATH master equations to calibrate the following biomass dynamics model: 
+
+More specific information on each of the above functions, and their calculation from ECOPATH parameters, is given in Table 3.   
+ 
+This general model as written does not automatically assume that an equilibrium state exists for all functional groups in the ecosystem.  
+In particular, the predator/prey interaction functions f(B) are set from consumption, production, and diet parameters plus an additional term, vulnerability, which represents the relative strength of top-down (Lotka-Volterra) interactions and bottom-up (density-dependent ratio) interactions.  
+Further, the relative importance of foraging time limitation or handling time may be included as tunable parameters.  
+In theory the use of these functions does not guarantee that the system has an equilibrium state, and the above formulae may include oscillatory or chaotic dynamics. 
+ 
+However, as coded and used in practice as a transition between ECOPATH and ECOSIM, the parameter M0 (“other” mortality) for each  functional group is set after all of the other parameters in the rate equation have been calculated.  
+It is set from EE values so that, in the Table 3 Terms in the ECOSIM dynamic equations. 
+ 
+Parameter Abbreviation  Notes Growth efficiency GE  Constant for each predator, calculated as (P/B)/(Q/B) from ECOPATH balance;  may be subject to time forcing. 
+Consumption equation f(B) As documented in Walters et al. (1997), independent terms for each predator/prey link include predator density dependence.  
+Calibrated from ECOPATH Q/B and diet composition.  
+Handling time (dependent on sum of prey) and other adjustments or forcing are possible as documented in the EwE manual. 
+Primary production rate PP Simple density-dependent half-saturation curve for all primary producers. 
+Immigration IM Constant yearly rate independent of biomass (assumed determined by outside dynamics).  
+Determined from input ECOPATH immigration. 
+Emigration EM Per-biomass rate determined from input ECOPATH emigration. 
+Biomass Accumulation BA Per-biomass rate determined from input ECOPATH biomass accumulation. 
+Fishing mortality F Per-biomass rate determined from input ECOPATH fisheries catch and biomass. 
+“Other” (not predation) natural mortality absence of a non-zero biomass accumulation (BA), the ECOPATH system of mass-balance equations also represents the equilibrium state of the dynamic equations for all functional groups.  
+The fact that other parameters were adjusted in the ECOPATH stage to ensure that all EEs<1.0 guarantees that a stable equilibrium exists in the model, although this equilibrium may approach an oscillatory or chaotic state if vulnerability is set for strong top-down (Lotka-Volterra) interactions.   
+ 
+The practice also guarantees that only a single equilibrium state exists:  it is not possible for “state flips” or multiple equilibria to exist as emergent properties of changes in state space.  
+Regime shifts are thus only modellable as input (hypothesized) changes in external forcing parameters that persist throughout the regime, and not as internal ecosystem re-organizations.  
+While diet switching occurs in a modelled predator as differing prey species change in biomass, “preferences” remain constant and thus overall transitions remain smooth and reversible. 
+ 
+Thus the EE term performs a “double duty” in the EwE approach as it represents model uncertainty in ECOPATH, yet is used as a dynamic equilibrium-creating term in ECOSIM.  
+The relative stability of this equilibrium is determined by all of the parameters in the system, but in particular, by adjusting the vulnerability parameter for each predator prey link.  Additionally, a “low but positive” threshold is assumed for each biomass that ensures that no biomass may permanently be removed from the ecosystem. 
+ 
+The resulting set of differential equations is run forward in time using standard numerical integration routines (Runge-Kutta order 4 or Adams-Basforth) which allow for the input of time varying forcing functions in fishing mortality rates (F’s) or primary production rate (PP’s).  
+Other possible forcing functions, such as time-varying growth efficiencies (GE’s) as an interaction between temperature and biology, were not explored in these experiments.  
+ 
+Discussion of the uncertainty, and in particular the overstability of ECOSIM under the above default assumptions, is discussed elsewhere (Aydin and Friday 2001).  
+In practice, it is quite possible to tune ECOSIM with historical data to remove overstability from the model.  
+By allowing the model to “spin-up” from a hypothetical stable state to a far-from-equilibrium state, large-scale changes and the effect of permanent decline of component functional groups may be considered.  
+However, the limited historical data available in the subarctic gyres proved to be insufficient to fully calibrate these particular simulations. 
+ 
+Given the limitations of historical data available for the gyres, the ECOSIM results presented here should be considered first-order perturbation analyses.  
+These are perturbations of ecosystems as they exist within a regime, and do not represent regime shifts except in cases where the mechanism of regime shift (such as increased primary production) is hypothesized separately and input to (rather than derived from) the model.  
+Even given this limitation, it is possible to test effects, for example, of assuming that a regime shift is the result of an increase in primary production input into the model.  
+Again, while it is possible to tune a version of the ECOSIM equations to model regime scale “switches” in habitat or predator/prey interactions, in the case of the gyres the data was insufficient to pursue this route. 
+
+ 
+While the lack of historical data for the gyres prevents the calibration of ECOSIM equations to create truly “predictive” models, the results may be used as a general first-order perturbation analyses.  
+That is, large external forcing events may be applied to the ECOSIM equations to determine what species and/or functional groups will tend to respond the most to particular types of ecosystem changes.  
+The interest here is primarily in the comparative approach between systems. 
+ 
+Two basic types of perturbation analyses were carried out.  The first was to change primary production rates by increasing and/or decreasing the constant parameters of the PP function.  
+The second was to remove specific functional groups by drastically increasing fishing (F).  
+For each of these perturbations, the change was made at the beginning of the simulation and remained in place for 50 simulated years.  
+The biomass differences at the end of the 50 years are reported. 
+ 
+In order to estimate errors that might arise from assuming a single equilibrium state, simulations were repeated for 10,000 Monte Carlo estimates of equilibrium states.  
+Each separate state was determined by drawing a subset of the ECOPATH parameters (B, P/B, Q/B, and DC vectors) from distributions based on their error ranges listed in Appendix A, and re-balancing each model to determine EE values.  
+These multiple states are reported as 95% confidence intervals for each base simulation. 
+ 
+This type of error analysis does not account for systematic bias;  specifically, the error that might occur from assuming an incorrect functional response, or incorrectly accounting for relative degrees of top-down and bottom-up forcing (the “vulnerability” and passive respiration parameters indicated above).  
+With extremely limited data for historical fitting, we were unable to accurately tune the models to account for these biases.  
+For some simulations, the effects of assuming increased or decreased vulnerabilities are reported.  
+However, without the ability to accurately tune these models, the results presented here should be considered to provide simple directional (up or down) relationships between components of the ecosystem and should not be used as quantitative predictions.   
+ 
+Regime-fitting style projections 
+ 
+As described in Appendix A, outputs from NEMURO, a detailed nutrient-phytoplankton-zooplankton (NPZ) model calibrated with Eastern Gyre (Station P) zooplankton data, were used to calibrate seasonal dynamics in ECOSIM lower trophic level functional groups.  
+This allowed  
+
+ECOSIM to be run in two modes:  with and without seasonal forcing;  the latter assumes that seasonal processes are time-smoothed to an annual average. 
+ 
+EwE includes simple non-linear data fitting routines that allow forcing functions to be input and shaped so as to minimize error between ECOSIM time trends and input historical data:  this method may be used to tune the model or explore hypotheses on climate forcing as they explain historical data.  
+ 
+After the literature review and workshops detailed in Appendices C-F, a limited number of biological time series were available for the purposes of such fitting.  
+While some data existed from high seas cruises over several years (Appendix A), these data were limited in coverage and noisy, and generally were collected over time periods too short to allow for fitting. 
+ 
+Adult abundance data for Pacific salmon (Oncorhynchus spp.) were available for longer periods (40 years or more), but these data were specific to freshwater stock or country rather than ocean feeding areas (coastal areas and gyres).  
+However, tagging information (e.g. Myers et al. 
+1996) provides qualitative descriptions of stock distribution within the gyres. 
+ 
+It was felt, on balance, that using these data to construct some “back-of-the-envelope” time trends for salmon in the gyres, as described in Appendix A, could be a useful starting point for comparing salmon trends to possible trends in lower trophic-level production in the gyres.  
+These estimates do assume some degree of mixing of Asian and North American stocks in both gyres, and unlike maturing adult net-sampling programs, take into account the presence of immature feeding fish.  
+However, it should be emphasized that, while the results presented below provide a starting point for examining the relationship between gyre production and salmon, extensions of data through new time series, and modeling techniques through explicit gyre/shelf linkage considerations, are strongly encouraged for future pursuit. 
+
+RESULTS AND DISCUSSION 
+ 
+Food web structure 
+ 
+Energy flow 
+ 
+The results discussed in this section are based on the “final” 1990s food webs of the Western Subarctic Pacific (WSA) and the Eastern Subarctic Pacific (ESA) ECOPATH models.  
+The data used to construct the final models, adjustments made to create mass-balance, all final input parameters, and the assessed data quality of input parameters, may be found in Appendices A and B.  
+ 
+For comparative purposes, individual functional groups (“boxes”) were chosen to be as similar as possible between the WSA and ESA models.  
+In the end, 55 functional groups were chosen to reflect the similarities in species composition between the two systems, with differences being assumed to occur in biomass and diet compositions of the common functional groups (Fig. 3).  
+Species occurring on one side of the Pacific were assumed to have a biomass of zero on the other side.  In some broad functional groups, 
+such as mesopelagic fish or micronektonic squid,  
+
+Fig. 3 Food webs of the Western and Eastern Subarctic Pacific Gyres (WSA and ESA) combined to show differences in biomass (boxes) and flow rates (lines between boxes).  Red indicates higher biomasses or rates in the WSA;  blue indicates higher biomasses or rates in the ESA.  
+Box areas and flow widths are proportional to log (biomass or flow rate). 
+WSA/ESA biomass (per unit area) 
+
+ 
+the species making up the groups may differ between the two sides.  
+Due to data limitations and assumed low variation in comparison to biomass, it was assumed that functional groups’ life-history and bioenergetics parameters (P/B and Q/B) were identical between the two systems. 
+ 
+The WSA was estimated to possess a higher biomass across the board for lower trophic level species (phytoplankton and zooplankton).  
+In trophic levels 3+, the biomass of sardine, anchovy, chaetognath, pink salmon, minke whale, clubhook squid, common dolphin, tufted puffin and albatross were higher in the WSA.  
+The ESA has higher biomass levels of large jellyfish, saury, Pacific pomfret and flying squid, and all species of salmon except pink. 
+ 
+The high estimated biomass of flying squid in the east versus pink salmon in the west highlights an issue with data collection in the two gyres:  much of the data in the east is from more southerly regions.  It is unclear if the difference between salmon and flying squid is due to an east/west difference or a north/south difference.  
+The effects of east/west versus north/south may also be real since the influence of the Subarctic Current is more limited in the west than in the east (Fig. 2). 
+ 
+The WSA has a higher biomass (per unit area) for all trophic levels, and this difference increases with increasing trophic level.  
+Trophic level 1 biomass is approximately 5% higher in the WSA while trophic level 5 biomass is 25% higher in the WSA (Table 4; trophic levels denoted by Roman numerals are “transformed” trophic levels as per Ulanowitz 1983). 
+ 
+The lower trophic levels (1 and 2) have throughputs that are extremely high in comparison to other ECOPATH models, for example the Eastern Bering Sea (Aydin et al. 2002).  
+This is probably due to the inclusion of an explicit bacterial group as an intermediate detrital recycler (on trophic level 2).  
+This also has the effect of lengthening the assumed pathways between lower and upper trophic levels.  
+Further, the assumed high efficiency of bacterial metabolism leads to the high transfer efficiencies measured on trophic level 2 (Table 4).  
+In general, detrital turnover times and bacterial recycling are some of the least understood processes in these or other models;  for example, the NEMURO NPZ model reported different seasonal results depending on whether a bacterial loop was explicitly present.  
+Instead of explicitly including the bacteria as was done in the ESA and WSA models, it is probably sufficient to assume that bacterial processes occur within the detritus functional groups and that cycling rates and turnover times can be controlled within the models by varying the size of the detrital pool.  
+ 
+Table 4 Throughput (t/km2/year), biomass (t/km2), throughput/biomass (1/year) and transfer efficiency (percentage) by trophic level in the ESA and WSA models. 
+
+ 
+ 
+To show how the production in each trophic level is distributed among broad categories of species, functional groups in the original models were summed into 17 larger groups shown in Figure 4. 
+ 
+These groups show the surprising importance of large zooplankton (greater than copepods in body size) in middle trophic levels (4-6), relative to forage fish.  
+The zooplankton are on a high trophic level as chains such as detritus -> bacteria -> copepods -> amphipods -> chaetognaths are possible.  
+On trophic levels 7-8, large squid are the most productive species in both systems;  in the WSA zooplanktivorous salmon (pink, sockeye and chum) are additionally important.  
+Sharks dominate production at the top trophic level in both systems. 
+ 
+Connections 
+ 
+In the WSA, a total of 404 predator/prey links were included for the 51 functional groups in the model, while in the ESA model, a total of 363 predator/prey links were included for 48 functional groups.  
+Since the number of links in a random web might be expected to increase with the square of the number of groups, these values indicate a similar level of connectivity modeled in the two food webs. 
+
+To investigate differences in connections in detail, a similarity matrix was constructed for each model by computing a measure of dietary (niche) overlap between each pair of functional groups (Christensen et al. 2000).  
+This matrix was transformed into a cladogram of diet relatedness for the ESA and WSA (Figs. 5-6).  
+The branching of the tree shows relatedness of successively more similar functional groups in terms of diets.  
+A cutoff similarity of 0.70 (on a scale of 0 to 1) was chosen as it tends to divide functional groups into larger collections with several major diet items in common. 
+ 
+As seen in Figures 5-6, functional grouping with a similarity of 0.70 reveals 17 distinct feeding types in the ESA and 18 in the WSA:  four of these are phytoplankton and detritus in each model.  
+These groups, sorted by trophic level, show a progression from large squid eaters to micronektonic squid eaters, forage fish eaters, and zooplanktivores in both systems. 
+ 
+Some key differences in dietary niches between the ESA and WSA include sharks, which in the ESA are modeled as feeding primarily on squid, while in the west are modeled as feeding on fish, especially pink salmon.  
+In the west, sockeye salmon are shown on a higher trophic level than pink salmon due to consumption of micronektonic squid;  the two have closely related zooplankton diets in the east (Figs. 5-6).  
+In both systems, chum salmon specialize on gelatinous zooplankton and are the only species for which such food consumption was measured. 
+ 
+In both systems, baleen whales consume primarily zooplankton rather than forage fish, causing them to be closer in diets to forage fish than to larger fish.  
+This suggests their role with respect to forage fish may be more as competitor than predator in the open subarctic gyres.  
+The lower trophic level dietary matrices were taken from the NEMURO model linkages in both models and are thus identical. 
+Carrying capacity 
+ 
+The issue of “control” in the upper trophic levels, especially with regard to the carrying capacity of salmon and other large nekton, cannot be fully addressed with a static model.  
+However, a few conclusions on general energy availability may be drawn from these food webs.  
+(Carrying capacity as applied to salmon refers to the energy available for somatic growth, as the abundance of salmon is thought to be determined by coastal processes not included in these models). 
+
+As seen in Figure 4, the more complex assumptions about lower trophic levels (including microzooplankton and bacterial groups) effectively raises the trophic level of large (predatory) zooplankton so they function as prey and competitors for zooplanktivorous species such as salmon.  
+A great deal of the variation in their role is expected to be seasonal. 
+ 
+NEMURO (as filtered through ECOPATH) predicts that, when totaled throughout the seasonal cycle of a year, 67% of large phytoplankton and 77% of small phytoplankton is consumed by zooplankton, the remainder being unaccounted for or flowing to detritus in the ESA.  
+Of this flow to detritus, 42% must be recycled to fuel the estimated bacterial production (from the EE values in Table B6).  
+As NEMURO results for the WSA were not available at the time of model construction, these calculations were not performed for the Western Gyre except to note that an overall greater level of primary production is required to fuel the WSA system.  
+Since seasonal variation is greater in the WSA  (Harrison et al. 1999; Appendix A), it is possible that a greater percentage of energy from phytoplankton blooms is not directly consumed by zooplankton in the WSA, but rather, lost or filtered through bacterial processes. 
+
+
+Dietary niche cladogram based on pairwise diet similarity values for the WSA.   
+Italicized text indicates main prey items in common for species within each grouping.  
+Dotted line shows the cutoff for showing groupings (diet similarity = 0.70);  cutoff is arbitrary. 
+
+If multiple zooplankton species are pooled and the destination of energy consumed by zooplankton is tracked, the difficulty of using bottom-up estimations of energy flow to project increases in nekton carrying capacity becomes evident (Table 5).  
+Of the energy, 78% is used in respiration and 14-15% used in “internal” consumption between zooplankton species.  
+Consumption by gelatinous species (large jellyfish and salps) accounts for 4-5% of the energy flow, while consumption by all other species amounts to less than 0.5% combined. 
+ 
+Accordingly, small amounts of process noise in zooplankton respiration rates may result in large changes in the estimates of forage available for large species.  
+Since 80-90% of zooplankton consumption is lost to internal processes, a small change in respiration rates (e.g., through climate-driven changes in water temperature) or efficiency of foraging opportunities (e.g., through changes in seasonal timing) could lead to a substantial change in estimates of energy available throughout the food web. 
+ 
+However, the dominance of respirative processes in zooplankton does not remove the possibility of top-down control, or competition of large nekton through zooplankton species.  
+While consumption represents only 5-6% of the total energy leaving the zooplankton (Table 5), this flow tends to be from the “top” of the zooplankton food web;  that is from species such as euphausiids rather than microzooplankton.  
+A small change in mortality on euphausiids, for example, may affect the “internal” consumption rates by 1-2% which would effectively double or halve the forage available for all fish species.  
+When mortality processes are isolated, gelatinous species (large jellyfish and salps) are seen to have the largest potential for impacting zooplankton.  
+ 
+Overall, the possible variation in energy flow between large and small zooplankton, based on changes in seasonality or other aspects of climate, limits our ability to predict changes in gyre carrying capacity through energetic calculations of lower trophic levels alone.  
+However, this limitation does not remove the possibility of top-down control being a factor for zooplankton in the gyres. 
+ 
+Perturbation-style ECOSIM projections 
+ 
+Initial exploratory analysis 
+ 
+The ECOSIM interface built into EwE allows for a quick deterministic projection of multispecies interactions resulting from basic manipulations in ecosystems;  for example, the software allows users to investigate the effects of removing or reducing a species or functional group through fishing.  
+This graphical simulation tool was used in the workshop setting in an exploratory manner (Appendix F).  
+During the workshop, several perturbation scenarios were explored and the initial results were discussed;  in some cases, this 
+ 
+ 
+Table 5 Destination of energy consumed by zooplanton (combined microzooplankton, copepods, eupahusiids, pteropods, amphipods, predatory zooplankton, sergestid shrimp and chaetognaths). 
+
+ 
+initial work revealed potential weaknesses in the current models or data, and resulting adjustments are noted in Appendix A.  
+However, it was not immediately clear in the workshop how uncertainty in either model structure or input parameters would affect the results in a general sense.  
+A subset of these scenarios was selected for further examination, specifically through sensitivity analysis. 
+ 
+As reviewed by Givens (1994), “simple” sensitivity analyses in deterministic models may involve setting critical input parameters too high or low, and investigating which inputs within these ranges created a large change in projected outputs.  
+This approach was not used for several reasons.  
+First of all, testing combinations of high and low values for a reasonable subset of input parameters would require excessive computer time.  
+Moreover, even without requiring an equilibrium assumption, such testing of input parameters would throw away much of the constraining covariance in input parameters that were appropriate to include to continue to satisfy the overall thermodynamic bounds of the ecosystems.  
+At the same time, it was desired to allow exploration of initial non-equilibrium states in a manner not permitted by the exploratory sensitivity analyses such as EcoRanger included in the EwE package.   
+ 
+To incorporate both the information in the input data (initial model state and parameters) and model information gained by thermodynamic bounding, the following procedure was used.  
+This procedure is a simplified form of the Bayesian Synthesis approach (Givens et al. 1993), where the simplification arises since there is no informative prior information on model outputs, only inputs, and the only added information comes from model structure rather than from fitting to new (time series) data.  
+Several iterations and variations of this procedure were performed, and the selected method was chosen to minimize problems such as “Borel’s Paradox” associated with mapping and updating probability distributions with deterministic models (Givens 1994), although aspects of the problem may still exist.  
+The final procedure used is outlined as follows:   
+
+For each of the ESA and WSA, 20,000 simulated ecosystems were created using a Monte Carlo process [see Box A].  
+Each ecosystem consisted of a set of parameters for the ECOSIM dynamic equations and a vector of initial biomass values and was not necessarily in initial equilibrium.  
+Ranges of parameters were based on confidence ranges of ECOPATH inputs in Appendix A.  
+The parameters chosen for drawing were picked based on which parameters might be expected to be relatively independent within a single functional group. 
+
+Each generated ecosystem was tested for relative thermodynamic consistency, to discard perceived “impossible” states and to impose the likely existence of an equilibrium state containing positive biomass for all functional groups without explicitly specifying the equilibrium as in EwE [see Box A(3)].  
+This constraint eliminated over 90% of generated ecosystems, leaving 1,315 ecosystems for the ESA and 1,514 ecosystems for the WSA, which were deemed sufficient numbers for later steps. 
+ 
+Each of the resulting models was run for 30 years (time step of one year) with no perturbations to give a “baseline” value and confidence limits for year-30 biomass of each functional group.  
+These runs (and those below) were automated with ECOSIM algorithms in a routine called EcoSense, implemented in Visual Basic by K. Aydin (code available upon request).  
+To ensure accuracy, the EcoSense results were compared to EwE results, and EcoSense code was compared to relevant sections of EwE code provided by Villy Christensen.  
+ 
+Each perturbation was run for 30 years in the exploratory mode for the two base models (in EwE and EcoSense) to determine baseline (ECOSIM predicted) change.  
+The final year-30 biomass of each functional group is reported. 
+
+Each perturbation was run for 30 years in each generated, non-discarded ecosystem.  
+The results reported are the difference, for each generated ecosystem, between the non-perturbed ecosystem year-30 biomass and the perturbed ecosystem year-30 biomass.  
+The median and confidence levels for these  differences are reported.  
+ 
+Four parameter types – vulnerability (Walters et al. 1997), foraging time adjust rate (Christensen et al. 2000), handling time (Christensen et al. 2000), and passive respiration percentage (Aydin and Friday 2001) – additionally govern each predator/prey functional response.  
+For these parameter types, no methodology exists for setting perceived or reasonable error ranges.  
+For all of these parameters except handling time, step (5) above was re-run using combinations of “high” and “low” global defaults based on ranges used or published in other ECOSIM models.  
+This is meant as a measure of global bias resulting from changing the EwE defaults for these parameters.  
+Handling time was removed as a factor as the parameter requires an iterative summing of prey which dramatically increases computer time:  the default ECOSIM assumption is that handling time is unimportant in comparison with vulnerability. 
+ 
+It is important to note that, while this procedure escapes the equilibrium assumptions of the EwE approach, the method still assumes that the ECOPATH equilibrium state is the center of each distribution.  
+The only way to move away from equilibrium as a null-hypothesis is to obtain historical (time trend) data for species biomass levels.  
+For determining “unmeasurable” parameters such as vulnerability, these data are critical (Christensen et al. 2000; Aydin and Friday 2001).  
+Fitting to time trend data is the approach favored by EwE and EcoSense fitting routines, and the single greatest lack in the ESA and WSA data lies in the lack of time trend data for tuning bias in species projections. 
+ 
+Finally, these results take into account error in parameterization of food web effects only.  
+Recruitment process error, perhaps the most studied and greatest in magnitude type of error in fisheries biology, is not considered and may outweigh the multi-species considerations covered here.  
+ 
+Perturbation results 
+ 
+Uncertainty in the ECOPATH base equilibrium 
+ 
+Figure 7 shows the median and 95% distribution limits for the percentage difference, for each functional group between the ECOPATH equilibrium biomass and year-30 biomass for the generated ecosystems (with no external perturbations).  
+The 95% distribution is shown, in this and all subsequent simulations, for the case in which vulnerability equals 0.30 for all functional groups, passive respiration (as a percentage of total respiration) equals 0%, and foraging time adjustment is turned off (adjust rate equals 0). 
+ 
+Examination of all high and low combinations for these three parameters (applied to all functional groups simultaneously) indicated that foraging time adjustment was important for the transient behavior of the model but less so for the long-term (year-30) “equilibrium” level for biomass.  
+Other combinations showed that pairwise, interactions between passive respiration and vulnerability were more or less additive.  
+Therefore four distinct cases are illustrated in Figure 7 and subsequent figures:  the base case (dashes and error bars);  the base case with high global vulnerability equals 0.5 (triangles);  the base case with low global vulnerability equals 0.1 (circles);  and the base case with passive respiration equals 20% total respiration (open diamonds). 
+ 
+The results in Figure 7 show that trophic uncertainty is generally largest in the middle of the food web.  
+Thermodynamics constrains the highly aggregated lower trophic levels of both food webs (phytoplankton through copepods) due to aggregation of those groups and the requirements that the groups provide sufficient forage.  
+As predation mortality is the greatest source of uncertainty in these models, uncertainty in top trophic levels is also limited.  
+Salmon and squid tend to have the highest uncertainty with the 95% confidence intervals in both models ranging between –90% and +800%. 
+ 
+The increased top-down control indicated by high vulnerability scenarios increases projected 
+
+
+Each of the ECOPATH input parameters for each functional group (B, P/B, Q/B, and DC) was given an index of error between +/-10% (low uncertainty) and +/-90% (high uncertainty).  
+This data grading procedure was the result of workshop discussions (Appendix A). 
+2. 
+20,000 modeled dynamic ecosystems for each of the ESA and the WSA were created using the master ECOSIM equations as re-written in the “Methods” section and drawing from distributions to select the following parameters for the equations.  
+For each predator: a. PB(start) was selected from a Uniform distribution in the P/B error range; b. GE was selected from a Uniform distribution in the Q/B error range; c. Each element of the predator’s diet composition was selected from a Uniform distribution in the DC error range and re-normalized (giving each diet component a normal distribution);d. Since the above three parameters are multiplied to determine the starting M2 for the predator’s prey, the M2 component had a resulting log-normal distribution deemed appropriate for variable consumption/feeding data; e. M0 was chosen from a uniform distribution around its original ECOPATH value using the P/B error range.  Since ECOPATH sets M0 from EE to “balance” the dynamic equations, at the mean value for all input parameters, the system is in the original ECOPATH equilibrium;  however by selecting M0 independently the system begins away from equilibrium; f. The initial biomass of each functional group was chosen from a Uniform distribution with the B error range.  Initial fishing rate F was not changed for any species; g. Parameters for the predator/prey functional response for which no methodology existed (vulnerability, passive respiration rate, foraging time) were set to vul=0.30;  foraging adjust rate =0 (no foraging adjust);  passive respiration rate=0;  handling time=1000 (handling time unimportant. 
+
+Each model was run for 30 years and the distribution of year-30 biomass values was examined relative to starting ECOPATH values.  
+The models began out of equilibrium and 30 years was generally sufficient for models to approach within 10% of each model’s unique equilibrium state.  
+Investigation of these distributions indicated that most functional groups had a bi-modal distribution of year-30 biomass, with one mode centered around the original (ECOPATH) equilibrium biomass levels and a second, larger mode at zero.  
+In other words, in most generated ecosystems a subset of functional groups “died out” of the ecosystem over 30 years.   
+ 
+Closer examination revealed that most of these extinctions resulted from the dying out of complete trophic levels.   
+In other words, the lack, in most models, of an equilibrium state in which all functional groups had a positive biomass was not due to competitive exclusion.  
+Rather, it was due to drawing sets of parameters that were thermodynamically inconsistent, in that they represented evolutionarily unrealistic over-consumption of entire sections of the food web. 
+ 
+Therefore, all generated models were rejected if, after running the base case for 30 years, at least one functional had decreased to 1/1000 of its ECOPATH biomass, or increased to 1000 times its ECOPATH biomass.  
+These criteria rejected over 90% of generated ecosystems from consideration and eliminated the lower (zero) peak from all output distributions.  
+Rejecting such inconsistent models was seen to represent the adding of thermodynamic information into output distributions and allowed the exploration of non-equilibrium initial states while guaranteeing that the model allowed the broad functional groups that existed in the ECOPATH model to persist over time. 
+
+Percentage difference between ECOPATH year-30 equilibrium biomass (zero-line) and year-30 biomass levels for thermodynamically acceptable Monte-Carlo ECOSIM runs (1,315 accepted ecosystems for the ESA, 1,514 accepted ecosystems for the WSA).  
+Horizontal lines and error bars indicate median and 95% distribution limits for year-30 biomass with vulnerability=0.3, passive respiration=0%, foraging time adjust rate=0.  
+Triangle shows median result for vulnerability=0.5 (high vulnerability);  circle shows median result for vulnerability=0.1 (low vulnerability);  open diamond shows median result for passive respiration=20%. 

@@ -1,0 +1,3374 @@
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION
+PICES SCIENTIFIC REPORT  
+No. 39,  2011
+PICES SCIENTIFIC REPORT No. 39,  2011
+Report of the Study Group on
+Human Dimensions
+ISBN 1-897176-75-9
+ISSN 1198-273X
+PICES PUBLICATIONS 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which 
+document the administrative and scientific activities 
+of the Organization, and its formal decisions, by 
+calendar year.   
+PICES SCIENTIFIC REPORTS – include 
+proceedings of PICES workshops, final reports of 
+PICES expert groups, data reports and planning 
+reports.
+PICES TECHNICAL REPORTS – are on-line 
+reports published on data/monitoring activities that 
+require frequent updates. 
+SPECIAL PUBLICATIONS – are products that 
+are destined for general or specific audiences.
+JOURNAL SPECIAL ISSUES – are peer-
+reviewed publications resulting from symposia 
+and Annual Meeting scientific sessions and 
+workshops that are published in conjunction with 
+commercial scientific journals.   
+BOOKS – are peer-reviewed, journal-quality 
+publications of broad interest. 
+PICES PRESS – is a semi-annual newsletter 
+providing timely updates on the state of the 
+ocean/climate in the North Pacific, with highlights of 
+current research and associated activities of PICES. 
+ABSTRACT BOOKS – are prepared for PICES 
+Annual Meetings and symposia (co-)organized by 
+PICES.
+For further information on our publications, visit the PICES website at www.pices.int. 
+Front cover figure 
+The PICES Study Group on Human Dimensions found an extremely rich scientific and cultural context 
+for fisheries in the PICES area.  For this reason we have selected two illustrations for our report.  The first 
+shows the “Safe-catch festival” in Japan where local fishers are praying about the safety of fisheries 
+operations and big catch.  The second shows the Fishermen’s Memorial in Seattle, U.S.A. as 
+representative of the risks and rewards of fishing in the North Pacific. The message in all of this is that 
+human dimensions of coastal and marine ecosystems are important and worthy of study.
+Continued on inside back page 
+PICES Scientific Reports 
+ 
+ 
+Hargreaves, N.B., Hunter, J.R., Sugimoto, T. and Wada, T. 
+(Eds.) 1993.  Coastal Pelagic Fishes (Report of 
+Working Group 3); Subarctic Gyre (Report of Working 
+Group 6).  PICES Sci. Rep. No. 1, 130 pp. 
+Talley, L.D. and Nagata, Y. (Eds.) 1995.  The Okhotsk Sea 
+and Oyashio Region (Report of Working Group 1).  
+PICES Sci. Rep. No. 2, 227 pp. 
+Anonymous. 1995.  Report of the PICES-STA Workshop 
+on Monitoring Subarctic North Pacific Variability.  
+PICES Sci. Rep. No. 3, 94 pp. 
+Hargreaves, N.B. (Ed.) 1996. Science Plan, Implementation 
+Plan (Report of the PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity).  
+PICES Sci. Rep. No. 4, 64 pp. 
+LeBlond, P.H. and Endoh, M. (Eds.) 1996.  Modelling of 
+the Subarctic North Pacific Circulation (Report of 
+Working Group 7).  PICES Sci. Rep. No. 5, 91 pp. 
+Anonymous. 1996. Proceedings of the Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. 
+No. 6, 426 pp. 
+Beamish, R.J., Hollowed, A.B., Perry, R.I., Radchenko, 
+V.I., Yoo, S. and Terazaki, M. (Eds.) 1997.  Summary 
+of the Workshop on Conceptual/Theoretical Studies and 
+Model Development and the 1996 MODEL, BASS and 
+REX Task Team Reports.  PICES Sci. Rep. No. 7,  
+93 pp. 
+Nagata, Y. and Lobanov, V.B. (Eds.) 1998.  Multilingual 
+Nomenclature of Place and Oceanographic Names in 
+the Region of the Okhotsk Sea.  PICES Sci. Rep. No. 
+8, 57 pp. (Reprint from MIRC Science Report, No. 1, 
+1998) 
+Hollowed, A.B., Ikeda, T., Radchenko, V.I. and Wada, T. 
+(Organizers) 1998.  PICES Climate Change and 
+Carrying Capacity Workshop on the Development of 
+Cooperative Research in Coastal Regions of the North 
+Pacific.  PICES Sci. Rep. No. 9, 59 pp. 
+Freeland, H.J., Peterson, W.T. and Tyler, A. (Eds.) 1999.  
+Proceedings of the 1998 Science Board Symposium on 
+The Impacts of the 1997/98 El Niño Event on the North 
+Pacific Ocean and Its Marginal Seas.  PICES Sci. Rep. 
+No. 10, 110 pp. 
+Dugdale, R.C., Hay, D.E., McFarlane, G.A., Taft, B.A. and 
+Yoo, S. (Eds.) 1999.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Summary of the 1998 MODEL, MONITOR and REX 
+Workshops, and Task Team Reports.  PICES Sci. Rep. 
+No. 11, 88 pp. 
+Lobanov, V.B., Nagata, Y. and Riser, S.C. (Eds.) 1999.  
+Proceedings of the Second PICES Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. 
+No. 12, 203 pp. 
+Danchenkov, M.A., Aubrey, D.G. and Hong, G.H. 2000.  
+Bibliography of the Oceanography of the Japan/East 
+Sea.  PICES Sci. Rep. No. 13, 99 pp. 
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. 
+Predation by Marine Birds and Mammals in the 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. 
+14, 168 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2000.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 1999 MONITOR and 
+REX Workshops, and the 2000 MODEL Workshop on Lower 
+Trophic Level Modelling.  PICES Sci. Rep. No. 15, 148 pp. 
+Stehr, C.M. and Horiguchi, T. (Eds.) 2001.  Environmental 
+Assessment of Vancouver Harbour Data Report for the 
+PICES MEQ Practical Workshop.  PICES Sci. Rep. No. 
+16, 213 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2001.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 2000 BASS, MODEL, 
+MONITOR and REX Workshops, and the 2001 
+BASS/MODEL Workshop.  PICES Sci. Rep. No. 17, 125 pp. 
+Alexander, V., Bychkov, A.S., Livingston, P. and McKinnell, 
+S.M. (Eds.) 2001.  Proceedings of the PICES/CoML/IPRC 
+Workshop on “Impact of Climate Variability on 
+Observation and Prediction of Ecosystem and Biodiversity 
+Changes in the North Pacific”.  PICES Sci. Rep. No. 18, 
+210 pp. 
+Otto, R.S. and Jamieson, G.S. (Eds.) 2001.  Commercially 
+Important Crabs, Shrimps and Lobsters of the North Pacific 
+Ocean.  PICES Sci. Rep. No. 19, 79 pp. 
+Batchelder, H.P., McFarlane, G.A., Megrey, B.A., Mackas, 
+D.L. and Peterson, W.T. (Eds.) 2002.  PICES-GLOBEC 
+International Program on Climate Change and Carrying 
+Capacity: Report of the 2001 BASS/MODEL, MONITOR 
+and REX Workshops, and the 2002 MODEL/REX 
+Workshop.  PICES Sci. Rep. No. 20, 176 pp. 
+Miller, C.B. (Ed.) 2002.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Report of the PICES 2002 Volunteer Observing Ship 
+Workshop.  PICES Sci. Rep. No. 21, 38 pp. 
+Perry, R.I., Livingston, P. and Bychkov, A.S. (Eds.) 2002.  
+PICES Science: The First Ten Years and a Look to the 
+Future.  PICES Sci. Rep. No. 22, 102 pp. 
+Taylor, F.J.R. and Trainer, V.L. (Eds.) 2002.  Harmful Algal 
+Blooms in the PICES Region of the North Pacific.  PICES 
+Sci. Rep. No. 23, 152 pp. 
+Feely, R.A. (Ed.) 2003.  CO
+2
+ in the North Pacific Ocean 
+(Working Group 13 Final Report).  PICES Sci. Rep. No. 
+24, 49 pp. 
+Aydin, K.Y., McFarlane, G.A., King, J.R. and Megrey, B.A. 
+(Eds.)  2003. PICES-GLOBEC International Program on 
+Climate Change and Carrying Capacity:  The BASS/ 
+MODEL Report on Trophic Models of the Subarctic Pacific 
+Basin Ecosystems.  PICES Sci. Rep. No. 25, 93 pp. 
+McKinnell, S.M. (Ed.) 2004.  Proceedings of the Third 
+Workshop on the Okhotsk Sea and Adjacent Areas.  PICES 
+Sci. Rep. No. 26, 275 pp. 
+Kishi, M.J. (Ed.) 2004.  Report of the MODEL Task Team 
+Second Workshop to Develop a Marine Ecosystem Model 
+of the North Pacific Ocean including Pelagic Fishes. 
+PICES Sci. Rep. No. 27, 49 pp. 
+King, J.R. (Ed.)  2005.  Report of the Study Group on the 
+Fisheries and Ecosystem Responses to Recent Regime 
+Shifts. PICES Sci. Rep. No. 28, 162 pp. 
+PICES SCIENTIFIC REPORTS
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+scientific content of these publications are not generally conducted. 
+Printed copies of Scientific Reports are available upon request from 
+PICES Secretariat 
+P.O. Box 6000 
+Sidney, British Columbia 
+Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int 
+On-line versions of PICES Scientific Reports can be found at  
+www.pices.int/publications/scientific_reports/default.aspx 
+This report was developed under the guidance of the PICES Science Board. The views expressed in this report 
+are those of participating scientists under their responsibilities. 
+This document should be cited as follows: 
+Makino, M. and Fluharty, D.L. (Eds.)  2011.  Report of the Study Group on Human Dimensions.  PICES Sci. 
+Rep. No. 39, 40 pp.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 39 
+2011 
+ 
+ 
+ 
+ 
+ 
+ 
+Report of the Study Group on 
+Human Dimensions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+Mitsutaku Makino and David L. Fluharty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 2011 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada. V8L 4B2 
+E-mail:  secretariat@pices.int   Home Page:  www.pices.int 
+   
+   
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+Executive Summary ...........................................................................................................................................................v 
+ 
+1 Introduction.................................................................................................................................................................1 
+2 Rationale for Human Dimensions and Social Sciences ..............................................................................................3 
+2.1 Background and Purpose of the Study Group on Human Dimensions (SG-HD).............................................3 
+2.2 Definition of Terms..........................................................................................................................................4 
+3 Social Sciences for Ecosystem-based Fisheries Management ......................................................................................7 
+3.1 Social Science Categories and Tools for EBFM ...................................................................................................7 
+3.2 The Role of Social Sciences for Better EBFM .................................................................................................15 
+4 Application of Social Sciences for EBFM in PICES Member Countries .................................................................17 
+4.1 Canada............................................................................................................................................................17 
+4.2 Japan ..............................................................................................................................................................20 
+4.3 People’s Republic of China............................................................................................................................21 
+4.4 Republic of Korea ..........................................................................................................................................21 
+4.5 Russia.............................................................................................................................................................22 
+4.6 United States of America ...............................................................................................................................22 
+5 Discussion.................................................................................................................................................................25 
+6 Recommendations.....................................................................................................................................................27 
+7 References.................................................................................................................................................................29 
+8 Appendices ...............................................................................................................................................................33 
+8.1 Study Group on Human Dimensions Membership.........................................................................................33 
+8.2 Seven Steps for the Work of the Study Group on Human Dimensions..........................................................35 
+8.3 Session Summary (2008) and Meeting Report (2010) from Past PICES Annual Meetings...........................36 
+ 
+ 
+  
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+Executive Summary 
+ 
+ 
+In October 2009, the Study Group on Human Dimensions was established under the guidance of the PICES 
+Science Board.  The objective of the Study Group was to review the role of social science practices applied in 
+decision-making in marine sectors around the world.  In order to fully utilize the limited life span of the Study 
+Group, the main focus was on ecosystem-based fisheries management (EBFM), with the following terms of 
+reference: 
+ 
+1. Review how social science has been used/applied globally and regionally in EBFM and the theoretical basis 
+for these practices; 
+2. Review the social scientific tools and information available for EBFM in PICES member countries; 
+3. Develop an inventory of practices for use of social economic information appropriate to the circumstances 
+in each of PICES member countries (the term “best practice” is not used because it is expected what is 
+“best” will vary and be determined according to the circumstances in each of PICES member countries); 
+4. Prepare a final report on activities and findings of the group and make recommendations on the desirability 
+of establishing an expert group related to socio-economic sciences within PICES and on the role of such a 
+group.  For example, based on sound social and economic science, the potential expert group should first 
+survey/assess the needs of potential stakeholders for FUTURE products, and scientifically clarify 
+differences in societal objectives among stakeholders in different sectors and countries.  
+ 
+The Study Group found that there is a wide range of social scientific tools that can add value to natural 
+scientific knowledge for better communication with society.  For example, the social sciences can contribute to 
+defining/selecting goals, objectives, indicators, and targets.  Many quantitative analytical tools have been 
+developed to assess the performance of specific measures which will facilitate inter-disciplinary collaboration 
+among the natural and social sciences.  When implementing EBFM measures, spatial, temporal, and 
+organizational scales matter.  The social sciences have also developed analytical tools for better coordination 
+between existing institutional scales (stakeholders) and natural scientific knowledge.  It was noted that PICES 
+member countries are a rich source of information and data, and are already demonstrating examples of social 
+science tool applications for EBFM.  
+ 
+In order to better understand and communicate the societal implications of the conditions and future trends of 
+North Pacific marine ecosystems (a vision of the PICES FUTURE (Forecasting and Understanding Trends, 
+Uncertainty and Responses of North Pacific Marine Ecosystems) program), to provide a forum for the 
+integration of FUTURE-related studies using social science approaches and tools, and to facilitate the close 
+discussions and communication among researchers from both the natural and social sciences, the Study Group 
+recommends forming a new expert group on human dimensions.  This expert group will conduct a survey to 
+clarify differences in societal objectives and needs among stakeholders in different sectors and member 
+countries and, on this basis, develop an inventory of potential recipients and their communication requirements 
+for FUTURE and other PICES products.  By closely coordinating and communicating with other expert groups 
+in PICES, it will focus on the responses of human social systems to climate-induced changes in marine 
+ecosystems, and will help tune the results from the natural sciences to be relevant (and to resonate with) the 
+needs of societies in each PICES member country.  Vulnerability analyses, selection of indicators on the 
+human dimensions of EBFM, bioeconomics, and Sato-Umi (village seas) are all potential methods which can 
+be applied to these issues.  Based on these results, the expert group will be in a position to contribute to a 
+Human Dimensions Chapter in the next Ecosystem Status Report, as well as to organize a symposium on the 
+human dimensions of ecosystem-based fisheries management. 
+PICES Scientific Report No. 39  v 
+ 
+ 
+   
+Section 1  Introduction 
+ 
+ 
+ 
+ 
+1 Introduction 
+ 
+ 
+The Implementation Plan for the new PICES 
+integrative science program on Forecasting and 
+Understanding Trends, Uncertainty and Responses 
+of North Pacific Marine Ecosystems (FUTURE) 
+calls for PICES scientists to make the societal 
+implications of their science more explicit and 
+accessible through long-term engagement and 
+communication among scientists, decision makers, 
+stakeholders, and across sectors (PICES, 2009). 
+Because different marine sectors view ecosystems in 
+terms of their own economic, cultural and societal 
+needs, the objective of ecosystem conservation is a 
+“societal choice” (Principle 1 of the Ecosystem 
+Approach of the Convention on Biological 
+Diversity).  Therefore, the social significance of 
+predicted impacts from climate or ecosystem 
+changes, and the types of information, advice and 
+guidance to be requested of FUTURE might differ 
+from country to country and sector to sector. Based 
+on this understanding, the PICES Science Board 
+recommended the formation of the Study Group on 
+Human Dimensions (SG-HD), which was 
+established in October 2009.  The Study Group 
+objective was to review the role of social science 
+practices applied in decision-making in marine 
+sectors around the world.  In order to fully utilize the 
+limited time frame of a Study Group, the main focus 
+was on ecosystem-based fisheries management 
+(EBFM), with the following terms of reference: 
+1. Review how social science has been used/applied 
+regionally in EBFM and the theoretical basis for 
+these practices; 
+2. Review the social scientific tools and information 
+available for EBFM in PICES member countries; 
+3. Develop an inventory of practices for use of 
+social economic information appropriate to the 
+circumstances in each of the PICES member 
+countries (the term “best practice” is not used 
+because it is expected what is “best” will vary 
+and be determined according to the circumstances 
+in each PICES member country); 
+4. Prepare a final report on activities and findings of 
+the group and make recommendations on the 
+desirability of establishing an expert group 
+related to socio-economic sciences within PICES 
+and on the role of such group.  For example, 
+based on sound social and economic science, the 
+potential expert group should first survey/assess 
+the needs of potential stakeholders for FUTURE 
+products, and scientifically clarify differences in 
+societal objectives among stakeholders in different 
+sectors and countries.  
+ 
+This is the final SG-HD report. 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 39  1 
+ 
+   
+Section 2  Rationale for Human Dimensions and Social Sciences 
+ 
+ 
+ 
+ 
+2 Rationale for Human Dimensions and Social Sciences 
+ 
+ 
+2.1 Background and Purpose of the Study 
+Group on Human Dimensions (SG-HD) 
+ 
+Since the industrial revolution, man’s impact on the 
+oceans has increased dramatically, this being 
+especially true in recent years.  In nearshore coastal 
+areas, human population growth has led to 
+increasing pollution and habitat modification. In 
+order to tackle this issue, the concept of Ecosystem 
+Based Management (EBM) or Ecosystem Approach 
+(EA) is now widely accepted as the standard strategy 
+for achieving sustainable delivery of marine and 
+estuarine ecosystem services (Francis et al., 2011). 
+Under the overarching objective of conservation  
+of species and habitat, EBM or EA is the 
+implementation of defined objectives related to 
+maintaining and monitoring biodiversity, productivity, 
+and physical and chemical properties of an ecosystem 
+(Jamieson and Zhang, 2005).  
+ 
+Under the PICES framework, there were two 
+scientific activities associated with this theme.  The 
+first one was the Study Group on Ecosystem-based 
+Management Science and its Application to the 
+North Pacific (SG-EBM, 2003–2004, Co-chairs: 
+Glen Jamieson and Chang-Ik Zhang).  The other  
+was the Working Group on Ecosystem-based 
+Management Science and its Application to the 
+North Pacific (WG 19, 2004–2009, Co-chairs:  Glen 
+Jamieson, Chang-Ik Zhang, and Patricia Livingston).  
+ 
+The SG-EBM reviewed and described existing and 
+anticipated ecosystem-based management initiatives 
+in PICES member countries, and found that the 
+EBM challenges are different between China, Japan 
+and Korea compared with Russia, Canada and the 
+United States.  On the western side of the Pacific, 
+i.e., China, Japan, and Korea, the much larger 
+coastal populations are coupled with their much 
+longer history of full exploitation of most 
+harvestable renewable resources.  This means that 
+EBM is, at the least, focused on:  (1) minimizing 
+existing impacts, (2) rebuilding depleted stocks to 
+acceptable levels, and (3) in nearshore areas in 
+particular, minimizing widespread impacts in the 
+marine environment from land runoff from both 
+industrial and urban development.  In contrast, in the 
+three countries of the North and East Pacific, i.e., 
+Russia, Canada and United States, human coastal 
+populations and coastal development are generally 
+much less, with fishing impacts, offshore oil and gas 
+development, and transport identified as the major 
+impacts.  In many instances, relatively unimpacted 
+pristine habitats and biological communities still 
+exist, and so the challenges in these regions often 
+concern how to maintain them while permitting 
+appropriate new economic activities to occur 
+(Jamieson and Zhang, 2005).  
+ 
+Based on these findings, the subsequent Working 
+Group (WG 19) developed a country matrix to 
+summarize the progress made towards EBM in 
+PICES member countries, and found that they used 
+very diverse approaches.  WG 19 also found that 
+spatial issues were important for identifying 
+stakeholders, defining objectives, conducting 
+research, and implementing policies. In relation to 
+this, the WG 19 final report concluded that 
+collaboration with the social sciences is needed to 
+develop effective indicators for marine “social-
+ecological systems” (Jamieson et al., 2010).  
+ 
+The concept of “social-ecological” systems is a 
+relatively new idea.  It recognizes that ecological 
+(bio-physical or “natural”) systems and human 
+social systems (including cultural, management, 
+economic, socio-political, and ethical aspects) are 
+sub-systems of larger systems (Berkes and Folke, 
+1998; Ostrom 2009; Perry et al., 2010; Ommer et al., 
+2011).  This means considering people as more than 
+just “stressors” on marine ecosystems through 
+fishing, habitat alterations, contaminants, etc. 
+Instead, the concept of coupled and integrated social 
+and ecological systems needs to be recognized.  
+ 
+Behind the concept of social-ecological systems, 
+there exists an emerging recognition that good 
+scientific (bio-physical or ecological) arguments for 
+PICES Scientific Report No. 39  3 
+Rationale for Human Dimensions and Social Sciences  Section 2 
+management actions are sometimes not accepted or 
+implemented because of the perceived socio-
+economic or cultural costs. An integrated 
+understanding of how ecosystem changes affect 
+human social systems, and vice versa, is necessary 
+to improve stewardship of marine ecosystems. 
+Similar recognitions have been raised from 
+ecosystem modeling studies.  For example, Smith et 
+al. (2009) noted that EBM policies and strategies 
+that focus only on ecological outcomes are doomed 
+to failure.  They concluded that the social sciences 
+could contribute at three levels in their simulation 
+model, i.e., behavior of individuals, behavior of 
+communities and groups, and institutional dynamics 
+and governance.  
+ 
+Based on these concepts, the Study Group on 
+Human Dimensions (SG-HD) was established in 
+2009.  The purpose of SG-HD was not to design 
+management systems or plans, and outreach steps, 
+but to review the role of social science practices 
+applied in decision-making in marine sectors. In 
+order to fully utilize the limited time frame of a 
+Study Group, the main focus was on ecosystem-
+based fisheries management (EBFM, Pikitch et al., 
+2004) or Ecosystem Approach to Fisheries (EAF, 
+Garcia and Cochrane, 2005), in particular in the 
+North Pacific.  Also, in order to achieve integrated 
+discussions on social-ecological systems, the 
+membership included both natural scientists and 
+social scientists, as shown in Appendix 8.1.  As 
+indicated in the terms of reference in section 1,  
+SG-HD reviewed social scientific tools as well as 
+their applications in PICES member countries. The 
+procedure of the Study Group’s review work is 
+provided in Appendix 8.2.  Appendix 8.3 provides a 
+summary of a topic session dealing with the 
+interactions between natural and socio-economic 
+issues in the context of ecosystem-based management, 
+and the SG-HD report, from past PICES Annual 
+Meetings.  
+ 
+ 
+2.2 Definition of Terms 
+ 
+In this section, the definitions of terms along with 
+the concept of “social-ecological systems” in this 
+report are provided. Some of them are very 
+customary and common for everyone, but others 
+may be different or new, especially for natural 
+scientists.  Also, the key words or key concepts in 
+each term are provided to highlight the differences 
+in the viewpoints among terms. 
+Fisheries Management (FM)  
+The United Nation’s Food and Agriculture 
+Organization’s (FAO) Code of Conduct for 
+Responsible Fisheries defines Fisheries Management 
+to be the integrated process of information gathering, 
+analysis, planning, decision-making, allocation of 
+resources and formulation and enforcement of 
+fishery regulations by which the FM authority 
+controls the present and future behaviors of the 
+interested parties in the fishery, in order to ensure 
+the continued productivity of the living resources 
+(FAO, 1995).  The key concepts or viewpoints in 
+this term are fisheries sector, resource (species), and 
+productivity in terms of volume and value.  
+ 
+Ecosystem Management (EM)  
+Ecologists define Ecosystem Management as 
+management driven by explicit goals, executed by 
+policies, protocols, and practices, and made 
+adaptable by monitoring and research based on our 
+best understanding of the ecological interactions and 
+processes necessary to sustain ecosystem 
+composition, structure, and function (Christensen et 
+al., 1996).  It is based on a management philosophy 
+which focuses on desired states rather than system 
+outputs and which recognizes the need to protect or 
+restore critical ecological components, functions, 
+and structures in order to sustain resources in 
+perpetuity (Cortner et al., 1996).  So, the key 
+concepts or viewpoints in this term are native system 
+in situ, habitat, and evolutionary and ecological 
+processes.  
+ 
+Ecosystem Approach (EA)  
+Ecosystem Approach is a strategy for the integrated 
+management of land, water, and living resources that 
+promotes conservation and sustainable use in an 
+equitable way (CBD, 2000).  It is based on the 
+application of appropriate scientific methodologies 
+focused on levels of biological organization which 
+encompass the essential processes, functions, and 
+interactions among organisms and their environment. 
+It recognizes that people, with their cultural diversity, 
+are an integral component of ecosystems.  As the 
+operational guidance and 12 principles of EA show 
+(http://www.cbd.int/ecosystem/implementation.shtml), 
+the key concepts here are, in addition to that of EM, 
+benefit-sharing, adaptive strategy, time and scale 
+consistency, decentralization, and intersectoral 
+cooperation. 
+ 
+4  PICES Scientific Report No. 39 
+Section 2  Rationale for Human Dimensions and Social Sciences 
+PICES Scientific Report No. 39  5 
+Ecosystem-based Fisheries Management (EBFM) 
+and Ecosystem Approach to Fisheries (EAF)  
+EBFM is an approach that takes major ecosystem 
+components – both structural and functional – into 
+account in managing fisheries (NRC, 1999). It 
+essentially reverses the order of management 
+priorities to start with the ecosystem rather than the 
+target species (Pikitch et al., 2004).  On the other 
+hand, a similar term, EAF, was adopted by FAO to 
+reflect the merger of two different but related 
+paradigms, i.e., ecosystem management and fisheries 
+management.  There are a lot of terms and acronyms 
+related to EBFM or EAF (Garcia et al., 2003; Link 
+2010). In this report, SG-HD uses EBFM and EAF 
+interchangeably and treats them as synonyms.  Also, 
+the Study Group considers EBFM (or EAF) to be an 
+extension of conventional fisheries management, so 
+that what is managed are not ecosystems but human 
+activities. 
+ 
+To clarify the concept of EBFM, Fluharty et al. 
+(2010) compared the relationships between FM, 
+EBFM, and EM. FM is based on a traditional single-
+factor management approach.  It considers only the 
+factor or species being used, and physical habitats 
+are occasionally considered if they are surrogate for 
+population parameters.  On the other hand, EM is an 
+integrated management in an ecosystem context, 
+which considers impacts of all the activities 
+including fisheries on the status of the species being 
+used and across the ecosystem.  EM accommodates 
+spatial needs and habitat impacts of such activities, 
+and considers direct and indirect effects to 
+ecosystems, as well as the status of communities and 
+resilience of the community or system (Berkes and 
+Folke, 1998). Fluharty et al. (2010) positioned 
+EBFM between FM and EM. In addition to FM, in 
+which the species or factors being used are 
+considered, EBFM considers prey, dependent 
+predators, food supply and impacts on ecosystems. 
+In terms of physical habitats, EBFM considers 
+productive capacity and the impacts of fisheries 
+activities on habitats.  Also, EBFM pays clear 
+attention to environmental conditions such as 
+productivity regimes and forcing, as well as 
+biodiversity impacts on species which are not being 
+used directly by the fisheries sector. The 
+fundamental difference between EBFM and EBM is 
+that the former considers various impacts from 
+fisheries sectors only, while the latter includes all the 
+ 
+other activities and sectors relating to marine 
+ecosystem services.  As for the definition of 
+“ecosystem”, we follow Jamieson et al. (2010), in 
+which an ecosystem is defined as “the spatial unit 
+and its organisms and natural processes (and cycles) 
+that are being studied or managed.” 
+ 
+Next, we need definitions of terms for the review of 
+social scientific tools for EBFM.  
+ 
+Social science  
+Social science generally means a group of subjects 
+concerned with the study of people within society. In 
+this report, however, we focus on the relationships 
+between human beings and ecosystems because the 
+social-ecological system is one of the key concepts 
+in our study.  Therefore, we use the term “social 
+science” to mean the group of subjects concerned 
+with the relationships among people within society 
+as well as among societies and the ecosystems in 
+which people spend their lives. 
+ 
+The next section shows the results of the review 
+work of SG-HD on social science tools for EBFM in 
+various approaches or methodologies.  So, the 
+following terms need to be defined: a science tool, a 
+scientific approach, and a scientific methodology. 
+ 
+A science tool is a tool, gear, or technique for doing 
+scientific work, which can be applied in specified 
+ways and purposes.  A scientific approach is a way 
+of dealing with scientific themes, a way of doing 
+scientific work, or a logical process leading to a 
+scientific result.  Usually, a scientific approach uses 
+a group of science tools.  A scientific methodology 
+is a combination of tools and approaches. A 
+scientific discipline is a conventional category of 
+training methodologies in educational institutions 
+such as universities. 
+ 
+It is easy to understand these definitions if one 
+imagines climbing a mountain.  The tools one can 
+use are alpenstock, mountain bikes, or cable cars (if 
+these exist for the mountain being considered).  The 
+approaches one can choose are how to approach the 
+summit (objective), i.e., from the north, from the 
+south, or via a smooth path, a steep rocky way, etc. 
+Each approach needs its appropriate set of tools. 
+Some tools can be used in various approaches, while 
+others can be used only in a specific approach.  
+ 
+ 
+ 
+   
+Section 3  Social Sciences for EBFM 
+ 
+ 
+ 
+ 
+3 Social Sciences for Ecosystem-based Fisheries Management  
+ 
+ 
+3.1 Social Science Categories and Tools for EBFM 
+ 
+The SG-HD members conducted a thorough review 
+of social science categories, and identified useful 
+tools for EBFM.  A preceding study on a similar 
+theme, (De Young et al., 2008) summarized social 
+science tools and methodologies into three 
+categories: (1) decision-making tools, (2) information- 
+acquisition and dissemination tools, and (3) process 
+methodologies. In this report, social science tools 
+were categorized into traditional academic 
+disciplines.  There are several reasons why SG-HD 
+chose to categorize social science tools this way.  
+First, the Group wanted to pay attention to the 
+specific philosophies or viewpoints developed in 
+each traditional discipline, because they will be 
+intrinsically reflected in EBFM approaches.  The 
+same tools can be used in several disciplines and 
+different approaches.  Second, categorization based 
+on discipline is easy to understand for most 
+university-educated people, and can be referred to 
+by professors and lecturers who are going to produce 
+future scientists in the field of EBM or EBFM. 
+Similarly, when a researcher is going to study new 
+tools for EBFM, he/she can easily find the 
+candidates for new tools in or near his/her discipline. 
+Finally, a discipline-based list of tools can be 
+effectively utilized when organizing problem-
+solving types of research programs within or across 
+research institutes or universities. 
+ 
+The results of SG-HD’s review work are 
+summarized in Table 3.1.  It shows the name of 
+traditional academic disciplines, their general 
+descriptions and typical tools.  These tools can be 
+applicable not only to EBFM but also to EBM, i.e., 
+analytical objects are not limited to the fisheries 
+sector.  As additional information, the table includes 
+leading journals in English, from which readers can 
+search appropriate research articles on how to use 
+the tools for EBFM.  In addition, several non-
+English journals published in PICES member 
+countries are listed to find more applications in each 
+area. 
+The disciplines and tools listed in Table 3.1 have the 
+potential to improve EBFM by conducting analysis 
+based on, for example, the following approaches.  
+ 
+Anthropology, especially cultural anthropology or 
+ethnology studies, deals with, among others, cultural 
+aspects of the human relationship with ecosystems. 
+Its potential contribution to E B F M i s l a r g e .  F o r 
+example, many native communities all over the 
+world have practiced their own form of EBFM for 
+traditional, small-scale, and community-based 
+fisheries.  Their management is largely based on 
+their traditional view or ecosystem knowledge. 
+Anthropology, especially cultural anthropology, can 
+reveal their tacit knowledge of ecosystems or 
+experiences of fisheries management which have 
+accumulated over time.  How people appreciate 
+“healthy or desired ecosystems” or “threats”, as well 
+as their preferences in food consumption, are also 
+deeply rooted in their culture.  
+ 
+Economics generally explores the production, 
+distribution, allocation, and consumption of resources 
+and services.  Theoretical and empirical analyses can 
+be used to address issues from the scale of individual 
+households and businesses to the scale of industrial 
+sectors, communities, regions, nations, and the 
+world.  It can contribute in various ways for better 
+EBFM, and SG-HD divided it into six sub- 
+categories:  
+   bioeconomic modeling,  
+   impact analysis,  
+   non-market valuation,  
+   decision theory,  
+   property right regimes,  
+   trade/development. 
+ 
+Bioeconomic models can be used to identify socially 
+optimum levels of sustainable harvests, to determine 
+optimal trajectories for rebuilding depleted 
+populations of living marine resources and recovery 
+of compromised habitats, and to determine optimal 
+size and spacing of marine protected areas. 
+PICES Scientific Report No. 39  7 
+ 
+Table 3.1 Social science disciplines and tools. 
+Social Sciences for EBFM                     Section 3
+Discipline General description and typical tools Leading journals in English Leading non-English journals 
+Anthropology / 
+Ethnology   
+ 
+Anthropology, especially cultural (social) anthropology or 
+ethnology, covers resources relating to the scientific study 
+of human beings, such as their distribution, behavior, 
+social and cultural characteristics or development. This 
+category, by definition, borrows from related resources in 
+history, archaeology, ethnology, folklore and several 
+other social sciences. Typical tools in this field are 
+participatory observation and evaluation, interviews, 
+excursion, surveys/questionnaires, field work, 
+comparison, and data analysis. 
+• Human Nature - An Interdisciplinary Biosocial 
+Perspective (Springer),  
+• Human Ecology (Springer), 
+• Annual Review of Anthropology (Annual Reviews) 
+• Seri Ethnological Studies (Japan),  
+• Anthropological Journal (Japan),  
+• Japanese Journal of Human Geography (Japan),  
+• Ethno-National Studies (China),  
+• Journal of Sociology and Social Anthropology 
+(Russian) 
+Economics 
+(bioeconomic 
+modeling)  
+Bioeconomic modeling combines models of the behavior 
+and dynamics of biological or ecological systems with 
+economic models of the net value of production and 
+consumption of goods and services produced by the 
+biological or ecological systems. At its simplest, the 
+bioeconomic model relies on the biological or ecological 
+model to identify the suite of feasible states of the 
+biological or ecological system and then uses an 
+economic model of market and non-market benefits to 
+identify the particular state of the biological or ecological 
+system that will maximize value to society as a whole. 
+The toolkit for bioeconomic modeling includes:  optimal 
+control theory, cost/benefit analysis, and simulations. 
+• Natural Resource Modeling (Wiley-Blackwell),  
+• Marine Resource Economics (MRE Foundation),  
+• North American Journal of Fisheries Management  
+   (American Fisheries Society),  
+• Canadian Journal of Fisheries and Aquatic Sciences 
+(NRC Press),  
+• Journal of Environmental Economics and 
+Management (Elsevier),  
+• American Journal of Agricultural Economics (Wiley-
+Blackwell),   
+• Environmental and Resource Economics (Springer) 
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Regional Fisheries (Japan),  
+• Review of Environmental Economics and Policy 
+Studies (Japan),  
+• Chinese Fisheries Economics (China),  
+• Environmental and Resource Economics Review 
+(Korea),  
+• The Journal of Fisheries Business Administration 
+(Korea),  
+• Izvestiya TINRO (Russian Journal of Marine 
+Biology) (Russia),  
+• Voprosy Rybolovstva (Fisheries Research) 
+(Russia) 
+Economics  
+(impact analysis)  
+Economic impact analysis characterizes the operation of 
+regional-scale economies, tracing how changes in the 
+economic activity of one sector induce changes in 
+spending and employment in other sectors within and 
+between regions and through time.  Typical tools are 
+input-output analysis, computable general equilibrium 
+models, cost-benefit analysis, and economic dependency 
+measures. 
+• Annals of Regional Science (Springer Verlag),  
+• Journal of Regional Science (Wiley-Blackwell),   
+• Marine Resource Economics (MRE Foundation),  
+• Land Economics (University of Wisconsin),  
+• Environmental and Resource Economics (Springer) 
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Regional Fisheries (Japan),  
+• Journal of the North Japan Fisheries Economics 
+(Japan),  
+• Chinese Rural Economy (China),  
+• Chinese Fisheries Economics (China),  
+• Environmental and Resource Economics Review 
+(Korea),  
+• The Journal of Fisheries Business Administration 
+(Korea),  
+• Rybnoe Khozyaystvo (Fisheries) (Russia),  
+• Morskoy Sbornik (Marine Bulletin) (Russia) 
+ 
+   
+8 PICES Scientific Report No. 39
+   
+Table 3.1 Continued  
+S e c t i o n 3         S o c i a l S c i e n c e s f o r E B F M
+Discipline General description and typical tools Leading journals in English Leading non-English journals 
+Economics (non-
+market valuation) 
+Non-market valuation describes the theoretical 
+characterization and empirical estimation of the value, 
+positive or negative, of goods and services that are not 
+transacted in economic markets. Examples of non-market 
+goods and services include externalities (e.g., pollution), 
+public goods (e.g., scenic vistas, ecosystem services, 
+wildlife viewing), and recreation. Tools used in non-
+market valuation studies include contingent valuation, 
+hedonic pricing, the Travel Cost Method, discrete choice 
+models, and economic experiments.  
+• Journal of Environmental Economics and 
+Management (Elsevier),  
+• Environmental and Resource Economics (Springer),  
+• American Journal of Agriculture Economics (Wiley-
+Blackwell),  
+• Land Economics (University of Wisconsin),  
+• Marine Resource Economics (MRE Foundation),  
+• Ecological Economics (Elsevier),  
+• Environmental Values (White Horse Press) 
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Regional Fisheries (Japan),  
+• Economics Research Journal (China),  
+• The Journal of World Economy (China), 
+• Chinese Fisheries Economics (China),  
+• Environmental and Resource Economics Review 
+(Korea),  
+• The Journal of Fisheries Business Administration 
+(Korea),  
+• Rybnoe Khozyaystvo (Fisheries) (Russia) 
+Economics  
+(decision theory)  
+Decision theory consists of a variety of conceptual and 
+applied methods for combining information from diverse 
+sources and singular or multiple criteria to identify the 
+best decision. Decision theory extends to decision-making 
+under uncertainty and in the face of risk as well as 
+decision making when faced with cooperative or non-
+cooperative opponent (e.g., another firm, another nation, 
+or nature).  Tools applied in decision theoretics include: 
+problem tree/decision tree analysis, game theory, multi-
+attribute utility analysis, Delphi methods, risk analysis, 
+analytic hierarchy process, and decision trees. 
+• Annals of Operations Research (J.C. Baltzer AG, 
+Science Publishers),  
+• Operations Research (Informs),  
+• Natural Resource Modeling (Wiley-Blackwell),  
+• Marine Resource Economics (MRE Foundation),  
+• North American Journal of Fisheries Management 
+(American Fisheries Society),  
+• Canadian Journal of Fisheries and Aquatic Sciences 
+(NRC Press) 
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Operations Research of Japan (Japan),  
+• Chinese Fisheries Economics (China),  
+• Chinese Rural Economy (China),  
+• Environmental and Resource Economics Review 
+(Korea),  
+• The Journal of Fisheries Business Administration 
+(Korea),  
+• Izvestiya TINRO (Russia) 
+Economics  
+(property right 
+regimes)  
+The rules that societies use to allocate access to and 
+condition the use of living marine resources and their 
+environments have a profound influence on the way the 
+resources are used, the sustainability of those uses, and on 
+the distribution of benefits and costs across society.  
+Prevalent property right regimes include, e.g., open 
+access, common property, limited entry, individual 
+fishing quotas (IFQs), territorial use rights in fishing 
+(TURFs), community quotas, sector allocations, and 
+fishing cooperatives. 
+ 
+The study of property right regimes, particularly those 
+that address the common-pool resource dilemma, is an 
+academic focus of resource economists, anthropologists, 
+sociologists, lawyers, human ecologists, and game theorists. 
+ 
+The toolkit for evaluation of property right regimes is 
+very diverse, running from ethnographies, interviews, and 
+surveys to analyses of legal foundations and precedents to 
+bioeconomic and decision theoretic models. 
+• Journal of Environmental Economics and 
+Management (Elsevier),  
+• Land Economics (University of Wisconsin),  
+• Natural Resources Journal (University of New 
+Mexico),  
+• Human Ecology (Springer),   
+• Marine Resource Economics (MRE Foundation),  
+• Marine Policy (Elsevier),  
+• North American Journal of Fisheries Management 
+(American Fisheries Society),  
+• Canadian Journal of Fisheries and Aquatic Sciences 
+(NRC Press),  
+• Environmental and Resource Economics (Springer),  
+• Journal of Agricultural and Resource Economics 
+(Western Agricultural Economics Association),  
+• Journal of Regulatory Economics (Springer)  
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Regional Fisheries (Japan),  
+• Journal of the North Japan Fisheries Economics 
+(Japan),  
+• Economics Research Journal (China),  
+• Chinese Fisheries Economics (China),  
+• Environmental and Resource Economics Review 
+(Korea),  
+• The Journal of Fisheries Business Administration 
+(Korea),  
+• Ocean and Polar Research (Korea),  
+• Ocean Policy Research (Korea),   
+• Theory and Practice of Marine Activities (Russia) 
+   
+PICES Scientific Report No. 39 9
+ 
+Table 3.1 Continued  
+Social Sciences for EBFM                     Section 3
+Discipline General description and typical tools Leading journals in English Leading non-English journals 
+Economics (trade 
+/ development) 
+International trade policies (tariffs and non-tariff barriers, 
+exchange rate manipulation, etc.) and international 
+economic development activities affect the cost of input 
+factors and the value of products, especially when the 
+products and their input factors are integrated into 
+international trade markets.  
+ 
+Many countries subsidize fisheries production and impose 
+trade-distorting tariffs on fish imports or exports. 
+Together, these macroeconomic policies influence the 
+intensity of fishing pressure and habitat modification. 
+Similarly, development policies of donor nations, the UN, 
+and the World Bank affect fisheries, through, e.g., loans 
+and grants that increase fleet capacity, encourage 
+modernization/ industrialization of fishing vessels, and 
+encourage development of coastal zone aquaculture.  
+The toolkit includes case studies of the macro, micro, and 
+regional economic consequences of trade policies and 
+economic development programs, theoretical and empirical 
+models of international trade, trade liberalization, and 
+regional economic cooperation/integration 
+• Journal of Environmental Economics and 
+Management (Elsevier),  
+• Journal of Public Economics (Elsevier),  
+• Journal of Political Economy (University of Chicago),  
+• Journal of Development Studies (Taylor & Francis),  
+• Environment and Trade (UNEP),  
+• Review of Development Economics (Wiley-
+Blackwell),  
+• Journal of Environment and Development (Sage 
+Publications) 
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Regional Fisheries (Japan),  
+• Journal of the North Japan Fisheries Economics 
+(Japan),  
+• Journal of International Trade (China), 
+• The Journal of World Economy (China),  
+• International Economic Review (China),  
+• Environmental and Resource Economics Review 
+(Korea),  
+• The Journal of Fisheries Business Administration 
+(Korea),  
+• Ocean Policy Research (Korea),   
+• Theory and Practice of Marine Activities (Russia),  
+• Rybnoe Khozyaystvo (Fisheries) (Russia),  
+• Global Economy and International Relations 
+(Russia) 
+Environmental 
+accounting  
+Environmental accounting is the application of national 
+accounts concepts and classification for producing 
+statistical descriptions of the inter-relationships between 
+the economy and environment.   
+ 
+• Ecological Economics (Elsevier),   
+• Environmental Values (White Horse Press) 
+• Review of Environmental Economics and Policy 
+Studies (Japan),  
+• Accounting Research (China),  
+• Chinese Fisheries Economics (China),   
+• Economics and Business (Russia),   
+• Voprosy Economiki (Economics Research) 
+(Russia) 
+Geography / area 
+studies  
+Geography covers resources concerned with socio-
+cultural aspects of the Earth's surface emphasizing the 
+human, economic, political, urban, cultural, biological, 
+and environmental issues of the discipline. Geospatial 
+information technologies, which include Global 
+Positioning System (GPS), Remote Sensing (RS), 
+Geographic Information System (GIS), etc., are highly 
+developed for data collection and analysis. Main tools 
+applicable to EBFM are community profiling, asset 
+mapping, and marine use analysis by GIS.  
+• Journal of Regional Science (Wiley-Blackwell),  
+• Progress in Human Geography (Sage Publications),  
+• Economic Geography (Clark University),  
+• Political Geography (Elsevier),  
+• Environment and Planning (Pion),  
+• Environmental Impact Assessment Review (Elsevier),  
+• Cultural Geographies (Sage Publications),  
+• Regional Studies (Routledge),  
+• International Regional Science Review (Sage 
+Publications) 
+• Journal of Regional Fisheries (Japan),  
+• Human Geography (Japan),  
+• Geographical Review of Japan (Japan),  
+• Acta Geographica Sinica (China),  
+• Pacific Oceanography (Russia) 
+ 
+   
+10 PICES Scientific Report No. 39
+   
+Table 3.1 Continued 
+S e c t i o n 3         S o c i a l S c i e n c e s f o r E B F M
+Discipline General description and typical tools Leading journals in English Leading non-English journals 
+Law  This discipline seeks a deeper understanding of the nature 
+of law, legal reasoning, legal systems and legal 
+institutions. Major tools are comparative law, legal 
+history, legal philosophy, legal sociology, case law 
+studies, and law and economics (economic analysis of law). 
+• Ecology Law Quarterly (University of California 
+Berkeley),  
+• Harvard Environmental Law Review (Harvard Law 
+School),  
+• Journal of Law and Economics (University of 
+Chicago Press),  
+• Natural Resources Journal (University of New 
+Mexico),  
+• Columbia Law Review, Harvard Law Review, Yale 
+Law Review, University of California Los Angeles 
+Law Review, Stanford Law Review 
+• Ocean Bulletin (Kaiyo Jiho) (Japan),  
+• Journal of Law (China),  
+• Chinese Fisheries Economics (China),  
+• Ocean Policy Research (Korea),  
+• Marine Law and Practice (Russia) 
+Policy science  Policy analysis deals mainly with policy background, 
+decision-making, implementation, costs, effects, etc. In all 
+but the most rudimentary applications, the normative 
+dimension is inescapable in policy science. Major tools 
+include institutional analysis, discourse analysis/content 
+analysis, public choice, process analysis, decision-
+analysis, bureaucracy and administration, performance 
+evaluation, trade-off analysis/impact assessment, benefit-
+cost analysis, ex-post/ex-ante assessments, stakeholder 
+analysis, and survey research. 
+• Marine Policy (Elsevier),   
+• Food Policy (Elsevier),  
+• Global Environmental Change-Human and Policy 
+Dimensions (Elsevier),  
+• Journal of Political Economy (University of Chicago 
+Press),  
+• Journal of Policy Analysis and Management (John 
+Wiley and Sons),  
+• Political Analysis (OUP),  
+• Governance (Wiley-Blackwell),  
+• Environmental Politics (Routledge),  
+• Resource Policy (Elsevier) 
+• Journal of Marine Policy (Japan),  
+• Management World (China),   
+• Ocean Policy Research (Korea),  
+• Journal of Social Policy Studies (Russian),  
+• Global Economy and International Relations 
+(Russia) 
+Psychology  
+(social or applied)  
+Psychology (applied/social) covers resources on 
+individual/organizational/social psychology, including 
+cognition, selection, organizational behavior and 
+development. 
+• Journal of Environmental Psychology (Elsevier),  
+• Organizational Behavior and Human Decision 
+Processes (Elsevier)  
+• Japanese Association of Industrial/Organizational 
+Psychology Journal (Japan),  
+• Japanese Journal of Social Psychology (Japan),  
+• Philosophical Researches (China),  
+• Acta Psychologica Sinica (China),  
+• Psychology (Russia),   
+• Vestnik of Moscow State University, Ser. 14. 
+Psychology (Russia) 
+ 
+   
+PICES Scientific Report No. 39 11
+ 
+   
+Social Sciences for EBFM                     Section 3
+Table 3.1 Continued 
+Discipline General description and typical tools Leading journals in English Leading non-English journals 
+Seafood 
+business 
+“Seafood business” is composed of business administration, 
+seafood distribution systems, fish processing, food 
+management, retail marketing, and consumer dynamics. 
+This field has been the focus of business activity, as it is 
+based on profitability; therefore, this field has not been 
+discussed in the context of marine science. Also, this 
+fields deals with safety and stability of food provision to 
+consumers. Main tools are marketing/ promotion/ 
+exposition, logistics, organizational analysis, demand-
+supply analysis, price theory, working process analysis, 
+chemical testing and evaluation, consumer research (focus 
+group, conjoint analysis, analytic hierarchy process, etc.), 
+and distribution system analysis.  
+• Seafood Business (Diversified Business 
+Communications),  
+• Seafood International (InterFish),  
+• Seafood Processor (Highway - a division of 
+Informa  and Transport),  
+• Western Fisheries (Fisheries Department of 
+Western Australia),  
+• Southern Fisheries (a joint publication of the 
+Department of Primary Industry-Fisheries and 
+the South Australian Research and 
+Development Institute) 
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Food System Research (Japan),  
+• Journal of Market History (Japan),  
+• Chinese Fisheries Economics (China),  
+• Food Industry (Russia),  
+• Fish and Seafood (Russia) 
+Sociology  Sociology covers disciplines that focus on the study of 
+human society, social structures, and social change as well 
+as human behavior as it is shaped by social forces. Main 
+tools for EBFM are interviews, stakeholder analysis, 
+surveys/questionnaires (interviews, observation, paper + 
+telephone), and field work. 
+• Rural Sociology (Rural Sociological Society),  
+• Society and Natural Resources (Taylor and 
+Francis),  
+• Agriculture and Human Values (Springer),  
+• Human Studies (Springer),  
+• American Sociological Review (American 
+Sociological Association),  
+• Environment and Behavior (Sage Publications),  
+• Organization and Environment (Sage Publications) 
+• Journal of Environmental Sociology (Japan),  
+• Journal of Regional Fisheries (Japan),  
+• Sociological Studies (China),  
+• Sociology: Methodology, Methods, Mathematical Models 
+(Russia) 
+Aquaculture Confined aquaculture and ocean ranching interact with 
+sport and commercial fisheries in terms of ecology, 
+economics, business, and law. Models of optimal structure 
+for aquaculture operations, models of market competition 
+between aquaculture and wild fisheries. 
+• American Journal of Agricultural Economics 
+(Wiley-Blackwell),  
+• Marine Resource Economics (MRE Foundation),  
+• Aquaculture Economics and Management 
+(Taylor and Francis)  
+• Japanese Journal of Fisheries Economics (Japan),  
+• Journal of Regional Fisheries (Japan),  
+• Journal of the North Japan Fisheries Economics (Japan),  
+• Journal of  Fishery Sciences of China (China),  
+• Chinese Fisheries Economics (China),  
+• Environmental and Resource Economics Review (Korea),  
+• The Journal of Fisheries Business Administration (Korea),  
+• Ocean Policy Research (Korea),   
+• Theory and Practice of Marine Activities (Russia),  
+• Rybnoe Khozyaystvo (Fisheries) (Russia),  
+• Izvestiya TINRO (Russian Journal of Marine Biology) (Russia) 
+Other inter-
+disciplinary 
+fields 
+There are many inter-disciplinary fields relating to EBFM. 
+For example, risk analysis for disasters, food safety, 
+environmental degradations, goal ranking analysis, and 
+communication strategy planning. Education and 
+empowerment tools for stakeholders (transect diagram and 
+walk, participatory learning, visioning, etc.) are the most 
+important for training next generations. 
+• Risk Analysis, Ecology and Society, Fish and 
+Fisheries (Wiley-Blackwell),  
+• Annual Review of Environment and Resources 
+(Annual Reviews),   
+• Journal of Environmental Education (Heldref 
+Publications) 
+• Nippon Suisan Gakkai Shi (Japan),  
+• Economic Perspectives (China),  
+• Exploration and Preservation of Natural Resources in Russia 
+(Russia). 
+12 PICES Scientific Report No. 39
+Section 3  Social Sciences for EBFM 
+Theoretical models can be used to derive 
+characteristics of optimal solutions; empirical models 
+can be used to develop policy recommendations or to 
+analyze the consequences of policy choices. 
+Bioeconomic models can be specified as dynamic or 
+static, stochastic or deterministic, discrete or 
+continuous time, single or multispecies.  Empirical 
+bioeconomic models often form the core of 
+simulation models used to explore the probable 
+consequences of policy options or to test the 
+sensitivity of the optimal solution(s) to perturbations 
+of parameter values. 
+ 
+Economic impact analyses are useful to measure the 
+fine scale (economic sector, community, state, or 
+country) consequences of management actions (e.g., 
+changes in regulations) or changes in external 
+drivers (e.g., changes in input or output prices, the 
+availability of labor, catch limits, or revised 
+allocations between fishing sectors).  Key indicators 
+from regional economic models include changes  
+in employment, in personal income, and in 
+expenditures for inputs.  Regional economic models 
+may also provide estimates of economic multipliers 
+and measures of economic dependency.  Economic 
+multipliers characterize the extent to which 
+expenditures within a regional economy stimulate 
+additional economic activity.  Economic dependency 
+measures attempt to characterize the extent to which 
+regional economies are dominated by, and thus 
+thrive or collapse, depending on the performance of 
+individual economic sectors such as fishing. 
+ 
+Economic markets are efficient (maximize value to 
+society) at allocating goods and services when the 
+benefits and costs of those goods and services fully 
+accrue to market participants. When private 
+production and consumption decisions do not reflect 
+the full public benefits or costs of the decisions, 
+market transactions will lead to overproduction or 
+overconsumption of goods and services that generate 
+negative externalities, and market transactions will 
+lead to the undersupply of goods and services that 
+yield valuable public benefits.  Non-market 
+valuation is a collection of methods designed to 
+estimate the value of goods and services that are not 
+well represented in market transactions.  Because 
+society benefits (or is harmed) by the production of 
+both marketed and non-marketed goods and services, 
+it is important that resource managers have access to 
+estimates of both when weighing decisions about the 
+exploitation or preservation of ecosystems.  
+ 
+It is worth pointing out here that there are important 
+discussions going on among experts and researchers 
+about the abilities and issues in ecosystem valuations. 
+For example, natural ecosystems yield services that 
+have intrinsic value for their ability to support 
+fisheries and other extractive uses, for their 
+contribution to water and atmospheric cycles, for 
+their ability to absorb effluents, and for their amenity 
+benefits.  In contrast to extractive uses such as 
+fisheries, which can be readily monetized, the value 
+of many of these other ecosystem services are not 
+easily monetized and are often ignored until 
+ecosystems are substantially impaired through 
+pollution, physical disruption, or eutrophication. 
+Societies tend to underinvest in services that are not 
+monetized.  Ecosystem valuation has been explored 
+through a variety of methodologies (see, e.g., 
+Bingham et al., 1995). Examples include assessment 
+of the contribution of saltwater marshes, mangroves, 
+estuaries, and coral reefs to the reproduction and 
+juvenile survival of commercially harvested fish and 
+shellfish. Another application of ecosystem 
+valuation has been to estimate the avoided cost of 
+advanced wastewater treatment if the nearshore 
+environment were unable to processes sewage 
+discharge – the implication being that society would 
+begin to incur the costs of wastewater treatment if 
+the marine environment became so impaired that it 
+was unable to absorb the sewage discharge. 
+Ecosystem value assessment also plays a critical role 
+in determining the damages associated with 
+pollution events, e.g., cases in Russia (section 4.5) or 
+natural disasters, e.g., tsunamis, hurricanes, and 
+earthquakes.  In these cases, ecosystem valuation is 
+often called “natural resource damage assessment” 
+and the lost value of ecosystem services acts as a 
+basis for awarding damages against responsible 
+parties and compensating those who have lost the 
+benefits of unimpaired ecosystem services (see e.g., 
+French et al., 1996 and Ward and Duffield, 1992).   
+ 
+The next economic sub-category is decision theory. 
+Choices about the goals and objectives of EBFM 
+and the means to achieve these goals and objectives 
+are complex, uncertain, and controversial.  Decision 
+theoretic tools can be used to formalize the process 
+of developing the goals and selecting the means, and 
+to reveal inconsistencies between the selected means 
+and intended outcomes.  These techniques have been 
+used to evaluate management strategies for 
+transboundary fisheries, and to organize stakeholder 
+input on the relative importance of competing 
+PICES Scientific Report No. 39  13 
+Social Sciences for EBFM  Section 3 
+objectives and preferences for alternative 
+mechanisms for pursuing those objectives. 
+ 
+The outcome of resource management, whether for 
+single species or for ecosystems, is largely 
+predetermined by the established rules that govern 
+access to, and use of, living marine resources and 
+their habitat.  Property right regime studies deal with 
+such aspects of EBFM.  They include a group of 
+various social sciences, but in this report it is placed 
+as a sub-category in economics.  For example, 
+solving the common-pool dilemma is the key to 
+sustainability.  That many societies have thrived for 
+extended periods of time is clear testimony to their 
+ability to devise institutions (rules to structure access 
+to common resources) that were feasible, 
+enforceable, and sustainable.  The litany of collapses 
+of marine populations and the ecosystems that 
+support them is clear evidence that poorly designed 
+or poorly enforced property rights regimes will 
+trump any effort at “scientific” management. 
+Anthropologists, sociologists, human ecologists, 
+resource economists, game theorists, and lawyers 
+have learned many lessons about the design features 
+of successful solutions to the common-pool dilemma 
+and pathologies of unsuccessful resource management 
+regimes. These lessons reveal universal principals 
+and unique case-specific findings that should prove 
+invaluable in the design of EBFM systems. 
+ 
+Trade and development studies have developed their 
+own concepts and approaches in economic theory, 
+and are the final sub-category. Economic 
+development programs and trade policies can work 
+in concert with, or in opposition to, the goals and 
+objectives of EBFM.  The effect of these policies 
+and programs should be considered in the choice of 
+management strategies for EBFM.  In addition, the 
+implementation of development programs and the 
+promulgation of trade policies should take in to 
+account EBFM goals and objectives. 
+ 
+By integrating environmental and economic data 
+into a coherent framework, environmental accounts 
+significantly increase the capacity to evaluate 
+economic activity and its dependence upon the 
+natural environment as a source of materials and 
+energy, and as a sink for waste products.  The 
+framework revolves around an integrated information 
+system that also provides clear guidance for 
+environmental data collection.  In the context of 
+fisheries resources, environmental accounting brings 
+more systematic organization and coherence to 
+scientific and socio-economic datasets through the 
+adoption of standard classification, development of 
+consistent time series, and enablement of 
+international comparisons.  It is an analytical tool for 
+fisheries managers, policymakers, and researchers 
+alike. 
+ 
+The contributions of geography, especially 
+Geographical Information Systems (GIS), have 
+already become an indispensable tool for promoting 
+EBFM or EAF.  Many case studies have been 
+reported in the FAO Fisheries and Aquaculture 
+technical paper on “Geographic Information 
+Systems to support the ecosystem approach to 
+fisheries” (Carocci et al., 2009).  GIS is an important 
+tool to integrate data and analytical results from 
+wide-ranging disciplines into a visually 
+understandable manner, which leads to better 
+communication with stakeholders. 
+ 
+Any measures for implementing EBFM must follow 
+international and domestic laws.  In other words, 
+international and domestic legal components are 
+very much in the background of EBFM.  In the 
+1970s and 1980s, almost no critical attention was 
+paid by legal scholars to these issues with the 
+exception of the Regional Fisheries Management 
+Organization, and in the Arctic.  Very little work 
+was being done except when laws were reauthorized 
+or revised, and even then analyses were mostly post-
+hoc.  Virtually zero comparative domestic law work 
+has been done.  We have to consider legal 
+challenges for the integration of marine policy and 
+management as well as to adapt to climate change. 
+The targets of Domestic Law of the Oceans are 
+exclusive economic zones (EEZ), fisheries, marine 
+pollution, coastal and marine spatial planning, 
+marine transportation, offshore mineral and oil, and 
+invasive species. 
+ 
+Also important for implementation is a field called 
+policy science.  Policy science for EBFM deals with 
+the nature of public policy, its decision-making and 
+implementation processes, administrative structure, 
+and financial feasibility.  Based on these analyses, 
+the roles of government, industry, academics, NGOs, 
+consumers, etc., and their appropriate strategies for 
+EBFM, can be discussed. 
+ 
+Psychology, especially social psychology, has been 
+an indispensable social scientific area for 
+understanding many problems concerned with 
+fisheries.  Social psychology has a close relationship 
+14  PICES Scientific Report No. 39 
+Section 3  Social Sciences for EBFM 
+to economics (behavioral economics) and often 
+involves game theory to explain social phenomena, 
+including fisheries.  For example, Hardin’s (1968) 
+“tragedy of the commons” is often used to explain 
+an overexploitation of the stock which is not 
+managed based on “property rights”. The “prisoner’s 
+dilemma” (Axelrod, 1984) is also cited for 
+explaining an overinvestment in the fishery or 
+seafood industry.  A benefit of social psychology is 
+that it can explain phenomena which cannot be 
+described by general economic theory. Group 
+dynamics or social influences are good examples, 
+and the understanding of these phenomena is very 
+important for not only explaining the activities of 
+fishers but also for designing fisheries management 
+plans or systems.  Psychology has already played 
+important roles in social impact assessments.  
+Pollnac et al. (2006) suggested the application of 
+this approach to fisheries, especially for assessing 
+the satisfaction of stakeholders such as fisheries 
+workers and local citizens. 
+ 
+Under EBFM, private companies have been 
+increasingly required to conduct ecologically 
+sustainable business operations with low 
+environmental burdens. At the same time, companies 
+must pursue, by definition, profits. The seafood 
+business seeks practical business strategies under 
+which ecosystems and fisheries can exist in 
+productive harmony.  
+ 
+Sociology has many branches and its target spreads 
+from the small community level to the global scale. 
+EBFM is often merged with an idea of community-
+based fisheries management (CBFM) and is known 
+as a community-based ecosystem approach to 
+fisheries management (CEAFM). Sociology, 
+especially community studies, has a very important 
+role for analyzing the relationships between small 
+communities and their surrounding ecosystems. 
+ 
+Aquaculture, which is fundamentally different from 
+the wild capture fisheries, could be one discipline 
+applicable and indispensable for EBFM studies.  The 
+spatial allocation of sustainable aquaculture sites is 
+one important theme in marine planning or EBFM. 
+ 
+ 
+3.2 The Role of Social Sciences for Better EBFM 
+ 
+Using the approaches and tools summarized in the 
+previous section, the social sciences can deal with 
+various EBFM issues, which have traditionally not 
+been analyzed or discussed in the field of natural 
+sciences.  
+ 
+There are many studies or documents which discuss 
+the procedures or processes for implementing EBFM 
+(e.g., Garcia et al., 2003; Jennings and Rice, 2011), 
+but few of them have discussed how to define or 
+select the goals, objectives, indicators, or targets. 
+Principle 1 of the CBD Ecosystem Approach states 
+the objective of ecosystem conservation is a 
+“societal choice” (Smith and Maltby, 2003).  We 
+clearly need sound social scientific analyses when 
+setting or selecting the objectives, goals, indicators, 
+or targets for planning and implementing EBFM 
+activities.  For example, sound understanding of 
+what people care about, or how they appreciate 
+ecosystems, is the foundation of such processes (see, 
+e.g., the Japanese case study in section 4.2 and Puget 
+Sound case study in section 4.6).  Indicators are 
+expected to reduce the complexity of ecological 
+systems to a small set of synthetic indices of system 
+state (Rice and Rochet, 2005).  However, social, 
+economic, or institutional indicators for human 
+dimensions are less well-developed than for 
+ecological indicators.  
+ 
+Many social sciences have developed not only 
+qualitative approaches and tools for descriptions, but 
+also quantitative analysis approaches and tools for 
+numerical verification of the results. Such 
+approaches and tools are compatible to natural 
+scientific findings or simulation results for EBFM, 
+and vice versa.  In that sense, social sciences can 
+contribute to judging or assessing the social and 
+economic performances of EBFM measures.  In 
+particular, many analytical tools have been 
+developed in economics and environmental 
+accounting to quantitatively assess the “efficiency” 
+of specific measures.  In addition, tools in sociology, 
+anthropology, and psychology can be used to 
+conduct sound analysis on other social criteria such 
+as “sufficiency”, “fairness”, and “appropriateness”., 
+“Resilience” and “adaptive capacity” are also 
+important criteria for assessing EBFM and societal 
+responses.  
+ 
+When implementing EBFM measures, the scale 
+issue is an important and non-trivial aspect.  Social 
+sciences can propose spatial, temporal, and 
+organizational scales for EBFM, coordinate with 
+existing institutional scales and stakeholders, and 
+provide natural scientific knowledge.  Because some 
+socio-economic information is easier for stakeholders 
+PICES Scientific Report No. 39  15 
+Social Sciences for EBFM  Section 3 
+16  PICES Scientific Report No. 39 
+to understand than the natural scientific type and 
+therefore, is more useful to explain, the social 
+sciences can promote natural scientific understanding 
+to stakeholders. Overall, by conducting these analyses, 
+the social sciences can improve the value of the 
+information produced by natural sciences for better 
+understanding by the public, administrative officials 
+and fishers. 
+ 
+Section 4  Application of Social Sciences for EBFM  
+ 
+ 
+ 
+ 
+4 Application of Social Sciences for EBFM in PICES Member 
+Countries 
+ 
+ 
+In this section, three examples of the application of 
+social sciences are introduced for each PICES 
+member country.  A summary of 18 case studies is 
+shown in Table 4.1.  Note that these are just typical 
+examples from the growing number of experiences 
+in the member countries, and not a comprehensive 
+catalogue of applications.  Many other application 
+cases can be found in the journals listed in Table 3.1. 
+ 
+ 
+4.1 Canada 
+ 
+Environmental accounting framework in Canada  
+As the nation-wide initiative for developing EBFM, 
+environmental accounting concepts are being 
+applied to monitor and assess the economic 
+importance, impacts, full costs, and benefits of 
+fisheries management.  It is composed of the asset 
+accounts (economic value of stocks of human-made 
+capital, i.e., fishing fleets/vessels, fish processing 
+capacity), flow accounts (employment in fisheries 
+sectors, dependencies on fishing and related 
+activities) and economic impacts of marine-related 
+activities in Canada.  The environmental accounting 
+framework will also find enhanced applications in 
+more recent efforts towards the development of an 
+ecosystem goods and services framework (Statistics 
+Canada, 2006).  Several typical examples of 
+empirical estimates are as follows:  
+ 
+1. Material and energy flow accounts: record, in 
+physical terms, the flow of materials and energy 
+– in the form of natural resources and wastes – 
+between the economy and the environment.  
+They are directly linked to the input–output 
+accounts of the Canadian System of National 
+Accounts (CSNA).  This linkage enables the 
+calculation of key indicators of the resource and 
+waste intensity of economic activity.  
+2. Natural resource stock accounts: measure 
+quantities of natural resource stocks (oil, natural 
+gas, minerals, timber, and land) and the annual 
+changes in these stocks due to natural processes 
+and human activity.  These accounts, which are 
+recorded using both physical and monetary units, 
+form the basis of the estimates of Canada’s 
+natural resource wealth that are included in the 
+Canadian national balance sheet accounts.  
+3. Measuring renewable water assets in Canada: 
+Empirical work on environmental accounting of 
+fisheries and other aquatic resources is not yet 
+fully implemented in Canada. 
+ 
+Pacific North Coast Integrated Management Area 
+The Pacific North Coast Integrated Management 
+Area (PNCIMA) is the coastal area facing the U.S. 
+border at Alaska in the north, the base of the 
+continental shelf in the west, Brooks Peninsula in the 
+southwest, and the point of separation of Johnstone 
+Strait and Strait of Georgia in the southwest.  Its 
+ecosystem management goal is to ensure a healthy 
+and prosperous ocean area by working with all 
+interested parties to develop and implement a plan to 
+manage human activities in a comprehensive manner 
+that balances ecological, economic, social, and 
+cultural interests.  The governing body includes a 
+wide range of representatives from federal (e.g., 
+Fisheries and Oceans Canada (DFO), Environment 
+Canada, Natural Resources Canada, Transport 
+Canada), and provincial (British Columbia and 
+regional districts) governments, and First Nations 
+organizations (Nanwakolas Council of First Nations, 
+Council of the Haida Nation, Central Coast First 
+Nations Committee, North Coast Skeena First 
+Nations Stewardship Society, etc.).  The PNCIMA 
+Initiative is now preparing an integrated management 
+plan.  In order to develop the conservation objectives 
+for the area, Marine Use Analyses are being 
+conducted, which include tools from anthropology 
+(how communities use this marine environment), 
+economics (analyses of monetary and on-monetary 
+economic values), and policy issues (legal analysis 
+and policy science). 
+PICES Scientific Report No. 39  17 
+ 
+Table 4.1 Applications of social science approaches and tools in PICES member countries. 
+Application of Social Sciences for EBFM  Section 4
+Location Social science approaches or tools applied or being applied Purpose 
+Canada   
+Nationwide Environmental accounting system To monitor and assess the economic importance, impacts, full costs and 
+benefits of fisheries management 
+Pacific North Coast Marine Use Analysis based on anthropology, economics, and 
+policy science 
+To develop of conservation objectives for the Pacific North Coast 
+Integrated Management Area (PNCIMA) 
+British Columbia Anthropology, economics, aquaculture, legal analysis (e.g., issues 
+of native rights and title) 
+To propose and evaluate the human aspects of potential locations for 
+marine protected areas (MPAs) 
+Japan 
+  
+Nationwide Delphi methods and social surveys (web-based questionnaires)  To identify the objectives, grasp the public policy demands, and prioritize 
+the objectives for fisheries management and the integrated use of EEZ 
+Shiretoko Peninsula Institutional analysis, policy cost-benefit analysis To propose necessary policy measures, and to evaluate the efficiency of 
+EBFM measures 
+Okinawa Anthropologic and sociological tools; non-market valuation tool To understand the relationship between the human society and coastal 
+ecosystems (historical process, culture, society and economics, relation to 
+human lives), and to evaluate ecosystem services being conferred 
+People’s Republic of China 
+Nationwide Institutional analysis based on property right regimes and policy 
+circle theory 
+To identify the gap between existing fisheries management framework 
+and EBFM, and to propose necessary road map for better management 
+Nationwide GIS analysis which integrates bio-physical factors and socio-
+economic and policy factors 
+To recommend suitable areas for sustainable aquaculture and better 
+communicate with stakeholders. 
+Nationwide Non-market valuation software To evaluate the total marine ecosystem service values (applied to the 
+Yellow Sea, South China Sea, East China Sea, Bohai Sea) 
+ 
+ 
+ 
+18 PICES Scientific Report No. 39
+  
+ 
+Section 4 Application of Social Sciences for EBFM
+Table 4.1   Continued 
+Location Social science approaches or tools applied or being applied Purpose 
+Republic of Korea 
+Nationwide Social and economic risk analysis on economic revenue, seafood 
+markets, and employment (IFRAME) 
+To propose new management measures for the large purse seine fishery 
+Nationwide Economic tools (net present value, cost-benefit ratio, internal rate 
+of return, non-market valuation) 
+To estimate increases in ecosystem service (cultural service) by the 
+release of Oliver flounder fry 
+East coast Bioeconomic model To propose feasible policy options for stock recovery of ecologically and 
+economically important species (sand fish) 
+Russia 
+Kamchatka Region 
+and Prymorsky Kray 
+Non-market valuation  To evaluate the total marine ecosystem service values 
+Sakhalin Island Estimation of economic losses To asses economic losses from marine pollution and water engineering 
+Prymorsky Kray  Estimation of economic losses To asses economic losses from marine pollution and water engineering 
+United States of America 
+Nationwide Economic, sociology, geography, and seafood business To secure environmental justice and incorporate social and economic 
+factors into decision making 
+Alaska Opportunity costs, enforcement costs, impacts on small entities, 
+fleet composition, and distribution trends in the human population 
+To assess management efficiency, and social and economic impacts of 
+fisheries management  
+Puget Sound Cognitive analysis, stakeholder participation, and risk analysis To set a definition of a healthy ecosystem, to identify threats, and to 
+prioritize various indicators 
+IFRAME - Integrated Fisheries Risk Assessment, Forecasting and Management for Ecosystems
+PICES Scientific Report No. 39 19
+Application of Social Sciences for EBFM  Section 4 
+Marine protected areas in British Columbia 
+The first marine waters in British Columbia were 
+protected in 1911 as part of Strathcona Provincial 
+Park. Since that time, over 100 other marine protected 
+areas (MPAs) have been designated. Recently, a 
+Marine Protected Areas Implementation Team 
+(MPAIT) has been formed, with participation by both 
+federal (DFO, Parks Canada) and provincial (Lands 
+and Forests, Environment) governments. There are 
+two panels that provide biological/physical and socio-
+economic advice for MPA design. The socio-
+economic team is proposing to use tools in 
+anthropology, economics, aquaculture siting and their 
+ecological and economic interactions, legal issues 
+(e.g., issues of native rights and title) to evaluate the 
+human aspects of locations being considered as 
+protected areas.  Also, based on GIS analysis, 
+cumulative human impacts (including fisheries) and 
+their spatial characteristics in the ecosystem, are being 
+analyzed (Ban et al., 2010). 
+ 
+ 
+4.2 Japan 
+ 
+Social survey on public demands for ocean policy 
+In 2007, the Basic Act on Ocean Policy was enacted 
+to clarify the principles of ocean policy in Japan, 
+covering all the marine-related industries, including 
+fisheries.  The six basic principles set down in this 
+Act are:  
+1. harmonization of the development and use of the 
+oceans in ways that conserve the marine 
+environment, 
+2. ensuring safety and security on the oceans,  
+3. improvement of scientific knowledge of the oceans, 
+4. sound development of ocean industries,  
+5. comprehensive governance of the oceans, and  
+6. international partnership with regard to the oceans 
+(Makino, 2011).  
+ 
+Based on this Act, the Headquarters for Ocean Policy, 
+headed by the Prime Minister of Japan, was 
+established in the Cabinet, and the Basic Plan on 
+Ocean Policy was formulated in 2008.  This Basic 
+Plan prescribes in more detail the direction of ocean 
+policy in Japan.  In accordance with it, the Fisheries 
+Research Agency (FRA) identified five objectives of 
+Japanese fisheries management (resource and 
+ecosystem conservation; seafood provision; industrial 
+and economic development; local and community 
+development; cultural and scientific promotion) by 
+Delphi methods. FRA also conducted a web-based 
+survey to gain insight into public demand for policies. 
+The questionnaire asked the respondents to choose 
+what they thought were the important usages of the 
+waters around Japan (the total number of results 
+analyzed was 2000, with a maximum of two choices). 
+Of all respondents, 83.3% chose “food production by 
+fisheries,” followed by “generation of energy from 
+tidal power or offshore wind power” (54.4%), 
+“transportation” (21.0%), “recreational use” (8.2%), 
+and “creation of space by land reclamation” (1.9%). 
+The respondents who chose “food production by 
+fisheries” were the largest group in every region, and 
+the higher the age bracket, the greater number of such 
+respondents (FRA, 2009). 
+ 
+Shiretoko World Natural Heritage Area 
+The Shiretoko Peninsula, in northeastern Hokkaido, is 
+the southernmost seasonal limit of sea ice in the 
+Northern Hemisphere.  This region is characterized by 
+closely linked terrestrial and marine ecosystems, and 
+by a number of marine and terrestrial species, 
+including several endangered ones.  In 1964, the 
+Shiretoko Peninsula and its surrounding marine areas 
+were designated a National Park, and added to the 
+UNESCO World Heritage List in July 2005.  In order 
+to propose necessary policy measures and to evaluate 
+the efficiency of EBM measures, an institutional 
+analysis was conducted to identify the gap between 
+the existing fisheries management framework and 
+EBM.  A cost-benefit analysis showed that the costs 
+for EBM measures correspond to 0.8% of the sum of 
+the production by two major industries in the area, i.e., 
+fisheries and tourism (Makino et al., 2009). 
+ 
+Sato-Umi in Okinawa 
+Sato-Umi (meaning “village seas” in Japanese) is 
+defined as the coastal sea that has high productivity 
+and biodiversity with human actions (Yanagi, 2006). 
+To achieve it, a big, long, smooth material circulation 
+is needed by implementing environmental 
+conservation from mountain to sea, and marine living 
+resource conservation from the context of the food 
+chain and ecosystems.  The Sato-Umi concept is 
+composed of the combination of biological/ecological 
+systems in the coastal sea, and the historical/cultural/ 
+socio-economic systems in the coastal land.  Tools in 
+anthropology and sociology are applied to understand 
+historical processes, culture, and economics.  Several 
+non-market valuation analyses were conducted for 
+coral reef Sato-Umi areas in Okinawa.  In 2008, the 
+Ministry of Environment started the Sato-Umi 
+Creation Support Project, and seven cases have been 
+designated as models for the Sato-Umi approach 
+(Hirota, 2010). 
+20  PICES Scientific Report No. 39 
+Section 4  Application of social sciences for EBFM 
+4.3 People’s Republic of China 
+ 
+Institutional analysis for EBFM 
+The term ecosystem-based fisheries management is 
+neither a new concept nor a new idea for most 
+Chinese scholars engaged in fisheries management 
+studies.  For example, Chinese Fisheries Economics, a 
+professional journal for Chinese scholars specialized 
+in the field of fisheries economics and management, 
+published a paper entitled “The Theoretical Research 
+about the Ecosystem-based Fishery Management” in 
+2006.  It gave a detailed explanation about what 
+EBFM is, why EBFM is proposed, what principles 
+should be followed when EBFM is implemented, and 
+how the existing management system should be 
+modified if China aims to transform to EBFM.  Chen 
+(2010) summarized the major institutional 
+frameworks and activities for EBFM in China, 
+following seven questions about the introduction of 
+EBFM:  
+1. political willingness (strong at city level, moderate 
+at provincial level, weak at the central level),  
+2. financial budget (more at the central level, 
+moderate at provincial level, less at city level),  
+3. scientific support (not enough),  
+4. institutional background for EBFM action (not 
+ready),  
+5. enforcement (generally weak),  
+6. right spatial-scale for EBFM,  
+7. successful case studies (do not yet exist).  
+ 
+Also, in order to identify the gap between existing 
+fisheries management frameworks and EBFM, and to 
+propose the necessary road map for better 
+management with a catch quota system, institutional 
+analyses based on property right regimes and policy 
+circle theory have been conducted (Mu and Liang, 
+2010). 
+ 
+Non-market valuation for the Yellow Sea, South China 
+Sea, East China Sea, and Bohai Sea 
+Non-market valuation tools are intensively utilized in 
+China (e.g., Liu et al., 2008).  In addition, a software 
+program named MEGA-MES (Marine EcoloGical 
+Assessment Group-Marine Ecosystem Service 
+Valuation Software), which is based on non-market 
+valuation tools and the results from bio-physical 
+analyses, was developed for evaluating food 
+production, material production, oxygen production, 
+climate regulation, waste treatment, recreational 
+service, scientific service, and species diversity 
+maintenance. (Chen et al., 2006). MEGA-MES has 
+been applied to the Yellow Sea, South China Sea, 
+East China Sea, Bohai Sea. 
+ 
+Aquaculture site selection 
+GIS analysis was conducted in order to determine the 
+recommended domains (places where certain target 
+production systems and technologies may be feasible 
+for introduction and adoption by farmers) for 
+promoting freshwater aquaculture development aimed 
+at helping to improve household food security and 
+livelihoods of smallhold farmers (Yang, 2007).  In 
+this analysis, wide-ranging approaches and tools, from 
+both social sciences and natural sciences, were 
+integrated using GIS. For example, results from bio-
+physical analyses on the environmental factors that 
+determine the potential for a certain technology, and 
+the results from socio-economic analysis and policy 
+factors that affect sustained adoption of the 
+technology, were integrated using GIS.  Also, the 
+cultural background and infrastructure were 
+considered as the enabling institutions for aquaculture. 
+ 
+ 
+4.4 Republic of Korea 
+ 
+Risk analysis for the large purse seine fishery 
+Integrated Fisheries Risk Assessment, Forecasting and 
+Management for Ecosystems (IFRAME) is a 
+comprehensive risk analysis model for EBFM (Zhang 
+et al., 2009).  It is composed of four attributes: 
+sustainability, biodiversity, habitat, and socio-
+economics, including indicators for each attribute.  As 
+a socio-economic attribute, four indicators are 
+developed, such as economic production, revenue/ 
+income, market, and employment.  They evaluate the 
+change of socio-economic effects together with other 
+attributes.  In the future, more consideration on 
+developing effective indicators is needed.  If they are 
+developed by collecting necessary data, they will 
+provide useful information for the evaluation of 
+fisheries management measures.  As a case study, 
+IFRAME was applied to the Korean large purse seine 
+fishery to assess the effects of the climate change, 
+such as economic revenue, seafood market, and 
+employment as well as the ecological analysis on 
+biomass, trophic level, and bycatch.  The results 
+suggested that the level of fishing mortality should be 
+reduced by about 25% to adapt stably and effectively 
+to future changes in climate (Kim and Zhang, 2011).
+  
+PICES Scientific Report No. 39  21 
+Application of Social Sciences for EBFM  Section 4 
+Economic effects of the fry release program 
+The fry release program has operated in Korea since 
+1976.  It was implemented in order to complement and 
+enhance the recruitment of insufficient fishery 
+resources by releasing fry to increase catch limits, to 
+increase the income of small-scale fishermen in coastal 
+fisheries, and to promote the vitalization of fishing 
+villages.  Records of the fry release program show that 
+the total number of released fish between 2004 and 
+2007 was about 400 million and the types of released 
+fish included giant prawn, flatfish (Oliver flounder), 
+abalone, and rockfish. The program continues to 
+expand and is expected to grow with the necessity of 
+fish stock recovery.  In order to evaluate the economic 
+effects of the fry release program, various economic 
+tools such as net present value, cost-benefit ratio, and 
+internal rate of return were applied for Oliver flounder. 
+Also, the increases in public welfare (cultural service) 
+were estimated by non-market valuation tools such as 
+travel cost methods, random utility models, and 
+contingent valuation methods. 
+ 
+Stock rebuilding plan for sandfish 
+In Korea, a fish stock rebuilding plan (FSRP), 
+combined with conventional fish stock enhancement 
+programs, was established in 2005 (Lee, 2010). 
+Sandfish (Arctoscopus japonicus) was selected as a 
+target species for the rebuilding plan in 2006. 
+Sandfish was chosen because of the large reduction in 
+catch that resulted from overfishing of adult sandfish, 
+reckless fishing of fingerlings and destruction of 
+spawning grounds.  Sandfish is caught in many 
+fisheries including the gill-net fishery and trawl 
+fishery, but is mainly done by the Danish seine fishery 
+and coastal gill-net fishery.  A rebuilding period was 
+set as 10 years, with target catch determined for each 
+year.  Target catches were initially set at 2,600 tons 
+for 2006, 3,700 tons for 2007 and 5,000 tons for 2015.  
+Using a bioeconomic modeling technique based on 
+stock investigation and evaluation results, target stock 
+accomplishments during the rebuilding period and 
+economic effects were analyzed. Four policy 
+alternatives were analyzed to estimate the change in 
+sandfish stock for the next 25 years, and change in 
+profit of target fisheries (Kim, 2009). 
+ 
+ 
+4.5 Russia 
+ 
+Ecosystem service values in the Kamchatka region  
+In order to evaluate the total value of marine natural 
+capital (water biological resources, oil and gas 
+resources, and hydro-energetic resources) and 
+ecosystem services, non-market valuation tools were 
+applied (Shirkov, et al., 2006).  The results suggested 
+that the value of non-market ecosystem services was 
+higher than the benefit from oil and gas exploitation. 
+  
+Assessment of economic losses from marine pollution 
+and water engineering at Sakhalin Island  
+A lot of funds were invested by Russia and foreign 
+countries to the economy of the Sakhalin region in 
+2000–2004.  In this period, per capita income 
+increased 1,5 percent per month.  However, because 
+of rapid development in oil exploitation, a lot of 
+damage occurred in the fisheries sector.  Income from 
+oil exploration is not the reason for fishery ignorance 
+in this region. Synyakov et al. (2006) estimated the 
+total economic damage to fish incurred from marine 
+pollution and water engineering in oil processing on 
+northeastern coast of Sakhalin Island at US$15 
+million in 2000–2009. This means economic losses 
+were larger than the economic investment in the 
+region.  
+ 
+Assessment of ecosystem service values and economic 
+losses in Primorsky Kray  
+Ecosystem service values in Peter the Great Bay 
+(south coast of Primorsky Kray) were estimated in 
+2009.The cost of biological resources (fish, marine 
+invertebrates, seaweeds) was only 10% of the total 
+value of ecosystem services of the Bay (Lukyanova et 
+al., 2010a).  On the other hand, economic losses in the 
+fisheries sector incurred from water engineering 
+(construction of bridges, etc.) on the coast and the 
+rivers on the territory of Primorsky Kray amounted to 
+about US$300,000 in 2009–2010  (Lukyanova et al., 
+2010b). 
+ 
+ 
+4.6 United States of America 
+ 
+Environmental Assessment  
+The Environmental Assessment system of the U.S. 
+National Environmental Policy Act (NEPA) requires 
+federal agencies to document the problem to be 
+addressed by the proposed actions, to identify the 
+alternatives to be considered, to describe the affected 
+environment, and to analyze the alternatives.  Many 
+social and economic factors such as public 
+participation, technical and allocative efficiencies, and 
+regional impacts are included in this assessment 
+process.  For example, when the government is going 
+to introduce a fisheries management measure that 
+22  PICES Scientific Report No. 39 
+Section 4  Application of social sciences for EBFM 
+PICES Scientific Report No. 39  23 
+needs to be addressed by the Environmental 
+Assessment, participation by fishers, processors, and 
+crews will be analyzed using tools in sociology, 
+geography, etc.  Also, using the tools in economics 
+and area studies, tax revenues or regional impacts for 
+local communities are analyzed.  For consumers, 
+product quality and availability are considered based 
+on the tools in seafood business.  
+ 
+Fisheries management in Alaska 
+The North Pacific Fishery Management Council 
+(NPFMC) has implemented six Fisheries 
+Management Plans (FMPs): the Bering Sea and 
+Aleutian Islands (BSAI) groundfish FMP, Gulf of 
+Alaska (GOA) groundfish FMP, the Arctic 
+Management Area FMP, the BSAI crab FMP, the 
+scallop FMP, and the salmon FMP.  These FMPs 
+govern the setting of annual catch limits, restrict 
+fishing practices relating to gear, bycatch and discard 
+requirements, administer the allocation of fishery 
+privileges among fishers, and constrain spatial and 
+temporal access to fishery resources.  Annual stock 
+assessment and fishery evaluation (SAFE) is the base 
+of such management measures. It includes not only 
+bio-physical analyses but also the social and 
+economic impacts analysis.  For example, the social 
+and economic HYPERLINK “E:\\from” shares 
+market-based consolidation, fleet composition, 
+distribution and abundance trends in the human 
+population.  Also, when prohibition on the retention 
+of forage fish is specified by FMPs, economic 
+analysis such as opportunity costs, monitoring and 
+enforcement costs, and impacts on small entities are 
+considered (Criddle, 2010).  
+ 
+Puget Sound Partnership 
+The Puget Sound Partnership (PSP) is a community 
+effort of citizens, governments, tribes, scientists and 
+businesses working together to restore and protect 
+Puget Sound.  PSP is a coordinating agency, not a 
+regulatory agency.  It coordinates federal, state, local 
+tribal and private resources, and makes sure that all 
+are working cooperatively.  Its goal is to make Puget 
+Sound healthy again, and to create a roadmap for how 
+to get it done.  PSP is designated as the lead entity for 
+integrating estuary and watershed protection programs 
+for Puget Sound under the National Estuary Program 
+(U.S. Clean Water Act sec. 320).  The Science Panel, 
+which is the scientific advisory body of PSP, has 
+adopted Integrated Ecosystem Assessment (IEA) as a 
+central organizing tool.  It offers a means to model 
+and test linkages among ecosystem threats, 
+management activities, and environmental and 
+social/economic goals (Levin et al., 2009).  Elements 
+of the IEA include:  
+1. refining ecosystem goals and objectives,  
+2. conducting risk analyses,  
+3. developing and evaluating policy strategies, and  
+4. monitoring ecosystem status and effectiveness of 
+actions (Puget Sound Partnership, 2010).  
+As base information to set a definition of a healthy 
+ecosystem, to identify threats, and to prioritize various 
+indicators, a cognitive study was conducted on local 
+stakeholders to grasp their recognition of the values 
+and states of Puget Sound.  Results are to be applied 
+to the Integrated Ecosystem Assessment models 
+(Fluharty, 2010). 
+ 
+ 
+ 
+ 
+ 
+   
+Section 5  Discussion 
+ 
+ 
+ 
+ 
+5 Discussion  
+ 
+ 
+Table 4.1 shows that wide-ranging social science 
+approaches and tools have been, or are being, 
+introduced in a variety of locations and scales in 
+PICES member countries.  In reality, most of the 
+major social science approaches and tools listed in 
+Table 3.1 have been already introduced or are being 
+introduced in the member countries.  This fact 
+strongly implies that each member country has a rich 
+source of experienced researchers for the analysis of 
+human dimensions.  In other words, once an expert 
+group of social scientists from the member countries 
+is formed under the PICES framework, it can conduct 
+high-level and comprehensive studies on human 
+dimensions for EBFM in the North Pacific.  Such an 
+expert group would contribute significantly to the 
+value of the PICES integrative science program 
+FUTURE (Forecasting and Understanding Trends, 
+Uncertainty and Responses of North Pacific Marine 
+Ecosystems) to improve the applications to, and 
+understanding by, stakeholders. 
+ 
+It should be noted that, as the terms of reference for 
+SG-HD clearly addresses, different marine sectors 
+view ecosystems in terms of their own economic, 
+cultural and societal needs.  Therefore, the social 
+significance of predicted impacts from climate or 
+ecosystem changes, and the types of information, 
+advice and guidance to be requested of FUTURE 
+might differ from country to country and sector to 
+sector.  Based on sound social science approaches and 
+tools introduced in this report, an important next step 
+is to survey/assess the needs of potential stakeholders 
+for FUTURE products, and scientifically clarify 
+differences in societal objectives and needs among 
+stakeholders in different sectors and member 
+countries.  
+ 
+Spatial-scale issues are another challenge for social 
+science analysis.  Many application cases listed in 
+Table 4.1 are basically at the local scale.  With a close 
+relationship to the bio-physical products from 
+FUTURE, it might be worth trying to discuss the 
+possibility of applying social science tools at larger 
+marine ecosystem scales.  
+ 
+Another, but not less, important challenge for the 
+social sciences is to conduct research (or Topic 
+Sessions) which fit the FUTURE perspectives.  For 
+example, the social system’s response to climate 
+change and uncertainties (vulnerability analysis, 
+indicators of the human dimensions, etc.) could be the 
+candidates for such analyses.  
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 39  25 
+ 
+   
+Section 6  Recommendations 
+ 
+ 
+ 
+ 
+6 Recommendations 
+ 
+ 
+Members of SG-HD had intensive discussions on 
+how the findings and work of this report could best 
+be integrated and built upon within PICES in the 
+years ahead, particularly within the context of the 
+PICES FUTURE program.  One of the most 
+important differences between FUTURE and its 
+predecessor, the PICES/GLOBEC Climate Change 
+and Carrying Capacity (CCCC) program is that 
+FUTURE is placing greater emphasis on societal 
+concerns that arise from changes in North Pacific 
+marine ecosystems (PICES, 2008).  Taking this into 
+account, the findings and work of SG-HD can make 
+significant contributions both to FUTURE and to the 
+activities of the PICES standing committees, in 
+particular, the Fishery Science Committee and Marine 
+Environmental Quality Committee, as described 
+below. 
+ 
+The FUTURE Science Plan (PICES, 2008) sets the 
+Third Research Theme as “How do human activities 
+affect coastal ecosystems and how are societies 
+affected by changes in these ecosystems?”  More 
+precisely, a full exploration of Key Question 3.4 
+“What will be the consequences of projected coastal 
+ecosystem changes and what is the predictability and 
+uncertainty of forecasted changes?” should include 
+an assessment of the potential social consequences 
+caused by the ecosystem changes such as decreases 
+in fisheries incomes, distribution of wealth among 
+sectors or areas, and influences on demographic 
+profiles of coastal communities.  The social sciences 
+have a wide range of analytical tools (quantitative 
+and qualitative) which can be applicable for this 
+purpose, as described in section 3.1 of this report.  
+ 
+Also, the FUTURE Key Question 3.5 “How can we 
+effectively use our understanding of coastal 
+ecosystem processes and mechanisms to identify the 
+nature and causes of ecosystem changes and to 
+develop strategies for sustainable use?” requires 
+objective and technical information for developing 
+coping, adaptation and mitigation strategies (note 
+that PICES is not a policy organization).  In this 
+regard, the social sciences can support the setting of 
+management objectives by evaluating the likely 
+social and economic consequences of alternative 
+management actions, assessing priorities among 
+issues, and identifying socio-economic indices 
+related to the state of fisheries and ecosystems.  One 
+of the major issues in developing coping strategies is 
+the multiplicity of scales (spatial, temporal, and 
+organizational) at which the social and ecological 
+systems interact.  The social sciences can contribute 
+analytical tools for better coordination between 
+existing institutional scales (stakeholders) and 
+natural scientific knowledge.  
+ 
+FUTURE seeks to increase awareness of the 
+ecological and societal importance of the North 
+Pacific within PICES member countries (PICES, 
+2009).  The FUTURE Implementation Plan sets 
+Objective 2 as the production of status reports, 
+outlooks, forecasts, and engagement potential users 
+(community, industry, government, international 
+organization) on issues relating to North Pacific 
+ecosystems and climate.  The social sciences are 
+uniquely positioned to contribute to efforts on 
+engagement.  It should be noted though, that because 
+different regions or sectors view ecosystems in terms 
+of their own economic, cultural and societal needs, 
+the communication requirements are different, and 
+therefore the information provided by PICES should 
+be tailored differently.  
+ 
+There are several other international research 
+activities with common interests and objectives. For 
+example, one of the Key Questions in the Science 
+Plan for the ICES Strategic Initiative on Climate 
+Change Effects on Marine Ecosystems is “How will 
+societies that depend on ecosystems services 
+respond to climate-driven changes in ecosystem 
+services, and which responses are consistent with an 
+ecosystem approach to management?”. The 
+Integrated Marine Biogeochemistry and Ecosystem 
+Research (IMBER, a core project of the 
+International Geosphere–Biosphere Programme, 
+IGBP) Human Dimensions Working Group is 
+focusing its activities on the multiple feedbacks 
+PICES Scientific Report No. 39  27 
+Recommendations  Section 6 
+between human and ocean systems.  The objective 
+of the Land-Ocean Interactions in the Coastal Zone 
+(LOICZ; also an IGBP core project) includes 
+developing and testing integrated multidisciplinary 
+(natural + economic + social) methods to analyze the 
+environmental and social interactions and feedbacks 
+governing coastal system status and changes. PICES 
+needs to interact with these groups to facilitate 
+academic communication and discussions on marine 
+issues. 
+ 
+Taking all of the above into account, SG-HD 
+recommends that PICES establish a new expert 
+group (potentially a “Section”) related to the social 
+sciences.  Recognizing the longer-term requirement 
+of the activities of this group (i.e., longer than the 
+usual 3-year duration of PICES Working Groups), 
+SG-HD recommends this expert group be 
+established for the entire duration of the PICES 
+FUTURE program (contingent upon adequate 
+performance, for example, the practice for PICES 
+Sections to be reviewed every 3 years) and that it be 
+placed under, and report to, Science Board.  As 
+Table 3.1 shows, the social sciences are composed 
+of several wide-ranging disciplines.  Therefore, it is 
+desirable that at least three members with balanced 
+specialties from the social sciences and natural 
+sciences should represent each member country. The 
+following is a draft proposal for the expert group. 
+ 
+Objective 
+ 
+To better understand and communicate the societal 
+implications of the conditions and future trends of 
+North Pacific marine ecosystems (a vision of the 
+PICES FUTURE program), to provide a forum for 
+the integration of FUTURE-related studies using 
+social science approaches and tools, and to facilitate 
+the close discussions and communications among 
+researchers from both the natural and social sciences. 
+ 
+Draft Terms of Reference 
+ 
+The Section on Human Dimensions of Marine 
+Systems (S-HD) is the scientific body responsible for 
+the promotion, coordination, integration and 
+synthesis of research activities related to the 
+contribution of the social sciences to FUTURE, to 
+PICES Scientific Committees, and to PICES as an 
+organization.  
+1. S-HD will work towards scientific clarification of 
+differences in societal objectives and needs 
+among stakeholders in different sectors and 
+countries. Based on that result, S-HD will 
+develop an inventory of potential recipients, and 
+their communication requirements for FUTURE 
+and other PICES products, such as the state of the 
+ocean reports (FUTURE Objective 2). 
+2. Based in part on the results of TOR 1, and with 
+close coordination and communication with 
+SOFE-AP and other expert groups within PICES, 
+S-HD will scientifically explore the 
+consequences to and responses of human social 
+systems to climate-induced changes in marine 
+ecosystems (FUTURE key question 3.4).  Social 
+science tools summarized in Table 3.1 of this 
+report will be applied to such an analysis. 
+3. S-HD will contribute a Human Dimension 
+Chapter to the next Ecosystem Status Report 
+(FUTURE Objective 2). 
+4. S-HD will facilitate academic cooperation with 
+other international research activities such as 
+ICES, IMBER, LOICZ, etc., and organize a 
+symposium on the study of the human 
+dimensions of marine ecosystems. 
+ 
+ 
+Membership 
+ 
+We recommend a membership that will ensure core 
+connection with PICES Committees, key expertise 
+from the various social and natural science 
+disciplines, and national representation. We 
+advocate a nomination process that closely connects 
+this group to PICES Scientific Committees through, 
+for example, ensuring that at least one member or 
+designate be drawn from each Committee.  The 
+membership for the new Section should include:  
+(1) at least some individuals who participated in  
+SG-HD and (2) experts from the various natural and 
+social science (economy, geography, sociology, 
+anthropology, etc.) disciplines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28  PICES Scientific Report No. 39 
+Section 7  References 
+ 
+ 
+ 
+ 
+7 References 
+ 
+ 
+Axelrod, R. 1985. The Evolution of Cooperation. Basic 
+Books, New York, USA. 
+Ban, N., Alidina, H.M. and Ardron, J. 2010. 
+Cumulative impact mapping: advances, relevance 
+and limitations to marine management and 
+conservation, using Canada’s Pacific waters as a 
+case study. Mar. Policy 34: 876–886. 
+Berkes, F. and Folke, C. (Eds.) 1998. Linking Social 
+and Ecological Systems: Management Practices and 
+Social Mechanisms for Building Resilience. 
+Cambridge University Press, Cambridge, UK. 
+Bingham, G., Bishop, R., Brody, M, Bromley, D., 
+Clark, E., Cooper, W., Costanza, R. and Hale, T. 
+1995. Issues in ecosystem valuation: improving 
+information for decision making. Ecol. Econ. 14: 
+73–90. 
+Carocci, F., Bianchi, G., Eastwood, P. and Meaden, G. 
+2009. Geographic Information Systems to support 
+the ecosystem approach to fisheries. FAO Fisheries 
+Technical Paper 532. FAO, Rome, Italy. 
+Chen, S. 2010. Major management actions for EBFM. 
+Document submitted to the SG-HD Yokohama 
+Meeting, June 24–25, Yokohama, Japan. 
+Chen, S., Zhang, Z.-H., Ma, Y., Shi, H.-H., Ma, A.-G., 
+Zheng, W., Wang, Q.-X, Peng, Y.-L. and Liu, J. 
+2006. Program for service evaluation of marine 
+ecosystems in China waters. Adv. Earth Sci. 21: 
+1127–1133. 
+Christensen, N.L., Bartuska, A.M., Brown, J.H., 
+Carpenter, S., D’Antonio, C., Francis, R., Franklin, 
+J.F., MacMahon, J.A., Noss, R.F., Parsons, D.J., 
+Peterson, C.H., Turner, M.G. and Woodmansee, 
+R.G. 1996. The report of the Ecological Society of 
+America Committee on the scientific basis for 
+ecosystem management. Ecol. Applic. 6: 665–691. 
+CBD (Convention on Biological Diversity). 2000. 
+Decision V/6. 
+Cortner, H.J., Shannon, M.A., Wallace, M.G., Burke, S. 
+and Moote, M.A. 1996. Institutional barriers and 
+incentives for ecosystem management. General 
+Technical Report PNW-GTR-354. U.S. Department 
+of Agriculture, Forest Service, Pacific Northwest 
+Research Station, Oregon, USA. 
+Criddle, K.R. 2010. Human dimensions and ecosystem 
+based management of living marine resources off 
+Alaska. Document submitted to the SG-HD 
+Yokohama Meeting, June 24–25, Yokohama, Japan. 
+De Young, C., Charles, A. and Hjort, A. 2008. Human 
+dimensions of the ecosystem approach to fisheries: 
+An overview of context, concepts, tools and 
+methods. FAO Fisheries Technical Paper 489. FAO, 
+Rome, Italy. 
+FAO (Food and Agriculture Organization). 1995. Code 
+of Conduct for Responsible Fisheries. 
+FRA (Fisheries Research Agency). 2009. The Grand 
+Design of Fisheries and Resource Management 
+Policy in Japan. Fisheries Research Agency, 
+Yokohama, Japan. 
+Fluharty, D.L. 2010. The Salish Sea: EBM, IEA and 
+CMSP in Puget Sound country. Document 
+submitted to the SG-HD Yokohama Meeting, June 
+24–25, Yokohama, Japan. 
+Fluharty, D.L., Harvey, C., Jamieson, G., Jin, X., 
+Livingston, P., Makino, M., Radchenko, V. and 
+Zhang, C.-I. 2010. Developing an Ecosystem-based 
+Approach for Ocean Management in PICES Region. 
+pp. 3–82 in Report of Working Group 19 on 
+Ecosystem-based Management Science and its 
+Application to the North Pacific edited by G. 
+Jamieson, P. Livingston and C.-I. Zhang, PICES 
+Scientific Report No. 37.  
+Francis, T.B., Levin, P.S. and Harvey, C.J. 2011. The 
+perils and promise of futures analysis in marine 
+ecosystem-based management. Mar. Policy 35: 
+675–681. 
+French, D.P., Rines, H., Gifford, D., Keller, A., Pavignano, 
+S., Brown, G., Ingram, B.S., MacDonald, E., Quirk, 
+J., Natzke, S. and Finkelstein, K. 1996.  Guidance 
+document for natural damage resource assessment 
+under the Oil Pollution Act of 1990. Report 
+prepared for Damage Assessment and Restoration 
+Program, National Oceanic and Atmospheric 
+Administration. NOAA, Washington, DC, USA. 
+Garcia, S.M. and Cochrane, K.L. 2005. Ecosystem 
+approach to fisheries: A review of implementation 
+guidelines. ICES J. Mar. Sci. 62: 311–318. 
+Garcia, S.M., Zerbi, A., Aliaume, C., Chi, T.D. and 
+Lasserre, G. 2003. The ecosystem approach to 
+fisheries: Issues, terminology, principles, institutional 
+foundations, implementation and outlook. FAO 
+Fisheries Technical Paper 443. FAO, Rome, Italy. 
+PICES Scientific Report No. 39  29 
+References  Section 7 
+Hardin, G. 1968. The tragedy of commons. Science 
+162: 1243–1248. 
+Hirota, M. 2010. Sato-umi activity in Japan. Document 
+submitted to the SG-HD Yokohama Meeting, June 
+24–25, Yokohama, Japan. 
+Jamieson, G. and Zhang, C-I. (Eds.) 2005. Report of 
+the Study Group on Ecosystem-based Management 
+Science and its Application to the North Pacific. 
+PICES Scientific Report No. 29. 
+Jamieson, G., Livingston, P. and Zhang, C.-I. (Eds.) 
+2010. Report of Working Group 19 on Ecosystem-
+based Management Science and its Application to 
+the North Pacific. PICES Scientific Report No. 37. 
+Jennings, S. and Rice, J. 2011. Towards an ecosystem 
+approach to fisheries in Europe: A perspective on 
+existing progress and future directions. Fish and 
+Fisheries 12: 125–137.  
+Kim, D.H. 2009. The Economics of Rebuilding 
+Fisheries Project: Case Study-Korean Sandfish 
+Rebuilding Plan. Presentation at the OECD 
+Workshop on The Economics of Rebuilding 
+Fisheries. May 21–22, Rhode Island, USA. 
+Kim, D.H. and Zhang, C.-I. 2011. Developing socio-
+economic indicators for an ecosystem-based 
+fisheries management approach: An application to 
+the Korean large purse seine fishery. Fish. Res. 112: 
+134–139. 
+Lee, S.G. 2010. The economics of rebuilding fisheries 
+in Korea: National comprehensive approaches. J. 
+Public Admin. Policy Res. 2: 20–27. 
+Levin, P.S., Fogarty, M.J., Murawski, S.A., Fluharty, 
+D.L. and Smith, A.  2009.  Integrated ecosystem 
+assessments: Developing the scientific basis for 
+ecosystem-based management of the ocean. Public 
+Library of Science (Biology) 7: 23–28. 
+Link, J.S. 2010. Ecosystem-Based Fisheries 
+Management: Confronting Tradeoffs. Cambridge 
+University Press, Cambridge, UK. 
+Liu, J., Chen, S., Xia, T. and Wang, Q.-X. 2008. 
+Analysis on changes of wetland landscape in 
+Yellow River Delta and influences on ecosystem 
+services. Advances Mar. Sci. 26: 464–470. 
+Lukyanova, O.N., Nigmatulina L.V. and Golovashenko, 
+E.V. 2010a. The value of ecosystem services of 
+Peter the Great Bay (Sea of Japan). Rybnoe 
+Khozyaistvo 6: 34–38. 
+Lukyanova, O.N., Eruchimovich, V.E. and Kurmazov, 
+A.A. 2010b. Economic tools and categories for 
+EBFM in Russian Far East. Document submitted to 
+the SG-HD Yokohama Meeting, June 24–25, 
+Yokohama, Japan. 
+Makino, M. 2011. Fisheries Management in Japan: Its 
+Institutional Features and Case Studies. Springer 
+Fish and Fisheries Series Vol. 34, Springer, London, 
+UK. 
+Makino, M., Matsuda, H. and Sakurai, Y. 2009. 
+Expanding fisheries co-management to ecosystem-
+based management: A case in the Shiretoko World 
+Natural Heritage area, Japan. Mar. Policy 33: 207–214. 
+Mu, Y. and Liang, Z. 2010. A summary report for the 
+feasibility study on fishing quota system. Chinese 
+Fish. Economics 2010: 38–42. (in Chinese) 
+NRC (National Research Council). 1999. Sustaining 
+Marine Fisheries. National Academy Press, 
+Washington DC, USA. 
+Ommer R.E., Perry R.I., Cochrane, K. and Cury, P. 
+2011. World Fisheries - A  Social-Ecological Analysis. 
+Wiley-Blackwell, Oxford, UK. 
+Ostrom, E. 2009. A general framework for analyzing 
+sustainability of social-ecological systems. Science 
+325: 419–422. 
+Perry, R.I., Barange, M. and Ommer, R.E. 2010. 
+Global changes in marine systems: A social-
+ecological approach. Prog. Oceanogr. 87: 331–337. 
+PICES (North Pacific Marine Science Organization). 
+2008. A new science program for PICES: FUTURE 
+(Forecasting and Understanding Trends, 
+Uncertainty and Responses of North Pacific Marine 
+Ecosystems) http://www.pices.int/members/scientific 
+_programs/FUTURE/FUTURE_final_2008.pdf 
+PICES (North Pacific Marine Science Organization). 
+2009. Implementation Plan: FUTURE Science 
+Program (Forecasting and Understanding Trends, 
+Uncertainty and Responses of North Pacific Marine 
+Ecosystems) http://www.pices.int/members/scientific 
+_programs/FUTURE/FUTURE_IP_final_2009.pdf 
+Puget Sound Partnership. 2010. Strategic Science Plan 
+(June 2010 final review draft). Puget Sound 
+Partnership. Washington, USA. 
+Pikitch, E.K., Santora, C., Babcock, E.A., Bakun, A., 
+Bonfil, R., Conover, D.O., Dayton, P., Doukakis, P., 
+Fluharty, D., Heneman, B., Houde, E.D., Link, J., 
+Livingston, P.A., Mangel, M., McAllister, M.K., 
+Pope, J. and Sainsbury, K.J. 2004. Ecosystem-
+Based Fishery Management. Science 305: 346–347. 
+Pollanc, R.B., Jamieson, S.A., Smith, C., Miller, M.L., 
+Clay, P.M. and Oles, B. 2006. Toward a model for 
+fisheries social impact assessment. Mar. Fish. Rev. 
+68: 1–18. 
+Rice, J.C. and Rochet, M.J. 2005. A framework for 
+selecting a suite of indicators for fisheries 
+management. ICES J. Mar. Sci. 62: 516–527. 
+Shirkov, E., Shirkova, E. and Dyakov, M. 2006. 
+Economic evaluation of natural capital of the shelf 
+zone of the western Kamchatka. Kamchatpress, 
+Russia. (in Russian) 
+Smith, R.D. and Maltby, E. 2003. Using the Ecosystem 
+Approach to Implement the Convention on 
+Biological Diversity. Ecosystem Management 
+Series No. 2, IUCN, Gland, Switzerland. 
+30  PICES Scientific Report No. 39 
+Section 7  References 
+PICES Scientific Report No. 39  31 
+Smith, T., Fulton, B. and Sith, D. 2009. Ecosystem 
+approaches to managing marine systems – the 
+human dimension. Presentation at PICES-2009, 
+October 23–November 1, 2009, Jeju, Korea. 
+Statistics Canada. 2006. Concepts, Sources and 
+Methods of the Canadian System of Environmental 
+and Resource Accounts. Ministry of Industry, 
+Ottawa, Canada. 
+Synyakov, S. 2006. Fisheries in comparison with other 
+industries in Russian Far East. Kamchatpress, 
+Russia. (in Russian) 
+Yanagi, T. 2006. The Sato-Umi theory (Sato-Umi Ron). 
+Kouseisya-Kouseikaku, Tokyo, Japan. (in Japanese) 
+Yang, N. 2007. Determining high-potential aquaculture 
+development areas and impact in China: Project 
+review. Document submitted to the Final 
+Stakeholder Workshop, November 27, 2007, 
+Zhengzhou, Henan. 
+Ward, K.M. and Duffield, J. 1992. Natural Resource 
+Damages: Law and Economics. Wiley Law 
+Publications, NY, USA. 
+Zhang, C.-I., Kim, S., Gunderson, D., Marasco, R., Lee, 
+J.B., Park, H.W. and Lee, J.H. 2009. An ecosystem-
+based fisheries assessment approach for Korean 
+fisheries. Fish. Res. 100: 26–41. 
+ 
+ 
+ 
+   
+Section 8  Appendices 
+ 
+ 
+ 
+ 
+8 Appendices 
+ 
+ 
+8.1 Study Group on Human Dimensions Membership* 
+ 
+ 
+Canada
+ 
+Rowena Orok 
+Fisheries and Oceans Canada 
+Economic Analysis and Research Policy Sector  
+200 Kent St., Station 14E231  
+Ottawa, ON, K1A 0E6  
+Canada  
+E-mail: rowena.orok@dfo-mpo.gc.ca 
+ 
+Ian Perry 
+Fisheries and Oceans Canada  
+Pacific Biological Station  
+3190 Hammond Bay Rd.  
+Nanaimo, BC,  V9T 6N7 
+Canada  
+E-mail: Ian.Perry@dfo-mpo.gc.ca
+ 
+ 
+Japan
+ 
+Masahito Hirota 
+Fisheries Management Group 
+Research Center for Fisheries Economics and  
+     Business Administration 
+National Research Institute of Fisheries Science, FRA  
+2-12-4 Fukuura, Kanazawa-ku, Yokohama, Kanagawa 
+236-8648 Japan  
+E-mail: mmhirota@affrc.go.jp 
+ 
+Mitsutaku Makino (Chairman) 
+Fisheries Management Group 
+Research Center for Fisheries Economics and  
+     Business Administration 
+National Research Institute of Fisheries Science, FRA  
+2-12-4 Fukuura, Kanazawa-ku, Yokohama, Kanagawa 
+236-8648 Japan  
+E-mail: mmakino@affrc.go.jp
+ 
+ 
+ 
+People’s Republic of China
+ 
+Shang Chen 
+Research Center for Marine Ecology  
+First Institute of Oceanography, SOA  
+6 Xian-Xia Ling Rd., Hi-Tech Park, LaoShan District  
+Qingdao, Shandong 266061 
+People’s Republic of China  
+E-mail: qdcs@163.com 
+ 
+Ningsheng Yang 
+Research Center of Information and Economy  
+Chinese Academy of Fishery Sciences  
+150, Qingta Cun, Yongding Rd.  
+Beijing 100141 
+People’s Republic of China  
+E-mail: nsyang@cafs.ac.cn
+ 
+ 
+ 
+PICES Scientific Report No. 39  33 
+Appendices  Section 8 
+ 
+Republic of Korea 
+ 
+Dohoon Kim 
+Management and Economic Policy  
+National Fisheries R&D Institute (NFRDI)  
+152-1 Haean-ro, Gijang-up, Gijang-gun  
+Busan 619705 
+Republic of Korea  
+E-mail: delaware310@nfrdi.go.kr 
+ 
+Jongoh Nam 
+Policy Research Division 
+Korea Maritime Institute  
+#1652, 13th floor, KBS Media Center Bldg.  
+Sangam-Dong, Mapo-Gu 
+Seoul 121-270 
+Republic of Korea  
+E-mail: namjo1234@hanmail.net
+ 
+ 
+ 
+Russia 
+ 
+Olga N. Lukyanova 
+Laboratory of Applied Ecology and Ecotoxicology  
+Pacific Research Institute of Fisheries and 
+Oceanography (TINRO-Center)  
+4 Shevchenko Alley  
+Vladivostok, Primorsky Kray 690950 
+Russia  
+E-mail: onlukyanova@tinro.ru 
+Anastasia Mednikova 
+Khabarovsk Branch of TINRO-Center  
+13 A Amursky Blvd.  
+Khavarovsk  680028 
+Russia  
+E-mail: khv_tinro@mail.ru
+ 
+ 
+ 
+United States of America
+ 
+Keith R. Criddle 
+Fisheries Academic Program  
+University of Alaska Fairbanks  
+17101 Point Lena Loop Rd.  
+Juneau, AK  99801 
+U.S.A.  
+E-mail: kcriddle@sfos.uaf.edu 
+ 
+David L. Fluharty 
+School of Marine Affairs  
+University of Washington  
+3707 Brooklyn Ave. NE  
+Seattle, WA  98105 
+U.S.A.  
+E-mail: fluharty@u.washington.edu
+ 
+ 
+ 
+* includes the following non-members who attended the SG-HD meeting in Yokohama, Japan (June 24–25, 2010) 
+ 
+Yuuho Yamashita 
+Fisheries Management Division 
+Hokkaido National Fisheries Research Institute, FRA  
+116 Katsurakoi, Kushiro-shi 
+Hokkaido 085-0802 Japan 
+E-mail: yuuho@affrc.go.jp 
+ 
+Takaomi Kaneko 
+Fisheries Management Group 
+Research Center for Fisheries Economics and  
+     Business Administration 
+National Research Institute of Fisheries Science, FRA  
+2-12-4 Fukuura, Kanazawa-ku, Yokohama, Kanagawa 
+236-8648 Japan  
+E-mail: takaomi@affrc.go.jp
+ 
+ 
+ 
+ 
+ 
+ 
+34  PICES Scientific Report No. 39 
+Section 8  Appendices  
+8.2 Seven Steps for the Work of the Study Group on Human Dimensions  
+ 
+ 
+<Step 1>  April 15, 2010:  A draft table of categories and tools in social sciences was made.  
+ 
+<Step 2>  June 23, 2010:  Each Study Group member reviewed applications/experiences of social science 
+tools for EBFM in his/her country.  
+ 
+<Step 3>  June 24–25, 2010:  An inter-sessional meeting was held in Yokohama, Japan, to review results of 
+each member country’s applications/experiences. Based on the results, a table of categories in 
+social science disciplines and their tools was finalized.  
+ 
+<Step 4>  End of August 2010:  The review scope was expanded to other social science disciplines. Based 
+on the results from the Yokohama meeting, the Chairman proposed that each Study Group 
+member conduct a review on his/her specialty, and make a brief report. 
+ 
+<Step 5>  Beginning of October 2010: A draft of the final report (review of results, inventory of practices, 
+and recommendations) was circulated by the Chairman to the Study Group.  
+ 
+<Step 6>  October 22, 2010:  The final SG-HD meeting was held at PICES-2010 in Portland, U.S.A., to 
+finalize the contents of the report.  
+ 
+<Step 7>  April 29, 2011:  A draft of the SG-HD final report was presented at the inter-sessional Science 
+Board meeting in Honolulu. The draft was then circulated to other specialists and expert groups in 
+PICES, and submitted to the PICES Secretariat before PICES-2011 in Khabarovsk, Russia.  
+ 
+PICES Scientific Report No. 39  35 
+Appendices  Section 8 
+ 
+8.3 Session Summary (2008) and Meeting Report (2010) from Past PICES Annual Meetings 
+ 
+ 
+PICES Seventeenth Annual Meeting 
+October 24–November 2, 2008 
+Dalian, China 
+ 
+SUMMARY OF SCIENTIFIC SESSIONS AND WORKSHOPS 
+ 
+ 
+MEQ Topic Session (S12) 
+Connecting the human and natural dimensions of marine ecosystems and marine management in the 
+PICES context  
+ 
+Co-Convenors:  David L. Fluharty (USA), Mitsutaka Makino (Japan), R. Ian Perry (Canada) and Chang-Ik 
+Zhang (Korea) 
+ 
+ 
+Background  
+ 
+A complete definition of marine ecosystems includes the human components. Consideration of ecosystem-
+based management, at least within the natural sciences, usually leaves out the human dimensions, or includes it 
+only as fishing effort. For ecosystem-based management to succeed, however, humans need to be included. 
+This session builds on the Science Board Symposium of 2003 titled “Human dimensions of ecosystem 
+variability”.  Human relationships and how humans interact with the ocean have been changing in nature and 
+strength over time. Natural variability in marine systems can be large, but so are socio-economic pressures and 
+considerations relating to marine environments.  Determining appropriate socio-economic indicators to 
+complement indicators of natural climate variability, e.g. for ecosystem-based management, is an ongoing 
+challenge.  This session will address these interactions between natural and socio-economic issues in the 
+context of ecosystem-based management.  Specifically, it will consider:  (1) What are the criteria to determine 
+relevant socio-economic indicators of human well-being related to marine issues for PICES member countries? 
+(2) What are appropriate indicators to monitor changes in management objectives and human well-being 
+relevant to changing ecosystem structure and production? (3) How might decisions that are made to enhance 
+human well-being likely to impact (positively or negatively) the nature and functions of marine ecosystems? 
+This session theme will continue to explore the many ways that humans interact with marine ecosystems and 
+the scientific efforts to quantify and predict human impacts on the dynamics of such systems.  
+ 
+Summary of presentations 
+ 
+Ten oral (including 1 invited) and 13 posters were presented in this session.  After the introduction of this 
+session from Mr. Fluharty (U.S.A) on behalf of the co-convenors, Dr. Makino reviewed the social and 
+ecological conditions of fisheries with respect to management strategies.  Then, Dr. Hamilton (Invited, 
+University of New Hampshire, U.S.A.) presented the relationships between ecosystems, fisheries and social 
+changes in western Alaska.  Dr. Zhang reviewed the socio-economic indicators used in ecosystem-based 
+assessments for the Eastern Bering Sea trawl fishery.  After the introduction of environmental contaminants in 
+Pacific food webs and their implications for coastal First Nations by Dr. Ross, Dr. Fluharty talked about the 
+use of social science information in marine management processes in the U.S.A.  Four more studies were then 
+presented from Korea (by Dr. Park), China (Dr. Chen and Dr. Zhang), and Russia (Dr. Lukyanova). Dr. Pooley 
+reported the results of a related symposium, convened by GLOBEC and co-sponsored by PICES, which was 
+held at FAO headquarters in July 2008, and which was convened by Dr. Perry.  The session concluded that we 
+should continue to explore the many ways that humans interact with marine ecosystems and the scientific 
+efforts to quantify and predict human impacts on the dynamics of such systems. 
+36  PICES Scientific Report No. 39 
+Section 8  Appendices  
+PICES Scientific Report No. 39  37 
+List of papers 
+ 
+Oral presentations 
+Mitsutaku Makino and Hiroshi Horikawa  
+Social-ecological conditions of fisheries and management by ITQs: A global review 
+Lawrence C. Hamilton (Invited) 
+Ecosystem, fishery and social changes in western Alaska 
+Chang Seung and Chang-Ik Zhang  
+Socio-economic indicators used in ecosystem-based assessment for the eastern Bering Sea trawl fishery 
+Peter S. Ross, T. Child and N. Turner  
+Caught in the crossfire: Environmental contaminants in Pacific food webs and implications for coastal First Nations 
+David L. Fluharty  
+Developing and using social science information in marine management processes in the United States 
+Hee Won Park, Chang-Ik Zhang and Jae Bong Lee  
+A comparative study on the structure and function of Korean marine ranching ecosystems 
+Shang Chen, Jian Liu, Tao Xia and Qixiang Wang  
+Change of ecosystem services of the Yellow River Delta Wetland, China 
+Olga N. Lukyanova and Ludmila V. Nigmatulina  
+The value of ecosystem services of Peter the Great Bay (Japan/East Sea) 
+Samuel G. Pooley, Ian Perry and Mitsutaku Makino  
+Socio-economic considerations of ecosystem approaches to fisheries management 
+Zhifeng Zhang  
+Effects of dredging on internal release of phosphate from marine sediments in Dalian Bay 
+ 
+Posters 
+Jingfeng Fan, Hongxia Ming, Lijun Wu, Yubo Liang and Jiping Chen  
+Detection of human enteric viruses in shellfish in China 
+Peter M. Zhadan and Marina A. Vaschenko  
+Does pollution change the reproductive strategy of the sea urchin? 
+Natalia M. Aminina and Lidia T. Kovekovdova  
+Brown algae metabolism in polluted environments 
+Zhen Wang, Xindong Ma, Zhongsheng Lin, Guangshui Na, Qiang Wang and Ziwei Yao  
+Occurrence and congener specific distribution of polybrominated diphenyl ethers in sediments and mussels from the Bo Sea, 
+China 
+Guangshui Na, Qiang Wang, Zhen Wang, Hongxia Li, Shilan Zhao, Tong Chen, Zhongsheng Lin and Ziwei Yao  
+Pharmaceuticals and Cersonal Care Products (PPCPs) in some river and sewage water of Dalian, China 
+Li Zheng, Xuezheng Lin, Zhisong Cui, Frank S.C. Lee and Xiaoru Wang  
+Phylogenetic analysis of indigenous marine bacteria with the ability to degrade oil pollutants in Bohai Bay 
+Liping Jiao, Liqi Chen, Yuanhui Zhang, Gene J. Zheng, Tu Binh Minh and Paul K.S. Lam  
+Polycyclic aromatic hydrocarbons in remote lake and coastal sediments from Svalbard, Norway: Levels, sources and fluxes 
+Qixiang Wang, Shang Chen and Xuexi Tang  
+Preliminary assessment of ecosystem services of the Yellow Sea 
+Petr V. Lushvin  
+The impact of anthropogenic activity (regime of hydroelectric power stations and technological explosions) on behaviour and 
+reproduction of fish and crustaceans 
+Zhang Hongliang, Leng Yu, Xu Zijun and Li Jiye  
+Research on the generating and vanishing process of Enteromorpha bloom and the environmental controlling factors 
+Zhou Yan-Rong Zhang Wei Tang Wei Zhao Bei andYang Dong-Fang  
+Analysis of nutrients and organic pollution in Shuangdao Bay 
+Ji-Ye Li, Xiu-Qin Sun, Feng-Rong Zheng and Lin-Hua Hao  
+Screen and effect analysis of immunostimulants for sea cucumber, Apostichopus japonicus 
+Wang Xinping, Sun Peiyan, Zhou Qing, Li Mei, Cao Lixin and Zhao Yuhui 
+Compounds concentration analysis of oil and its application in oil spill identification 
+ 
+Appendices  Section 8 
+ 
+ 
+PICES Nineteenth Annual Meeting 
+October 22–31, 2010 
+Portland, U.S.A. 
+ 
+ 
+2010 REPORT OF THE STUDY GROUP ON HUMAN DIMENSIONS 
+ 
+ 
+Background and Terms of Reference 
+ 
+The Implementation Plan for the new PICES integrative science program on Forecasting and Understanding 
+Trends, Uncertainty and Responses of North Pacific Marine Ecosystems” (FUTURE) calls for PICES 
+scientists to make the societal implications of their science more explicit and accessible through long-term 
+engagement and communication activities among scientists, decision makers, stakeholders, and across sectors.  
+Because different marine sectors view ecosystems in terms of their own economic, cultural and societal needs, 
+the objective of ecosystem conservation is “a societal choice” (Principle 1 of the Ecosystem Approach of the 
+Convention on Biological Diversity).  Therefore, the social significance of predicted impacts from climate or 
+ecosystem changes, and the types of information, advice and guidance to be requested of FUTURE might 
+differ from country to country and sector to sector. 
+ 
+The objective of the Study Group on Human Dimensions (SG-HD), established at PICES-2009 in Jeju, Korea,  
+under the direction of Science Board (Decision 09/S7/(iii)), is not to design management systems or plans, and 
+outreach steps, but to review the role of social sciences practices applied in decision-making in marine sectors 
+around the world.  In order to fully utilize the limited time frame of the Study Group (one year), the main focus 
+will be on ecosystem-based fisheries management (EBFM). 
+ 
+The Study Group intends to: 
+   Review how social science has been used/applied globally and regionally in EBFM, and the theoretical 
+basis for these practices; 
+   Review the social scientific tools and information available for EBFM in PICES member countries; 
+   Develop an inventory of practices for use of social economic information appropriate to the circumstances 
+in each PICES member country (the term “best practice” is not used because it is expected that what is 
+considered “best” will vary and be determined according to the circumstances in each of PICES member 
+country); 
+   Prepare a final report on activities and findings of the Group and make recommendations on the 
+desirability of establishing an expert group related to socio-economic sciences within PICES, and on the 
+role of such a group.  For example, based on sound social and economic science, the potential expert group 
+should first survey/assess the needs of potential stakeholders for FUTURE products, and scientifically 
+clarify differences in societal objectives among stakeholders in different sectors and member countries. 
+ 
+The approved membership of the Study Group can be found in SG-HD Endnote 1. 
+ 
+ 
+Study Group process 
+ 
+SG-HD completed, or will complete, the following tasks, as described in the seven steps shown below.    
+ 
+<Step 1>  April 15, 2010:  A draft table of categories and tools in social sciences was made. 
+<Step 2> June 23, 2010:  Each Study Group member reviewed applications/experiences of social science 
+tools for EBFM in his/her country. 
+38  PICES Scientific Report No. 39 
+Section 8  Appendices 
+<Step 3> June 24–25, 2010:  An inter-sessional meeting was held in Yokohama, Japan, to review results of 
+each member country’s applications/experiences.  Based on the results, a table of categories in 
+social science disciplines and their tools was finalized.  
+<Step 4> End of August 2010:  The review scope was expanded to other social science disciplines. Based 
+on the results from the Yokohama meeting, the Chairman proposed that each Study Group 
+member conduct a review on his/her specialty, and make a brief report. 
+<Step 5> Beginning of October 2010:  A draft of the final report (review of results, inventory of practices, 
+and recommendations) was circulated by the Chairman to the Study Group. 
+<Step 6> October 22, 2010:  The final SG-HD meeting was held at PICES-2010 in Portland, U.S.A., to 
+finalize the contents of the report. 
+<Step 7> April 2011:  A draft of the SG-HD final report will be presented at the inter-sessional Science 
+Board meeting in Honolulu.  The draft will then be circulated to other specialists and expert 
+groups in PICES, and submitted to the PICES Secretariat before PICES-2011 in Khabarovsk, 
+Russia. 
+ 
+ 
+Results of activities in 2010 
+  
+SG-HD first discussed the “conventional” social science disciplines related to EBFM (Step 1).  They are: 
+1. Anthropology/Ethnology,  
+2. Economics (bioeconomics, decision theory, non-market valuation, commons, accounting, etc.),  
+3. Geography/Area studies,  
+4. Law/Political science,  
+5. Sociology,  
+6. Psychology,  
+7. Inter-disciplinary methodologies (impact analysis, GIS, management science, etc.).  
+ 
+The Study Group also made a table of social scientific tools in each discipline which can be applied to EBFM 
+studies. 
+  
+Each member of the Study Group reviewed applications of the social scientific tools identified in Step 1, and 
+reported the results at the Group’s inter-sessional meeting held in Yokohama in June 2010 (Steps 2 and 3).  
+The travel costs of two participants were covered by PICES, and other expenses were covered by each PICES 
+member country and the Fisheries Research Agency of Japan.  
+  
+At the Yokohama meeting, Canada discussed marine use, demographic analysis, etc. in the Pacific North Coast 
+Integrated Management Area (PNCIMA), a guidance document on the use of socio-economic objectives for 
+the creation of MPAs.  China presented the new development of Marine Ecosystem Service Evaluation 
+Software, and its application to the Yellow Sea, South China Sea, East China Sea, and Bohai Sea. Social 
+analysis in Sato-Umi (village sea) initiatives and institutional analysis of the Shiretoko World Natural Heritage 
+site were summarized by Japan.  Korea talked about the application of the IFRAME (Integrated Fisheries Risk 
+Assessment, forecasting and Management for Ecosystems) for large purse seiners and bioeconomics for 
+Resource Recovery Plan, etc.  Russia showed a case study of non-market valuation of ecosystem values at 
+Kamchatka, or economic losses from water pollution in Primorsky Kray.  The United States reviewed 
+NOAA’s Annual Stock Assessment, the NEPA Environmental Assessment, and Integrated Ecosystem 
+Assessment in the Puget Sound. 
+  
+Based on the results of Step 3 (from the Yokohama inter-sessional meeting), the Study Group members 
+conducted an additional review of social scientific tools for EBFM (Step 4), and discussed the contents of the 
+final report via e-mail (Step 5).  
+  
+On October 22, 2010, the Study Group held its final meeting at PICES-2010 (Step 6).  At this meeting, the 
+detailed structure of the Study Group final report was decided.  The Study Group also discussed the role of 
+social sciences in EBFM as follows: 1) to make scientific inputs on how to define/select the goals, objectives, 
+PICES Scientific Report No. 39  39 
+Appendices  Section 8 
+40  PICES Scientific Report No. 39 
+indicators, targets, etc., 2) to make scientific inputs on how to judge/asses the performances of specific EBM 
+measures, 3) to improve the value of bio-physical information (for better understanding by the public, 
+management and fishers), 4) to propose spatial/temporal/organizational scales for EBFM, coordinating with 
+existing institutional scales (stake holders) and natural scientific knowledge. 
+  
+Finally, the Study Group drafted the recommendations. In order to better understand and communicate the 
+societal implications of the conditions and future trends of North Pacific marine ecosystems (FUTURE vision), 
+it is desirable to establish a new expert group related to social sciences.  The terms of reference for the new 
+group would include a survey/assessment of the needs of potential stakeholders for FUTURE products, and 
+scientific clarification of differences in societal objectives and needs among stakeholders in different sectors 
+and countries.  For example, the new expert group will be engaged in vulnerability analysis, indicators on 
+human dimensions for EBFM, bioeconomics, etc.  The Study Group also agreed that the new expert group can 
+make a contribution to the next North Pacific Ecosystem Status Report, and organize a symposium on Human 
+Dimensions for EBFM.  
+ 
+The draft of the final report with recommendations will be finished by the end of January 2011 (Step 7).  
+However, because the issue of human dimensions is important and relevant to the FUTURE program 
+(especially to SOFE-AP) and several other groups within PICES, we suggested it is important to circulate this 
+draft to other groups for their comments and suggestions.  The revised version, which includes comments, will 
+be submitted to the inter-sessional Science Board meeting (expected to be held in April 2011).  Based on the 
+comments received at the inter-sessional meeting, SG-HD will finalize the report and recommendations by 
+PICES-2011. 
+ 
+ 
+SG-HD Endnote 1 
+SG-HD membership 
+ 
+Shang Chen (China)  
+Keith R. Criddle (U.S.A.) 
+David L. Fluharty (U.S.A.) 
+Masahito Hirota (Japan) 
+Dohoon Kim (Korea) 
+Olga N. Lukyanova (Russia) 
+Mitsutaku Makino (Japan, Chairman) 
+Jongoh Nam (Korea) 
+Rowena Orok (Canada)  
+Ian Perry (Canada) 
+Ningsheng Yang (China) 
+ 
+ 
+ 
+ 
+ 
+Continued from inside back cover 
+Jamieson, G. and Zhang, C.-I. (Eds.)  2005.  Report of the 
+Study Group on Ecosystem-Based Management 
+Science and its Application to the North Pacific.  
+PICES Sci. Rep. No. 29, 77 pp. 
+Brodeur, R. and Yamamura, O. (Eds.)  2005.  Micronekton 
+of the North Pacific.  PICES Sci. Rep. No. 30, 115 pp. 
+Takeda, S. and Wong, C.S. (Eds.)  2006.  Report of the 
+2004 Workshop on In Situ Iron Enrichment 
+Experiments in the Eastern and Western Subarctic 
+Pacific.  PICES Sci. Rep. No. 31, 187 pp. 
+Miller, C.B. and Ikeda, T. (Eds.)  2006.  Report of the 2005 
+Workshop on Ocean Ecodynamics Comparison in the 
+Subarctic Pacific.  PICES Sci. Rep. No. 32, 103 pp. 
+Kruse, G.H., Livingston, P., Overland, J.E., Jamieson, G.S., 
+McKinnell, S. and Perry, R.I. (Eds.)  2006.  Report of 
+the PICES/NPRB Workshop on Integration of 
+Ecological Indicators of the North Pacific with 
+Emphasis on the Bering Sea.  PICES Sci. Rep. No. 33, 
+109 pp. 
+Hollowed, A.B., Beamish, R.J., Okey, T.A. and Schirripa, M.J. 
+(Eds.) 2008.  Forecasting Climate Impacts on Future 
+Production of Commercially Exploited Fish and Shellfish. 
+PICES Sci. Rep. No. 34, 101 pp. 
+Beamish, R.J. (Ed.)  2008.  Impacts of Climate and Climate 
+Change on the Key Species in the Fisheries in the North 
+Pacific. PICES Sci. Rep. No. 35, 217 pp. 
+Kashiwai, M. and Kantakov, G.A. (Eds.)  2009.  Proceedings of 
+the Fourth Workshop on the Okhotsk Sea and Adjacent 
+Areas.   PICES Sci. Rep. No. 36, 305 pp. 
+Jamieson, G., Livingston, P. and Zhang, C.-I. (Eds.)  2010.  
+Report of Working Group 19 on Ecosystem-based 
+Management Science and its Application to the North 
+Pacific.  PICES Sci. Rep. No. 37, 166 pp. 
+Pakhomov, E. and Yamamura, O. (Eds.)  2010.  Report of the 
+Advisory Panel on Micronekton Sampling Inter-calibration 
+Experiment.  PICES Sci. Rep. No. 38, 108 pp. 
+Makino, M. and Fluharty, D.L. (Eds.) 2011. Report of the 
+Study Group on Human Dimensions. PICES Sci. Rep.  
+No. 39, 40 pp. 
+ 
+ 
+ 
+Continued on inside back page 
+PICES Scientific Reports 
+ 
+ 
+Hargreaves, N.B., Hunter, J.R., Sugimoto, T. and Wada, T. 
+(Eds.) 1993.  Coastal Pelagic Fishes (Report of 
+Working Group 3); Subarctic Gyre (Report of Working 
+Group 6).  PICES Sci. Rep. No. 1, 130 pp. 
+Talley, L.D. and Nagata, Y. (Eds.) 1995.  The Okhotsk Sea 
+and Oyashio Region (Report of Working Group 1).  
+PICES Sci. Rep. No. 2, 227 pp. 
+Anonymous. 1995.  Report of the PICES-STA Workshop 
+on Monitoring Subarctic North Pacific Variability.  
+PICES Sci. Rep. No. 3, 94 pp. 
+Hargreaves, N.B. (Ed.) 1996. Science Plan, Implementation 
+Plan (Report of the PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity).  
+PICES Sci. Rep. No. 4, 64 pp. 
+LeBlond, P.H. and Endoh, M. (Eds.) 1996.  Modelling of 
+the Subarctic North Pacific Circulation (Report of 
+Working Group 7).  PICES Sci. Rep. No. 5, 91 pp. 
+Anonymous. 1996. Proceedings of the Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. 
+No. 6, 426 pp. 
+Beamish, R.J., Hollowed, A.B., Perry, R.I., Radchenko, 
+V.I., Yoo, S. and Terazaki, M. (Eds.) 1997.  Summary 
+of the Workshop on Conceptual/Theoretical Studies and 
+Model Development and the 1996 MODEL, BASS and 
+REX Task Team Reports.  PICES Sci. Rep. No. 7,  
+93 pp. 
+Nagata, Y. and Lobanov, V.B. (Eds.) 1998.  Multilingual 
+Nomenclature of Place and Oceanographic Names in 
+the Region of the Okhotsk Sea.  PICES Sci. Rep. No. 
+8, 57 pp. (Reprint from MIRC Science Report, No. 1, 
+1998) 
+Hollowed, A.B., Ikeda, T., Radchenko, V.I. and Wada, T. 
+(Organizers) 1998.  PICES Climate Change and 
+Carrying Capacity Workshop on the Development of 
+Cooperative Research in Coastal Regions of the North 
+Pacific.  PICES Sci. Rep. No. 9, 59 pp. 
+Freeland, H.J., Peterson, W.T. and Tyler, A. (Eds.) 1999.  
+Proceedings of the 1998 Science Board Symposium on 
+The Impacts of the 1997/98 El Niño Event on the North 
+Pacific Ocean and Its Marginal Seas.  PICES Sci. Rep. 
+No. 10, 110 pp. 
+Dugdale, R.C., Hay, D.E., McFarlane, G.A., Taft, B.A. and 
+Yoo, S. (Eds.) 1999.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Summary of the 1998 MODEL, MONITOR and REX 
+Workshops, and Task Team Reports.  PICES Sci. Rep. 
+No. 11, 88 pp. 
+Lobanov, V.B., Nagata, Y. and Riser, S.C. (Eds.) 1999.  
+Proceedings of the Second PICES Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. 
+No. 12, 203 pp. 
+Danchenkov, M.A., Aubrey, D.G. and Hong, G.H. 2000.  
+Bibliography of the Oceanography of the Japan/East 
+Sea.  PICES Sci. Rep. No. 13, 99 pp. 
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. 
+Predation by Marine Birds and Mammals in the 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. 
+14, 168 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2000.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 1999 MONITOR and 
+REX Workshops, and the 2000 MODEL Workshop on Lower 
+Trophic Level Modelling.  PICES Sci. Rep. No. 15, 148 pp. 
+Stehr, C.M. and Horiguchi, T. (Eds.) 2001.  Environmental 
+Assessment of Vancouver Harbour Data Report for the 
+PICES MEQ Practical Workshop.  PICES Sci. Rep. No. 
+16, 213 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2001.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 2000 BASS, MODEL, 
+MONITOR and REX Workshops, and the 2001 
+BASS/MODEL Workshop.  PICES Sci. Rep. No. 17, 125 pp. 
+Alexander, V., Bychkov, A.S., Livingston, P. and McKinnell, 
+S.M. (Eds.) 2001.  Proceedings of the PICES/CoML/IPRC 
+Workshop on “Impact of Climate Variability on 
+Observation and Prediction of Ecosystem and Biodiversity 
+Changes in the North Pacific”.  PICES Sci. Rep. No. 18, 
+210 pp. 
+Otto, R.S. and Jamieson, G.S. (Eds.) 2001.  Commercially 
+Important Crabs, Shrimps and Lobsters of the North Pacific 
+Ocean.  PICES Sci. Rep. No. 19, 79 pp. 
+Batchelder, H.P., McFarlane, G.A., Megrey, B.A., Mackas, 
+D.L. and Peterson, W.T. (Eds.) 2002.  PICES-GLOBEC 
+International Program on Climate Change and Carrying 
+Capacity: Report of the 2001 BASS/MODEL, MONITOR 
+and REX Workshops, and the 2002 MODEL/REX 
+Workshop.  PICES Sci. Rep. No. 20, 176 pp. 
+Miller, C.B. (Ed.) 2002.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Report of the PICES 2002 Volunteer Observing Ship 
+Workshop.  PICES Sci. Rep. No. 21, 38 pp. 
+Perry, R.I., Livingston, P. and Bychkov, A.S. (Eds.) 2002.  
+PICES Science: The First Ten Years and a Look to the 
+Future.  PICES Sci. Rep. No. 22, 102 pp. 
+Taylor, F.J.R. and Trainer, V.L. (Eds.) 2002.  Harmful Algal 
+Blooms in the PICES Region of the North Pacific.  PICES 
+Sci. Rep. No. 23, 152 pp. 
+Feely, R.A. (Ed.) 2003.  CO
+2
+ in the North Pacific Ocean 
+(Working Group 13 Final Report).  PICES Sci. Rep. No. 
+24, 49 pp. 
+Aydin, K.Y., McFarlane, G.A., King, J.R. and Megrey, B.A. 
+(Eds.)  2003. PICES-GLOBEC International Program on 
+Climate Change and Carrying Capacity:  The BASS/ 
+MODEL Report on Trophic Models of the Subarctic Pacific 
+Basin Ecosystems.  PICES Sci. Rep. No. 25, 93 pp. 
+McKinnell, S.M. (Ed.) 2004.  Proceedings of the Third 
+Workshop on the Okhotsk Sea and Adjacent Areas.  PICES 
+Sci. Rep. No. 26, 275 pp. 
+Kishi, M.J. (Ed.) 2004.  Report of the MODEL Task Team 
+Second Workshop to Develop a Marine Ecosystem Model 
+of the North Pacific Ocean including Pelagic Fishes. 
+PICES Sci. Rep. No. 27, 49 pp. 
+King, J.R. (Ed.)  2005.  Report of the Study Group on the 
+Fisheries and Ecosystem Responses to Recent Regime 
+Shifts. PICES Sci. Rep. No. 28, 162 pp. 
+PICES SCIENTIFIC REPORTS
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+scientific content of these publications are not generally conducted. 
+Printed copies of Scientific Reports are available upon request from 
+PICES Secretariat 
+P.O. Box 6000 
+Sidney, British Columbia 
+Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int 
+On-line versions of PICES Scientific Reports can be found at  
+www.pices.int/publications/scientific_reports/default.aspx 
+This report was developed under the guidance of the PICES Science Board. The views expressed in this report 
+are those of participating scientists under their responsibilities. 
+This document should be cited as follows: 
+Makino, M. and Fluharty, D.L. (Eds.)  2011.  Report of the Study Group on Human Dimensions.  PICES Sci. 
+Rep. No. 39, 40 pp.
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION
+PICES SCIENTIFIC REPORT  
+No. 39,  2011
+PICES SCIENTIFIC REPORT No. 39,  2011
+Report of the Study Group on
+Human Dimensions
+ISBN 1-897176-75-9
+ISSN 1198-273X
+PICES PUBLICATIONS 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which 
+document the administrative and scientific activities 
+of the Organization, and its formal decisions, by 
+calendar year.   
+PICES SCIENTIFIC REPORTS – include 
+proceedings of PICES workshops, final reports of 
+PICES expert groups, data reports and planning 
+reports.
+PICES TECHNICAL REPORTS – are on-line 
+reports published on data/monitoring activities that 
+require frequent updates. 
+SPECIAL PUBLICATIONS – are products that 
+are destined for general or specific audiences.
+JOURNAL SPECIAL ISSUES – are peer-
+reviewed publications resulting from symposia 
+and Annual Meeting scientific sessions and 
+workshops that are published in conjunction with 
+commercial scientific journals.   
+BOOKS – are peer-reviewed, journal-quality 
+publications of broad interest. 
+PICES PRESS – is a semi-annual newsletter 
+providing timely updates on the state of the 
+ocean/climate in the North Pacific, with highlights of 
+current research and associated activities of PICES. 
+ABSTRACT BOOKS – are prepared for PICES 
+Annual Meetings and symposia (co-)organized by 
+PICES.
+For further information on our publications, visit the PICES website at www.pices.int. 
+Front cover figure 
+The PICES Study Group on Human Dimensions found an extremely rich scientific and cultural context 
+for fisheries in the PICES area.  For this reason we have selected two illustrations for our report.  The first 
+shows the “Safe-catch festival” in Japan where local fishers are praying about the safety of fisheries 
+operations and big catch.  The second shows the Fishermen’s Memorial in Seattle, U.S.A. as 
+representative of the risks and rewards of fishing in the North Pacific. The message in all of this is that 
+human dimensions of coastal and marine ecosystems are important and worthy of study.

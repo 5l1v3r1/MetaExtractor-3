@@ -1,0 +1,4867 @@
+  
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 12 
+1999 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCEEDINGS OF THE S ECOND PICES WORKSHOP 
+ON THE OKHOTSK SEA A ND ADJACENT AREAS 
+ 
+ 
+ 
+ 
+Edited by 
+ 
+Drs. Vyacheslav B. Lobanov, Yutaka Nagata and Stephen C. Riser 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 1999 
+Secretariat / Publishe r 
+North Pacific Marine Science Organization (PICES) 
+c/o Institute of Ocean Sciences, P.O. Box 6000, Sidney, B.C., Canada.  V8L 4B2 
+E - mail:    pices@ios.bc.ca    Home Page:  http://pices.ios.bc.ca 
+ iii
+TABLE OF CONTENTS 
+ 
+ Page 
+ 
+Preface...................................................................................................................... v 
+Masaaki Aota.  Long-term tendencies of sea ice concentration and air temperature in the  
+ Okhotsk Sea coast of Hokkaido .............................................................................. 1 
+Hajime Ito & Miki Yoshioka.  Geography of the seasonally ice covered seas .............................. 3 
+George V. Shevchenko & Victor F. Putov.  On wind and tide induced sea-ice  
+ drift on the northeastern shelf of Sakhalin Island (analysis of radar data).......................... 11 
+Boris S. Dyakov, A.A. Nikitin, L. S. Muktepavel & T.A. Shatilina.  Variability of the  
+ Japan and Okhotsk Seas ice cover depending on geopotential field H500 over the  
+ Far-Eastern region ........................................................................................... 19 
+Aleksandr G. Petrov & Nikolay A. Rykov.  Intermediate cold layer and ice cover in  
+ the Sea of Okhotsk ........................................................................................... 25 
+Vladimir Ponomarev, Olga Trusenkova, Elena Ustinova & Dmitry Kaplunenko.   
+ Interannual variations of oceanographic and meteorological characteristics  
+ in the Sea of Okhotsk ........................................................................................ 31 
+George V. Shevchenko & Akie Kato.  Seasonal and interannual changes of atmospheric 
+  pressure, air and water temperature in the area of the Kuril Ridge................................. 41 
+George V. Shevchenko & Vladimir Yu. Saveliev.  Spatial variability of the wind field  
+ in the area of the Kuril Islands  ............................................................................ 49 
+Alexander L. Figurkin & Igor A. Zhigalov.  Seasonal variability and specifity of the  
+ oceanological conditions in the northern Okhotsk Sea in 1997 ...................................... 55 
+Igor A. Zhabin.  Ventilation of the upper portion of the intermediate water in the  
+ Okhotsk Sea .................................................................................................... 61 
+Vladimir A. Luchin & Alexander L. Figurkin.  Oceanographic conditions over the 
+ Kashevarov Bank ............................................................................................. 69 
+Toshiyuki Awaji, Tomohiro Nakamura, Takaki Hatayama, Kazunori Akimoto  
+ & Takatoshi Takizawa.  Tidal exchange through the Kuril Straits................................. 77 
+Tomohiro Nakamura, Toshiyuki Awaji, Takaki Hatayama, Kazunori Akimoto,  
+ Takatoshi Takizawa & Masao Fukasawa.  Vertical mixing induced by  
+ tidally generated internal waves in the Kuril Straits .................................................... 83 
+Katsuro Katsumata & Ichiro Yasuda.  Water exchange between the Okhotsk Sea  
+ and the North Pacific Ocean estimated by simple models ............................................. 89 
+Konstantin A. Rogachev.  Oyashio west path culmination as the consequence of a  
+ rapid thermohaline transition in the Pacific Subarctic.................................................. 95 
+Yasuhiro Kawasaki.  On the year-to-year change in subarctic water characteristics  
+ around the Kuril Islands ....................................................................................101 
+Alexander L. Figurkin & Evgeniy E. Ovsyannikov.  Influence of oceanological  
+ conditions of the West Kamchatka shelf waters on spawning grounds and on 
+ pollock egg distribution .....................................................................................107 
+Igor E. Kochergin & Alexander A. Bogdanovsky.  Transport and turbulence  
+ characteristics for the northeastern Sakhalin shelf conditions........................................115 
+Igor E. Kochergin, Alexander A. Bogdanovsky, Valentina D. Budaeva,  
+ Vyacheslav G. Makarov, Vasily F. Mishukov, S.N. Ovsienko,  
+ Victor F. Putov, L.A. Reitsema, J.W. Sciallabba, O.O. Sergucheva  
+ & P.V. Yarosh.  Modeling of oil spills for the shelf conditions of northeastern Sakhalin ....123 
+ iv 
+ 
+ 
+Valentina D. Budaeva & Vyacheslav G. Makarov.  A peculiar water regime of currents  
+ in the area of eastern Sakhalin shelf ......................................................................131 
+Nikolay A. Rykov.  The oceanographic databases on the Sakhalin shelf ...................................139 
+Akifumi Nakata, Iori Tanaka, Hiroki Yagi, Tomomi Watanabe,  
+ Gennady A. Kantakov & Andrew D. Samatov.  Formation of high-density  
+ water (over 26.8 sigma-t) near the La Perouse Strait (the Soya Strait) ............................145 
+Minoru Odomaki & Kouji Iwamoto.  Currents and tidal observations by Hydrographic  
+ Department of Maritime Safety Agency, off the Okhotsk coast of Hokkaido ....................149 
+Yasushi Fukamachi, Genta Mizuta, Kay I. Ohshima, Motoyo Itoh,  
+ Masaaki Wakatsuchi & Masaaki Aota.  Mooring measurements off  
+ Shiretoko Peninsula, Hokkaido in 1997-1998...........................................................153 
+Mikhail A. Danchenkov, David Aubrey & Stephen C. Riser.  Oceanographic features  
+ of the La Perouse Strait.....................................................................................159 
+Iori Tanaka & Akifumi Nakata.  Results of direct current measurements in the La Perouse  
+ Strait (the Soya Strait), 1995-1998........................................................................173 
+Gennady A. Kantakov & George V. Shevchenko.  In situ observations of Tsushima  
+ and West-Sakhalin currents near La Perouse (Soya) Strait...........................................177 
+Irina Y. Bragina.  Geographical and biological characteristics of the net zooplankton  
+ in the southwestern part of the Sea of Okhotsk during 1987-1996..................................187 
+List of corresponding authors .....................................................................................201 
+PREFACE  
+ 
+ 
+The Second PICES Workshop on the Okhotsk Sea and Adjacent Areas was held in Nemuro, Japan, 
+November 9-12, 1998.  The workshop was coordinated by the Physical Oceanography and Climate 
+Committee (POC) of PICES, and co-convened by Drs. Yutaka Nagata, Vyacheslav B. Lobanov and 
+Lynne D. Talley (absent at the meeting).  POC recognized the importance of the Okhotsk Sea, where 
+sea ice is formed at the lowest latitudes in the world, and also as the formation area of North Pacific 
+Intermediate Water (NPIW).  POC previously formed PICES Working Group 1 on the Okhotsk Sea, 
+and published a review volume "The Okhotsk Sea and Oyashio Region" in 1995 (PICES Scientific 
+Report No. 2).  Following this, PICES held the first Workshop on the Okhotsk Sea and Adjacent Areas 
+in Vladivostok, Russia, in June 1995, the proceedings of which were published as PICES Scientific 
+Report No. 6 in 1996.  In addition, POC published the "Multilingual Nomenclature of Place and 
+Oceanographic Names in the Region of the Okhotsk Sea” as PICES Scienctific Report No. 8 in 1998.  
+There has been a great deal of recent research activities in the Okhotsk Sea and adjacent areas, and 
+many new findings and new knowledge have been generated since the first workshop in Vladivostok.  
+The purpose of this Second Workshop is to exchange new findings and recent research results, and to 
+review on-going and in-planning international and domestic projects in order to improve cooperative 
+research.  
+ 
+The workshop was opened by the Mayor of Nemuro City, Mr. Hiroshi Fujiwara, and Dr. Vyacheslav 
+B. Lobanov explained the aims and the expected products of the workshop.  The workshop discussion 
+focussed mainly on physical oceanography, and talks covered a wide range of research:  sea-ice 
+characteristics and its movements;  the relation between ice-cover and atmospheric conditions;  sea-ice 
+and dense water (NPIW) formation; ventilation and modification of water masses;  tides and their 
+effects on water mixing and on water exchanges through straits;  meso-scale eddies, yearly to decadal 
+temporal variations, oceanographic databases and atlases; and the relation of the oceanic state to 
+spawning grounds and to the nutrient and chlorophyll-a distributions.  Relations of these to local 
+environments such as the northern Okhotsk Sea Shelf, on the Sakhalin and west Kamchatka shelves, in 
+the Kuril Islands region, and in the Soya (La Peoruse) Strait and northern coast of Hokkaido, were 
+discussed.  There were 42 participants and 38 presentations including 10 posters (22 papers and 10 
+posters by Russian scientists, 15 papers by Japanese scientists, and 1 paper by a US scientist). 
+ 
+Most of the on-going and in-planning international programs were discussed: such as the Soya/La 
+Perouse program conducted by Sakhalin Research Institute of Fisheries and Oceanography (SakhNIRO) 
+and the Hokkaido Central Fisheries Experimental Station, the Joint Japanese-Russian-US Study of the 
+Sea of Okhotsk, and the joint studies between Pacific Research Institute of Fisheries and Oceanography 
+(TINRO) and the Hokkaido National Fisheries Research Institute.  Several research activities in Japan 
+and Russia, for example, the Japanese Hydrographic Department, the Hokkaido University group, the 
+Pacific Oceanological Institute (POI), TINRO, the Far Eastern Regional Hydrometeorological Research 
+Institute (FERHRI), were also introduced.  Additional information was presented on the future activities 
+relating to these projects during the plenary session by participating institutes and scientists.  The 
+participants of the workshop appreciated these efforts, and were impressed by the recent progress of the 
+many Okhotsk Sea studies.  However, there are still many problems to be solved, and many logistic 
+and other kinds of difficulties in expanding our research activities and in organizing further 
+international cooperative studies on the Okhotsk Sea area.   
+ 
+The workshop recommends that PICES endorse and support the international cooperative projects 
+mentioned above and that are to be developed in the near future.  The activities should be extended not 
+only to the Okhotsk Sea, but also to the Kuril Islands region and the Western Subarctic Gyre.  PICES 
+member countries bordering the Okhotsk Sea should facilitate access to investigators to cooperate on 
+scientific research in the region.  The workshop participants greatly appreciate the publication of the 
+proceedings of this workshop in the PICES Scientific Report Series, and agreed that Drs. Vyacheslav 
+B. Lobanov, Stephen C. Riser and Yutaka Nagata will serve as co-editors of the publication.  The 
+workshop also recommends that POC/PICES continue to overview and support the Okhotsk 
+Searesearch activities, and consider holding another workshop in the near future, if warranted.  
+Although the subjects of workshop talks were focussed on physical oceanography, many of the projects 
+introduced are carried out in cooperation with other disciplines.  The workshop recommends that the 
+PICES Implementation Panel on Climate Change and Carrying Capacity takes the initiative to organize 
+a GLOBEC-like study for the Okhotsk Sea area. 
+ 
+The workshop was closed following farewell addresses by the Vice-Chairman of the Nemuro Workshop 
+Supporting Committee, Mr. Nobuyuki Fukui (Chairman of the Nemuro Junior Chamber) and the 
+former PICES Science Board Chairman, Dr. Makoto Kashiwai.  As mentioned by the PICES Executive 
+Secretary, Dr. W. Doug McKone, at the Welcome Reception held by Nemuro City on the evening of 
+November 10, this workshop is already the fifth PICES meeting in Nemuro.  All of the participants 
+thanked the people of Nemuro for the support and hard work in providing facilities for PICES 
+meetings, and expressed their thanks for the financial support given by Nemuro City, Hokkaido 
+University and other institutions.  Without this support the outcome of the workshop would be 
+substantially limited. 
+ 
+The proceedings of the Second PICES Workshop on the Okhotsk Sea and Adjacent Areas are published 
+according to a POC/Science Board recommendation at the Seventh Annual Meeting in Fairbanks, 
+Alaska.  I would like to thank the PICES Secretariat for its support in various phases of editing. 
+ 
+ 
+Yutaka Nagata 
+ 
+1
+Long-term tendencies of sea ice concentration and air temperature in the 
+Okhotsk Sea coast of Hokkaido 
+ 
+Masaaki AOTA 
+ 
+Sea Ice Research Laboratory, Hokkaido University, Mombetsu, Japan 
+ 
+The Okhotsk Sea Coast of Hokkaido is located 
+between 43°50'N and 45°30'N, and is covered 
+with sea ice in winter season.  These latitudes are 
+the lowest among seas which are frozen in 
+winter, except the very shallow Bohai Sea filled 
+with much fresher water.  The period when the 
+coastal region is ice covered has been decreasing 
+during recent years. 
+ 
+Long-term observations of sea ice coverage are 
+rare, but along the Okhotsk Coast of Hokkaido, 
+the Abashiri Weather Station of Hokkaido started 
+sea ice observation in 1892.  The Abashiri 
+District Meteorological Observatory took over 
+this observation later, and it is still continuing.  
+This is one of the longest records of sea ice 
+observation.  Using these data, we discuss the 
+long-term trend of the sea ice coverage of the 
+Okhotsk Sea Coast of Hokkaido and its relation to 
+the yearly mean air temperature. 
+ 
+Data and definition of accumulated ice 
+concentration  
+ 
+The visual sea ice observations have been made 
+from top of a coastal hill (approximately 40 m 
+high).  The observable radius is about 20 km. In 
+the early period from 1892 to 1929, only the day 
+of first appearance of sea ice and that of the last 
+day are available.  We call this the period from 
+the day of the first appearance to the last day the 
+sea ice period.  Daily data on sea ice 
+concentration are available after 1930.  The first 
+appearance of sea ice along the Okhotsk Coast of 
+Hokkaido is in late January or in February.  The 
+ice disappears usually in late March, but it may 
+stay until May in some years.  The sea ice 
+concentration is defined as the area of ice cover 
+within the range of observation, in percent. 
+ 
+Characteristics of the sea ice are represented both 
+by the sea ice extent or the sea ice concentration 
+and by the duration of ice stay.  For the years 
+after 1930, the daily value of sea ice 
+concentration (%) is summed for the period of ice 
+cover in each year, and this accumulated sea ice 
+concentration (%-days) is used as a measure of 
+annual sea ice strength.  The correlation between 
+the obtained accumulated concentration and the 
+sea ice period were examined for the period after 
+1930, and we found a good correlation with a 
+coefficient of about 0.8 (n= 68).  For the period 
+before 1929, we estimated the accumulated 
+concentration from the observed sea ice period, 
+by using the regression line of the correlation 
+plots, and used this result in our analysis. 
+ 
+Interannual variation of the accumulated sea 
+ice concentration and the mean air 
+temperature 
+ 
+The mean air temperature averaged over the 
+period from April in the preceding year to March 
+are calculated for each year, and its temporal 
+variation is shown (Fig. 1a) for the period from 
+1892 to 1998.  The corresponding temporal 
+variation of the accumulated sea ice concentration 
+is also shown (Fig. 1b).  Though relatively short-
+period fluctuations are dominant in both curves, 
+the linear trends of the variation can be 
+recognized in both curves.  The mean air 
+temperature tends to increase for the analyzed 
+period, while the accumulated sea ice 
+concentration to decrease. 
+ 
+2 
+ 
+2000 1990 1980 1970 1960 1950
+Year
+1940 1930 1920 1910 1900
+2000
+4000
+6000
+8000
+10000
+1890
+0
+4
+5
+6
+7
+8
+A c c u m u l a t e d I c e C o n c e n t r a t i o n  ( % d a y s ) M e a n A i r T e m p .  ( ° C ) (b)
+(a)
+ 
+Fig. 1 Variations of the yearly mean air temperature (a: upper panel) and the accumulated sea ice 
+concentration (b: lower panel) at Abashiri, Hokkaido. 
+ 
+Long-term tendencies of accumulated sea ice 
+concentration and mean air temperature 
+ 
+Thirty year running averages of the yearly 
+values of the accumulated sea ice concentration 
+were calculated, and the obtained smoothed 
+temporal variations are shown (Fig. 2).  The 
+smoothed air temperature (black circles in Fig. 
+2) exhibits a clear increasing tendency, and the 
+amount of temperature increase during the past 
+106 years is about 0.6°C.  On the other hand, 
+the smoothed accumulated sea ice concentration 
+(black squares in Fig. 2) tends to decrease 
+during the analyzed period, and the sea ice 
+concentration in 1980 is only 60% of that in 1920s. 
+ 
+Conclusion 
+ 
+The clear decreasing tendency of the sea ice amount 
+along the Okhotsk Coast of Hokkaido during the 
+past 106 years can be shown from the ice 
+concentration record taken at Abashiri, Hokkaido.  
+The long-term variation of the sea ice concentration 
+is well correlated with that of the yearly mean air 
+temperature, which exhibits the clear increasing 
+tendency during the same period.  This would be 
+one of the symptoms of the global warming, and is 
+a warning to human beings! 
+ 
+2000 1990 1980 1970 1960 1950
+Year
+1940 1930 1920 1910 1900 1890
+3000
+3500
+4000
+4500
+5000
+5500
+6000
+A c c u m u l a t e d I c e C o n c e n t r a t i o n  ( % d a y s ) Accumulated Ice
+Concentration
+5.4
+5.6
+5.8
+6.0
+6.2
+M e a n A i r T e m p .  ( ° C ) Mean Air Temp
+Fig. 2 Thirty year running averages of the yearly mean air temperature (l) and accumulated ice 
+concentration (n) at Abashiri, Hokkaido. 
+ 
+3
+Geography of the seasonally ice covered seas 
+ 
+Hajime ITO and Miki Yoshioka 
+ 
+National Institute of Polar Research, Tokyo, Japan 
+ 
+Abstract 
+ 
+The Okhotsk Sea and the Barents Sea are known to be ice covered during a part of the year and ice free 
+in the rest of the year.  The conditions surrounding both seas constitute their environment and contrib-
+ute to the creation and maintenance of this particular state, which are investigated in geographic terms 
+in this article.  The common features of the two seas as well as the contrasting ones are elucidated.  The 
+results serves the investigation of a seasonally ice covered sea generally.  
+ 
+ 
+Introduction 
+ 
+Among the seas which are ice covered in winter 
+and ice free during the summer months, the Bar-
+ents Sea and the Okhotsk Sea are located at the 
+northernmost and the southernmost extremes in 
+the northern hemisphere, respectively.  This arti-
+cle compares the seas in terms of geography, on 
+which many, if not all, studies are based.  There 
+can be some similarities in geographic elements, 
+since both seas belong to an identical type, i.e. 
+the seasonally ice covered sea.  The problem can 
+be, however, formulated differently for each sea: 
+why is the sea at that high/low latitude open in 
+summer or frozen in winter, respectively.  Hence 
+contrasting elements are also expected.  Through 
+the comparative study, not only the characteris-
+tics of the two seas but that of a seasonally ice 
+covered sea in general may be elucidated. 
+ 
+Scope 
+ 
+The Barents Sea and the Okhotsk Sea are shown 
+in Figure 1.  The surface area of each is defined 
+to be the area inside of the curves drawn on the 
+plane of the sea surface for the purpose of discus-
+sion: coast line of the continent, that of islands, 
+linear lines connecting pairs of peninsulas facing 
+to each other.  Each sea is then defined to be the 
+water body underneath the area.  The Barents Sea 
+and the Okhotsk Sea thus defined have particular 
+shape and extent, and are placed at a particular 
+location relative to the earth.  The seas are de-
+scribed in this aspect in the next chapter. 
+ 
+The boundary of the seas consists of three differ-
+ent materials: rock, air and water.  The water 
+body in question is thus surrounded by the sea 
+bed, by the overlying atmosphere and by the ad-
+jacent sea, and interact with them.  The attaching 
+neighbors are described in separate chapters in 
+this order. 
+ 
+The Barents Sea and the Okhotsk Sea obtain cer-
+tain characteristics and present a particular state 
+at a given time under the influence of these geo-
+graphic elements.  The detailed investigation of 
+the seas themselves are certainly the most inter-
+esting and important topic, but are beyond the 
+scope of the current article.  The state of the sea 
+is in fact merely regarded as the results of the 
+geographical conditions.  Nevertheless, a brief 
+sketch of the present state of both seas is given in 
+the succeeding chapter to get some idea to make 
+the comparison possible.  In the last section the 
+similarity and difference of the Barents Sea and 
+the Okhotsk Sea are discussed. 
+ 
+Geometry 
+ 
+The Okhotsk Sea is bounded by land, i.e. a con-
+tinent or large islands at northeast, north, west 
+and south.  Two straits cut the land boundary, 
+which connect the Okhotsk Sea to the 
+ 
+4
+ 
+Fig. 1 Two seasonally ice covered seas. 
+ 
+neighboring Japan Sea.  An island chain, Kuril 
+Islands, draws the southeastern boundary, where 
+the water body has direct contact to the Pacific 
+Ocean. 
+ 
+The Okhotsk Sea covers an area of 1.5×10
+6
+ km
+2
+.  
+The mean depth is 0.8×10
+3
+ m, and the total vol-
+ume is 1.2×10
+6
+ km
+3
+ (National Astronomical Ob-
+servatory, 1995).  The total length of the bound-
+ary is 10043 km (6787 km), of which 9483 km 
+(6227 km) is the coast line and 560 km is the 
+boundary running on water.  The contact with the 
+Pacific prevails with the length of 513 km, whilst 
+that to the Japan Sea is 47 km, through 7 km of 
+Tatar Strait and 40 km of Soya Strait.  These 
+measurement were made from maps (Energy, 
+Mines and Resources Canada, 1990; Nomura, 
+1997) where no reference is given. 
+ 
+The coast line length can be increased arbitrarily 
+by using a large scale map, especially where the 
+coast line is complicated in the shape, e.g. fjord.  
+The comparison in the length with the boundary 
+on the water, which is a linear line according to 
+the definition, would be difficult.  The coast line 
+was smoothed for this purpose only, by cutting 
+off the small bays with an entrance width of 100 
+km or less.  The boundary length of thus 
+smoothed sea is given in the parenthesis.  The 
+Okhotsk Sea is a water body surrounded in the 
+first place by a land mass, 92 % of the boundary 
+length, with some opening to adjacent seas, 8 %. 
+ 
+The Barents Sea covers an area of 1.4×10
+6
+km
+2
+ 
+including the White Sea.  Mean depth is 
+0.2×10
+3
+m (Dzhenyuk and Zykova,1992), and the 
+volume is 0.3×10
+6
+ km
+3
+.  The southern side is 
+bordered by a continent and the eastern and 
+northwestern sides by large islands.  Three straits 
+cut through the land boundary to the east:  Maly-
+gina Strait of 8 km wide, Karskiye Vorota Strait 
+of 61 km wide, Matochkin Shar Strait of 4 km 
+wide which connects the Barents Sea with the 
+Kara Sea (Dzhenyuk and Zykova,1992). Scat-
+tered small islands, Zemlya Frantsa Iosifa, are 
+located on the northeastern boundary, through 
+which the Barents Sea has contact with the Arctic 
+Sea and Kara Sea.  The western boundary has a 
+single small island, Bear Island, and is practically 
+open to an ocean, the Norwegian Sea. 
+ 
+The total boundary length is 9955 km (5639 km), 
+of which the coastline is 8399 km (4083 km).  
+The length of the border to other sea is 1556 km, 
+ 
+5
+of which 640 km is the boundary to the Norwe-
+gian Sea (75% of the border is land).  The con-
+tact length to the Norwegian Sea occupies 41% of 
+the total water boundary. 
+ 
+The Okhotsk Sea is located at the latitude of 
+45°N to 60°N and the Barents Sea is at 68°N to 
+80°N.  The latitudes of the centers are assumed 
+to be 53°N and 74°N, respectively. Latitude has 
+a direct influence on the potential solar radiation.  
+The cosine is considered to its index and is calcu-
+lated for both latitudes, and for different position 
+of the sun.  In summer, they are 0.870 for the 
+Okhotsk Sea and 0.636 for the Barents Sea and 
+do not differ from each other so much as the lati-
+tude difference would indicate.  In the fall and 
+spring, they are 0.602 and 0.276.  The Okhotsk 
+Sea receives double the amount of solar radiation 
+in comparison to the Barents Sea.  The difference 
+becomes more clear in winter, they are 0.233 and 
+0, the cosine value being negative in Barents Sea. 
+ 
+Geology 
+ 
+Both seas with the given geometry are placed on 
+the surface of the earth, where the distribution of 
+the land has been established.  They are placed at 
+rather contrasting locations in relation to the land 
+mass.  The Barents Sea is attached to a northern 
+coast at the west of the Eurasia Continent, and 
+Okhotsk Sea is located on the southern coast at 
+the east of the same continent. 
+ 
+The northern coast of Asia is attached to the wid-
+est continental shelf in the world.  The Barents 
+Sea is located entirely on the shelf. Caledonian 
+and Uralian trends dominate in the old platform 
+probably originating in the Archaean.  The base-
+ment is covered by several layers of sediment 
+(Embleton, 1984).  This continental shelf is sus-
+pected to have been completely covered by an ice 
+sheet in the last glacier age, hence the Barents 
+Sea became filled quite recently.  The sea bottom 
+is not completely flat, but retains the landscape 
+created underneath the ice sheet.  Two wide sub-
+merged valleys run toward southwest and north 
+respectively.  The Barents Sea itself is shallow 
+with the depth range of 100 m to 400 m, but to 
+the north the shelf drops to the Nansen Basin with 
+the depth exceeding 3000 m and to the west to the 
+Norwegian Basin with depth exceeding 2000 m. 
+ 
+The northern half of the Okhotsk Sea is also on 
+the continental shelf. Forty percent of the area 
+has the depth 200m (Wadachi, 1987).  The Ku-
+ril Island chain was created as an island arc while 
+the Pacific Plate submerges underneath the conti-
+nent.  A trench was made on the ocean side of the 
+arc, and a basin on the other side, in the Okhotsk 
+Sea.  Thus the southeastern part of the Okhotsk 
+Sea is quite deep.  The area with a depth >3000 
+m is 1.6×10
+5
+ km
+2
+, 10% of the entire sea (Wa-
+katsuchi and Martin, 1990).  The age of the base-
+ment of Kuril Basin is estimated to be 120 to 140 
+million years, the Cretaceous.  The thickness of 
+the sedimentary cover in the Okhotsk Sea exceeds 
+6 km in some place.  Buried and submarine vol-
+canic structures are found in the Kuril Basin 
+(Shilo et al., 1982).  The land surrounding the 
+Okhotsk Sea is mountainous and volcanically ac-
+tive. 
+ 
+The total annual discharge of freshwater into the 
+Okhotsk Sea is estimated to be 590 km
+3
+ (Groves 
+and Nunt, 1980), of which the continental runoff 
+is 463 km
+3
+/year (Zuenko and Yurasov, 1997).  
+The majority of the freshwater is supplied by the 
+Amur River, 315 km
+3
+ /year (Zuenko and Yura-
+sov, 1997).  The drainage area of the Okhotsk 
+Sea is 2.6×10
+6
+ km
+2
+ (4.1×10
+6
+ km
+2
+, including the 
+sea surface), of which the drainage basin of Amur 
+is 1.8×10
+6
+ km
+2
+. 
+ 
+The Dvina and the Pechora are major rivers flow-
+ing into the Barents Sea.  The drainage area of 
+the Barents Sea is 1.3×10
+6
+ km
+2
+ (2.7×10
+6
+ km
+2
+, 
+including sea surface),of which the Dvina is 
+0.3×10
+6
+ km
+2
+ and the Pechora is 0.2×10
+6
+ km
+2
+.  
+The discharge into the Barents Sea is concen-
+trated in the short summer season. (Cattle, 1985). 
+ 
+Zemlya Frantsa Iosifa, located at the northern 
+margin of the Barents Sea, consists of many ice 
+capped islands and the archipelago has 2600 km 
+of tidewater ice cliffs. The archipelago supplies 
+1.5 km
+3
+/year of fresh water to the Barents Sea in 
+the form of icebergs. (Løset and Carstens, 1996). 
+ 
+ 
+6
+Climate 
+ 
+In winter, the Siberian high pressure develops on 
+the continent adjacent to the Okhotsk Sea and the 
+westerly wind blows onto the sea.  The cold con-
+tinental air meets the warm sea water and causes 
+a considerable amount of precipitation.  The large 
+part of the Okhotsk Sea is classified as "Dfc" in 
+Köppen climate classification, meaning that the 
+monthly mean temperature of the coldest month is 
+below -3°C, that of the warmest month is above 
+10°C but that of the fourth warmest month does 
+not exceed 10°C, and that the region has rich 
+precipitation all year through. The northwestern 
+part is classified "Dwc", which describes the dif-
+ference from Dfc, being dry in winter. 
+ 
+The systematic weather record for a certain time 
+length is available on the coastal stations.  For 
+instance, at Abashiri, at the southernmost bound-
+ary, the annual mean air temperature is 6.0°C, 
+the monthly mean temperature stays below 0°C 
+for 4 months (National Astronomical Observa-
+tory, 1995).  At the western boundary, at Chaivo 
+Bay on Sakhalin Island, the air temperature 
+ranges from 20°C to -30°C in a year (Shirasawa 
+et al., 1996).  Mean air temperature at Okhotsk 
+Sea is estimated to be -6°C in winter and 18°C in 
+summer (Groves and Nunt, 1980), using the data 
+obtained on the sea and at the coastal stations.  
+Extreme winter temperatures on the sea assumes 
+the range from 0°C at the southern part in a 
+warm year to -32°C at the northern part in a cold 
+year (Wakatsuchi and Martin, 1990).  The annual 
+precipitation at Nemuro, at the southern bound-
+ary, is recorded to be 1370 mm, which is distrib-
+uted in all the months of the year.  At Okhotsk 
+City, at the northern boundary, 467 mm of the 
+precipitation is concentrated in summer.  At Ust 
+Khayryuzovo, at the eastern boundary, 766 mm 
+of the annual precipitation is obtained and at Ni-
+kolaevskna-Amure, at the western boundary, 657 
+mm, mostly in summer and autumn at the both 
+stations (Korzun et. al., 1974). 
+ 
+The precipitation over the Okhotsk Sea is esti-
+mated using these observations.  At the southern 
+Okhotsk Sea, annual precipitation is 1200 mm 
+and in the northern part, 600 mm.  It decreases 
+toward the center of the sea, where the minimum 
+value of 400 mm is calculated.  Annual evapora-
+tion is estimated to be 400 mm in the central part 
+of the Okhotsk Sea.  It increases to the south and 
+southeast (Korzun et.al., 1974). 
+ 
+At the stations on the continental coast, along the 
+northern boundary, the northerly wind prevails at 
+the speed around 4.5 m/s in January (Fukutomi, 
+1952).  The northwesterly wind prevails at Val, 
+Sakhalin Island at an annual mean speed of 4 m/s.  
+The wind speed is slightly higher during the win-
+ter (Shirasawa et al., 1996).  At stations on the 
+southern boundary, the monthly wind is reported: 
+north or northwest at 4.6 m/s in February and 
+March and south-southwest at 4.4 m/s in April 
+(Fukutomi, 1952).  At the Okhotsk Sea the wind 
+seems to blow from the north, northeast, or 
+northwest in winter (Parkinson and Gratz, 1983) 
+and this northerly wind transports sea ice from 
+the northwest continental shelf region to the 
+southern area (Wakatsuchi and Martin, 1990). 
+ 
+The Barents Sea is in the Atlantic Arctic Frontal 
+Zone, where the Arctic air mass and the polar air 
+mass contact each other.  The warm cyclones 
+from the northern Atlantic and the cold anti-
+cyclones from the Arctic meet each other in the 
+region (Groves and Nunt, 1980).  Compared with 
+other circum-Arctic seas, the Barents Sea has 
+high air temperature and precipitation (Groves 
+and Nunt, 1980).  The Barents Sea area is classi-
+fied as "E" in the Köppen climate classification, 
+meaning that the mean monthly temperature of 
+the warmest month does not exceed 10°C. 
+ 
+At Murmansk, on the southern boundary of Bar-
+ents Sea, the annual mean air temperature is re-
+ported to be –0.1°C, and during six months of 
+the year the monthly mean stays <0°C (National 
+Astronomical Observatory, 1995).  The annual 
+mean air temperature decreases toward the east 
+along the southern boundary, -2.9°C at North 
+Kolguev, and -5.6°C at Varandey.  At Varandey, 
+the monthly mean air temperature of February is 
+-18.3°C and the absolute recorded minimum is –
+48°C (Strass et al., 1997).  The air temperature 
+on the Barents Sea is estimated to fall as one 
+moves from south to north and from west to east 
+ 
+7
+within the area.  The annual mean air temperature 
+ranges from <0°C to 10°C (Strass et al., 1997). 
+ 
+At Vardo, at the southern boundary, the annual 
+precipitation is recorded to be 1043 mm, most of 
+which falls in winter.  At Murmansk, also at the 
+southern boundary but shifted a couple of hun-
+dreds of kilometers toward east, it is 589 mm, 
+which is distributed throughout the year.  At Bear 
+Island, at the western boundary, it is 560 mm, 
+where the summer precipitation is only half of 
+that in winter.  At Zemlya Frantsa Iosifa, at the 
+northern boundary, it is 254 mm and at Mal. 
+Karmakuly, at the eastern boundary, it is 413 
+mm. Most of the precipitation at the last two sta-
+tions are recorded in summer and autumn.  In the 
+Barents Sea, the annual precipitation is estimated 
+to be 1000 mm in the southwestern part, and de-
+creases toward north and east to 300-400 mm.  
+The seasonal change is considerably variable in 
+pattern within the region. 
+ 
+The annual evaporation is estimated to be 800 
+mm in the southwestern part of the Barents Sea, 
+and decreases toward north.  In the northern part 
+it reaches the minimum value of 100 mm (Korzun 
+et al., 1974).  At Kolguev Island, at the southern 
+boundary, the southwesterly wind prevails at 
+mean wind speed of 8.2 m/s in winter, but is 
+scattered in all the directions in summer.  The 
+wind speed is higher in winter than in summer 
+(Strass et al., 1997).  At Hopen Island, at the 
+western area, the monthly mean wind speed of 
+13-16 m/s is reported for November (Løset and 
+Carstens, 1996).  In the western part of the Bar-
+ents Sea, the annual mean wind speed is esti-
+mated to exceed 9 m/s, with a maximum of 36 
+m/s.  The wind speed decreases to the east and to 
+the north.  The wind speed is higher in winter, 
+and is lowest in July (Strass et al., 1997).  The 
+wind direction is generally scattered in all direc-
+tions.  However, the strong wind has a particular 
+direction, which is variable from a place to an-
+other; southwesterly wind in the western part and 
+easterly wind in the northern and eastern parts. 
+Adjacent ocean 
+ 
+The cross section, through which the Okhotsk Sea 
+and Pacific Ocean maintain the direct contact to 
+each other, has an area of 200 km (Wadachi, 
+1987).  The surface water temperature of the Pa-
+cific Ocean near the cross section is reported to 
+be 1°C to 2°C in February, and around 10°C in 
+August.  The surface salinity is 33 psu in Febru-
+ary (Wadachi, 1987). 
+ 
+At the surface, the Pacific Ocean water enters the 
+Okhotsk Sea through the northern part of Kuril 
+chain and the water flows out from the Okhotsk 
+Sea into the Pacific Ocean through southern part 
+of Kuril chain (Wadachi, 1987).  At depth, the 
+water flows out to the Pacific Ocean at the upper 
+layer, e.g. through Bussol Straits at the southern 
+Kuril chain, but the Pacific water flows in at the 
+deep layer below 1500 m (Wadachi, 1987; Wa-
+katsuchi and Martin, 1990).  The Pacific water is 
+warmer, more saline and poor in oxygen at all the 
+depth compared with the water of Okhotsk Sea 
+(Wakatsuchi and Martin, 1990).  Hence the Pa-
+cific water is the source of the heat and salt but a 
+sink for oxygen, when an exchange takes place 
+across the cross section. 
+ 
+The Barents Sea has cross sections through which 
+it has contact with adjacent seas: 160 km
+2
+ to the 
+Norwegian Sea, 53 km
+2
+ to the Arctic Sea and 166 
+km
+2
+ to the Kara Sea (Dzhenyuk and Zykova, 
+1992).  A comparatively warm (4 to 12°C) and 
+saline (>35 psu) Atlantic water, a branch of the 
+Gulf Stream, flows into the Barents Sea through 
+the western boundary between North Cape and 
+Bear Island (Groves and Nunt, 1980).  The At-
+lantic water serves as the source of heat and salt. 
+The surface current enters the Barents Sea with a 
+speed of 0.75 to 0.8 m/s passing by Tromsoflaket 
+from west.  Cold Arctic water flows into the Bar-
+ents Sea across its northern boundary through two 
+routes, between Svalbard and Zemlya Frantsa 
+Iosifa, and between Zemlya Frantsa Iosifa and 
+Novaya Zemlya (Løset and Carstens, 1996).  The 
+Barents Sea contacts the ice sea at the northern 
+boundary; the ice concentration in the area im-
+ 
+8
+mediately to the north of the Barents Sea is re-
+ported to have exceeded 80% in the summer of 
+1980 (Løset et al., 1997).  Multi-year ice is 
+dominant and the mean ice thickness exceeds 2.0 
+m.  The Arctic Sea is thus a two-fold heat sink, 
+i.e. cold water (sensible heat) and ice supplier 
+(latent heat) to the Barents Sea, and is an addi-
+tional source of the fresh water in the solid form. 
+ 
+State of the sea 
+ 
+At the Okhotsk Sea, the temperature of the sur-
+face water ranges from -1.8°C in winter to 18°C 
+in summer (Groves and Nunt, 1980).  The salin-
+ity of the surface water is reported to be 32 to 
+32.5 psu in summer (Wadachi,1987). There is 
+counterclockwise current on the surface in the 
+Okhotsk Sea. 
+ 
+The sea ice is first formed in the northern part of 
+the sea in the middle of November.  The maxi-
+mum development is reached in the middle of 
+March; 80 % of the total area is covered by sea 
+ice (Wadachi, 1987).  There is no sea ice found 
+in the summer months, from July to October.  All 
+sea ice is first year ice or younger in the Okhotsk 
+Sea.  The mean ice thickness in March is re-
+ported to be 1.0 m in the northern part, and 0.4 
+to 0.5 m in the southern part. (Wadachi, 1987; 
+Aota and Uematsu, 1989). 
+ 
+At the Barents Sea, the temperature of the surface 
+water ranges from -2°C in winter to 8°C in 
+summer (Wadachi, 1987).  The salinity of the 
+surface water is around 34 psu in summer.  The 
+current is directed eastward in the southern part 
+and westward and southward in the northern part 
+(Løset and Carstens, 1996).  The first sea ice ap-
+pears in the northern and eastern area in October, 
+and the maximum extension is reached in April.  
+There is no sea ice in August and September. The 
+southern quarter of the sea is ice free year round, 
+except some bays and fjords (Groves and Nunt, 
+1980).  The most common ice is first year ice. 
+The ice thickness can be up to 2 m for first-year 
+ice, and 3 to 5 m for multi-year ice.  The mean 
+ice thickness of the region is estimated to be 0.9 
+to 1.2 m (Løset et al., 1997). Icebergs are also 
+found in the Barents Sea.  Mean sail height is 
+estimated to be 15 m, and the mean diameter is 
+92 m (Løset and Carstens, 1996).  
+ 
+Comparison 
+ 
+The Okhotsk Sea and Barents Sea have several 
+common features.  The areal extent of the seas is 
+quite similar, and the both are attached to the 
+same continent and bounded by islands of various 
+size, so that they have characteristics of a semi-
+mediterranean sea.  A large part of the seas are 
+shallow, but adjacent oceans are quite deep. 
+ 
+The air temperature, precipitation and evapora-
+tion have a similar range over the both seas.  
+Hence, the climatic condition of the seas does not 
+differ much in spite of the latitude difference.  
+They are both generally windy seas and the wind 
+speed is greater in winter.  The strong wind is 
+oriented in particular directions.  Although the 
+drainage area of the Barents Sea is half that of the 
+Okhotsk Sea and the total precipitation is similar 
+in both basins, a similar amount of total discharge 
+is expected due to the difference in the terrestrial 
+evaporation.  Both seas have abundant fresh wa-
+ter supply in similar quantity. 
+ 
+The northern boundaries connect the seas to the 
+coldest part of the continent and the coldest part 
+of the ocean in the northern hemisphere respec-
+tively.  Toward south both seas are connected to 
+the water bodies, which are relatively warm and 
+salty. 
+ 
+Differences are also found in the geographic ele-
+ments of the Okhotsk Sea and that of the Barents 
+Sea.  The Okhotsk Sea has a geometry of a bay, 
+where the current can make a round trip in the 
+sea, whilst the Barents Sea is a wide channel, 
+where two oppositely directed parallel currents 
+can pass by each other within the region. 
+ 
+The Okhotsk Sea is strongly influenced by the 
+climatic conditions of the continent, which invade 
+the region.  The maritime climate governs the 
+Barents Sea, and it can be treated as a branch of 
+the Atlantic Ocean.  Although both seas are 
+windy, there is a difference in the magnitude.  
+The mean wind speed at the Barents Sea is esti-
+ 
+9
+mated to be almost twice as large as that at the 
+Okhotsk Sea.  The transport efficiency of pack 
+ice is thus quite high in the former.  The climate 
+conditions of surrounding areas of the seas espe-
+cially on the continent may differ from each 
+other, even when they are similar on the seas.  
+For instance, the latitude difference may lead dif-
+ferent evaporation in river basins.  The climate in 
+enlarged area can thus influence the seas indi-
+rectly and possibly in different way.  The Barents 
+Sea has a supply of sea ice from the adjacent 
+ocean, but no sea ice is produced in the sea 
+around the Okhotsk Sea.  Hence, the former has 
+an additional fresh water supply in a solid form.  
+ 
+References 
+ 
+Aota, M. and Uematsu, E.  1989.  The study on 
+the polar ocean and the sea of Okhotsk.  J. 
+Geogr. (Chigaku-zasshi), 98(5), 70–82. 
+Cattle, H. 1985. Diverting Soviet rivers: some 
+possible repercussions for the Arctic Ocean.  
+Polar Record, 22(140), 485–498. 
+Dzhenyuk, S.L., Zykova, G.G.  1992.  Hydro-
+meteorological studies of sea of the Northern 
+Eurogean basin.  Proc. Arctic Antarctic Sci. 
+Res. Inst., 426, 1–215. (in Russian). 
+Embleton, C. (ed.)  1984.  Geomorphology of 
+Europe. Macmillan Press (Japanese transla-
+tion by M. Ohya and K. Saka, 1997, Tai-
+meido Publishing Co., Tokyo, 703 pp.) 
+Energy, Mines and Resources Canada.  1990.  
+The National Atlas of Canada, 5th edition, 
+North circumpolar region, 1:10000000. 
+Fukutomi, T.  1952.  Study of sea ice. (18th re-
+port). Drift of sea ice due to wind in the Sea 
+of Okhotsk, especially in its southern part.  
+Low Temp. Sci., 9, 137–144. 
+Groves, D.G. and Nunt, L.M.  1980.  The Ocean 
+World Encyclopedia. McGraw-Hill, New 
+York, 443 pp. 
+Korzun V. I. et.al.  1974.  Atlas of World Water 
+Balance. Chief administration of hydrometeo-
+rological service under the council of minis-
+ters of the USSR, Moscow, 65 sheets. 
+Løset, S. and Carstens, T.  1996.  Sea ice and 
+iceberg observations in the western Barents 
+Sea in 1987. Cold Regions Sci. Tech., 24, 
+323–340. 
+Løset, S., Shkhinek, K., Strass, P., Gudmestad, 
+O.T., Michalenko, E.B. and Kärnä, T.  
+1997.  Ice conditions in the Barents and Kara 
+seas. pp. 173–181.  In OMAE and POAC, 
+vol. IV, H. Yamaguchi et al. (eds.), The 
+American Society of Mechanical Engineers, 
+New York. 
+National Astronomical Observatory.  1995  . Rika 
+nenpyo (Chronological Scientific Tables). 
+Maruzen Co., Tokyo, 1043 pp. 
+Nomura, S. (ed.)  1997.  The Atlas of the Modern 
+World. Shobunsha Publications, Tokyo, 214 
+pp. 
+Parkinson, C.L. and Gratz, A.J.  1983.  On the 
+seasonal sea ice cover of the sea of Okhotsk.  
+J. Geophys. Res., 88(C5), 2793–2802. 
+Shilo, N.A., Kosygin, Yu.A., Bersenev, I.I., 
+Zhuravlyov, A.V., Kulinich, R.G., Ser-
+geyev, K.F., Tuezov, I.K. and Khvedchuk, 
+I.I.  1982.  The structure and history of geo-
+logical evolution of Earth’s crust in the Japan 
+and Okhotsk Sea regions. pp. 59–80.  In Ge-
+ology of Japan Sea. Hoshino, M. and Shi-
+basaki, T. (eds.), Tokai University Press, 
+Tokyo. 
+Shirasawa, K. et al.  1996.  Meteorological data 
+report for the sea ice studies at Val, Chaivo 
+and Kleye Strait, northern Sakhalin.  Low 
+Temp. Sci., Ser. A, 55, Data Rep., 135–203. 
+Strass, P., Løset, S., Shkhinek, K., Gudmestad, 
+O.T., Kärnä, T. and Michalenko, E.B.  
+1997.  Metocean parameters of the Barents 
+and Kara seas – An overview. pp. 165–172.  
+In OMAE and POAC, vol. IV, Yamaguchi, 
+H. et al. (eds.), The American Society of 
+Mechanical Engineers, New York. 
+Wadachi, K. 1987. Encyclopedia of Oceanogra-
+phy. Tokyodo Publishing Co., Tokyo, 589 
+pp. 
+Wakatsuchi, M. and Martin, S.  1990.  Satellite 
+observations of the ice cover of the Kuril ba-
+sin region of the Okhotsk Sea and its relation 
+to the regional oceanography.  J. Geophys. 
+Res., 95(C8), 13,393–13,410. 
+Zuenko, Y.I. and Yurasov, G.I.  1997.  Structure 
+of the coastal waters of the Sea of Okhotsk.  
+Russian Meteorol. Hydrol., 3, 32–37. 
+ 
+   
+  11
+On wind and tide induced sea - ice drift on the northeastern shelf of Sakhalin 
+Island (analysis of radar data) 
+George V. SHEVCHENKO 1
+ and Victor F. Putov
+2
+ 
+1
+Institute of Marine Geology and Geophysics, Russian Academy of Sciences, Yuzhno - Sakhalinsk, Russia 
+2
+Environmental Company of Sakhalin, Yuzhno - Sakhalinsk, Russia 
+ 
+Introduction:  Radar measurements of sea 
+ice drift 
+Severe ice conditions are typical for the northeas t-
+ern shelf of Sakhalin Island. Sea - ice fields in this 
+region are large, heavy and fa st moving 
+(Po k rasenko et al., 1987).  Examination of these 
+m o tions is interesting from the scientific point of 
+view and has significant applied importance. In the 
+present work we investigate the velocities of ice 
+drift induced by tides and wind. The main p urpose 
+of the study is to estimate their nature, main p a-
+rameters, and maximum values.  
+ 
+The properties of the Okhotsk Sea ice cover are 
+determined by the sea circulation, winter winds, 
+and tides (Martin et al., 1998).  To examine the 
+sea - ice drift in the r egion of oil and natural gas 
+fields the Hydrometeorology Division of the Far 
+Eastern Marine Engineering and Geology Exped i-
+tion (now the Environmental Company of Sakh a-
+lin) installed three radar transceivers on the nort h-
+eastern coast of Sakhalin Island.  Tem porary 
+meteorological stations, measuring wind, atmo s-
+pheric pressure, air temperature, precipitation, and 
+visibility, were also established in the vicinity of 
+these installations whose coordinates were as fo l-
+lows: 54.1   N, 142.9   E (Cape Levensterna, 1992 – 19 95), 53.5   N, 143.1   E (Odoptu, 1985 – 1996), and 
+51.1   N, 143.6   E (Komrvo, 1991 – 1993). The loc a-
+tion of these radar stations and current - meter r e-
+corders deployed on the shelf of Sakhalin Island 
+are presented in Figure 1. 
+ 
+These radar stations recorded sea - ice d rift at the 
+distances of approximately 4, 8, 12 and 18 km (the 
+latter only by the Odoptu radar).  Hourly drift ve c-
+tors were estimated by the differences in the ice 
+field positions.  The positions were fixed three 
+times per hour: at 10 to the hour, at the h our and 
+10 min after the hour.  We interpolated and ave r-
+aged the data and get several hourly vector series 
+for each installation.  In this work we analyze only 
+the drift series measured at the most distant points 
+(12 and 18 km).  
+ 
+Fig. 1 Location of radar stations Cape Leve n-
+stern a (CL), Odoptu (OD), and Komrvo (KM), 
+meteorological station and tide gauge Nabil, and 
+current meter stations CM1 (Hanhuzinsk area) 
+and CM2, CM3 (Odoptinsk area) on the nort h-
+eastern shelf of Sakhalin Island.  The arrow ind i-
+cates direction of propagation of tidal shelf waves. 
+ 
+  
+ 12
+Preliminary data anal ysis 
+The best quality data were obtained in 1993: 100 – day series (March 1 – June 8) at Cape Levensterna 
+(CL), 73 days at Odoptu (OD), and 85 days at 
+Komrvo (KM).  We paid the most attention to the 
+examination of just these series. 
+ 
+The velocity components of the ice drift were e s-
+timated in the eastward ( u ) and northward ( v ) d i-
+rections, i.e. in the offshore and longshore dire c-
+tions relative to Sakhalin Island (Fig. 2).  The 
+offshore velocities were relatively small, of about 
+10 – 30 cm/s for all stations.  In co ntrast, the lon g-
+shore velocities were strong, approximately 100 
+cm/s.  Preliminary analysis showed the dominant 
+role of diurnal tides in the longshore drift motions 
+(at least for the area of stations CL and OD). 
+ 
+The calculated spectra of u and v component s for 
+the radar stations CL, OD, and KM are presented 
+in Figure 3.  The northward components dominate 
+at all frequencies, however, whereas for the low -
+frequency band the difference between the energy 
+of two components is significant, for the high -
+frequency band it is relatively small.  There are 
+two noticeable low - frequency peaks at periods of 
+about 12 and 5 days, apparently related to the 
+atmospheric activity.  The low - pass filtered data 
+show also existence of the oscillations with a p e-
+riod of about 21 da ys.  The corresponding peak is 
+not seen in Figure 3, but we could detect it based 
+on high - resolution spectral analysis.  The same 
+peaks were detected in wind spectra (not shown).  
+Based on results of rotary spectral analysis (see 
+Gonella , (1972)) we found that the angle between 
+the wind and ice - drift vectors at the periods of the 
+spectral peaks is about 20 – 30   .  
+ 
+The diurnal spectral peak is dominant at stations 
+CL and OD, but is insignificant at station KM; the 
+semidiurnal oscillations of the sea - ice are s mall at 
+all stations (Fig. 3).  These results are in agre e-
+ment with the results of Rabinovich and Zhukov 
+(1984) and Popudribko et al. (1998), who showed 
+that semidiurnal tidal currents are negligible in this 
+region, in comparison with diurnal cu r rents. 
+ 
+B ased on the results of the spectral analysis, we 
+defined three “natural” frequency bands associated 
+with different types of external forcing:  The low 
+frequency (LF) band, with frequencies less than 
+0.8 cpd; the tidal (TD), with frequencies between 
+0.8 and 2.2 cpd; and the high - frequency (HF), with 
+frequencies greater than 2.2 cpd.  In the text that 
+follows, these three frequency bands are analyzed 
+separately.  
+Low - frequency wind induced drift 
+The low - frequency ice motions, obtained by low -
+pass filtering of the residual (non - tidal) series with 
+25 - h sliding window, were highly correlated with 
+wind.  Figure 4 presents the meridional (alon g-
+shore) components of the ice - drift and wind at st a-
+tion Odoptu (OD).  We have not found any phase 
+shift between the wind and ice drift.  Estimation of 
+the correlation function for all three stations 
+showed that the sea - ice field responds to wind 
+forcing almost immediately.  These results are in 
+contrast to the results of Pokrasenko et al. (1987) 
+who pointed out that there is 8 - h time shift b e-
+tween these pro c esses. 
+ 
+The typical seasonal variations of longshore wind 
+and low - frequency ice - drift motions are shown in 
+Figure 4.  Northerly and northwesterly winds with 
+speeds of about 5 – 8 m/s normally prevail in Jan u-
+ary to March on the northeastern coast of Sakhalin 
+Island.  These winds are induced by a steady “wi n-
+ter monsoon” determining winter weather in this 
+region (see Shevchenk o and Saveliev in this 
+Fig. 2 Eastward ( u ) and northward ( v ) comp o-
+nents of sea ice drift measured by radar at station 
+OD in 1993. 
+ 
+15 20 30 25
+- 1 0 0
+- 5 0
+0
+5 0
+1 0 0
+15 10 15 20 25 30 5 10 15 20
+            M  a  r  c h            M  a  y          A p r i l
+D r i f t s p e e d , v ( c m / s ) - 5 0
+- 2 5
+0
+2 5
+5 0
+D r i f t s p e e d , u ( c m / s ) (a)
+(b)
+   
+  13
+ 
+Fig. 4 Northward (longshore) components of (a) 
+wind and (b) low - frequency ice drift at station OD, 
+March 11 to May 23, 1993. 
+ 
+volume).  Respectively, wind - induced ice - drift 
+motions have southern and southeastern directions.  
+The distribution of wind directions is less stable in 
+April than in wintertime.  In May southeasterly 
+winds of about 3 – 5 m/s (‘summer monsoon’) 
+dominate in the area.  The general southward 
+propagation of sea ice in May and June is probably 
+associated with the Eastern Sakhalin Current. 
+ 
+Strong winds with velocities of about 15 – 25 m/s 
+are related to continental cy clones frequently o c-
+curring in this region during the ice - covered p e-
+riod.  For cyclones crossing Sakhalin Island, wind 
+directions change very fast and these winds do not 
+produce significant currents and associated ice -
+drifts.  In contrast, for cyclones sta ying in the Sea 
+of Okhotsk, steady northerly and northwesterly 
+winds are rather typical.  Specifically, these winds 
+produce maximum velocities of residual (non -
+tidal) ice - drift of about 1 m/s traveling in southern 
+and southeastern directions. 
+ 
+The high cor relation of low - frequency ice motions 
+and wind is clearly seen in Figure 5.  We used a 
+linear regression model to estimate, R, the “wind 
+coefficient of the ice - drift”.  We made comput a-
+tions for longshore and cross - shore components 
+independently and obtaine d the following values: 
+=
+v
+R 4.0 (cm/s)/(m/s) (Fig. 5), and =
+u
+R 2.0 
+(cm/s)/(m/s), r e spectively.  That means that a 
+longshore wind of 10 m/s induces ice - drift moving 
+with a speed of about 40 cm/s, and a cross - shore 
+wind of the same speed produces ice - drift of about 
+20 cm/s.  These regressional coefficients, 
+v
+R 
+and
+u
+R , can be used for short - and long - term for e-
+casts of ice - drift on the nort h eastern shelf of Sa k-
+halin Island.  
+ 
+Fig. 3 Spectra of u and v components of sea ice drift at stations CL (a), OD (b), and KM (c).  Spectra are 
+co m puted for degree of freedom, DoF = 8. 
+- 6 0
+- 4 0
+- 2 0
+0
+2 0
+4 0
+            M  a  r  c h            M  a  y          A p r i l
+15 20 30 25 1 5 10 15 20 25 30 5 10 15 20
+D r i f t s p e e d  ( c m / s ) (b)
+- 1 5
+- 1 0
+- 5
+0
+5
+1 0
+  
+W i n d s p e e d  ( m / s ) (a)
+  
+ 14
+Tide - induced sea ice drift 
+The tide - induced dr ift motions of sea - ice were e s-
+timated using the least square method.  The max i-
+mum values of the longshore tidal drift velocities 
+were found to be of about 100 – 110 cm/s at CL, 
+90 – 100 cm/s at OD, and 15 – 25 cm/s at KM radar 
+stations.  These large tidal curren ts were related 
+mainly to K
+1
+ and O
+1
+ diurnal tidal harmonics.  As 
+was shown first by Rabinovich and Zhukov 
+(1984), and later by other authors (Suzuki and 
+Kanari, 1986; Kowalik and Polyakov , 1998), 
+strong diurnal currents on the northeastern shelf of 
+Sakhali n Island are produced by tidally generated 
+trapped shelf waves (a similar effect is well known 
+for the Pacific coast of Vancouver Island (cf. 
+Crawford and Thomson (1984); Foreman and 
+Thomson (1997)). 
+ 
+Normally, for the areas with dominant diurnal 
+tides, th e extreme yearly tidal values have a 
+prominent 19 - year cycle.  According to the co m-
+putations made by Shevchenko et al . (1990), e x-
+treme tides for the northeastern shelf of Sakhalin 
+Island were observed in 1968 – 1969, 1987 – 1988, 
+etc. The year 1993 was the tim e when diurnal tides 
+were approximately 20 – 30% weaker.  So, the 
+maximum tidal drift velocities can probably reach 
+120 – 140 cm/s. 
+It follows from the results of spectral analysis 
+(Fig. 3), and from direct estimations of tidal cu r-
+rents by the least square met hod, that diurnal tides 
+play a dominant role in the ice - drift motions at 
+stations OD and CL, but are insignificant at KM.  
+According to numerical modeling of tides on the 
+northeastern shelf of Sakhalin Island (Suzuki and 
+Kanari , 1986 ; Kowalik and Polyakov , 1998), diu r-
+nal tidal currents are very strong near the northern 
+end of the island (the probable generation area of 
+shelf waves), and then decrease in the southward 
+direction.  A similar picture of strong diurnal tidal 
+currents decreasing with distance fro m the gener a-
+tion area of diurnal shelf waves (Juan de Fuca 
+Strait) was described by Foreman and Thomson 
+(1997) for the Pacific shelf of Vancouver Island.  
+The main reason of this effect is dissipation of d i-
+urnal shelf waves (Rabinovich and Shevchenko , 
+1984 ).  It is known that tidal shelf waves are no r-
+mally accompanied by strong cu r rents in near -
+shore zone (see the review article by Clarke 
+(1991)), but bottom friction causes their fast diss i-
+pation.  So, we may assume that weakening of d i-
+urnal currents and as sociated ice motions in the 
+area of Komrvo is related to the decreasing (b e-
+cause of dissipation) of shelf waves propagating 
+southward along the northeastern coast of Sakhalin 
+Island.  The other possibility is the presence of 
+local amphidromic points for di urnal tides near to 
+Sakhalin Island as was supposed by Rabinovich 
+and Zhukov (1984).  Existence of such local a m-
+phidromic points for diurnal tides near to the shore 
+is also related to the influence of shelf waves (cf. 
+Cartwright et al. (1980)). 
+ 
+We constru cted ellipses of the tidal ice - drift for 
+major diurnal constituents K
+1
+ and O
+1
+.  At stations 
+CL and OD these ellipses are very similar:  They 
+have approximately the same magnitude, same 
+direction of rotation (clockwise) and are strongly 
+extended alongshore.  The only significant diffe r-
+ence between CL and OD ellipses is the phase 
+shift.  These ice - drift ellipses are in very good 
+agreement with the respective ellipses of tidal cu r-
+rents measured at nearby current - meter stations 
+CM1 and CM2 (Fig. 6), as well as with other 
+measurements of tidal currents made on the nort h-
+eastern shelf of Sakhalin Island (cf. Rabinovich 
+and Zhukov (1984); Popudribko et al . (1998)). 
+Maximum currents at these stations were about 
+40 – 50 cm/s for K
+1
+ and 35 – 40 cm/s for O
+1
+. 
+ 
+So stable resu lts and good agreement of ice - drift 
+and current  observations  made  at different  years 
+Fig. 5 C orrelation ( R
+2
+) between longshore co m-
+ponents of wind and low - frequency ice - drift. The 
+solid straight line corresponds to “wind coefficient 
+of ice drift” (cm/s)/(m/s) estimated using a linear 
+regression model. 
+   
+  15
+   - 1 0
+  3 0
+   - 3 0
+   
+ 1 0
+  
+   - 1 0
+  3 0
+   - 3 0
+   
+  (b) 
+   
+ 1 0
+   - 1 0
+  3 0
+   - 3 0
+  (c) 
+    1 0   - 1 0
+  3 0
+ - 3 0
+  (d) 
+12
+18
+6
+0
+18
+0
+12
+6
+18
+12
+0
+6
+6
+12
+18
+0
+ 
+ 1 0
+ 
+ 
+ 
+and different seasons demonstrate that for the pr e-
+diction of tidally induced sea - ice drift on the 
+northeastern shelf of Sakhalin Isl and, we can a p-
+parently use the results of tidal analysis of currents 
+formerly measured in this area.  The other poss i-
+bility is to use recent results of numerical mode l-
+ing of tides and tidal currents in the Sea of O k-
+hotsk (cf. Kowalik and Polyakov (1998)). Both 
+approaches could be important for short - and long -
+term forecasts of sea ice drift in the vicinity of 
+northeastern Sakhalin Island. 
+ 
+The phase shifts of tidal ellipses between CL and 
+OD stations (both for K
+1
+ and O
+1
+ constituents), co r-
+responding to time shifts of about 6 – 7 h, show that 
+tidal waves propagate along the northeastern coast 
+of Sakhalin Island from north to south (Fig. 1), i.e. 
+in the direction coinciding with the theoretical d i-
+rection of shelf waves (cf. Rabinovich and Zhukov 
+(1984); Kowalik a nd Polyakov (1998)). If the 
+same tendency remains southward from Odoptu 
+station (at the Piltun - Astokhsk, Chaivinsk or 
+Ark u tun - Daginsk oil and gas - bearing areas), then 
+tidal sea - ice drifts in the vicinity of Cape Leve n-
+sterna and at these areas have opposite directions . 
+The southward tidal drift at CL station corr e-
+sponds to the northward drift at the southern areas, 
+and vice versa. 
+ 
+Following Rabinovich and Zhukov (1984), we 
+estimated phase speeds of K
+1
+ and O
+1
+ diurnal tidal 
+waves using the observed phases of longshore ( v ) 
+component of ice - drift at stations CL and OD, and 
+currents at stations CM1, CM2, and CM3 (Fig. 5).  
+Least - square fit showed that the phases of diurnal 
+waves increase southward per 1 degree of latitude 
+on 117° (for K
+1
+) and 101° (for O
+1
+).  The corr e-
+sponding phase speeds are: = c 14.3 – 1.6 km/h 
+(K
+1
+) and = c 15.8 – 1.8 km/h (O
+1
+).  Evident di s-
+persion of d i urnal waves is interesting.  This result 
+as well as phase speed magnitudes themselves are 
+in good agreem ent with theoretical estimates of 
+phase speed of diurnal shelf waves made for this 
+region by Rabinovich and Zhukov (1984): 13.9 
+km/h (for K
+1
+) and 15.3 km/h (for O
+1
+). 
+ 
+Results of tidal analysis show that the diurnal shelf 
+waves play a key role in ice - drift motions on the 
+northeastern shelf of Sakhalin Island.  The main 
+properties of shelf waves are well established (cf.
+Fig. 6 Tidal ellipses for the main diurnal co n-
+stituent K
+1
+ for the ice drift measured by radar at 
+stations (a) CL and (b) OD, and for the sea cu r-
+rents recorded at s tations (c) CM1 and (d) CM2. 
+Note that the scales of vertical (northward) and 
+horizontal (eastward) axes are di f ferent. 
+ 
+Fig. 7 The K
+1
+ (diamonds) and O
+1
+ (triangles) o b-
+served phases of the longshore component of sea 
+ice drift (e mpty symbols) and sea currents (solid 
+symbols) as functions of the latitude. The straight 
+lines show phase speeds of diurnal shelf waves 
+estimated by a linear regression model from the 
+data. 
+0
+5 0
+1 0 0
+1 5 0
+2 0 0
+L a t i t u d e
+P h a s e ( d e g ) K
+1
+O
+1
+C = 1 4 3 k m / h
+C = 1 5 . 8 k m / h
+53° 53.5° 54°N
+  
+ 16
+LeBlond and Mysak (1978)).  So, we can use these 
+known properties to describe and predict essential 
+features of ice motions in this area. 
+ 
+I t is worthwhile to emphasize another aspect of the 
+problem.  A significant influence of shelf waves 
+on various dynamical processes on the shelf is 
+well known.  In particular, they play an important 
+role in sedimentation, meandering of boundary 
+currents, co astal upwelling, shelf circulation, fo r-
+mation of storm surges, etc. (LeBlond and Mysak, 
+1978).  However, this is one of the first demo n-
+str a tions of direct influence of shelf waves on ice -
+drift.  It is interesting to ask, is it a local phenom e-
+non observed o nly in the northern part of the 
+northeastern shelf of Sakhalin Island or it has a 
+more general character and shelf waves affect the 
+behavior of ice motions over the whole region of 
+the Okhotsk Sea shelf of Sakhalin?.  We plan to 
+use the data from Piltun - As tokh, Arcutun -
+Daginsk, and Lunsk marine oil and natural gas -
+bearing areas to study this question in the future. 
+High - frequency drift 
+The difference between u and v components d e-
+creases at periods less than diurnal, and became 
+negligible at periods of a few hours.  There are no 
+noticeable spectral peaks at high frequencies of 
+ice - drift motions (Fig. 3).  However, these high -
+frequency motions are quite significant (typical 
+mean currents are of about 7 – 10 cm/s, maximum 
+currents are 20 – 30 cm/s both for u and v comp o-
+nents).  Probably, the main source of these ene r-
+getic motions is the turbulence induced by the bo t-
+tom friction.  Due to strong tidal currents in the 
+shallow nearshore zone, there is a crucial effect of 
+bottom friction on dynamical processes on the 
+she lf of Sakhalin Island.  Stronger high - frequency 
+oscillations at CL and OD stations are associated 
+with stronger tidal currents in this region, so we 
+can assume that we see cascade transfer of tidal 
+energy into high frequencies.  As Figure 3 shows, 
+in contr ast to tidal and low - frequency bands, the 
+difference between longshore and offshore co m-
+ponents of ice - drift at high frequencies is very 
+small, and they look like the spectra of the Gau s-
+sian stochastic process.  A similar picture is o b-
+served for high freque ncy current oscillations, 
+there is almost no difference between u and v 
+components and between surface and near - bottom 
+la y ers (Popudribko et al . , 1998). 
+Conclusions 
+Coastal radar stations can be used effectively to 
+measure sea ice drift over the shelf.  T hree radar 
+stations established on the coast of Sakhalin Island 
+recorded high quality data, which gave us the o p-
+portunity to examine ice motions on the northeas t-
+ern shelf of the island in a wide frequency range. 
+ 
+Spectral analysis of ice - drift observations revealed 
+three major types of ice motions:  (1) Low -
+frequency, (2) diurnal, and (3) high - frequency.  
+These three types of motions are related to three 
+different generation sources:  (1) Atmospheric a c-
+tivity, (2) tides, and (3) turbulence. 
+ 
+Low frequency d rift motions are highly correlated 
+with wind.  A linear regression model showed that 
+‘wind coefficients of drift’ are 4.0 (cm/s)/(m/s) for 
+longshore component and 2.0 (cm/s)/(m/s) for 
+cross - shore component.  Strong north winds in this 
+region can induce ice motions with velocities more 
+than 1 m/s.  The computed ‘wind coefficients’ 
+may be used for long - term and short term forecast 
+of ice drift on the northeastern shelf of Sakhalin 
+Island.  
+ 
+Diurnal tides play the major role in the sea - ice m o-
+tions in the north ern part of the northeastern shelf 
+of Sakhalin.  These diurnal tidal motions have v e-
+locities more than 1 m/s.  Computed tidal ellipses 
+of ice - drift are in good agreement with the respe c-
+tive ellipses of sea currents measured in this r e-
+gion.  Computed tidal constituents of currents, as 
+well as the results of numerical modeling of tidal 
+motions, may be used for the prediction of ice -
+motions in the oil and gas - bearing areas of the 
+Okhotsk Sea shelf of Sakhalin Island.  
+ 
+Strong diurnal tidal ice - motions on the n ortheas t-
+ern shelf of Sakhalin Island are shown to be r e-
+lated to diurnal shelf waves.  Phase shifts of K
+1
+ 
+and O
+1
+ tidal ellipses estimated from ice - drift 
+measurements and current - meter stations are in 
+very good agreement with a theoretical model of 
+diurnal s helf waves constructed by Rabinovich and 
+Zhukov (1984) for this region. The observed phase 
+speeds of K
+1
+ and O
+1
+ tidal harmonics are 14.3 and 
+15.8 km/h, in comparison with the theoretical va l-
+ues 13.9 and 15.3 km/h, respectively. 
+ 
+High frequency (0.1 – 0.5 cph) ice oscillations now 
+and then exceed 20 cm/s in this area. In contrast to 
+tidal and wind - induced motions, their spectra are 
+   
+  17
+almost isotropic.  It was found that strong high -
+frequency ice - motions are normally associated 
+with strong tidal motions.  The pro bable reason of 
+these oscillations is cascade transfer of tidal e n-
+ergy into higher frequencies due to turbulence and 
+bottom friction in a sha l low nearshore zone. 
+Acknowledgments 
+We would like to thank Drs. Alexander Rabin o-
+vich of the Shirshov Institute of Oceanology, 
+Moscow, Russia, and Howard Freeland of the I n-
+stitute of Ocean Sciences, Sidney, Canada, for 
+constructive comments and careful editing of the 
+text. 
+References 
+Cartwright, D.E., Huthnance, J.M., Spencer, R. 
+and Vassie, J.M. 1980. On the St. Kilda tidal 
+regime. Deep - Sea Res., 27A , 61 – 70. 
+Clarke, A.J. 1991. The dynamics of barotropic 
+tides over the continental shelf and slope (R e-
+view). In Tidal Hydrodynamics , B.B. Parker 
+(ed.), J. Wiley, New York, 79 – 108. 
+Crawford, W.R. and Thomson, R.E. 1984. Diu r-
+n al - period continental shelf waves along Va n-
+couver Island: A comparison of observations 
+with theoretical models. J. Phys. Oceanogr., 
+14 , 1629 – 1646. 
+Foreman, M.G.G., and Thomson, R.E. 1997. 
+Three - dimensional model simulations of tides 
+and buoyancy currents a long the west coast of 
+Vancouver Island. J. Phys. Oceanogr., 27 (7), 
+1300 – 1325. 
+Gonella, J. 1972. A rotary - component method for 
+analysing meteorological and oceanographic 
+vector time series. Deep - Sea Res., 19, 833 – 846. 
+Kowalik, Z., and Polyakov, I. 1998. Ti des in the 
+Sea of Okhotsk. J. Phys. Oceanogr., 28 (7), 
+1389 – 1409. 
+LeBlond, P.H. and Mysak, L.A. 1978. Waves in 
+the Ocean . Elsevier, Amsterdam, 602 pp. 
+Martin, S., Drucker, R. and Yamashita, K. 1998. 
+The production of ice and dense shelf water in 
+the Okhotsk Sea polynyas. J. Geophys. Res., 
+103 (C12), 27,771 – 27,782. 
+Pokrasenko S.A., Truskov, P.A. and Yakunin, L.P. 
+1987. Investigation of sea ice drift on the shelf 
+of Sakhalin Island using the radar methods. 
+Proc. (Trudy) Far Eastern Research Inst. 
+(DVNII), 36 , 4 9 – 52. (in Russian)  
+Popudribko, K.K., Putov, V.F. and Shevchenko, 
+G.V. 1998. Estimation of sea currents chara c-
+teristics for the Piltun - Astokh oil and gas -
+bearing area (northeastern shelf of Sakhalin I s-
+land). Meteorology and Hydrology, 4 , 82 – 95. 
+(in Russian ) 
+Rabinovich, A.B. and Zhukov, A.E. 1984. Tidal 
+oscillations on the shelf of Sakhalin Island. 
+Oceano l ogy , 24 (2), 184 – 189.  
+Rabinovich, A.B. and Shevchenko, G.V. 1984. 
+Two - step mechanism for dissipation of tidal 
+energy in the ocean. Transact. (Doklady) 
+USSR Acad. Sci., Earth Sci. Sec., 276 , 228 – 231. 
+Shevchenko, G.V. and Saveliev, V.Yu. 1999. Sp a-
+tial variability of the wind field in the area of 
+the Kuril Islands. pp. 49 – 53. In Proc. of the 
+Second Workshop on the Okhotsk Sea and A d-
+jacent Areas, PICES Sci. Rep. No. 12 , Si d ney, 
+B.C. Canada.  
+Shevchenko, G.V., Fine, A.V., Rabinovich, A.B. 
+and Mansurov, R.N. 1990. Estimation of e x-
+treme sea level oscillations in the mouth of the 
+Tym River. In Natural Hazards in the Far -
+Eastern Region , USSR Academy of Sciences, 
+Vlad i vostok, 253 – 276. (in Russian) 
+Suzuki, K. and Kanari, S. 1986. Tidal simulation 
+of the Sea of Okhotsk. Kaiyo Kagaku, 18 , 
+455 – 463. (in Japanese with English a b stract)
+ 
+   
+  19
+Variability of the Japan and Okhotsk Seas ice cover depending on the  
+geo p tential field H500 average over the Far Eastern region 
+Boris S. DYAKOV, A.A. Nikitin, L.S. Muktepavel and T.A. Shatilina 
+Pacific Research Institute of Fisheries and Oceanography, Vla divostok, Russia 
+ 
+ 
+Introduction  
+Ice cover of the Japan and Okhotsk seas is one of 
+the elements of the climatic system of the Far East 
+and depends on a large number of the factors 
+(Kryndin, 1964; Stolyarova, 1975; Biryulin, 1970; 
+Yakunin, 1966; Plotnikov , 1996).  Despite the e x-
+tensive data on ice cover of the Far Eastern seas, 
+the reasons for interannual and long - term variabi l-
+ity are still vague.  
+ 
+The object of this work is to reveal the features in 
+variability of the Japan and Okhotsk Seas’ ice 
+cover th at depend on atmospheric large - scale pr o-
+cesses above the Far East sector of the northern 
+hem i sphere. 
+Data 
+The following have been used: 
+ 
+1. Data on area of ice cover (%) of the Japan and 
+Okhotsk Seas (1928 – 1960) published by 
+Kryndin (1964) and obtained from t he Far 
+Eastern Regional Center of Data Reception 
+and Processing (Khabarovsk) – 1961 – 1992. 
+Data on ice cover of the Okhotsk Sea for 
+1993 – 1998 were received by satellite images 
+(TV - and IK - images by “Meteor” and 
+NOAA). 
+ 
+2. Data on water temperature at the Holms k H y-
+drometeorological Station (1913 – 1996) were 
+provided by the Sakhalin Hydrometeorolog i-
+cal A d ministration. 
+ 
+3. Average monthly data on geopotential H500 
+(dam) at airological stations for January, 
+1950 – 1998 were given by the Primorskiy H y-
+dromet e orological Ser vice. 
+Results 
+The long - term variability of ice extent in the Tatar 
+Strait (Japan Sea) and Okhotsk Sea is presented in 
+Figure 1.  Two periods of ice cover are found in 
+the Tatar Strait: one large (1930 – 1960), the other 
+small (1962 – 1992). Extrenal low ice co ver was 
+marked in 1957 and 1991, and high in 1951, 1954 
+and 1960.  The curve of the course of the Okhotsk 
+Sea ice cover differs significantly from a curve of 
+ice cover in Tatar Strait.  The period of high ice 
+cover in winter is for 1966 – 1988 (22 years) in the 
+Okhotsk Sea; within this large period 6 – 7 year 
+cycles are observed.  The cycle of warm winters 
+began in 1989, with ice cover reaching a minimum 
+in 1996. 
+ 
+During the almost 70 - yr period for the Okhotsk 
+Sea, there were observed two cycles of low ice 
+cove r winters: the first from 1952 – 1958 and the 
+second from 1990 – 1997, with a minimum in 1996 
+(the duration of c y cles is 6 – 7 years). 
+ 
+Ice cover changes have to be examined in the co n-
+text of other elements of the climatic system of the 
+Far Eastern sector (30° – 6 0°N, 120° – 160°E). From 
+temperature data at GMS Holmsk for 1913 – 1996 
+(Fig. 2) the warming of coastal waters at western 
+Sakhalin in the 1990s can be seen.  The beginning 
+of warming goes back to the 1960s and coincides 
+with the ice cover change in the Japan S ea.  The 
+warming of waters in a surface layer in the sout h-
+east and northwest parts of the sea was noted also 
+by satellite and hydrological data (Dy a kov, 1996; 
+Ponomarev et al., 1997; Shatilina et al., 1998). 
+ 
+Long - term variation of geopotential anomalies 
+H 500 for regions (I, II, III) are shown in Figure 3. 
+The location of selected domains (regions) and 
+airological observatory stations is shown in Figure 
+4.  The amplitude of geopotential oscillations over 
+the northern part of the Japan Sea. is much higher 
+th an over the Okhotsk Sea.  After 1970 in the 
+northern areas (II) strong peaks prevailed there, 
+which were especially characteristic for 1990s 
+(Fig. 3b).  The last decade is especially extremal, 
+based on the number of large anomalies.  They 
+show changes whic h occurred in eastern Asia.
+  
+ 20
+ 
+Fig. 1 Variability of ice extent in the Japan Sea (1) and Okhotsk Sea (2) 1930 – 1998. 
+ 
+ 
+–2
+–1
+0
+1920
+A n o m a l i e s  ( ° C ) 1930 1940 1950 1960 1970 1980 1990
+1
+2
+3
+4
+ 
+ 
+Fig. 2 Water temperature anomalies at Holmsk 
+in January of 1913 – 1996. 
+ 
+Above the Okhotsk Sea are two periods (Fig. 3), 
+distinguished b y frequency of recurrence of strong 
+peaks of pressure, 1950 – 1969 and 1970 – 1998. 
+Great decreases of pressure were marked in 1966, 
+1967, 1978, 1979, 1988.  Strong peaks occurred in 
+1963, 1974, 1991 and 1997.  The general trend of 
+pressure is increasing.  It is traced more strongly in 
+the se c ond area. 
+ 
+The course of anomalies of geopotential H500 
+clearly testifies that a new period in variation of 
+atmospheric circulation over the Far East has b e-
+gun since 1989.  These variations have started 
+from a sharp growth of pressure in 1989.  In co n-
+trast to the northern regions (II and III) after 1989 
+in the southern region (I) is a marked pressure 
+drop (Fig. 3). 
+ 
+A completely contrasting picture in distribution of 
+a field structure H500 in extremal ice cover in 
+winter is observed in Figure 4.  So during the e x-
+tremal ice winters (1954) the Okhotsk minimum in 
+the Tatar Strait is above the northwest part of the 
+Okhotsk Sea (Fig 4a).  The cold centers are l o-
+cated there.  The Okhotsk minimum is extensive in 
+extremal ice cover in winter (1979) in the Okhotsk 
+Sea and the high - altitude ridge is not observed 
+above western Kamchatka (Fig. 4).  The cold ce n-
+ters are also located there.  
+ 
+In low ice cover winters the Okhotsk minimum in 
+the Japan Sea is substituted for a field of high 
+p ressure.  For example, in 1991 and 1996 in the 
+Okhotsk Sea the Okhotsk minimum shifts to co n-
+tinental regions, and the Pacific ridge to the whole 
+sea (Fig 4). The warm air masses are transferred to 
+the northeastern part of the Okhotsk Sea, and a 
+powerful ce nter of warmth is located there.  It is 
+possible to assume that while a ridge of warmth 
+stretches to the Okhotsk Sea, Pacific warm water 
+inflow increases and it promotes an open water 
+region to be larger.  
+ 
+The highest coefficient of correlation ( r = – 0.59 ) 
+was obtained between the ice cover of the Tatar 
+  21
+Year
+1950 1960 1970 1980 1990
+1950
+1950
+1960
+1960
+1970
+1970
+1980
+1980
+1990
+1990
+A n o m a l i e s H 5 0 0 A n o m a l i e s H 5 0 0 A n o m a l i e s H 5 0 0 –20
+–10
+–4
+–8
+–10
+–5
+4
+8
+10
+10
+15
+12
+0
+0
+5
+(c)
+(b)
+(a)
+0
+ 
+ 
+Strait and anomalies of geopotential H500 for N i-
+kolaevsk - on - Amur. (Fig. 5a).  The correlation b e-
+tween the ice cover of the Okhotsk Sea and 
+anomalies of geopotential H500 for Nikolaevsk -
+on - Amur is equal ( r = – 0.46) (Fig. 5b). 
+ 
+In 1990s there was a displacement of the climatic 
+center of low pressure above the Okhotsk Sea 
+which testifies to the variation of circulation 
+mechanisms above the Far Eastern region.  In this 
+connection, it is interesting to note t hat in the 
+1990s processes such as El Niño (1991, 1994 – 95) 
+took place which have found a response in the Far 
+Eastern sector of the northern hem i sphere. 
+Conclusions 
+The comparison of ice cover changes in the Japan 
+and Okhotsk Seas has shown a favourable cor rel a-
+tion with changes of H500 structure.  Ice cover of 
+these seas is a result of circulation processes above 
+the Far Eastern region.  All low ice cover winters 
+were observed when a high depression above the 
+Okhotsk Sea was absent, which changed the tran s-
+po rt of cold air masses to the Okhotsk Sea.  Weak 
+ice cover in winter was observed in Tatar Strait 
+when there was a sharp increase in pressure over 
+the nort h ern part of the Japan Sea.  
+Fig. 3 Long - term variability of geopotential 
+anomalies H500 (dam) over (a) the southern part 
+and (b) the n orthern part of the Japan Sea and (c) 
+the Okhotsk Sea in January of 1950 – 1998. 
+ 
+  22
+ 
+Fig. 4 Structure of geopotential field H500 in January of 1954, 1991 , 1979 and 1996. Location of a i-
+rological observatory stations and domains (I – southern part of the Japan Sea), II – northern part of the 
+Japan Sea, III – Okhotsk Sea) are shown.  Stations are: 1 Yakutsk, 2 Magadan, 3 Tayganos, 4 Ust -
+Kamchatsk, 5 Okhotsk, 6 Nikolaevsk - on - Amur, 7 Aleksandrovsk - Sakhalinsk, 8 Petropavlovsk -
+Kamchatskiy, 9 Vasilyevo, 10 Khabarovsk, 11 Yuzhno - Sakhalinsk, 12 Abashiri, 13 Vladivostok, 14 
+Pusan, 15 Aikawa, 16 Aburatsu, 17 Tokyo. 
+  23
+ 
+Fig. 5 Correlation betwe en geopotential H500 
+for Nikolaevsk - on - Amur and ice cover of (a) the 
+T a tar Strait and (b) Okhotsk Sea. 
+References 
+Biryulin, G.M. 1970. With a question about for e-
+cast of seas of Okhotsk and Bering ice cover. 
+Trudy DVNIGMI, 30 , 89 – 93. 
+Dyakov, B.S. 1996. The long - term variations of 
+temperature and salinity in the south - eastern 
+Japan Sea in winter. pp. 95 – 99. In Procee d-
+ings of the Fourth CREAMS Workshop . R/V 
+OKEAN, Vladivostok, 12 – 13 Febr u ary, 1996. 
+Kryndin, A.N. 1964. Ice cover seasonal and inte r-
+annual alterat ion and the edge of the ice pos i-
+tion in the far eastern seas in connection with 
+atmospheric circulation peculiarities. Trudy 
+GOIN, 71 , 5 – 83. 
+Plotnikov, V.V. 1996. The long - term forecast of 
+Sea of Okhotsk ice cover according to the 
+large - scale atmospheric p rocesses. Meteorol. 
+Hydrol ., 12 , 93 – 100. 
+Ponomarev, V.I. and Salyuk, A.N. 1997. The cl i-
+mate regime shifts and heat accumulation in 
+the Sea of Japan. pp. 157 – 161. In Proceedings 
+of the CREAMS’97 International Symposium 
+(CREAMS), 28 – 30 January, 1997, Fukuoka , 
+Japan. 
+Shatilina, T.A., Nikitin, A.A. and Dyakov, B.S. 
+The anomaly development of the Tsushima 
+Current in the northwestern part of the Japan 
+Sea and variations of atmospheric circulation 
+over the Far East. Abstract, pp. 547 – 550. In 
+PORSEC’98 , July 28 – 31 1998, Qungdao, 
+China. 
+Stolyarova, G.A. 1975. On water mass advection 
+influences on the Gulf of Tatary ice cover. 
+Trudy DVNIGMI, 55 , Hydromet, Leningrad, 
+pp. 45 – 50. 
+Yakunin, L.P. 1966. On a matter of the Far Eas t-
+ern ice cover fluctuations according to solar 
+activity cyclic recurrence. Zapiski PFGO 
+USSR, 25 , 88 – 93, Vladivostok. (in Russian) 
+ 
+   
+  25
+Intermediate cold layer and ice cover in the Sea of Okhotsk 
+Alekandr G. PETROV and Nikolay A. Rykov 
+Far Eastern Regional Hydrometeorological Research Institute, Vladivostok, Russia 
+ 
+ 
+Introduction 
+The ice cover of the seas is a product of the inte r-
+action o f atmosphere and hydrosphere.  The reason 
+for the appearance of ice is a decrease of te m per a-
+ture of air.  Air temperature is also the basic infl u-
+ence for the formation of ice cover in shallow seas.  
+In deep - water seas (the Okhotsk Sea) the influence 
+of hyd rological conditions in a number of cases 
+can prevail above meteorological ones. The e x-
+perience of the FERHRI forecasts shows that the 
+correspondence between ice cover of the Okhotsk 
+Sea and air temperature data is observed only in 
+2/3 cases and success of the forecasts based only 
+on meteorological factors does not e x ceed 70 – 80 
+%.  This allows us to assume that ice cover is a f-
+fected by other factors, in particular, hydrological 
+conditions.  This is confirmed by numerical e x-
+periments (Petrov and Frolov, 1980 ).  
+ 
+In the present paper we analyze the relationship 
+between the characteristics of ice cover in the Sea 
+of Okhotsk and meteorological and hydrological 
+cond i tions. 
+Variations in the extent of ice cover by size and 
+met e orological conditions 
+For the variabi lity in the extent of ice cover, the 
+diagram of the extent for 1962 – 1986 is co n-
+structed (Fig. 1).  All range of variability is d i-
+vided so that to the maximal size there corr e-
+sponds to 100 (standardization on the maximal 
+size in %), minimal to 0.  Such divi sion allows us 
+to estimate better the conformity between size of 
+ice cover of the sea and meteorological characte r-
+istics (Fig. 2). 
+ 
+For the effects of meteorological conditions we 
+calculated the sums of average ten - day temper a-
+tures of air from November thr ough March for the 
+period from 1962 through 1986 for 18 meteor o-
+logical stations located evenly along a perimeter of 
+the Okhotsk Sea.  The resulting values characte r-
+ize a temperature background of the winter season. 
+The analysis of the diagrams shows that t he size of 
+the ice cover and temperature background coincide 
+in general.  The most interesting features are wi n-
+ters with extreme (minimal and maximal) values 
+of the extent of ice cover and air temperature. Let 
+us consider the diagrams more in detail.  Here it is 
+possible to classify the following winters accor d-
+ing to Table 1. 
+ 
+There are however, the winters in which an esse n-
+tial discrepancy (20 and more %) between the size 
+of an ice cover and meteorological conditions is 
+found.  The most significant of them are summ a-
+rized at Tables 2 and 3 and pr e sented in Figure 3. 
+Variations in winters and hydrological      
+conditions 
+To relate winters and hydrological conditions data 
+on the distribution of the characteristics of the cold 
+intermediate layer (ICL) in the pr evious warm p e-
+riod of year were used.  This layer of negative w a-
+ter temperatures in its core is the basic feature of 
+the Okhotsk Sea.  It is formed as a result of the r-
+modynamic destruction of a  winter  homog e neous 
+ 
+0
+20
+40
+60
+80
+100
+1965 1970 1980 1975 
+Fig. 1 Variability of an ice cover siz e (in %) in 
+the O k hotsk Sea. 
+ 
+0
+20
+40
+60
+80
+100
+1965
+ 
+Fig. 2 Variability of air temperature (in %) over 
+the Okhotsk S ea. 
+  
+ 26 
+Table 1  Winters according to ice cover and air temperature. 
+with extremely 
+small ice extent 
+with extremely 
+large ice extent 
+with extremely low  
+air te m perature 
+with extremely high 
+air te m perature 
+1962 – 1963 1966 – 1967 1965 – 1966 1962 – 1963 
+(1973 – 1974)* 1972 – 1973 1966 – 1967 1967 – 1968 
+(1975 – 1976) 1977 – 1978 1968 – 1969 1973 – 1974 
+1983 – 1984 1978 – 1979 1969 – 1970 1983 – 1984 
+– 1979 – 1980 1972 – 1973 1985 – 1986 
+– (1965 – 1966) 1976 – 1977 – 
+– (1968 – 1969) 1979 – 1980 – 
+– (1971 – 1972) – – 
+– (1976 – 1977) – – 
+– (1980 – 1981) – – 
+– (1982 – 1983) – – 
+*The years in brackets are close to extreme. 
+ 
+ 
+Table 2  Size of an ice cover much below e x pected on meteorological conditions: 
+Year 1 968 – 1969 1969 – 1970 1976 – 1977 1983 – 1984 1984 – 1985 
+% +21 +20 +21 +32 +29 
+ 
+Table 3  Size of an ice cover much above expected on meteorological cond i tions: 
+Year 1967 – 1968 
+1967 – 1968 
+1973 – 1974 
+1977 – 1978 
+1978 – 1979 
+1980 – 1981 
+1982 – 1983 
+1985 – 1986 
+% – 32 – 49 – 32 – 38 – 23 – 23 – 32 – 24 
+ 
+ 
+0
+2 0
+4 0
+6 0
+8 0
+1 0 0
+1 9 6 5 1970 1980 1 9 7 5 1 9 8 5 
+ 
+Fig. 3 Joint diagram of sea ice variability and meteorological conditions in the Okhotsk S ea (in %). 
+Black bars refer to mean excess of real ice cover above the expected ice cover.  White bars refer to the 
+mean real ice cover below the expected on the meteorological conditions. 
+ 
+   
+  27
+layer, which is formed as a result of winter co n-
+vection. The more ice is formed in the sea, the 
+thicker the water layers cooled down to negative 
+temperatures and the more area it o c cupies. 
+ 
+ICL actively inf luences all thermodynamic pro c-
+esses in the sea.  Among them it is possible to e x-
+amine the influence of the ICL on an ice cover. 
+The more extensive ICL is developed, the less the 
+thermal content of the top active layer, and the 
+more ice is formed with other conditions being 
+equal. This given assumption used as a working 
+hypothesis, which was confirmed by this work. 
+ 
+As the most significant influence of the hydrolog i-
+cal conditions on the ice cover, we examined ICL 
+parameters in the central part of the Okhotsk Sea 
+to the east of Sakhalin Island. 
+ 
+First we constructed average long - term maps of 
+the ICL characteristics based on all available hi s-
+torical data for months, which had being chosen as 
+an original definition of thermal conditions prior 
+to each winter of t he studied period.  These are 
+maps of the top and bottom borders of the layer 
+with negative temperatures and its thickness. Maps 
+for the period 1962 – 1986 were also constructed 
+for July, August and September.  From further 
+analysis it was supposed that the hydrological 
+conditions are characterized by the presence of the 
+ICL, namely, when the ICL is increased strongly, 
+the hydrological conditions are assumed to be e x-
+tremely cold, and in the opposite case – extremely 
+warm (Fig. 4). 
+Joint analysis of the charac teristics of winters 
+on the extent of ice cover, meteorological, and 
+hydrolog i cal conditions 
+We carried out a joint analysis of the extent of an 
+ice cover, meteorological and hydrological cond i-
+tions.  The results of the analysis are presented in 
+Tables 4 – 6 . 
+ 
+ 
+11 44 2°E 2°E 1 1 4 4 6° 6° 1 1 5 5 0° 0° 1 1 5 5 4° 4°
+4 4° 4 4°
+4 8° 4 8°
+5 2° 5 2°
+5 6°N 5 6°N
+1967 1962
+ 
+ 
+Fig. 4 Example of the classification of a cold (1967) and a warm (1962) year from hydrological co n d i-
+tions in summer.  Contours of the thickness of the intermediate cold layer (ICL) are shown. 
+ 
+ 
+Table 4 T he characteristic of winters with extreme v alues of an ice cover. 
+Winter with extremely small size of an ice cover 
+Year Meteorological conditions Hydrological conditions 
+1962 – 1963 Extremely warm Extremely warm 
+1983 – 1984 Extremely warm Extremely warm 
+(1973 – 1974) Extremely warm Extremely cold 
+ 
+  
+ 28 
+Table 4 Continued. 
+Winter with the extremely large sizes of an ice cover 
+1966 – 1967 Extremely cold Extremely cold 
+1972 – 1973 Extremely cold Extremely cold 
+1977 – 1978 Warm Warm 
+1978 – 1979 Warm Extremely cold 
+1979 – 1980 Extremely cold Extremely cold 
+(1976 – 1977) Extremely cold Warm 
+ 
+ 
+ 
+Table 5 The characteristic of winters with extreme values of air temperature. 
+Winters with extremely low temperatures of air 
+Year Size of an ice cover Hydrological conditions 
+1965 – 1966 Close to the extremely high No date 
+1968 – 1969 Close to the extremely high No date 
+1969 – 1970 Is higher than the ave r age No date 
+ 
+Winters with extremely high temperature of air 
+1967 – 1968 Close to average Cold 
+1985 – 1986 Average Cold 
+ 
+ 
+ 
+Table 6 The characteristic of  winters, in which the mutual discrepancy between an ice cover and air 
+te m peratures is observed. 
+Winters with size of an ice cover much below expected on meteorological conditions 
+Year Size ice ñover Meteorological condition Hydrological condition 
+1968 – 1969 Above the average Extremely cold No data 
+1969 – 1970 Above the average Extremely cold No data 
+1976 – 1977 Above the average Extremely cold Warm 
+1983 – 1984 Extremely small Close to aver age Extremely warm 
+ 
+Winter with size of an ice cover much above expected on to meteorological conditions 
+1967 – 1968 Close to average Extremely warm Cold 
+1971 – 1972 Is higher average Below average Warm 
+1973 – 1974 Close to average Extremely warm Extremely c old 
+1977 – 1978 Extremely high Warm Warm 
+1978 – 1979 Extremely high Close to average Cold 
+1980 – 1981 Above average Average Warm 
+1982 – 1983 Above average Below average No data 
+1985 – 1986 Average Extremely warm Cold 
+ 
+ 
+ 
+ 
+   
+  29
+Conclusions 
+It is necessary to note th at the qualitative analysis 
+of conditions of the cold intermediate layer (in 
+view of the lack of reliable and representative in i-
+tial data) does not allow us to characterize the 
+thermal condition of an active layer of the sea o b-
+jectively and fully enough. H owever, from the o b-
+tained results, in the absolute majority of cases the 
+extent of an ice cover is completely defined only 
+by appropriate combinations of meteorolog i cal 
+and hydrological factors.  At strongly advanced 
+ICL, the ice cover of the next winter i s frequently 
+observed to be greater than that expected from 
+meteorological conditions, and at a weaker state of 
+the ICL, the ice extent is lower even under colder 
+meteorological conditions. This conclusion is i m-
+portant for using the characteristics of the cold 
+intermediate layer for forecasting, and for research 
+in connecting ice cover with meteorological p a-
+rameters.  Frequently, when using the data on only 
+ice extent, one might calculate various per i-
+odic i ties caused by atmospheric circulation p a-
+rameters (a nd by other factors) to try to explain 
+their phys i cal meaning.  Taking into account h y-
+drological factors can help researchers make more 
+accurate statements regarding research problems, 
+both for the ice cover studies directly and for other 
+que s tions concern ing atmospheric circulation, and 
+the climate as a whole. 
+References 
+Petrov, A.G. and Frolov, I.E. 1980. The numerical 
+model of ice conditions during the pre - winter 
+period. Trudy DVNIGMI (Proc. FERHRI) , 80 , 
+3 – 12. (in Russian) 
+ 
+   
+  31
+Interannual variations of oceanographic and meteorological characteristics in 
+the Sea of Okhotsk 
+Vladimir PONOMAREV
+1
+, Olga Trusenkova
+1
+, Elena Ustinova
+2
+, and Dmitry Kaplunenko
+1
+ 
+1 
+Pacific Oceanological Institute, Russian Academy of Sciences, Vladivostok, Rus sia 
+2 
+Pacific Research Institute of Fisheries and Oceanography, Vladivostok, Russia 
+ 
+ 
+This study is devoted to low - frequency variations 
+of oceanographic and meteorological characteri s-
+tics in the Sea of Okhotsk.  Time series of sea ice 
+extent, air temperat ure at the meteorological st a-
+tions around the Sea, South Oscillation Index 
+(SOI), North Pacific Index (NPI), and of fr e-
+quency of occurrence for certain meteorological 
+situations were subjected to correlation and spe c-
+tral analyses.  Monthly and seasonal (wi nter and 
+summer) mean time series were considered for the 
+periods of 40 years and more.  Both 3 - month (D e-
+cember – February and June – August) and 5 - month 
+(November – March and May – September) avera g-
+ing was used to compose the seasonal time series. 
+In a few cases, averaging was performed for 
+April – June, July – September, October – December 
+or January – March.  A 95% - confidence level was 
+chosen to test statistical significance of estimates 
+o b tained. 
+ 
+Characteristic time - scales of low - frequency air 
+temperature variations w ere obtained from power 
+spectra for winter mean time series for the 20th 
+century, often for more than 100 years.  We chose 
+the 3 following intervals of interest in the time -
+scale: biennial (2 – 3 years), ENSO (3 – 7 years), and 
+decadal (7 – 13 years) intervals.  Every chosen time 
+interval has, as a rule, the only max i mum of 95% -
+significance level in spectra for monthly mean 
+time series.  Typical examples are shown in Table 
+1.  There are biennial maximums for the most st a-
+tions in the most months.  ENSO - scale maxim ums 
+occur usually in spring, rarer in summer or fall and 
+almost never in winter.  On the contrary, decadal -
+scale maximums are often present in winter, and, 
+rarer, in fall.  
+ 
+The situation is different from that in the Sea of 
+Japan where ENSO - scale maximums are present 
+in air temperature spectra for all seasons of a year, 
+although both ENSO and decadal peaks usually do 
+not occur simultaneously for the spectrum of the 
+same month or season (Ponomarev et al., 1999). 
+The spectrum for the Nemuro station (Table 1) 
+which is actually located at the Hokkaido Pacific 
+coast is close to those for the Japan Sea.  The pre s-
+ence of well - pronounced ENSO and decadal scale 
+variations in the subarctic area corresponds to 
+findings based on analysis of North Pacific winter 
+sea sur face temperature (Nakamura 1997; P o-
+n o marev et al., 1999) as well as of the Oyashio 
+Intr u sion and snow coverage over eastern Asia 
+(Sekine, Yamada, 1996).  Thus, the relationship 
+between seasonal air temperature anomalies and 
+ENSO should be analyzed. 
+ 
+Unlagg ed cross - correlation was estimated between 
+winter mean time series of air temperature at the 
+meteorological stations around the Sea of Okhotsk 
+and SOI.  Lagged cross - correlation was estimated 
+between winter mean air temperature and SOI for 
+the previous (la g of – 6 months) or next (lag of +6 
+months) summer.  A statistically significant pos i-
+tive unlagged cross - correlation was found for st a-
+tions located at the Sakhalin, Siberian and Ka m-
+chatka coasts of the Okhotsk Sea.  A statistically 
+significant positive lagg ed cross - correlation, air 
+temperature lagging behind SOI (SOI taken for a 
+previous summer), was also found, although 
+smaller in value compared to the unlagged corr e l a-
+tion.  Examples are shown in Table 2.  A chart of 
+winter air temperature at the Ust - Hairuz ovo met e-
+orological station located at the Kamchatka coast 
+of the Okhotsk Sea superimposed with SOI and 
+NPI is shown in Figure 1.  It also has unlagged and 
+lagged (SOI leading 6 months) cross - correlations 
+with SOI (Table 3).  
+ 
+Air temperature at the norther n Okhotsk Sea shelf 
+has an unlagged cross - correlation with SOI in a 
+transitional fall – winter period from October to 
+December (Table 4).  Moreover, it also has a 
+lagged correlation with SOI averaged both for 
+July – Se p tember and April – June. 
+ 
+Thus, air tempera ture over the Sea of Okhotsk 
+tends to have negative (positive) anomaly during 
+winter El Niño (La Niña) events.  Likewise, air 
+  
+ 32
+temperature over the Sea tends to have positive 
+anomaly in winters following summer La Niña 
+events.  This conclusion, however, is not valid for 
+some southern coastal Okhotsk Sea stations.  As 
+seen in Table 2, the Nemuro and Abashiri stations 
+situated at the northeast Hokkaido coast do not 
+have a statistically significant correlation with 
+SOI, or with the most northern coastal station s in 
+the O k hotsk Sea (Okhotsk and Magadan). 
+ 
+Low - frequency thermal regime variations also 
+manifest themselves in the Okhotsk Sea ice.  Sea 
+ice winter mean time series (1957 – 1989) were 
+composed by averaging 10 - day ice cover in winter 
+and early spring (21 – 28 of February, 1 – 10, 11 – 20 
+and 21 – 30 of March, and 1 – 10 of April).  Both its 
+unlagged and lagged (ice 6 months lagging SOI) 
+cross - correlation with SOI is statistically signif i-
+cant and negative (Table 3, Fig. 2).  Thus, ice 
+cover in the Okhotsk Sea tends to increase during 
+winter El Niño events (when SOI reaches its hig h-
+est negative values) and to decrease in winters fo l-
+lowing summer La Niña events (when SOI reaches 
+its highest positive va l ues). 
+ 
+As a whole, seasonal links between ENSO and 
+oceanographic and m eteorological characteristics 
+suggest winter cooling in the Sea of Okhotsk du r-
+ing winter El Niño events and winter warming 
+there after prev i ous summer La Niña events. 
+ 
+Table 1   Characteristic time - scales of air temperature variations for the meteorologic al stations around 
+the Sea of Okhotsk based on seasonal mean time series spectra.  A 95% confidence level is accepted.  
+Underlined are values corresponding to the middle of ENSO (3.0 – 6.9) or decadal (7.0 – 13.5) per i ods. 
+Month Station Periods (in years) Stat ion Periods (in years) 
+  2.0 – 2.9 3.0 – 6.9 7.0 – 13.5  2.0 – 2.9 3.0 – 6.9 7.0 – 13.5 
+  Winter Okhotsk, 2.2 6.4  Icha, 2.0   
+  Spring  2.1 4.9   2.9   
+  Su m mer 1926 – 1990    8.0 1951 – 1990 2.0   9.3 
+  Fall  2.0 3.0    4.0  
+  Winter Ajan, 2.9   Simushir,    8.0 
+  Spring   3.7   2.0 5.0  
+  Su m mer 1951 – 1990  5.6  1951 – 1990 2.0   
+  Fall  2.4    2.4  13.3 
+  Winter Vakkanai,    8.0 Nemuro, 2.1   8.2 
+  Spring   4.4   2.5 4.1 11.8 
+  Su m mer 1951 – 1990 2.9   1884 – 1990 2.2 5.6  
+  Fall  2.4    2.4 4.6  
+  Winter Yuzho -    8.0 Abashiri    8.0 
+  Spring Sakhalinsk, 2.0 5.0   2.4 5.0  
+  Su m mer 1951 – 1990 2.0   1951 – 1990  3.1  
+  Fall  2.4  13.3  2.4  13.3 
+ 
+ 
+Table 2   Cross - correlation of winter mean air temperature time series (1949 – 1990) at the coastal met e-
+orological sta tions around the Sea of Okhotsk with each other and SOI averaged for the same winter, next 
+summer (SOI, +6 months) and previous summer (SOI, – 6 months).  Linear trend is subtracted.  A 95% 
+confidence level is equal to 0.308, accor d ing to the Fisher test. 
+ Okhotsk Ajan Icha Nikolaevsk Alexndrvsk Por o naysk Abashiry Nemuro SOI SOI, 
++6 mo 
+SOI,  
+– 6 mo 
+Magadan 
+0.93 0.53 0.79 0.42 0.43 0.52 none none 0.54 none 0.43 
+Okhotsk 
+ 0.66 0.71 0.58 0.52 0.59 none none 0.58 none 0.38 
+Ajan 
+  0.48 0.68 0.78 0.69 0.4 0.47 0. 41 none none 
+Icha 
+   0.46 0.57 0.59 0.46 0.47 0.51 none 0.42 
+Nikolaevsk 
+    0.73 0.66 0.50 0.52 0.38 none 0.32 
+Alexndrvsk 
+     0.84 0.71 0.75 0.42 none 0.28 
+Por o naysk 
+      0.49 0.57 0.56 none 0.43 
+Abashiry 
+       0.97 none none none 
+Nemuro 
+        n one none none 
+   
+  33
+ 
+5 5
+5 0
+5 1
+5 2
+5 3
+5 4
+5 6
+5 7
+5 8
+5 9
+6 0
+6 1
+6 2
+6 3
+6 4
+6 5
+6 6
+6 7
+6 8
+6 9
+7 0
+7 1
+7 2
+7 3
+7 4
+7 5
+7 6
+7 7
+7 8
+7 9
+8 0
+8 3
+8 2
+8 4
+8 5
+8 6
+8 7
+8 8
+8 9
+9 0 8 1
+- 8
+- 6
+- 4
+- 2
+0
+2
+4
+5 0 5 5 6 0 6 5 7 0 7 5 8 0 8 5 9 0
+Year
+123
+ 
+Fig. 1 Time series (1950 – 1990) of normalized winter anomalies of NPI (1), SOI (2), and air temper a-
+ture at the Ust - Hairuzovo meteorological station (3).  Positive anomalies of SOI correspond to La Niña 
+events, negative anomalies corr e spon d to El Niño events. 
+ 
+ 
+ 
+Table 3 Unlagged and lagged cross - correlation with SOI of some oceanographic and meteorological 
+cha r acteristics in the Sea of Okhotsk calculated for the winter mean time series.  The 95% confidence le v-
+els are also shown, calculated based on the Fisher test. 
+Data Unlagged SOI SOI 6 months leading 95% - level 
+Ust - Hairuzovo air temperature, 1950 – 1990   0.55   0.34 0.312 
+Okhotsk sea ice, 1957 – 1990 – 0.45 – 0.46 0.349 
+North Pacific Index, 1940 – 1990   0.58   0.49 0.282 
+ 
+ 
+ 
+Table 4 Unlagge d and lagged cross - correlation between air temperature at the coastal stations around 
+the northern Okhotsk shelf averaged for October – December and SOI averaged for April – June (SOI, 
+AMJ), July – September (SOI, JAS), October – December (SOI, OND) for the period from 1949 to 1990.  A 
+95% - confidence level is equal to 0.308, accor d ing to the Fisher test.  
+ Ajan O k hotsk Magadan Icha 
+SOI, AMJ none none 0.38 0.34 
+SOI, JAS 0.32 0.40 0.51 0.36 
+SOI, OND none 0.47 0.56 none 
+ 
+ 
+  
+ 34
+5 7
+5 8
+5 9
+6
+6
+0
+0
+6 1
+6 2
+6 3
+6 4
+6 5
+6 6
+6 7
+6 8
+6 9
+7
+7
+0
+0
+7 1
+7 2
+7 3
+7 4
+7 5
+7 6
+7 7
+7 8
+7 9
+8
+8
+0
+0
+8 1
+8 2
+8 3
+8 4
+8 5
+8 6
+8 7
+8 8
+8 9
+- 4
+- 3
+- 2
+- 1
+0
+1
+2
+3
+6 5 7 5 8 5
+Year
+1 2
+ 
+ 
+Fig. 2 Time series (1957 – 1989) of the Sea of Okhotsk ice extent normalized anomaly (1) and norma l-
+ized winter anomaly of SOI (2).  (Positive values of SOI correspond to La Niña events, negative values 
+corr e spond to El Niño events.) 
+ 
+ 
+NPI measuring intensity of Aleutian Low also has 
+statistical ly significant positive unlagged cross -
+correlation with SOI for winter.  In winter, NPI 
+also has positive lagged cross - correlation with SOI 
+taken for a previous summer (Table 3).  Figure 1  
+shows that NPI varies in phase with air temper a-
+ture at the Ust - Hai ruzovo meteorological station.  
+At the same time, NPI spectra calculated for 
+monthly mean time series in summer have a d e-
+cadal spectral maximum, which is also present in 
+the winter time series of air temperature over the 
+Sea of Okhotsk.  The Okhotsk Sea ic e extent 
+shows a decadal maximum in the spectrum as well 
+(Plo t nikov, 1997). 
+ 
+It was earlier shown that the ENSO cycle is a c-
+companied by South Asian Monsoon anomalies 
+(Webster and Yang, 1992; Sekine, 1996) and by a 
+change in the jet stream and the associate d storm 
+tracks which, in turn, alters the heat and vorticity 
+fluxes caused by the transient eddies over the 
+Northern Hemisphere (Branstator, 1995).  Ther e-
+fore, it is reasonable to suggest that ENSO and 
+decadal scale variations in the Sea of Okhotsk are 
+con nected via both annual – biennial oscillations of 
+the Asian monsoon system and ocean – atmosphere 
+interaction in the western mid - latitude P a cific. 
+ 
+Palmer et al. (1992) and Molteni et al. (1993) a r-
+gued that, despite very large natural variability of 
+the extrat ropical atmosphere circulation, there e x-
+ist certain preferred regimes with rather persistent 
+flow patterns presumably associated with the 
+land – sea distribution and climatological planetary 
+waves.  The effect of tropical sea surface te m per a-
+ture forcing asso ciated with the ENSO cycle alters 
+the frequency of occurrence and stability of certain 
+pre - existing regimes ( Learning to Predict Climate 
+Variations Associated with El Niño and Southern 
+Oscillation. Accomplishments and Leg a cies of the 
+TOGA Pr o gram , 1996).  
+ 
+Polyakova (1997) suggested six typical synoptic 
+patterns of atmospheric circulation over the North 
+Pacific based on heuristic analysis of daily sea 
+surface pressure fields with a special consideration 
+of positions of cyclone tracks and of the Aleutian 
+Low and Subtropic High pressure centers.  Choice 
+of original pressure fields rather than averaged, for 
+example, monthly data, gave patterns which keep 
+   
+  35
+information on synoptic processes. They were ea r-
+lier described in detail (Ponomarev et al., 1999), 
+and simi larity were emphasized over the North 
+Pacific with known atmospheric circulation pa t-
+terns such as the Pacific – North American (PNA), 
+East – West (EW), and Zonal Dipole (ZD) patterns 
+(Wallace and Gutzler, 1981; Barnston and 
+Livezey, 1987).  The calendar develo ped by 
+Polyakova (1997) for the period from 1949 to 
+1998 reflects alternation of these patterns in time 
+and is hereafter used as a base for composing 
+monthly time series of their frequency of occu r-
+rence in days per month. 
+ 
+Considering low - frequency variati ons of ocean o-
+graphic and meteorological characteristics in the 
+Sea of Okhotsk, two most frequent meteorological 
+situations are of particular interest (Polyakova, 
+1997; Ponomarev et al., 1999).  They are the O k-
+hotsk – Aleutian and Cyclones Over North Pacific 
+situations (Figs. 3 and 4).  The Okhotsk – Aleutian 
+(OA) situation (Fig. 3) represents the classical m e-
+ridional dipoles with a high pressure ridge over the 
+central Pacific from the Subtropics to the Subar c-
+tic and low pressure over the eastern and western 
+Pac ific. Northward tracks of southern cyclones 
+dominate over the western and eastern Pacific 
+Ocean.  As for the western Pacific, cyclones come 
+from the Philippine Sea through the Kuroshio – Oyashio area to the Kuril adjacent to the Pacific, 
+Japan and O k hotsk Se as.  
+ 
+Figure 5 shows OA normalized annual frequency 
+of occurrence.  The biennial variations are clearly 
+seen on the plot, and they are also typical for all 
+six types.  The estimated polynomial trend also 
+shows interdecadal oscillations with the period of 
+a bout 30 years.  
+ 
+To reveal ENSO - scale variations, a cross -
+correlation was estimated between OA and CN 
+frequency of occurrence and SOI time series.  As 
+oscillations are present for different time - scales, 
+correlation coefficients should not be high.  In 
+fact , we had to try various sub - samples of the 
+1949 – 1998 time series to obtain the best correl a-
+tion with SOI. Some examples are shown in Table 
+5.  Nevertheless, positive unlagged correlation was 
+found between OA occurrence and SOI in June 
+and November.  This m eans that the OA situation 
+occurs more often when SOI reaches its highest 
+positive values during the La Niña event in June or 
+in Nove m ber.  
+ 
+Cross - correlation of the OA situation occurrence 
+was estimated with monthly mean air temperature 
+at the meteorologi cal stations around the Sea of 
+Okhotsk.  Both unlagged and lagged, with air te m-
+perature lagging one month behind OA, correl a-
+tion coefficients were calculated.  As shown in 
+Table 6, all coefficients are positive, that is, the 
+OA situation is warm for the Se a in fall, winter 
+and spring.  So, the OA situation, meridional for
+ 
+ 
+Fig. 3 Sea level pressure pattern corresponding to the Okhotsk – Aleutian synoptic situation.  Air mass 
+transport is shown by thin arrows, cyclone tracks are shown by thick arrows. (Repr oduced from 
+Polyakova (1997).) 
+  
+ 36
+ 
+ 
+Fig. 4 Sea level pressure pattern corresponding to the Cyclones Over the North Pacific synoptic situ a-
+tion. Air mass transport is shown by thin arrows, cyclone tracks are shown by thick arrows. (Reproduced 
+from Polyakova (1 997).) 
+ 
+ 
+ 
+0.5
+1.5
+2.5
+0
+1
+2
+Year
+50 55 60 65 70 75 85 95 80 90
+ 
+ 
+Fig. 5 Annual mean frequency of occurrence for the Okhotsk – Aleutian synoptic situation, normalized 
+by root mean square difference.  Polynomial trend of 6th order is also shown. 
+ 
+ 
+the whole North Pacific, corresponds to penetr a-
+tion of southern cyclones with characteristic 
+weather patterns to the Northwest Pacific Margin 
+and, in particular, over the Sea of Okhotsk.  Pos i-
+tive correlation of OA occurrence with SOI means 
+that decreased southern cyclones cool the Okhotsk 
+Sea during El Niño events in fall or increased 
+southern cyclones warm the Sea in fall after su m-
+mer La Niña events. 
+ 
+The Cyclones Over the North Pacific (CN) syno p-
+tic situation (Fig. 4) is characterized by a meri d-
+i onal circulation pattern in the eastern Pacific with 
+the western positi on of the Subtropic High Pre s-
+sure, northward cyclone tracks over the Eastern 
+Pacific, and eastward tracks over the Central and 
+Western Pacific between latitudes of 40° – 50°N.  
+To the north of 50°N, cold air comes over the O k-
+hotsk  Sea  from  the  Bering Sea and Siberia.  The  
+ 
+ 
+   
+  37
+CN occurrence has negative unlagged correlation 
+with with SOI for March, April, May, October and 
+November (Table 5).  Therefore, it occurs more 
+often in spring and fall during El Niño events.  
+The CN situation is cold for the Sea o f Okhotsk in 
+winter and spring as estimated cross - correlation 
+with air temperature around the Sea shows (Table 
+7). So, increased occurrence of the CN situation in 
+spring during El Niño events tends to cool the Sea.  
+A plot of CN normalized annual mean freq uency 
+of occurrence (Fig. 6) shows typical biennial 
+vari a tions as well as multiannual peaks.  Avera g-
+ing intervals between corresponding maximums 
+which took place in 1950, 1958, 1970, 1985, and 
+1992 gives a period of 10 years, that is, decadal 
+oscill a tions. 
+ 
+Table 5   Unlagged cross - correlation of the Okhotsk – Aleutian and Cyclone Over the North Pacific syno p-
+tic atmosphere situations occurrence (days per month) with SOI based on monthly mean time series.  The 
+95% - confidence levels are also shown, calculated according to the Fisher test. 
+Data SOI Sample size 95% level 
+Okhotsk - Aleutian, June, 1962 – 1992  0.415 31 0.360 
+Okhotsk - Aleutian, June, 1956 – 1992  0.35 37 0.329 
+Okhotsk - Aleutian, November, 1949 – 1996  0.38 48 0.290 
+Okhotsk - Aleutian, November, 1949 – 1998  0.35 50 0.282 
+Okhotsk - Aleutian, November, 1952 – 1993  0.36 42 0.308 
+Cyclone over the North Pacific, March, 1959 – 1997 – 0.55 39 0.320 
+Cyclone over the North Pacific, April, 1959 – 1997 – 0.33 39 0.320 
+Cyclone over the North Pacific, May, 1949 – 1994 – 0.33 46 0.294 
+Cyclone over the North Pacific, October, 1966 – 1994 – 0.47 29 0.373 
+Cyclone over the North Pacific, November, 1949 – 1994 – 0.31 46 0.294 
+ 
+ 
+ 
+Table 6   Cross - correlation between the Okhotsk – Aleutian synoptic atmosphere situation frequency of 
+occurrence and air temperature at the meteorological stations around the Okhotsk Sea, calculated for 
+monthly mean time series and summarized by seasons of the year.  Both unlagged and lagged with air 
+temperature 1 month lagging behind the synoptic situation correlati on coefficients are shown.  A 95% -
+confidence level for monthly mean time series for the period 1949 – 1990 is estimated as 0.308 based on 
+the Fisher test. 
+Winter Spring Summer Fall Stations 
+Zero lag 1 month 
+lag 
+Zero lag 1 month 
+lag 
+Zero lag 1 month 
+lag 
+Zer o lag 1 month 
+lag 
+Icha 0.35,  
+0.49 
+– 0.31, 
+0.34 
+0.47 – – 0.37 – 
+Magadan – 0.36 – 0.35 – – – – 
+Ajan – 0.41 – – – – 0.32 – 
+Nikolaevsk – – 0.38 0.37 0.41 – – – 
+Alexa n drovsk – 0.31 0.40 0.36 – – – – 
+Poronaysk – 0.33 0.41, 
+0.49 
+0.51 – – 0.33 – 
+Abashiri 0 .35 0.38 0.31, 
+0.34 
+0.39 – – – – 
+Nemuro 0.35 0.42 0.32, 
+0.37 
+0.44 – – – – 
+ 
+ 
+  
+ 38
+Table 7   Cross - correlation of the Cyclone Over the North Pacific synoptic atmosphere situation fr e-
+quency of occurrence with air temperature at meteorological stations around th e Okhotsk Sea, calculated 
+for monthly mean time series and summarized by seasons of a year. (A) columns show unlagged correl a-
+tion coefficients, (B) columns show lagged correlation with air temperature 1 month lagging behind the 
+synoptic situation.  A 95% - c onfidence level for monthly mean time series form 1949 to 1990 is estimated 
+as 0.308 based on the Fisher test. 
+Wi n ter Spring Stations 
+A B A B 
+Icha – – – 0.47 – 0.33 
+Magadan – – – – 0.31 
+Okhotsk – – – 0.33 – 0.4 
+Ajan – – 0.40 – 0.35 – 
+Nikolaevsk – – – 0.32 – 
+Alexa n drovsk – – 0.32 – 0.31 – 
+Poronaysk – – 0.42 – 0.38 – 0.31 
+Abashiri – 0.31 – – – 
+Nemuro – 0.33 – – – 
+ 
+ 
+ 
+Year
+50
+0.5
+1.5
+2.5
+0
+1
+2
+55 60 65 70 75 85 95 80 90
+ 
+ 
+Fig. 6 Normalized annual mean frequency of occurrence for the Cyclones Over the North Pacific. 
+ 
+ 
+It is worth noting that the occurrence of the rare 
+Southern - Zonal (SZ) situation seems to be related 
+to the ENSO cycle.  The SZ situation (Fig. 7) co r-
+responds to a zonal dipole with high pressure over 
+the Bering Sea and Alaska, extreme southern p o s i-
+tion of the subarctic low pressure system, eas t ward 
+c yclone tracks in the subtropic Pacific area, and 
+northeastward cyclone tracks over the subar c tic 
+eastern Pacific.  The SZ situation may not o c curs 
+at all during periods from few months to 2 – 3 years 
+but, when it does occur, its duration (10 – 20 days) 
+is comp arable with the duration of frequent situ a-
+tions like the OA and CN ones (Fig. 8).  The SZ 
+situation shows increased occurrence between 
+typical ENSO cycles and huge occurrence in the 
+1 – 2 years before strong El - Niño events, partic u-
+larly before winters of 195 7 – 1958, 1972 – 1973, 
+1982 – 1983 and 1997 – 1998 (Fig. 8).  As a whole, 
+the highest SZ occurrence was observed in 1953, 
+1957, 1962 – 1963, 1968, 1971, 1972, 1974, 1977, 
+1979, 1981, 1985, 1989, 1993, and 1996 – 1997, 
+which gives a mean period of 3.2 years consistent 
+with the ENSO cycle.  The SZ situation lasted 24 
+days in August 1996, its maximum occurrence 
+during 1949 – 1998 (Fig. 8).  
+ 
+Thus, El Niño (La Niña) - accompanying processes 
+in the Northwest Pacific result in cooling (war m -
+   
+  39
+ 
+ 
+Fig. 7 Sea level pressure pattern corresponding to the Southern - Zonal synoptic situation.  Air mass 
+transport is shown by thin arrows, cyclone tracks are shown by thick arrows 
+ 
+ 
+ 
+F r e q u e n c y o f o c c u r r e n c e , d a y s p e r m o n t h Year
+50
+5
+0
+10
+20
+15
+25
+55 60 65 70 75 80 85 90 95
+ 
+ 
+Fig. 8 Time series of monthly occurrence of Southern - Zonal synoptic situation for the period of 1949 – 1998 i n days per month. 
+ 
+ 
+ 
+ing) the Sea of Okhotsk through changing occu r-
+rence of certain atmosphere circulation patterns. 
+At the same time, correlation between air te m per a-
+ture around the Sea of Okhotsk and SOI with a lag 
+of about half a year may be associated with the 
+Northwest Pacific Ocean memory in a seasonal 
+cycle. 
+References 
+Barnston, A.G. and Livezey, R.E. 1987. Classif i-
+cation, seasonality and persistence of low -
+frequency atmospheric circulation patterns. 
+Mon. Weather Rev., 115 , 1083 – 1125. 
+Branstator, G. W. 1995. Organization of stormtrack 
+  
+ 40
+anomalies by recurring low frequency circulation 
+anomalies. J. Atmos. Sci., 52 , 207 – 226. 
+Learning to Predict Climate Variations Associated 
+with El Niño and Southern Oscillation. A c-
+complishments and Legacies of the TOGA 
+Program . 1996. National Academy Press, 
+Was h ington, 235 pp. 
+Molteni, F., Ferranti, L. Palmer, T.N. and Viterbo, 
+P. 1993. A dynamical interpretation of the 
+global response to equatorial Pacific sea su r-
+face temperature anomalies. J. Climate , 6 , 
+777 – 795. 
+Nakam ura, H., Lin, G. and Yamagata, T. 1997. 
+Decadal climate variability in the North P a-
+cific during the recent decades. Bull. Amer. 
+Meteorol. Soc., 78 (10), 2215 – 2225. 
+Palmer, T.N., Brankovic, C., Viterbo, P. and 
+Miller, M.J. 1992. Modeling interannual vari a-
+tio ns of summer monsoons. J. Climate, 5 , 
+399 – 417. 
+Plotnikov, V.V. 1997. Space – time relations b e-
+tween ice conditions in the Far Eastern Seas. 
+Meteorol. Gidrol., 3 , 77 – 85. (in Ru s sian) 
+Polyakova, A.M. 1997. Types of atmospheric ci r-
+culation over the North Pacifi c and climate 
+variations in the North Pacific. pp. 98 – 105. In 
+Pacific Oceanol. Inst. Proc. of Annual Session, 
+1994 . Dalnauka, Vladivostok, Russia. (in Ru s-
+sian) 
+Ponomarev, V.I., Trusenkova, O.O., Trousenkov, 
+S.T., Kaplunenko, D.D., Ustinova, E.I. and 
+Polyak ova, A.M. 1999. The ENSO Signal in 
+the Northwest Pacific. pp. 9 – 32. In Proc. of 
+the 1998 Science Board Symposium on the 
+Impacts of the 1997/98 El Niño Event on the 
+North Pacific Ocean and its Marginal Seas, 
+PICES Sci. Rep. No. 10, Sidney, B.C., Canada. 
+Sek ine, Y. 1996. Anomalous Oyashio intrusion 
+and its teleconnection with Subarctic North 
+Pacific circulation, sea ice of the Okhotsk Sea 
+and air temperature of the northern Asian co n-
+tinent. pp. 177 – 187. In Proc. of the Workshop 
+on the Okhotsk Sea and Adjacent Areas , 
+PICES Rep. No. 6 , Sidney, B.C. Ca n ada. 
+ Sekine, Y. and F. Yamada, Y. 1996. Atmosphere 
+and ocean global teleconnection around the 
+Okhotsk Sea. pp. 148 – 150. In The Eleventh 
+Intl. Symp. on Okhotsk Sea and Sea Ice, A b-
+stracts, 25 – 28 February 1996 , Mombe tsu, 
+Hokkaido, Japan .  
+Wallace, J.M. and Gutzler, D.S. 1981. 
+Teleco n ne c tions in the geopotential height 
+field during the Northern Hemisphere winter. 
+Mon. Weather Rev., 109 , 784 – 812. 
+Webster, P.J. and Yang, S. 1992. Monsoon and 
+ENSO: Selectively interactive systems. Quart. 
+J. Roy. Meteorol. Soc. , 118 , 877 – 926. 
+ 
+ 
+41
+Seasonal and interannual changes of atmospheric pressure, air and water
+temperatures in the area of the K u ril Ridge
+George V. SHEVCHENKO
+1
+ and Akie Kato
+2
+1 Institute of Marine Geology and Geophysics, Russian Academy of Sciences, Yuzhno-Sakhalinsk, Ru s sia
+2 Sakhalin Regional Hydrometeorological Agency, Yuzhno-Sakhalinsk, Ru s sia
+Introduction
+Poezzhalova and Shevchenko (1997a, b) found
+significant seasonal and interannual sea level
+changes in the area of the Kuril Ridge.  They also
+detected strong sea level trends probably assoc i -
+ated with vertical ground motions.  The purpose of
+the present paper is to verify these findings and to
+investigate long-term variations of some other
+meteorological parameters which probably infl u -
+ence sea level changes.  It was also interesting to
+estimate possible effect of the 1997 El Niño on the
+northwestern part of the Pacific Ocean.  The series
+of monthly means of atmospheric pressure, air and
+water temperatures from 4 meteorological stations
+were analyzed to estimate various statistical cha r -
+acteristics (mean and extreme values, standard
+errors, etc.) for every month and for all stations.
+The stations were located in the area of Kuril
+Ridge: Shumshu ( Shumshu Island), Simushir ( S i -
+mushir Island), Kurilsk ( Iturup Island), and Yu z -
+hno-Kurilsk ( Kunashir Island) (Fig. 1).
+YUZHNO-KURILSK
+SIMUSHIR
+SHUMSHU
+KURILSK
+Hokkaido
+Kunashir Island
+Iturup Island
+Paramushir Island
+K u r il    I s l a n d s
+Sakhalin
+Sea  of  Okhotsk
+Pacific  Ocean
+N
+Seasonal oscillations
+The seasonal variations of oceanographic and m e -
+teorolog i cal parameters may be described as
+  y(t) = A
+1 cos ( w t - j
+1 )
++ A
+2 cos (2 w t - j
+2 )  +  e (t),
+where w =2 p/12 is the annual frequency, t is the
+time (in months), A
+1 and A
+2 are the amplitudes of
+annual (Sa) and semiannual ( Ssa) harmonics, j
+1 and
+ 
+j
+2 
+are their phases ( j
+I 
+= 0 corresponds to Jan u -
+ary 15), e  are the residual background oscillations.
+We used the least square method to calculate the
+amplitudes and phases of these harmonics.  The
+results of this analysis are pr e sented in Table 1.
+The amplitudes of the annual oscillations of the
+atmospheric pressure are rather small in the area of
+the South Kuril Islands but quite significant in the
+area of the North Kuril Islands.  These results are
+in good agreement with the results of sea level
+analysis made by Poezzhalova and Shevchenko
+(1997a, b):  The sea level amplitudes of the Sa
+harmonic for the former region were considerably
+smaller than for the latter (5 and 10 cm, respe c -
+tively).
+Seasonal sea level and atmospheric pressure o s -
+cillations are approximately in antiphase , max i -
+mum sea level heights correspond to minimum
+atmospheric pressure, and vice versa.  Normally,
+these maximum sea levels and minimum pressure
+are observed in December or January and are a s -
+sociated with influence of the Aleutian Low.
+However, these seasonal variations of sea level
+cannot be described by the simple “inverted b a -
+rometer law”.  The Sa sea level amplitudes are
+approximately twice as large as those of the a t -
+mospheric pressure .  We may assume that there
+are some additional oceanic and atmospheric fa c -
+tors influencing seasonal sea level vari a tions.
+The Sa (annual) harmonic strongly dominates in
+Fig. 1 Location of the meteorological stations in
+the area of the Kuril Islands.
+42
+the variations of air and sea surface temperatures
+(95–98% of the total variance).  Maximum ampl i -
+tudes of this harmonic, both for air (AT) and sea
+surface (SST) temperatures, occur near Kunashir
+Island (southern part of the Kuril Ridge) and
+minimum amplitudes are observed in the vicinity
+of Simushir Island (central part of the Kuril
+Ridge).  In general, the seasonal changes of SST
+are relatively small, apparently due to the su p -
+pressing influence of the Pacific Ocean water
+masses.  The annual changes of SST and sea level
+are in antiphase.  Probably, rather strong seasonal
+sea level oscillations in the area of the Kuril Ridge
+are determined by the changes in ocean circulation
+in the Northwest Pacific induced by the large-scale
+atmospheric fluctuations (such effect is well
+known for the Northeast Pacific (cf. Emery and
+Hamilton, (1985))).
+Table 1 Parameters (amplitude and phase) of annual and semiannual harmonics and their contribution
+to the total variance. The multiyear mean values are presented in brackets.
+I. Atmospheric pressure
+Period
+(month)
+Amplitude
+( mBar)
+Phase
+( deg)
+Relative
+ contribution (%)
+Yuzhno-Kurilsk (1006.8 mBar)
+12 0.9 274.1 17.0 6 1.8 177.1 73.1 Kurilsk (1007.2 mBar)
+12 1.0 231.7 19.9 6 2.0 175.6 71.1 Simushir (1007.2 mBar)
+12 3.1 201.6 65.9 6 2.1 179.9 31.0 Shumshu (1004.8 mBar)
+12 4.8 185.1 83.3 6 2.0 178.3 14.9 II. Air temperature
+Period
+(month)
+Amplitude
+(   C) Phase
+( deg)
+Relative
+contr i bution (%)
+Yuzhno-Kurilsk (4.8   C) 12 10.2 208.2 98.0 6  1.4 144.0  1.6 Kurilsk (4.5   C)
+12 10.3 204.4 99.1 6  0.5 149.6  0.7 Simushir (2.8   C)
+12 7.4 207.8 97.8 6 1.0 148.1  1.7 Shumshu (1.7   C)
+12 8.1 205.9 98.8 6 0.8 92.6  1.0
+43
+III. Sea surface temperature (SST)
+Period
+(month)
+Amplitude
+(   C) Phase
+( deg)
+Relative
+contr i bution (%)
+Yuzhno-Kurilsk (6.7   C) 12 8.7 223.0 98.1 6 1.1 125.6  1.8 Kurilsk (5.6   C)
+12 7.0 226.9 97.5 6 1.1 117.2  2.2 Simushir (2.3   C)
+12 2.0 225.7 99.1 6 0.2 171.6  0.6 Shumshu (3.4   C)
+12 5.7 210.9 98.3 6 0.7 81.5  1.6 Interannual changes
+The mean annual values of meteorological p a -
+rameters were used to estimate respective
+multiyear averaged values and linear trends.  The
+coefficients of the linear trends were calculated by
+the least square method.  These coefficients for the
+atmospheric pressure are –0.030 and 0.022
+mbar/ yr at stations Yuzhno-Kurilsk and Kurilsk,
+and negligibly small at Shumshu and Simushir
+(Fig. 2).  This means that the interannual changes
+of the atmospheric pressure cannot induce sea
+level drift with coefficients of about 0.4–0.6 cm/ yr
+observed in the area of the Kuril Islands ( Yak u -
+shko et al., 1982; Poezzhalova and Shevchenko , 1997b).
+The air temperature increased slowly with time
+(except Shumshu), the regressional coefficients
+ranged from 0.0055   C/ yr ( Yuzhno-Kurilsk) to
+0.019   C/ yr ( Kurilsk).  The multiyear mean values
+were from 1.8   C ( Shumshu) to 4.8   C ( Yu z hno-
+Kurilsk) (Fig. 3.).
+The sea surface temperature had the opposite te n -
+dency ,  the  linear  trend coefficients ranged from
+–0.001   C/ yr ( Simushir) to –0.0078   C/ yr ( Yuzhno-
+Kurilsk); the mean values at these stations were
+2.3 and 6.7   C, respectively.  The coldest month
+weather was observed in 1967, the warmest in
+1990–1991.  The direct effects of the 1982 or 1997
+El Niño are not evident in the area of the Kuril
+Islands.
+We calculated also the coefficients of the linear
+trends for different seasons using seasonal (3-
+month) averaged values of air temperature (Table
+2).  In this way we got more interesting results.
+Thus, the air temperature for all stations (also, e x -
+cept Shumshu) relatively fast increased for winter
+seasons with the coefficients of about 0.02–
+0.034   C/ yr and somewhat weaker for fall seasons
+(0.015–0.02   C/ yr).  Probably, this effect is the r e -
+sult of the global climate warming.  In contrast,
+sea surface temperature for some stations notice a -
+bly decreased from year to year: at Yuzhno-
+Kurilsk for summer seasons (for about 1.5   C du r -
+ing the period of observations), and at Kurilsk for
+fall seasons (Fig. 4).  Unfortunately, we could not
+calculate SST linear trends at Simushir and Shu m -
+shu because the corresponding data had too many
+gaps.
+44
+Shumshu
+y = -0.0152x + 1005.2
+1002
+1004
+1006
+1008
+Simushir y = -0.0014x + 1007.2
+1004
+1006
+1008
+1010
+Kurilsk
+y =  0.022x + 1007.4
+1005
+1007
+1009
+1011
+Atmospheric pressure  ( mBar) Yuzhno - Kurilsk
+y = -0.032x + 1007.6
+1004
+1006
+1008
+1010
+1950 1960 1970 1980 1990 Time  (years)
+Fig. 2 Mean annual values of atmospheric pressure (solid lines) and linear trends (dashed lines) calc u -
+lated by the least square method for various stations of the Kuril Islands.
+45
+Shumshu
+y = -0.0023x + 1.8
+0
+1
+2
+3
+4
+Yuzhno - Kurilsk
+y = 0.0055x + 4.7
+3
+4
+5
+6
+7
+Time  (years)
+Simushir
+y = 0.0124x + 2.4
+1
+2
+3
+4
+5
+Kurilsk
+y =  0.0191x + 4.0
+3
+4
+5
+6
+7
+Fig. 3 Mean annual values of air temperature (solid line) and linear trend (dashed line) for various st a -
+tions.
+46
+Yuzhno-Kurilsk
+y = -0.0315x + 15.3                    Summer
+y = 0.0018x + 8.1                    Fall
+y = -0.0122x + 5.0                      Spring
+y = 0.0118x - 0.1                        Winter
+-5
+0
+5
+10
+15
+Time  (Years)
+Kurilsk
+y = -0.0015x + 12.2                    Summer
+y = -0.0116x + 7.4                   Fall
+y = -0.0047x + 3.6                       Spring
+y = -0.0032x - 0.1                        Winter
+-5
+0
+5
+10
+15
+Fig. 4 Seasonally (3-month) averaged values of sea surface temperature and pa rameters of linear trend for
+diffe r ent seasons at Kurilsk and Yuzhno-Kurilsk.
+47
+Station Winter Spring Summer Fall
+  Shumshu 0.0029  0.0068 –0.0075 0.0001  Simushir 0.0256  0.0089  0.0021 0.0157  Kurilsk 0.0338  0.0088  0.0124 0.0173  Y- Kurilsk 0.0196 –0.0035 –0.0111 0.0203 Acknowledgments
+We wish to thank Dr. Alexander Rabinovich of the
+Shirshov Institute of Oceanology , Moscow for his
+constructive criticism and valuable comments, and
+to Willie Rapatz for help with English.
+References
+Emery, W.J. and Hamilton, K. 1985 . Atmospheric
+forcing of interannual variability in the Nort h -
+east Pacific Ocean: Connections with El Niño,
+J. Geophys. Res., 90 (C1), 857–868.
+Poezzhalova , O.S. and Shevchenko , G.V. 1997a.
+Seasonal oscillations of sea level in the Sea of
+Okhotsk, Twelfth Intl. Symp. on Okhotsk Sea
+and Sea Ice , Abstracts , Mombetsu, Japan.
+Poezzhalova , O.S. and Shevchenko , G.V. 1997b.
+The Okhotsk Sea mean level variations. pp. 131–144. In Tsunami and Accompanying Ph e -
+nomena , Institute of Marine Geology and
+Geophysics, Yuzhno-Sakhalinsk . ( in Russian)
+Yakushko , G.G., Nikonov , A.A. and Yurkevich , N.E. 1982. Modern vertical motions of the
+Kuril Islands. Trans. ( Doklady ) USSR Acad.
+Sci ., 265 (2), 444–449. ( in Russian)
+Table 2 The coefficients of linear trend (   C/ yr) based on 3-month averaged values of air temperature for
+different seasons at various Kuril stations.
+49
+Spatial variability of the wind field in the area of the Kuril Islands
+George V. SHEVCHENKO and Vladimir Yu. Saveliev Institute of Marine Geology and Geophysics, Russian Academy of Sciences, Yuzhno-Sakhalinsk, Ru s sia
+Introduction
+Examination of time and spatial variability of
+wind field is important for various applied pro b -
+lems. In particular, the problem of evaluation and
+development of wind power stations recently b e -
+came crucial for the region of the Kuril Islands.
+Climatic characteristics of wind presented in ge n -
+erally used manuals (Climate Guide, 1969; K o -
+shinsky, 1978; Pacific Ocean, 1966) are mainly
+based on wind data obtained by weather vanes.
+Since the end of the 1970s more precise instr u -
+ments have begun to be used to measure wind at
+meteorological stations of the former USSR.  Pr e -
+liminary analysis of old and modern data showed
+significant difference of the corresponding est i -
+mates.  The purpose of the present work is to e x -
+amine the spatial structure and to obtain some cl i -
+matic characteristics of the wind field in the
+vicinity of the Kuril Islands based on the modern
+wind data.
+Observational data
+For analysis we used 10-min averaged wind data
+from stations Shumshu, Matua, Simushir and
+Shikotan, located on the corresponding islands,
+and from station Kurilsk, located on Iturup Island,
+for the period 1966–1984, prepared at the World
+Data Center at Obninsk, Russia.  The location of
+the meteorological stations is shown in Figure 1.
+We chose stations Shumshu and Shikotan rather
+than the nearby stations Severo-Kurilsk on Par a -
+mushir Island and Yuzhno-Kurilsk on Kunashir
+Island, for the reason that the former pair is less
+influenced by the local orography than the latter.
+The analysis of the data has revealed their esse n -
+tial heterogeneity, much of the information before
+1980 pertaining to measurements executed by
+weather vanes.  For a more detailed examination
+we used a series for 1980–1984, since these data
+had no gaps and were obtained by the same type of
+instr u ment, an anemorumbometer M-63M.
+We used for analysis 10-min averaged wind data
+from the stations Shumshu, Matua, Simushir,
+Shikotan   ( located  at  the  corresponding  islands)
+MATUA
+SHIKOTAN
+SIMUSHIR
+SHUMSHU
+KURILSK
+Hokkaido
+Kunashir Island
+Iturup Island
+Paramushir Island
+K u r il    I s l a n d s
+Sakhalin
+Sea  of  Okhotsk
+Pacific  Ocean
+N
+and Kurilsk ( Iturup Island) for the period 1966-
+1984 prepared at the World Data Center ( Obninsk,
+Russia).  The location of the meteorological st a -
+tions is shown in Figure 1.  We chose stations
+Shumshu and Shikotan rather than the nearby st a -
+tions Severo-Kurilsk ( Paramushir Island) and
+Yuzhno-Kurilsk ( Kunashir Island) since the wind
+at the former pair is less influenced by the local
+orography than at the latter.  The analysis of the
+data has revealed their essential heterogeneity,
+much of the information before 1980 pertaining to
+measurements executed by weather vanes.  So, for
+more detailed examination we used series for
+1980–1984 since all these data were made by the
+same type of the instrument ( anemorumbometer
+M-63M) and had no gaps.
+Recurrence of the wind by directions and speed
+grad a tions
+Figure 2 presents diagrams illustrating the wind
+distribution by directions and speed gradations.
+There are two maxima in the distribution of the
+wind speed: the main maximum corresponding to
+the typical wind speed of 2–4 m/s (3–5 m/s at
+Shumshu), and a secondary maximum at 10–12
+m/s.  Such character of speed distribution remains
+Fig. 1 Location of the meteorological stations in
+the area of the Kuril Islands.
+50
+(a) Shikotan
+6,5
+(b) Kurilsk
+20,0
+10,6
+(c) Simushir
+12,7
+(d) Matua
+6,9
+(e) Shumshu
+0 5 10
+Frequency Scale (%)
+5 10 15 20 25 30
+Speed Scale (m s
+–1
+)
+N N
+Fig. 2 Diagrams of the direction distribution by the 5-yr averaged wind velocities for various Kuril
+meteorological stations.  Contribution of calm weather (winds weaker than 1 m/s) is presented in the
+centers of the diagrams (in %).
+51
+basically the same for all stations and all seasons.
+However, in winter, when winds are normally
+stronger, the second maximum intensifies and the
+main maximum becomes weaker; the opposite
+tendency is observed in summer.
+The “wind roses” (Fig. 2) demonstrate noticeable
+spatial variability of wind directions.  Northwes t -
+erly winds prevail at all stations, however the
+other features are different for different stations.
+Thus, in the vicinity of Shumshu Island winds
+from directions other than northwest are weak and
+infrequent.  In contrast, near Matua Island nort h -
+erly winds are observed frequently, for Kurilsk
+easterly winds are rather frequent, for Simushir
+southeasterly, and for the area of Shikotan Island
+southerly winds occur quite often.
+The dominant northwesterly winds are a typical
+autumn-winter feature for the whole area of the
+Sea of Okhotsk (so-called “winter monsoon”, r e -
+lated to the influence of the Aleutian Low).  The
+corresponding spatial distribution of the sea su r -
+face atmospheric pressure in the area of Okhotsk
+Sea is shown in the Figure 3a.  In the spring-
+summer period the air streams near the Kuril I s -
+lands are apparently not so stable, resulting in the
+variety of the winds from the other directions o b -
+served in this period. (Figure 3b presents a typical
+distribution of atmospheric pressure in summer.)
+That means that the wind field in this area cannot
+be satisfactorily described by a simple layout:  The
+winter monsoon with northwesterly winds is r e -
+placed by the summer monsoon with southeasterly
+winds (P a cific Ocean, 1966).
+It is interesting to note that the wind velocities
+near the Kuril Islands are found to be weaker than
+is usually assumed: according to Climate Guide
+(1969) extreme wind velocities in this region are
+up to 50 m/s.  Results of the present examination
+of wind data for the period 1970–1984 showed
+that none of the five analyzing stations recorded
+wind velocities exceeding 30 m/s.  The total
+amount of the cases with wind exceeding 20 m/s is
+rather insignificant, from 0.4% at Matua up to
+2.5% at Simushir.  These extreme winds with
+speed up to 28–30 m/s are mainly observed in
+March or in October and November (Fig. 4a).  The
+strongest winds have northwesterly direction for
+the southern and central parts of the Kuril Islands,
+southwesterly at Matua, and northeasterly at
+Shumshu.  These months correspond to the time of
+the major cyclonic activity in this area.  The distr i -
+bution of the extreme wind shows that the corr e -
+sponding cyclones cross the chain of the Kuril I s -
+lands just in the center, near Matua Island.
+Fig. 3 Typical spatial distribution of sea surface pressure in the area of the Kuril Islands for (a) January
+and (b) July a c cording to Pacific Ocean (1966).
+52
+Kurilsk
+Simushir
+Shikotan
+(a) (b)
+Shikotan
+Kurilsk
+Simushir
+5 m/s 30 m/s
+It is interesting to note that the wind velocities
+near the Kuril Islands are found to be weaker than
+is usually assumed: according to Climate Guide
+(1969) extreme wind velocities in this region are
+up to 50 m/s.  Results of the present examination
+of wind data for the period 1970–1984 showed
+that none of the five analyzing stations recorded
+wind velocities exceeding 30 m/s.  The total
+amount of the cases with wind exceeding 20 m/s is
+rather insignificant, from 0.4% at Matua up to
+2.5% at Simushir.  These extreme winds with
+speed up to 28–30 m/s are mainly observed in
+March or in October and November (Fig. 4a).  The
+strongest winds have northwesterly direction for
+the southern and central parts of the Kuril Islands,
+southwesterly at Matua, and northeasterly at
+Shumshu.  These months correspond to the time of
+the major cyclonic activity in this area.  The distr i -
+bution of the extreme wind shows that the corr e -
+sponding cyclones cross the chain of the Kuril I s -
+lands just in the center, near Matua Island.
+The complicated picture of maximum winds is
+observed in summer. Extreme wind speeds are
+about 17–25 m/s, the direction of maximum winds
+varies siginicantly from year to year, except at
+Shumshu where northwesterly winds are dom i -
+nant, and from station to station.  Typhoons which
+are coming from the tropical Pacific into the area
+of the Kuril Islands in summer and early fall are
+probably the reason for destabilizing atmospheric
+circulation and producing storm winds of various
+dire c tions.
+Monthly mean winds
+Spatial and temporal variability of monthly mean
+winds averaged over 5 years (1980–1984) is
+clearly seen in Figure 4b.  The primary feature of
+the wind field is the very strong seasonal change
+of wind velocity. In the cold season (October–
+March) mean winds are sufficiently strong and
+steady.  For the whole area of the Kuril Islands,
+they have northwesterly direction; variations from
+station to station are insignificant.  In contrast, in
+the warm season (April–September), mean winds
+are much weaker and there is essential difference
+between the two northernmost stations Shumshu
+and Matua and the others.  At stations Shikotan
+and Kurilsk in the South Kuril Islands, winds
+change direction to the southerly and
+Fig. 4 (a) Maximum monthly and (b) mean monthly winds for the period 1980–1984 for the meteor o -
+logical stations in the area of the Kuril Islands.
+53
+the southerly and southeasterly, i.e. the wind field
+takes the character typical for summer monsoon.
+A similar picture but not so evident is observed
+also at Simushir.  At the same time, monthly mean
+winds of northwesterly and westerly direction pr e -
+vail at Matua and Shumshu.  The seasonal changes
+at these stations are manifested mainly in the
+variations of the velocity magnitude rather than in
+the direction.  This character of seasonal variabi l -
+ity of monthly mean wind velocities is in good
+agreement with the spatial distribution of atmo s -
+pheric pressure in the area of the Sea of Okhotsk
+(Fig. 3).  Probably, a local area of high atmo s -
+pheric pressure observed in summer time over the
+Kamchatka Peninsula influences winds near the
+North Kuril Islands, causing the difference from
+the winds in the area of the South Kuril I s lands.
+We estimated the relation between the variance of
+the average group values (factorial variance) and
+the average of the group variances (casual var i -
+ance), showing the stability of the performance.
+We found that contribution of the factorial var i -
+ance is about 70–80% of the total variance except
+for the east-going (zonal) component of the wind
+at Matua and Shumshu stations.  Seasonal changes
+of this zonal component of the wind are weak in
+the area of the Northern Kuril I s lands.
+Conclusions
+The main conclusions of the present analysis are
+as fo l lows:
+• The maximum wind velocities in the area of
+the Kuril Islands were found to be up to 30
+m/s, i.e. significantly smaller than it was a s -
+sumed according to well-known reference
+guides mainly based on obsolete weather vane
+mea s urements.
+• In winter, significant northwesterly winds a s -
+sociated with the Aleutian Low prevail in the
+area of the Kuril Islands (“winter monsoon”);
+however there are noticeable differences in
+distribution of wind directions (“roses of
+winds”) for various stations.
+• In summer, winds are weaker and not stable
+resulting in the variety of the winds from di f -
+ferent directions.  A simple model of “summer
+monsoon” cannot describe summer circulation
+for the whole area of the Kuril Islands.  In fact,
+there is a boundary between the Simushir and
+Matua Islands (i.e. in the central part of the
+Kuril Islands) dividing zones with different
+character of prevailing winds: northwesterly
+for the northern stations and southerly to
+southeasterly for the southern stations.
+Acknowledgments
+The authors wish to thank Dr. Alexander Rabin o -
+vich, of the Shirshov Institute of Oceanology,
+Moscow, for valuable advice and discussions, and
+for his editorial work to help improve this paper.
+We are grateful to Willie Rapatz for corrections to
+the English.
+References
+Climate Guide of the USSR ., Part 3. Wind. 1969.
+Gidrometeoizdat, Leningrad. ( in Ru s sian)
+Koshinsky, S.D. 1978. Regime Characteristics of
+the Strong Winds on the Seas of the Soviet
+Union . Gidrometeoizdat, Leningrad. ( in Ru s -
+sian)
+Pacific Ocean, Vol. 1. Meteorological Conditions
+over the Pacific Ocean. 1966. Nauka , Mo s -
+cow. ( in Russian)
+   
+  
+55 Seasonal variability and specificity of the oceanological conditions in the 
+northern Okhotsk Sea in 1997 
+Alexander L. FIGURKIN and Igor A. Zhigalov
+ 
+Pacific Research Institute of Fisheries and Oceanography, Vladivostok, Russia 
+ 
+Introduction  
+The data obtai ned from four surveys undertaken in 
+the northern part of the Okhotsk Sea in March – September 1997 (about 900 CTD stations) were 
+an a lyzed. 
+ 
+The interest in the monitoring experiments carried 
+out by TINRO in the Okhotsk Sea grows consi d-
+erably at the present t ime because of discussions 
+of the new “cold” period.  The beginning of this 
+cold period was predicted by heliomagnetic cycles 
+happening in the early 1990s  (Davydov, 1984) or 
+in the late 1990s (Shuntov, 1985).  Shuntov pu b-
+lished data on the reorganization of the southern 
+Okhotsk Sea biota and described the same ph e-
+nomenon observed both with the sea birds and 
+animals (Shuntov, 1994; Shuntov and Dulepova, 
+1996).  In Shuntov’s opinion, these factors were 
+caused by the beginning of a cooling period.  The 
+oceano logical conditions of recent years up to 
+1997 in the northern part of the Okhotsk Sea does 
+not confirm this assertion. 
+Results and discussion 
+It is known that the severity of winter conditions 
+has significant influence on water structure and 
+temperature of the northern part of the Okhotsk 
+Sea in the layer 0 – 200 m.  According to our data, 
+the correlation of the sea - ice cove r maximum with 
+water temperature in spring in different sites of the 
+shelf  is characterized by  the  negative  ratio  R = 
+– 0.65 to – 0.80.  The temperature anomaly in i n-
+termediate cold waters remains as long as the b e-
+ginning of new winter convection, at a probability 
+of 60 – 70%.  According to the data obtained by 
+Chernyavsky (1992) for the period from 1954 to 
+1986, the waters with minimal temperature, gene r-
+ated by winter convection in summer are usually 
+divided into four subsurface cold “cores” (te m-
+perature £ – 1   C).  These are the North - Okhotsk 
+and East - Sakhalin large cold cores, the Shelikhov 
+Bay core and small cold cores off West Ka m-
+chatka.  The cold core water with a temperature of 
+£ – 1   C has higher salinity and density and shows 
+cyclonic circulation in th e dynamic topography 
+charts.  The large - scale cyclonic circulation is 
+regularly formed around the North - Okhotsk cold 
+core.  The wes t ward current, named the North -
+Okhotsk Current, and the opposite eastward cu r-
+rent, named the North - Okhotsk Counter Current, 
+t ogether with the northward flow, called the West -
+Kamchatka Current (WKC), were observed on the 
+borders of the North - Okhotsk cold core. The var i-
+ability of size and position of the cyclones depend 
+largely on the cold core seasonal changes, as seen 
+on monthly averaged current charts, drafted by 
+Luchin (1987) (Fig. 1). 
+ 
+A low - ice situation was observed in the Okhotsk 
+Sea after the period 1980 – 1983.  In the winters of 
+1996 and 1997, there was an unusual decrease in 
+ice cover – down to 25 – 35%.  In April 1997 the 
+WKC transport in the 0 – 200 m layer was about 
+Fig. 1 Seasonal variations of Okhotsk Sea water 
+circulation (from Luchin (1987)). (a) June, (b) A u-
+gust, (c) Septem ber, and (d) N o vember. 
+  
+ 
+56 0.52 · 10
+6
+ m
+3
+/s (its mid - stream was observed 
+within 154° – 155°E, Fig. 2a).  The same transport 
+value was noted in April 1984 – 1986.  In the April 
+period from 1987 – 1995 its value dropped twice 
+and rose again only in 1996, reaching 0.48 · 10
+6
+ 
+m
+3
+/s.  The weakness of the winter cooling inte n-
+sity and WKC transport increase caused “warm” 
+and “abnormally warm” thermal conditions 
+throughout the shelf waters in 1997.  From May to 
+August 1997 the transport of WKC water into 
+Shelikhov Bay was 0.28 – 0.20 · 10
+6
+ m
+3
+/s.  The 
+Compensatory Current water along the West 
+Kamchatka coast was observed only within 
+57°50 ¢ – 56°30 ¢N in April and between 56°20 ¢ 0 – 55°00 ¢N in July. 
+ 
+Recent investigations show a significant reduction 
+of the cold co re areas. In April 1997, the area with 
+the lowest water temperature of £ – 1 °C covered 
+less than 6% of the total area along West Ka m-
+chatka, whereas the average value for 1983 – 1997 
+was equal to 41%.  In May 1997 the cold core area 
+in Shelikhov Bay was equal t o 39%, compared to 
+the average value of 69%.  The largest and stable 
+North - Okhotsk cold core usually covered the ave r-
+age annual area of 191 – 23 · (10
+3
+ km
+2
+) in June, 
+160 – 22 · (10
+3
+ km
+2
+) in July, 130 – 18 · (10
+3
+ km
+2
+) 
+in August, 115 – 17 · (10
+3
+ km
+2
+) in Sept ember, and 
+79 – 15 · (10
+3
+ km
+2
+) in October (in the eastern area 
+to 146°E, 1954 – 1986 according to Chernyavsky’s 
+(1992) observations, and 1987 – 1997 according to 
+our records).  In May 1997, the North - Okhotsk 
+cold core area covered about 75,000 km
+2
+, which 
+was e qual to the October - averaged parameters.  In 
+July 1997, the North - Okhotsk cold core spread 
+over an area of about 38,500 km
+2
+ and decreased to 
+as low as 1,300 km
+2
+ in September (Fig.3).  Its 
+eastern border shifted westward from 151° – 152°E 
+in August to 146° – 14 8   E in September. 
+ 
+The WKC midstream moved in a similar manner.  
+Its northward water transport in the 0 – 200 m layer 
+varied from 0.45 · 10
+6
+ m
+3
+/s in August to 0.42 · 
+10 6
+ m
+3
+/s in September.  The usually zonally or i e n-
+tated North - Okhotsk Current and its counter -
+current were not observed.  Due to strong cold 
+core destruction, geostrophic currents of the North 
+Okhotsk Sea in July of 1997 were similar to the 
+currents that were usually formed only in Septe m-
+ber – October as an annual average (Fig. 1c).  The 
+most abnorm al phenomenon was the formation of 
+the northward flow to the Okhotsk Sea near 143° – 145°E (Fig. 2c).  This flow was the North - Okhotsk 
+counter - current which had this unique location and 
+direction due to the abnormal rise of total heat 
+content in the northern Okhotsk shelf waters in 
+1997. 
+ 
+Moreover, the following factors may also be of 
+importance: 
+ 
+(1) Shelf water bottom salinity at the 100 – 200 m 
+isobath dropped by 0.1 – 0.2 psu from May to 
+September (Fig. 4).  A more significant d e-
+cline of the water salinity was ob served in the 
+coastal waters and in the upper layer.  The s a-
+linity in the “cold halocline” has decreased 
+compared with the data of 1996.  The general 
+salinity level of the North Okhotsk Sea has 
+decreased as well compared with the annual 
+average salinity. 
+ 
+(2) In August the shifting of the eastern border of 
+the North - Okhotsk cold core to the Kashev a-
+rov Bank area caused a significant intensific a-
+tion of cyclonic circul a tion over the Bank. 
+ 
+(3) In spring 1997, the water transport of the 
+West - Kamchatka Current to the no rthern O k-
+hotsk shelf was the strongest for the past 10 
+years.  During the summer, the width of the 
+northern flow doubled, but the total transport 
+remained almost unchanged.  
+ 
+   
+  
+57 50° 
+50° 
+50° 
+55° 
+55° 
+55° 
+135°E 140° 150° 145° 155° 160° 
+60°N 
+60°N 
+60°N 
+(a) 
+(b) 
+(c) 
+Fig. 2 Fig. 2
+ Geostrophic circulation at the surface, relative to 500 dbar. (a) April June 1997, (b)
+ July August 1997, and (c) September 1997. 
+  
+ 
+58     SHELIKOV
+    BAY
+ “COLD
+CORES”
+135°E 140° 145° 150° 155° 160°
+50°
+55°
+60°N
+(a )  April-May 1997
+50°
+55°
+60°N
+(c )  September 1997
+50°
+55°
+60°N
+(b )  July-August 1997
+WEST KAMCHATKA
+“COLD CORES”
+NORTH OKHOTSK
+“COLD CORE”
+EAST SAKHALIN
+“COLD CORE”
+Fig. 3 Fig. 3
+ Distribution of the lowest temperature and cold core limits in 1997 (dashed area shows 
+temperature <  1 C).  Cold core limits are averaged for 1954 1983 (from Cher n-
+yavsky (1984)). 
+   
+  
+59 60°N 
+60°N 
+50° 
+50° 
+55° 
+55° 
+50° 
+55° 
+60°N 
+135°E 140° 145° 150° 155° 160°
+(a )  April-May 1997
+(c )  September 1997
+(b )  July-August 1997
+Fig. 4 Fig. 4 Distribution of bottom salinity in 1997. 
+  
+ 
+60 References 
+Chernyavsky, V.I. 1984. Thermal characteristics 
+of the nort h - eastern part of the Okhotsk Sea as 
+the basis for type determination of sea thermal 
+state. Proc. TINRO, 109 , 94 – 103. (in Russian) 
+Chernyavsky, V.I. 1992. Specificity of the te m-
+perature structure formation in the active layer 
+of the Sea of Okhotsk. pp. 91 – 104. In 
+Oceanological Base of Biological Productivity 
+in the North - Western Pacific . TINRO, Vlad i-
+vostok. ( in Russian) 
+Davydov, I.V. 1984. On the correlation of deve l-
+opment of oceanological conditions in the 
+main fishery areas of the far eastern seas. 
+Proc. TINRO, 109 , 3 – 16. (in Russian) 
+Luchin, V.A. 1987. Water circulation in the Sea of 
+Okhotsk and its specific interannual chang e-
+ability as a result of diagnostic circulation. 
+Proc. FERHRI, 36 , 3 – 13. (in Ru s sian) 
+Shuntov, V.P. 1985. Biological Resources of the 
+Okhotsk Sea . Agropromizdat, Moscow. 224 
+pp. (in Ru s sian) 
+Shuntov, V.P. 1994. Once again on the problem of 
+global warming and its impact on the Far -
+Eastern Seas biota. Vestnik DVO, 20 , 436 – 442. 
+(in Russian) 
+Shuntov, V.P. and Dulepova, E.P. 1996. Biota of 
+t he Okhotsk Sea: Structure of communities, 
+the interannual dynamics and current status. 
+pp. 263 – 271. In Proc. Workshop on the O k-
+hotsk Sea and Adjacent Areas , PICES Sci. 
+Rep. No. 6 , Nagata, Y., Lobanov, V.B., and 
+Talley, L.D. (eds.), Sidney, B.C., Canada. 
+ 
+  
+  61
+Ventilation of the upper portion of the intermediate water in the Okhotsk Sea  
+Igor A. ZHABIN
+ 
+Pacific Oceanological Institute, Far Eastern Branch Russian Academy of Sciences, Vladivo s tok, Russia 
+ 
+ 
+Introduction 
+Processes determining the ventilation of inte rm e-
+diate water in the North Pacific continue to be of 
+interest, since in the intermediate layer the acc u-
+mulation and redistribution of carbon dioxide and 
+other gases connected with the greenhouse effect 
+might occur. The direct ventilation of intermediate 
+w ater occurs only in limited regions of the Nort h-
+west Pacific, including the Okhotsk Sea.  The 
+cold, low salinity and high oxygen intermediate 
+layer in the Okhotsk Sea differs greatly from the 
+relatively warm, saline and low - oxygen intermed i-
+ate waters in th e adjacent North Pacific.  Ther e-
+fore, these waters are considered as the most si g-
+nificant source for ventilation in the North Pacific 
+(Talley, 1991; Talley and Nagata, 1995; Yasuda, 
+1997; Kono and Kawasaki, 1997). 
+ 
+The candidates for primary mechanisms tha t d e-
+termine direct ventilation and transformation of 
+the intermediate water in the Okhotsk Sea include 
+the following processes (Moroshkin, 1966; Kitani, 
+1973; Talley and Nagata, 1995; Watanabe and 
+Wakatsuchi, 1998): 
+ 
+1. Formation in winter of brine - enriched D ense 
+Shelf Water (DSW) through surface cooling 
+and freezing in the northern coastal pol y nyas;  
+ 
+2. Spring inflow of dense Soya Current Water 
+(SCW) through the Laperuz (Soya) Strait; 
+ 
+3. Convection due to winter cooling.  
+ 
+Under the influence of these processes, the vent i l a-
+tion of the upper portion of the intermediate w a ters 
+in the Okhotsk Sea (potential density 26.7 – 27.1 
+s
+q
+, depths from 150 to 400 – 700 m) takes place. 
+Moroshkin (1966) named this water mass as the 
+Okhotsk Sea Intermediate Water  (OSIW).  
+ 
+This pape r describes the ventilation signatures in 
+the upper portion of the intermediate water in the 
+Okhotsk Sea.  Temperature, salinity and potential 
+vorticity Q on isopycnal surfaces are analyzed.  
+We also discuss the oceanographic features related 
+to DSW outflo w along the east coast of Sakhalin 
+Island and background conditions for convection 
+in the Soya Current region near the South Kuril 
+Islands. 
+Data  
+CTD observations were carried out on board the 
+R/V Akademik M.A.Lavrentyev in July – September 
+1994.  The locati on of stations is shown in Figure 
+1.  A Neil Brown Mark IIIB CTD was used.  The 
+CTD data were collected to 1000 m.  Conductivity 
+data were calibrated by bottle samples with an a c-
+curacy of 0.01 psu in salinity. CTD data were a v-
+eraged to 1 - dbar intervals. 
+Di stribution of temperature, salinity and       
+potential vorticity on isopycnal surfaces 
+To investigate how ventilated water is distributed 
+in the Okhotsk Sea, we carried out analyses of 
+temperature, salinity and potential vorticity Q 
+within the OSIW densit y range.  To calculate the 
+potential vorticity along isopycnals properties in 
+the 26.8 – 26.9 and 27.0 – 27.1 s
+q
+ ranges were used. 
+ 
+The distribution of temperature and salinity (Fig. 
+2) along isopycnal 26.8 s
+q
+ shows the following 
+features.  The warmest and mos t saline waters 
+were observed in the northeast part of the Kuril 
+Basin.  The OSIW in this region is transformed by 
+mixing with Pacific water which flows through the 
+Kruzenshtern Strait.  The second area of warm and 
+salty waters were observed off the west c oast of 
+the southern Kuril Islands.  The surface layer of 
+this area was occupied by the warmest and salty 
+SCW.  The coldest and freshest waters connected 
+with DSW were observed along the east coast of 
+Sakhalin Island.  In the Kuril Basin spotty distr i-
+b u tio n of the temperature and salinity related to 
+the presence of mesoscale eddies was observed.  
+The map of dynamic topography (Fig. 3) clearly 
+shows two anticyclonic eddies.  The eddy A1 had 
+a cold, fresh core between isopycnals 26.7 – 26.9 
+s
+q
+.  For eddy A2 the water between 26.7 – 26.9 s
+q
+ 
+was warmer and more saline than in the su r roun d-
+ings.  Mesoscale eddies are often observed in the 
+Okhotsk Sea (Wakatsuchi and Martin, 1990).
+  
+ 62
+Fig. 1 CTD station locations for the R/V Akademik M.A. Lavrentyev survey conducted in summer 1994. 
+ 
+2 8
+2 9
+4 6
+4 7
+5 0
+1
+5 4
+5 8
+6
+9 5
+1 0 2
+1
+1 0 9
+1 0
+1 1 5
+1 1 6
+1 2 2
+1 2 5
+1 2 9
+1
+1 3
+1 3 4
+1 3 5
+1 3 6
+1 3 7
+1 4
+1
+1 5 6
+1
+1 0
+1 9
+1
+7
+9
+1 0
+1 1
+1 2
+1 4
+1
+6
+1 7
+1
+2 7
+3
+3 1
+2
+3
+3
+3
+3 6
+8
+3 9
+4 0
+5 2
+5 5
+7
+9
+6
+9 7
+9 9
+1 0 1
+1
+1 2 1
+1 2 7
+1 0
+6
+1 4 8
+1 5 4
+1 5 5
+1 5 7
+1 6 2
+1
+1 4 0 ° 1 4 2 ° 1 4 4 ° 1 4 6 ° 1 4 8 ° 1 5 0 ° 1 5 2 ° 1 5 4 °
+4 2 °
+4 4 °
+4 6 °
+4 8 °
+5 0 °
+5 2 °
+5 4 °
+5 6 °
+5 8 °
+Se a
+of
+Okhot s k
+I t u r u p
+0 7
+3 9
+2 1
+1 1 1
+1
+8
+1
+4 9
+6 4
+3 2 1
+3
+5
+2 0 1
+4
+4 1
+2 5
+2
+0 4 1
+9
+3 8 1
+1
+3
+5
+4
+3 1
+3
+3
+8
+4 4
+3 1
+3 4 2 5
+3
+9 5
+5 8 1
+1 6 1
+6 0 1
+3 6
+6 1
+5
+5
+4 2
+1 5 3
+4
+6
+3 1 2
+0
+3
+7 3
+5
+5
+3
+4
+2
+0
+  
+  63
+N
+E
+51
+1.5
+49
+47
+45
+142 146 150
+0.5
+0.0
+q <0
+q >1.5
+0.0
+0.5
+1.0
+1.0
+1.0
+1.5
+1.5 0.5
+0.5
+1.0
+a
+ 
+ 
+ 
+4 45
+144 148 150
+47
+49
+51
+N
+E
+48
+48
+50
+46
+46
+44
+44
+A1
+A2
+ 
+ 
+ 
+ 
+ 
+ 
+Development and decay of eddies in the Kuril B a-
+sin can be determined by the surface flow of 
+warm, saline Soya Current Water, the advection of 
+cold, less saline water from the East Sakhalin 
+shelf, and winter cooling and convective mixi ng 
+(Wakatsuchi and Martin, 1991). 
+ 
+ Isopycnal layer thickness, which is locally related 
+to potential vorticity defined as Q = r
+– 1
+ f Dr/ Dz 
+(10
+– 11
+ m
+– 1
+/s
+– 1
+), is a useful property to study of the 
+distribution and circulation of the ventilated water 
+mass.  Vent ilated water can be identified by using 
+potential vorticity minimum (Talley and McCar t-
+ney, 1982). 
+ 
+ According to Freeland et al. (1996) and Yusuda 
+(1997), the vertical distribution of potential vo r ti c-
+ity in the Okhotsk Sea has a minimum centered at 
+26.8 – 26 .9 s
+q
+ and a layer of the second max i mum 
+Q located between isopycnals 27.0 and 27.1 s
+q
+.  
+These results suggest that OSIW is a vent i lated 
+water mass in the Okhotsk Sea. 
+ 
+A vertical section of Q (Fig. 4) shows that the low 
+potential vorticity layer related to OSIW was o b-
+served in the whole deep part of the Okhotsk Sea.  
+The local minima Q were connected with a core of 
+antic y clonic eddies.  
+ 
+In the layer 26.8 – 26.9 s
+q
+ (Fig. 5a), which corr e-
+sponds to a minimum of potential vorticity (vent i-
+lated regime) high - Q wat er ( Q > 8) was observed 
+along the Kuril Islands and along the east coast of 
+Sakhalin Island.  These are regions with less ve n t i-
+lated (more stratified) water of the intermediate 
+layer.  Thus DSW outflows along the east coast of 
+Sakhalin Island can be charac terized as high - Q 
+water.  It is possible to identify two areas of inte r-
+mediate - Q water with 6 < Q < 7, one of which is 
+connected to waters with a strong Pacific comp o-
+Fig. 2 (a) Potential temperature and (b) salinity a t 26.8 s
+q
+. 
+Fig. 3 Dynamic height at 500 dbar relative to 
+1000 dbar. 
+N
+E
+51
+49
+47
+45
+142 146 150
+33.3
+5
+S>33.5
+33.4
+0
+33.4
+5
+33.4
+0
+33.4
+0
+33.4
+5
+33.4
+5
+33.5
+33.4
+5
+33.5
+0
+S<33.4
+b
+  
+ 64
+nent flowing through the Kruzenshtern Strait; the 
+second is located near the Terpeniya Bay .  E n-
+hanced vertical mixing in these areas results in the 
+reduction of Q .  The minima of Q (4 – 5) related to 
+anticyclonic eddies were observed in the Kuril 
+Basin.  This shows that processes of generation 
+and decay of these eddies can be related to 
+py c no s tad formation in the O k hotsk Sea. 
+The potential vorticity distribution along 27.0 – 27.1 s
+q
+ (Fig. 5b, potential vorticity maximum) 
+shows the region of high - Q water extending from 
+the Kruzenshtern Strait to the Deryugin Basin.  
+Low - Q water with Q from 6 to 9 w as distributed 
+along the central and southern Kuril Islands and 
+near Terpeniya Cape.  The formation process of 
+this low - Q water may be associated with boundary 
+mixing.  Also, the low - Q band was found in the 
+Kuril Basin.  
+Dense shelf water along the East Sa khalin        
+I s land coast  
+DSW is formed in winter in the northern coastal 
+polynyas (Kitani, 1973; Alfultis and Martin, 
+1987). DSW can also be formed in Shelikhov Bay 
+and on the East Sakhalin shelf, including Te r-
+peniya Bay.  Dense water is advected from t he 
+northwestern shelf to Cape Elizabeth (the northern 
+tip of Sakhalin Island).  DSW was observed off 
+Cape Elizabeth as the cold bottom layer between 
+isobaths 70 and 130 m (Fig. 6). Potential density 
+in the bottom layer ranged from 26.94 to 27.02 s
+q
+.  
+Over the East Sakhalin shelf (bottom depths 60 – 200 m) the bottom cold layer had potential dens i-
+ties of 26.71 – 26.85 s
+q
+.  Along the East 
+100 200 300 400 500 600 700
+200
+400
+600
+800
+Potential vorticity
+ Distance (km)
+P, dbars
+ 6
+ 6
+ 10
+ 10
+ 8
+ 8 8
+ 8 10
+ 12
+ 8
+ 6 4
+ 10
+station 57 107
+Fig. 4 Potential vo rticity Q section across the 
+Kuril Basin.  The location of the section is shown 
+in Figure 1.  For the estimation of Q , CTD data 
+were averaged to 100 - dbar i n tervals. 
+N
+E
+>8
+>8
+Q>8
+Q=4-5
+47
+51
+55
+8
+6
+6
+8
+5
+6
+146 150
+a
+N
+E
+>10
+>10
+>10
+Q>10
+Q=6-9
+>
+55
+51
+47
+146 150
+9
+10
+10
+9
+10
+10
+9
+10
+b
+Fig. 5 Isopycnal potential vorti city ( f / r)( ¶r/ ¶z )(10
+– 11 
+m
+– 1
+ s
+– 1
+)
+ 
+ at (a) 26.85 s
+q 
+ and (b) 27.05 s
+q
+. 
+  
+  65
+Sakhalin Island slope potential density near the 
+bottom ranged from 26.85 – 26.94 s
+q
+.  This shows 
+that DSW can ventilate the i ntermediate water at 
+least down to isopycnal 27.02 s
+q
+. 
+ 
+The outflowing DSW spreads along the east coast 
+of Sakhalin Island.  During its movement the 
+DSW mixes with ambient waters.  The renewed 
+waters separate from the Sakhalin Island coast 
+near Terpeniya Cape and move into the Kuril B a-
+sin.  Due to interleaving, numerous cold intrusive 
+layers (lenses) are formed which appear on the 
+vertical profiles as secondary minima of temper a-
+ture.  In Figure 7 the characteristics of the seco n-
+dary minima of temperature in the region located 
+between the east coast of Sakhalin Island and 
+147   E are shown.  The cold layers had a temper a-
+ture jump exceeding 0.1   C.  DSW leaves the 
+northwestern shelf without significant interleaving 
+with ambient water.  Cold intrusions were not 
+found in the region to the north of Cape Elizabeth.  
+Along the east coast of Sakhalin Island this water 
+begins to interleave with waters of the deep part of 
+the sea.  The secondary minima of temperature 
+were observed in the layer 150 – 600 m (26.75 – 27.10 s
+q
+) .  Active interleaving was observed near 
+Te r peniya Cape and in the region of Terpeniya 
+Bay between isopycnals 26.8 – 27.0 s
+q
+.  The isop y-
+cnal and diapycnal mixing of these waters with 
+su r rounding water makes the intermediate layer in 
+the Okhotsk Sea colder, l ess saline and higher in 
+ox y gen co n tent. 
+ 
+Intermediate water in the Kuril Basin is also cha r-
+acterized by the high level of finestructure activity.  
+Examination of vertical profiles (Fig. 8) shows 
+that a cold, fresh and rich - in - oxygen intrusion (st a-
+tion 44 ) originating from the Sakhalin slope and a 
+warm, saline, high - in - oxygen intrusion (st a tion 
+55), related with dense SCW, were both ce n tered 
+at 26.95 s
+q
+.  These stations were located around 
+the antic y clonic eddy A2.  
+Conditions for development of convection in the 
+Soya Current region 
+A vertical potential vorticity minimum was found 
+at intermediate depths everywhere in the Okhotsk 
+Sea.  The pycnostad indicates that OSIW can be a 
+convectively formed water mass.  Climatic distr i-
+bution shows that in the Okhotsk Sea the surface 
+winter density does not exceed 26.7 s
+q
+ (Talley, 
+1991).  The  cold  subsurface  (dichothermal) layer  
+ 
+ 
+ 
+ 
+ represents a “rest” of a winter mixed layer.  
+Therefore, it is possible to use the density in the 
+core of this layer as the rough est imation of eff i-
+ciency of direct ventilation in the Okhotsk Sea in 
+winter.  A subsurface temperature minimum was 
+identified for all CTD profiles.  The core of the 
+cold subsurface layer was centered in the depth 
+Fig. 6 T – S diagram showing characteristics of 
+DSW off Cape Elizabeth ( •) and shelf – slope 
+bottom waters along the east coast of S akhalin 
+Island (o). 
+ 
+26.6 26.8 27 s
+q
+0
+100
+200
+300
+400
+500
+600
+700
+P,db
+ Cold layers: o - CL1, + - CL2N, * - CL2S
+Fig. 7 Characteristics of the cold layers. CL1 
+refers to subsurface temperature minima, CL2 to 
+secondary minima (N to the  north of Terpeniya 
+Cape; S to the south of Terpeniya Bay). 
+ 
+33 33.5 34 S
+-2
+-1
+0
+1
+2
+3
+4
+26.4 26.8 27.2
+q
+,
+ 
+C
+DSW
+E.Sakhalin
+bottom shelf
+and slope
+water
+  
+ 66
+range between 60 and 200 m, ranging in potenti al 
+density from 26.5 to 26.7 s
+q
+.  For only two st a-
+tions in the southern part of the sea (Stns. 57 and 
+59) was the core of the cold subsurface layer cha r-
+acterized by high potential density (about 26.75 
+s
+q
+).  This shows that if intermediate convection 
+takes place in the Okhotsk Sea, the convective r e-
+newal of OSIW occurs only in the local region. 
+ 
+The inflow of saline water in the Okhotsk Sea 
+(Soya Current) creates favourable conditions for 
+the development of convection in the southern part 
+of the sea.  Saline water enters the Okhotsk Sea 
+from the Japan Sea through the Soya (Laperuz) 
+Strait.  During the maximum development of the 
+Soya Current, warm and high - salinity water occ u-
+pies the narrow region along the northern coast of 
+Hokkaido and the southern Kuril Isl ands (Tak i-
+zawa, 1982).  Water with a density of the interm e-
+diate layer can be generated due to cooling the 
+surface SCW. 
+ 
+For determination of regions with favourable 
+background conditions of stratification for deve l-
+opment of convection, a simple mixed laye r model 
+was used.  Starting with the observed profiles of 
+temperature and salinity, this model removes from 
+the upper mixed layer a constant amount of heat 
+with each step (0.01   C) and reevaluates the static 
+stability between the mixed layer and the layer 
+b elow it.  If the mixed layer becomes denser than 
+the water below, the water is completely mixed 
+and the upper layer dee p ens. 
+ 
+The results of calculations illustrate that in the 
+Okhotsk Sea, at a temperature close to the freezing 
+point, thermal convection c an form a mixed layer 
+with a thickness of 40 – 50 m.  A sharp halocline 
+prevents a penetration of convection to large 
+depths.  Only in the Soya Current region (Stns. 
+160 and 161) and in the area of transformation of 
+SCW (St. 162) were the conditions favourab le for 
+convection development (Table 1).  Warm and 
+highly saline SCW was observed in the surface 
+layer (Fig. 9).  Influence of the SCW at St. 160 
+appears down to a depth of about 300 m.  At the 
+bottom of this layer weak salinity and temperature 
+minima were observed.  At St. 162 high salinity 
+water occupied only a thin surface layer. These 
+features of the vertical thermohaline structure cr e-
+ate favourable conditions for the development of 
+convection.  In the SCW area the deeping of the 
+mixed layer begins at r elatively high temperature 
+(about 8   C for St. 160) and quickly penetrates to 
+the lower boundary of the warm and salty layer.  
+After further cooling, convective mixing pen e-
+trates into the intermediate waters and the 
+Fig. 8 Profiles of potential temperature ( a and b) for stations in the Kuril Basin of the Okhotsk Sea.  A r-
+rows mark the cold, fresh intrusion originating from the Sakhalin slope (St. 44) and warm, salt intrusion 
+related to dense Soya Current Water. 
+ 
+-1 0 1 2
+26.6
+26.7
+26.8
+26.9
+27
+27.1
+s
+q
+q
+, 
+ 
+C
+St. 55 St. 44
+b
+0 0.5 1 1.5 2
+q
+, 
+ 
+C
+200
+300
+400
+500
+600
+P, db
+St. 44
+St. 55
+a
+  
+  67
+ 
+Mixed layer T (1.5°C) Mixed layer T (0.0°C) 
+St a tion 
+DH (m) q (°C) 
+S (psu) 
+s
+q
+ DH (m) q (°C) 
+S (psu) 
+s
+q
+ 
+160 427 1.53 33.49 26.79 587 – 0.07 33.48 26.89 
+161 220 1.46 33.35 26.69 440 – 0 .01 33.39 26.81 
+162 – – – – 246   0.01 33.41 26.82 
+  
+33 34 35 36 37 S
+0
+100
+200
+300
+400
+500
+1 6 0
+1 6 1
+1 6 2
+P, d b
+ 
+ 
+thickness of a mixed layer continues to be i n-
+creased. In the area of transformation of the SCW 
+where the contribu tion of saline water in density 
+stratification is small, convective mixing begins at 
+relatively low temperature (about 0.5   C for St. 
+162).  The thickness of the mixed layer in this area 
+at equal temperature is less in comparison with the 
+SCW area.  Calcula tions of mixed layer param e-
+ters at temperatures close to climatology in N o-
+vember and December (Veselova, 1975) have 
+shown (Table 1) that, in the SCW area (St. 160) at 
+T = 1.53   C, the layer thickness is 427 m ( s
+q
+ = 
+26.79).  In the transformation area of the SCW (St. 
+162) at T = 0.01   C, the thickness of the mixed 
+layer equals 246 m ( s
+q
+ = 26.82).  Comparison b e-
+tween profiles of temperature, salinity and di s-
+solved oxygen taken near Iturup Island before and 
+after the winters of 1994 – 1995 (Fig. 10) shows 
+apparent variation in the vertical structure from the 
+surface to 450 m. ( s
+q
+ = 26.86)  Thus in the Soya 
+Current region, due to cooling of the saline surface 
+layer and subsequent convection, the intermediate 
+water can be vent i lated. 
+Conclusions 
+The main results are summarised as follows.  The 
+OSIW, in the range of potential density 26.7 – 27.1 
+s
+q
+, can be ventilated through the impact of brine -
+enriched DSW and consequent boundary mixing 
+with ambient water which takes place along the 
+Sakhalin Island shelf and slope.  Co ld, fresh and 
+high - oxygen water originates from East Sakhalin 
+and the dense SCW ventilated intermediate layer 
+Table 1  Parameters of mixed layer in th e Soya Current region after “cooling” to 1.5° and 0.1°C, respe c-
+tively. 
+Fig. 10 Vertical profiles dissolved oxygen content 
+in area off the coast of the southern Kuril Islands 
+before (Stns. 160 and 161) and after (St. 152) wi n-
+ter 1994 – 1995. 
+F ig. 9 Profiles of salinity for stations in the 
+Soya Current region. Salinity profiles are offset 
+from each other; scale correct for St. 160. 
+ 
+2 4 6 8 10
+0
+100
+200
+300
+400
+500
+P,db
+O
+2
+, ml/l
+152
+161
+162
+  
+ 68
+in the Kuril Basin around 26.95 s
+q
+.  Convection in 
+the Soya Current region along the South Kuril I s-
+land can ventilate OSIW down to 26.70 – 26.85 s
+q
+. 
+References 
+Alfultis, M.A. and Martin, S. 1987. Satellite pa s-
+sive microwave studies of the Sea of Okhotsk 
+ice cover and its relation to oceanic processes, 
+1978 – 82. J. Geophys. Res., 92, 13,013 – 13,028. 
+Freeland, H.J., Bychkov, A.S., Wong, C.S., Whi t-
+ney, F. A. and Yurasov, G.I. 1996. The O k-
+hotsk Sea component of Pacific Intermediate 
+Water. pp. 36 – 44. In Proc. Workshop on the 
+Okhotsk Sea and Adjacent Areas, PICES Sci. 
+Rep. No. 6 , Nagata, Y., Lobanov, V.B. and 
+Talley, L.D. (eds.), Sidney, B.C. Canada. 
+Kitani, K . 1973. An oceanographic study of the 
+Okhotsk Sea — Particularly in regard to cold 
+waters. Bull. Far Seas Fish. Res. Lab., 9 , 45 – 77. 
+Kono, T. and Kawasaki, Y. 1997. Modification of 
+the western subarctic water by exchange with 
+Okhotsk Sea. Deep - Sea Res., 44 , 689 – 711. 
+Moroshkin, K.V. 1966. Water masses of the O k-
+hotsk Sea. Nauka, Moscow, 68 pp. (Translated 
+from Russian by National Technical Inform a-
+tion Services, 1968) 
+Takizawa, T. 1982. Characteristics of the Soya 
+Warm Current in the Okhotsk Sea. J. Ocea n-
+ogr. So c. Japan, 38 , 281 – 292. 
+Talley, L.D. 1991 . An Okhotsk Sea water ano m-
+aly: Implication for ventilation in the North 
+Pacific. Deep - Sea Res., 38(suppl.) , S171 – S190. 
+Talley, L.D. and McCartney, M.S. 1982. Distrib u-
+tion and circulation of Labrador Sea Water. J. 
+Ph ys. Oceanogr., 12 , 1189 – 1205. 
+Talley, L.D. and Nagata, Y. (eds.) 1995. The O k-
+hotsk Sea and Oyashio region. PICES Sci. 
+Rep., No. 2 , 227 pp., Sidney, B.C., Canada. 
+Veselova, L.E. 1975. Specific features of an a n-
+nual temperature cycle at the surface of the 
+so uthern part of the Okhotsk Sea. Proc. 
+FERHRI, 50 , 38 – 56. (in Russian) 
+Wakatsuchi, M. and Martin, S. 1990. Satellite o b-
+servations of the ice cover over the Kuril B a-
+sin region of the Okhotsk Sea and its relation 
+to the regional oceanography. J. Geophys. Res. 
+95 , 13,393 – 13,410. 
+Wakatsuchi, M. and Martin, S. 1991. Water ci r c u-
+lation of the Kuril Basin of the Okhotsk Sea 
+and its relation to eddy formation. J. Ocea n-
+ogr. Soc. Japan, 47 , 152 – 168. 
+Watanabe, T. and Wakatsuchi, M. 1998. Form a-
+tion of 26.8 – 26.9 s
+q
+ water in the Kuril Basin 
+of the Sea of Okhotsk as a possible origin of 
+North Pacific Intermediate Water. J. Geophys. 
+Res., 103 , 2849 – 2865. 
+Yasuda, I. 1997. The origin of the North Pacific 
+Intermediate Water. J. Geophys. Res., 102 , 
+893 – 909.
+ 
+   
+  69
+Oceanographic conditions over the Kashevarov Bank 
+Vladimir A. LUCHIN
+1
+ and Alexander L. Figurkin
+2
+ 
+1 
+Far Eastern Regional Hydrometeorological Research Institute, Vladivostok, Russia 
+2 
+Pacific Research Institute of Fisheries and Oceanography, Vladivostok, Rus sia  
+ 
+The abnormal distribution of the oceanographic 
+parameters over the Kashevarov Bank has a t-
+tracted the attention of many researchers.  In warm 
+seasons, the surface waters here keep lower te m-
+perature and higher salinity, than those of the su r-
+rounding e nvironment.  On the contrary, in the 
+subsurface layer, the destruction of the northern 
+Okhotsk “cold core” is observed.  All year round, 
+the deep waters over the bank remain unusually 
+homogeneous in temperature, salinity, concentr a-
+tion of dissolved oxygen, and nutrients.  Even in 
+the winter, thin ice areas ( polynyas) are often 
+found in the vicinity of the Kashev a rov Bank.  
+ 
+There exist several assumptions today about the 
+mechanism that forms specific hydrological and 
+hydrochemical characteristics of this ar ea.  
+Moroshkin (1966), and Kitani and Shimazaki 
+(1971) noted the abnormal conditions of the water 
+parameters in this region.  Akiba et al. (1959) and 
+Kitani (1973) mentioned vertical water mixing as 
+the reason, but did not specify its specific force.  
+Cher nyavsky (1970), Veselova (1972), Kovshov 
+and Sinyurin (1982), (Markina and Chernyavsky 
+(1984), and Zhigalov and Matveev (1992), e x-
+plained the situation by cyclonic water circulation 
+alone, in conjunction with up - welling. Alfultis and 
+Martin (1987), specula ted on a dominating role of 
+up - welling over the bank.  Some authors, Zhabin 
+and Zuenko (1993), and Kuzmina and Sklyarov 
+(1984), considered tidal mixing and up - welling to 
+be the co n tributing mechanism. 
+ 
+A theoretical model has been worked out by Ka r-
+pushin e t al. (1996), assuming that the abnormal 
+distribution may be formed by the influence of the 
+anti - cyclonic eddy (a Taylor – Hogg column), with 
+a very small radius and a large cyclonic eddy. 
+Such a circulation may cause intensive up - welling.  
+Rogachev and Koso lapkin (1995) considered that 
+homogeneous structures are formed as a result of 
+summary influence of tidal and non - periodic cu r-
+rents.  These authors confirm that mixing together 
+the surface, dichothermal and mesothermal water 
+masses is accompanied by an inc rease of water 
+density and by the decline in sea level, as well as 
+by causing the cyclonic circul a tion. 
+ 
+All the explanations listed above are hypothetical, 
+as it is difficult to differentiate one forcing co m-
+ponent from another due to lack of oceanographic 
+data to confirm the assumptions.  The largest pro b-
+lem, apparently, is the absence of direct cu r rent 
+measurement records, whic

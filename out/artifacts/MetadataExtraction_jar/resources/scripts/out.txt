@@ -1,0 +1,2284 @@
+PICES SCIENTIFIC REPORT No. 53,  2017
+ISBN  978-1-927797-25-9
+ISSN 1198-273X
+ 
+ 
+ 
+PICES SCIENTIFIC REPORT 
+PICES PUBLICATIONS 
+ 
+No. 53, 2017
+ 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+ 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+ 
+ 
+JOURNAL SPECIAL ISSUES – are peer-
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which reviewed publications resulting from symposia 
+document the administrative and scientific activities and Annual Meeting scientific sessions and 
+of the Organization, and its formal decisions, by workshops that are published in conjunction with 
+calendar year.   commercial scientific journals.   
+  
+PICES SCIENTIFIC REPORTS – include BOOKS – are peer-reviewed, journal-quality 
+proceedings of PICES workshops, final reports of publications of broad interest. 
+PICES expert groups, data reports and planning  
+reports. PICES PRESS – is a semi-annual newsletter 
+ providing timely updates on the state of the 
+PICES TECHNICAL REPORTS – are on-line ocean/climate in the North Pacific, with highlights of 
+reports published on data/monitoring activities that current research and associated activities of PICES. 
+require frequent updates.  
+ ABSTRACT BOOKS – are prepared for PICES 
+SPECIAL PUBLICATIONS – are products that Annual Meetings and symposia (co-)organized by 
+are destined for general or specific audiences. PICES. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conditions Promoting Extreme
+For further information on our publications, visit PICES at www.pices.int. 
+ 
+Pseudo-nitzschia Events in the Eastern Pacific 
+Front cover figure 
+ 
+but not the Western Pacific
+Clockwise from left:   Sign on a Washington State beach warning razor clam diggers of beach closures due 
+to dangerous levels of domoic acid in shellfish, a recreational razor clam harvester digging clams with a 
+“tube”, chains of Pseudo-nitzschia sampled off central California during a massive coastwide 2015 harmful 
+algal bloom, and a net filled with razor clams.     
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION
+ 
+PICES Scientific Reports 
+ 
+ 
+ 
+PICES SCIENTIFIC REPORTS 
+Hargreaves, N.B., Hunter, J.R., Sugimoto, T. and Wada, T. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2000.  
+ (Eds.) 1993.  Coastal Pelagic Fishes (Report of Working PICES-GLOBEC International Program on Climate Change 
+Group 3); Subarctic Gyre (Report of Working Group 6).  and Carrying Capacity:  Report of the 1999 MONITOR and 
+ 
+PICES Sci. Rep. No. 1, 130 pp. 
+REX Workshops, and the 2000 MODEL Workshop on 
+ 
+Talley, L.D. and Nagata, Y. (Eds.) 1995.  The Okhotsk Sea Lower Trophic Level Modelling.  PICES Sci. Rep. No. 15, 
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+and Oyashio Region (Report of Working Group 1).  148 pp. 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+PICES Sci. Rep. No. 2, 227 pp. Stehr, C.M. and Horiguchi, T. (Eds.) 2001.  Environmental 
+scientific content of these publications are not generally conducted. 
+Anonymous. 1995.  Report of the PICES-STA Workshop on Assessment of Vancouver Harbour Data Report for the 
+Monitoring Subarctic North Pacific Variability.  PICES PICES MEQ Practical Workshop.  PICES Sci. Rep. No. 
+ 
+Sci. Rep. No. 3, 94 pp. 16, 213 pp. 
+Printed copies of Scientific Reports are available upon request from 
+Hargreaves, N.B. (Ed.) 1996. Science Plan, Implementation Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2001.  
+ 
+Plan (Report of the PICES-GLOBEC International PICES-GLOBEC International Program on Climate Change 
+PICES Secretariat 
+Program on Climate Change and Carrying Capacity).  and Carrying Capacity:  Report of the 2000 BASS, MODEL, 
+P.O. Box 6000 
+PICES Sci. Rep. No. 4, 64 pp. MONITOR and REX Workshops, and the 2001 BASS/ 
+Sidney, British Columbia 
+LeBlond, P.H. and Endoh, M. (Eds.) 1996.  Modelling of the MODEL Workshop.  PICES Sci. Rep. No. 17, 125 pp. 
+Subarctic North Pacific Circulation (Report of Working Alexander, V., Bychkov, A.S., Livingston, P. and McKinnell, 
+Canada.  V8L 4B2 
+Group 7).  PICES Sci. Rep. No. 5, 91 pp. S.M. (Eds.) 2001.  Proceedings of the PICES/CoML/IPRC 
+E-mail:  secretariat@pices.int 
+Anonymous. 1996. Proceedings of the Workshop on the Workshop on “Impact of Climate Variability on Observation 
+ 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. and Prediction of Ecosystem and Biodiversity Changes in 
+ 
+6, 426 pp. the North Pacific”.  PICES Sci. Rep. No. 18, 210 pp. 
+On-line versions of PICES Scientific Reports can be found at: meetings.pices.int/publications/scientific-reports  
+Beamish, R.J., Hollowed, A.B., Perry, R.I., Radchenko, V.I., 
+Otto, R.S. and Jamieson, G.S. (Eds.) 2001.  Commercially 
+ 
+Yoo, S. and Terazaki, M. (Eds.) 1997.  Summary of the Important Crabs, Shrimps and Lobsters of the North 
+Workshop on Conceptual/Theoretical Studies and Model Pacific Ocean.  PICES Sci. Rep. No. 19, 79 pp. 
+ 
+Development and the 1996 MODEL, BASS and REX 
+Batchelder, H.P., McFarlane, G.A., Megrey, B.A., Mackas, 
+ 
+Task Team Reports.  PICES Sci. Rep. No. 7, 93 pp. D.L. and Peterson, W.T. (Eds.) 2002.  PICES-GLOBEC 
+ 
+Nagata, Y. and Lobanov, V.B. (Eds.) 1998.  Multilingual International Program on Climate Change and Carrying 
+ 
+Nomenclature of Place and Oceanographic Names in the 
+Capacity: Report of the 2001 BASS/MODEL, MONITOR 
+ 
+Region of the Okhotsk Sea.  PICES Sci. Rep. No. 8, 57 and REX Workshops, and the 2002 MODEL/REX 
+ 
+pp. (Reprint from MIRC Science Report, No. 1, 1998) Workshop.  PICES Sci. Rep. No. 20, 176 pp. 
+ Hollowed, A.B., Ikeda, T., Radchenko, V.I. and Wada, T. Miller, C.B. (Ed.) 2002.  PICES-GLOBEC International 
+(Organizers) 1998.  PICES Climate Change and Carrying Program on Climate Change and Carrying Capacity:  
+ 
+Capacity Workshop on the Development of Cooperative Report of the PICES 2002 Volunteer Observing Ship 
+ 
+Research in Coastal Regions of the North Pacific.  Workshop.  PICES Sci. Rep. No. 21, 38 pp. 
+ 
+PICES Sci. Rep. No. 9, 59 pp. Perry, R.I., Livingston, P. and Bychkov, A.S. (Eds.) 2002.  
+ 
+Freeland, H.J., Peterson, W.T. and Tyler, A. (Eds.) 1999.  PICES Science: The First Ten Years and a Look to the 
+ 
+Proceedings of the 1998 Science Board Symposium on Future.  PICES Sci. Rep. No. 22, 102 pp. 
+ The Impacts of the 1997/98 El Ni?o Event on the North Taylor, F.J.R. and Trainer, V.L. (Eds.) 2002.  Harmful Algal 
+Pacific Ocean and Its Marginal Seas.  PICES Sci. Rep. Blooms in the PICES Region of the North Pacific.  
+ 
+No. 10, 110 pp. PICES Sci. Rep. No. 23, 152 pp. 
+ 
+Dugdale, R.C., Hay, D.E., McFarlane, G.A., Taft, B.A. and Feely, R.A. (Ed.) 2003.  CO in the North Pacific Ocean (Working 
+2
+ 
+Yoo, S. (Eds.) 1999.  PICES-GLOBEC International Group 13 Final Report).  PICES Sci. Rep. No. 24, 49 pp. 
+ 
+Program on Climate Change and Carrying Capacity:  Aydin, K.Y., McFarlane, G.A., King, J.R. and Megrey, B.A. 
+ 
+Summary of the 1998 MODEL, MONITOR and REX (Eds.)  2003. PICES-GLOBEC International Program on 
+ Climate Change and Carrying Capacity:  The BASS/ 
+Workshops, and Task Team Reports.  PICES Sci. Rep. 
+No. 11, 88 pp. MODEL Report on Trophic Models of the Subarctic 
+ 
+Lobanov, V.B., Nagata, Y. and Riser, S.C. (Eds.) 1999.  Pacific Basin Ecosystems.  PICES Sci. Rep. No. 25, 93 pp. 
+ 
+Proceedings of the Second PICES Workshop on the McKinnell, S.M. (Ed.) 2004.  Proceedings of the Third 
+ 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. Workshop on the Okhotsk Sea and Adjacent Areas.  
+This report was developed under the guidance of the PICES Science Board and its Marine Environmental 
+12, 203 pp. PICES Sci. Rep. No. 26, 275 pp. 
+Quality Committee. The views expressed in this report are those of participating scientists under their 
+Kishi, M.J. (Ed.) 2004.  Report of the MODEL Task Team 
+Danchenkov, M.A., Aubrey, D.G. and Hong, G.H. 2000.  
+responsibilities. 
+Bibliography of the Oceanography of the Japan/East Sea.  Second Workshop to Develop a Marine Ecosystem Model 
+PICES Sci. Rep. No. 13, 99 pp. of the North Pacific Ocean including Pelagic Fishes. 
+ 
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. PICES Sci. Rep. No. 27, 49 pp. 
+ 
+Predation by Marine Birds and Mammals in the King, J.R. (Ed.)  2005.  Report of the Study Group on the 
+ 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. Fisheries and Ecosystem Responses to Recent Regime 
+This document should be cited as follows: 
+14, 168 pp. Shifts. PICES Sci. Rep. No. 28, 162 pp. 
+ 
+Trainer, V.L. (Ed.) 2017. Conditions Promoting Extreme Pseudo-nitzschia Events in the Eastern Pacific but not 
+the Western Pacific. PICES Sci. Rep. No. 53, 52 pp.  
+Continued on inside back page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 53 
+2017 
+ 
+ 
+ 
+ 
+ 
+ 
+Conditions Promoting Extreme Pseudo-nitzschia Events 
+in the Eastern Pacific but not the Western Pacific 
+ 
+ 
+ 
+ 
+ 
+Edited by  
+Vera L. Trainer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+September 2017 
+ 
+North Pacific Marine Science Organization (PICES) 
+P.O. Box 6000, Sidney, BC, V8L 4B2, Canada  
+www.pices.int 
+  
+ 
+  
+ 
+Table of Contents 
+ 
+Foreword ....................................................................................................................................................... v 
+1 Introduction ............................................................................................................................................ 1 
+Inna V. Stonik and Polina A. Kameneva 
+2 Overview of eastern versus western Pacific differences in Pseudo-nitzschia abundance,  
+       speciation, and domoic acid impacts ..................................................................................................... 3 
+Inna V. Stonik, Mark L. Wells and Vera L. Trainer 
+3 Amnesic shellfish poisoning potential in Japan ................................................................................... 12 
+Yuichi Kotaki, Setsuko Sakamoto and Ichiro Imai 
+4 Pseudo-nitzschia blooms in China ....................................................................................................... 20 
+Hao Guo, Chunjiang Guan, Lin Yang and Douding Lu 
+5 Temporal changes and toxicity of Pseudo-nitzschia species ............................................................... 28 
+Weol-Ae Lim, Tae-Gyu Park, Jong-Gyu Park, Ka-Jeong Lee, Kwang-Soo Ha and  
+      Gregory J. Doucette 
+6 Pseudo-nitzschia bloom events in the Russian waters of the Japan/East Sea ...................................... 33 
+Inna V. Stonik and Tatiana Yu. Orlova 
+7 Pseudo-nitzschia blooms in the northeastern Pacific Ocean ................................................................ 37 
+Vera L. Trainer, Nicolaus G. Adams, Brian D. Bill, Daniel L. Ayres, Zachary R. Forster,  
+      Anthony Odell, Bich-Thuy Eberhart and Nicola Haigh 
+Appendix 1     Biogeographic regions in the PICES Convention Area ...................................................... 49 
+Appendix 2    MEQ Workshop (W2) on “Conditions promoting extreme Pseudo-nitzschia events in  
+                       the eastern Pacific but not the western Pacific” at PICES-2016 .......................................... 50 
+Appendix 3    Olympic Region Harmful Algal Bloom (ORHAB) partnership sampling methods ............ 52 
+ 
+PICES Scientific Report No. 53  iii 
+   
+ 
+ 
+ 
+Foreword 
+The use of numbered biogeographic regions (10–25) in the Overview section (section 2) follows the 
+terminology for numbered areas named in accordance with Decision 2016/s/11(vii) adopted by the PICES 
+Governing Council.  A map showing these biogeographic regions is provided in Appendix 1.  The content 
+of the country reports (sections 3 to 7), including the use of different geographic names remains the 
+responsibility of the contributing authors.  
+Robin Brown 
+Executive Secretary, PICES 
+ 
+PICES Scientific Report No. 53  v 
+   
+ 
+ 
+  
+ 
+Stonik and Kameneva  Introduction 
+1 Introduction 
+Inna V. Stonik and Polina A. Kameneva 
+National Scientific Center of Marine Biology of the Far Eastern Branch of the Russian Academy of Sciences, 
+Vladivostok, Russia 
+This publication includes reports given at a workshop on “Conditions promoting Pseudo-nitzschia events 
+in the eastern Pacific but not the western Pacific” co-convened by Drs. Vera L. Trainer (USA) and Polina 
+Kameneva (Russia) on November 3, 2016 at the PICES 2016 Annual Meeting in San Diego, USA (see 
+Appendix 2). The workshop was focused on the diatom, Pseudo-nitzschia, historically associated with 
+dramatic negative impacts on the economy of shellfish harvests, the well-being of  marine life and human 
+health in the northeastern Pacific PICES member countries (Canada, USA), with little or no impact in the 
+northwestern Pacific (China, Japan, Korea and Russia).  
+Diatoms of the genus Pseudo-nitzschia (H. Peragallo, 1900) are widely distributed in the plankton 
+assemblages of both coastal and open ocean waters (Hasle et al., 1996; reviewed in Lelong et al., 2012 
+and Trainer et al., 2012). Nineteen of the 46 currently recognized Pseudo-nitzschia species are known to 
+produce the potent marine neurotoxin, domoic acid (DA; Teng et al., 2016), which can accumulate in fish 
+and shellfish and leads to Amnesic Shellfish Poisoning (ASP) in humans, seabirds and marine mammals 
+when they consume contaminated fish and shellfish (e.g., Lefebvre et al., 2002). It has been suggested 
+that repeated exposure to low levels of DA may cause neuropathic injury to vertebrates, including people 
+(Grattan et al., 2007).  
+There is clear evidence of contrasting occurrence and impact of the toxin-producing diatom, Pseudo-
+nitzschia, between the northwestern and northeastern Pacific. In Canadian and American Pacific waters, 
+numerous cases of toxic Pseudo-nitzschia bloom events and mortalities of sea birds, sea lions, whales, 
+and other marine mammals have been registered from the time of the discovery of DA in 1987 (Bates et 
+al., 1989) up to the present day. In 2015, a massive bloom spanning from California to Alaska, linked to 
+anomalously warm ocean conditions associated with both El Ni?o and the Pacific Decadal Oscillation 
+(PDO cycles), had major impacts on the economic viability of the shellfish industry and on marine life 
+health (McCabe et al., 2016). In contrast, Pseudo-nitzschia did not cause significant economic losses in 
+the northwestern Pacific in 2015. Gathered data provide a unique opportunity to make East–West Pacific 
+comparisons, and to identify and rank those environmental factors which promote Pseudo-nitzschia 
+success as a harmful algae species. Special attention should be paid to the climate-driven environmental 
+changes such as ocean acidification, warming of the sea surface, stratification pattern changes, and the 
+availability of nutrients to definitively characterize those factors promoting toxic blooms. The recent 
+PICES-supported symposium on HABs and Climate Change (May 19–22, 2015 G?teburg, Sweden) and 
+the related synthesis paper (Wells et al., 2015) emphasize the importance of studying such extreme events 
+to further our understanding of climate impacts on toxic blooms. 
+PICES Scientific Report No. 53  1 
+Introduction  Stonik and Kameneva 
+References  
+Bates, S.S., Bird, C.J., de Freitas, A.S.W., Foxall, R., Gilgan, M., Hanic, L.A., Johnson, G.R., McCulloch, 
+A.W., Odense, P., Pocklington, R., Quilliam, M.A., Sim, P.G., Smith, J.C., Subba Rao, D.V., Todd, E.C.D., 
+Walter, J.A. and Wright, J.L.C. 1989. Pennate diatom Nitzschia pungens as the primary source of domoic 
+acid, a toxin in shellfish from eastern Prince Edward Island, Canada. Can. J. Fish. Aquat. Sci. 46: 1203–
+1215. 
+ 
+Grattan, L.M., Roberts, S., Trainer, V.L., Boushey, C., Burbacher, T., Grant, K., Tracy, K. and Morris, J.G. 
+2007. Domoic acid neurotoxicity in native Americans in the Pacific Northwest: human health project 
+methods and update. Fourth Symposium on Harmful Algae in the U.S., October 29–November 1, 2007, 
+Woods Hole, MA. 
+Hasle, G.R., Lange, C.B. and Syvertsen, E.E. 1996. A review of Pseudo-nitzschia, with special reference to the 
+Skagerrak, North Atlantic, and adjacent waters. Helgol?nder Meeresunters. 50: 131–175. 
+Lefebvre, K.A., Bargu, S., Kieckhefer, T. and Silver, M.W. 2002. From sanddabs to blue whales: The 
+pervasiveness of domoic acid. Toxicon 40: 971–977, doi:10.1016/S0041-0101(02)00093-4. 
+Lelong, A., Hegaret, H., Soudant, P. and Bates, S.S. 2012. Pseudo-nitzschia (Bacillariophyceae) species, 
+domoic acid and amnesic shellfish poisoning: revisiting previous paradigms. Phycologia 51: 168–216. 
+McCabe, R.M., Hickey, B.M., Kudela, R.M., Lefebvre, K.A., Adams, N.G., Bill, B.D., Gulland, F.M.D., 
+Thomson, R.E., Cochlan, W.P. and Trainer, V.L. 2016. An unprecedented coastwide toxic algal bloom 
+linked to anomalous ocean conditions. Geophys. Res. Lett. 43: 10,366–10,376.  
+Teng, S.T., Lim, P.T., Rivera-Vilarelle, M., Quijano-Scheggia, S., Takata, Y., Quilliam, M., Wolf, M., Bates, 
+S.S. and Leaw, Ñ.P. 2016. A non-toxigenic but morphologically and phylogenetically distinct new species 
+of Pseudo-nitzschia, P. sabit sp. nov. (Bacillariophyceae). J. Phycol. 51: 706–725.  
+Trainer, V.L., Bates, S.S., Lundholm, N., Thessen, A.E., Cochlan, W.P., Adams, N.G. and Trick, C.G. 2012. 
+Pseudo-nitzschia physiological ecology, phylogeny, toxicity, monitoring and impacts on ecosystem health. 
+Harmful Algae 14: 271–300. 
+Wells, M.L., Trainer, V.L., Smayda, T.J., Karlson, B.S.O., Trick, C.G., Kudela, R.M., Ishikawa, A., Bernard, 
+S., Wulff, A., Anderson, D.M. and Cochlan, W.P. 2015. Harmful algal blooms and climate change: learning 
+from the past and present to forecast the future. Harmful Algae 49: 68–93. 
+ 
+2 PICES Scientific Report No. 53 
+Stonik et al.  Overview 
+2 Overview of eastern versus western Pacific differences in 
+Pseudo-nitzschia abundance, speciation, and domoic acid 
+impacts 
+1 2 3
+Inna V. Stonik , Mark L. Wells and Vera L. Trainer 
+1
+ National Scientific Center of Marine Biology of the Far Eastern Branch of the Russian Academy of Sciences, 
+  Vladivostok, Russia 
+2
+ School of Marine Science, University of Maine, Orono, ME, USA 
+3
+ National Oceanic and Atmospheric Administration, National Marine Fisheries Service, Northwest Fisheries 
+  Science Center, Seattle, WA, USA 
+In the American and Canadian Pacific, long-lasting and intensive toxigenic blooms of Pseudo-nitzschia 
+occur most often in spring and fall within extensive strong upwelling zones near retentive sites. Recent 
+U.S. coastwide toxic bloom events are directly related to warm sea surface temperature anomalies 
+associated with the El Ni?o and Pacific Decadal Oscillation (PDO) cycles, leading to faster growth (and 
+northward expansion of P. australis habitat as seen in 2015), followed by increased toxin accumulation in 
+razor clams (McCabe et al., 2016). Although many (and likely all) Pseudo-nitzschia species have the 
+capacity to produce the neurotoxin domoic acid (DA), the most toxic Pseudo-nitzschia species within the 
+California Current system are P. australis, P. multiseries and P. cf. pseudodelicatissima (also specified as 
+P. cuspidata; reviewed in Trainer et al., 2012), whereas the most problematic highly toxic species off 
+California appears to be P. australis (Table 1). 
+Smaller, more localized blooms of Pseudo-nitzschia species occur within extensive coastal areas of the 
+northwestern Pacific. These events typically occur during fall, winter, and summer in enclosed and semi-
+enclosed areas influenced by intensive riverine discharge and in outer coastal areas near localized 
+upwelling. Although no serious cases of amnesic shellfish poisoning (ASP) have been recorded in the 
+northwestern Pacific region, DA-producing plankton have been  found repeatedly in Russia, Japan, and 
+–1
+Korea, with traces of DA (up to 3 mg kg ) recorded in mussels, scallops and razor clams. Contrary to the 
+northeastern Pacific, P. multiseries generally is the most common highly toxic Pseudo-nitzschia species 
+in the northwestern Pacific region (Table 1).   
+ 
+  
+PICES Scientific Report No. 53  3 
+Overview  Stonik et al. 
+Table 1 Selected species of Pseudo-nitzschia isolated from the eastern and western Pacific that produce domoic 
+acid (DA) in laboratory cultures. 
+–1
+Maximum DA concentration (pg DA cell ) 
+Species Eastern Pacific Western Pacific 
+a b
+P. australis 21.8–37, Monterey Bay, USA 1.1–2.0, New Zealand 
+c
+  1.74, Chile  DA detected but concentration not reported, 
+d
+Australia 
+e f
+P. multiseries 0.021–11.2, Monterey Bay, USA 20.8, Peter the Great Bay, Russia 
+g
+   1.03–2.4, Jinhal and Chinhae bays, Korea 
+h
+   1.15–140, Okkiray Bay, Japan 
+i
+    5.7, Ofunato Bay, Japan 
+j k
+P. cuspidata 0.019–0.031, Washington State USA 25.4, Australia 
+a b c d
+Garrison et al., 1992; Guannel et al., 2011; Rhodes et al., 1996, 2004; Alvarez et al., 2009; Lapworth et al., 2001; 
+e f g
+Maldonaldo et al., 2002; Doucette et al., 2008; Orlova et al., 2008; Lee and Baik, 1997; Cho et al., 2001; 
+h i j k
+Lundholm et al., 2004; Trimborn et al., 2008; Kotaki et al., 1999; Auro, 2007 and Trainer et al., 2009b; Ajani et 
+al., 2013 
+The duration, toxin concentrations, abundance, area and timing of Pseudo-nitzschia blooms are 
+drastically different between the eastern and western Pacific.  The contrasting cases of harmful algal 
+blooms (HABs) in these two regions, examined during the PICES 2012 Annual Meeting in Hiroshima, 
+Japan, highlighted these differences.  An example data set comparing the relative abundance of Pseudo-
+nitzschia and relative concentrations and impacts of DA from inland and coastal waterways of the 
+U.S./Canada and Japan is shown in Figure 1.  
+Pseudo-nitzschia multiseries, isolated and cultured from Russian and Japanese waters, were found to 
+–1 –1
+contain a maximum of 5390 ng ml and 317 ng ml DA, respectively (Kotaki et al., 1999; Orlova et al., 
+2008). In contrast, estimates of maximum particulate DA in cultured isolates of Pseudo-nitzschia from 
+–1 –1
+Washington State are: P. australis (1.0 ng ml ), P. multiseries (24.0 ng ml ), P. cf. pseudodelicatissima 
+–1 -1
+(0.1 ng ml ; Baugh et al., 2006) and from California: P. australis (up to 90 ng ml ; Wingert, 2017).  
+However, natural monospecific blooms of P. australis have estimated maximum concentrations of ~20 
+–1
+mg ml ; McCabe et al., 2016) and of P. cuspidata (formerly identified as part of the P. cf. 
+–1
+pseudodelicatissima complex) can reach concentrations of 13.3 ng ml ; Trainer et al., 2009b, reported as 
+–1
+43 nmole L particulate DA). However, it is likely that DA content can be much higher; in laboratory 
+experiments a high proportion of DA is released from the cell (Wells et al., 2005), and dissolved DA is 
+measured within Pseudo-nitzschia blooms (e.g., Trainer et al., 2009a).  It should be noted that in Russian 
+western Pacific waters, and perhaps elsewhere in the northwestern Pacific, P. multiseries abundance has 
+decreased drastically since 2002 (I. Stonik, unpubl. data), which may be considered as one of the probable 
+causes of the low impact of Pseudo-nitzschia blooms in the northwestern Pacific over the past 15 years. 
+ 
+ 
+ 
+4 PICES Scientific Report No. 53 
+Stonik et al.  Overview 
+ 
+ 
+ 
+(Region 11) 
+(Region 19) 
+(Region 11) 
+Region 19 
+ 
+Fig. 1 Domoic acid concentrations and duration, timing and area of toxic events in U.S./Canadian and Japanese 
+waters, including the inland seas (Salish Sea and Yatsushiro Sea) and outer waters (Region 19 and Pacific coast of 
+Washington State – Region 11) from 2000–2012.  The color scale describes intensity, extent or severity in each 
+category. 
+  
+PICES Scientific Report No. 53  5 
+Overview  Stonik et al. 
+Table 2 Evidence of the impact of Pseudo-nitzschia and domoic acid in the eastern and western Pacific. 
+Area Damage 
+Coastal waters of the northeastern Pacific Numerous cases of toxic Pseudo-nitzschia bloom events and 
+–1
+related high DA concentrations in shellfish (up to 300 mg kg ) 
+and events of sea bird, sea lion, whale, and other marine mammal 
+mortalities (reviewed in Lelong et al., 2012 and Trainer et al., 
+2012). 
+-1
+Coastal waters of the northwestern Pacific Cases of high DA content in mussels (up to 33 mg kg ) related to 
+P. multiseries blooms were documented in the 1990s in Korea 
+(Lee and Baik, 1997). No cases of ASP (animal mortality) were 
+-1
+found. Traces of DA (up to 3 mg kg ) were found in shellfish 
+from Japan and Russia.  
+South Asian waters DA contamination in shellfish reported in the Philippines, 
+Vietnam and some tropical Asian countries, with no records of 
+human poisoning (reviewed in Fukuyo et al., 2011). 
+DA = domoic acid, ASP = amnesic shellfish poisoning 
+It is not surprising then, that the ecological and economic impacts of DA differ vastly between the 
+northeastern and the northwestern Pacific Ocean (Table 2). There have been numerous highly toxic events 
+along the U.S. and Canadian Pacific coasts over the past 15 years, in many cases leading to poisoning of 
+marine mammals and birds, and high economic costs (Rowles et al., 2017).  The most recent of these 
+blooms (in 2015) lasted many consecutive months and caused prolonged closures of shellfish and crab 
+fisheries (McCabe et al., 2016). Even so, blooms of toxigenic Pseudo-nitzschia spp. in northeastern 
+Pacific coastal waters do not always generate toxic conditions.  In contrast, Pseudo-nitzschia blooms in 
+the northwestern Pacific are rarely highly toxic, and economic losses are minor in comparison (Table 2).  
+While there is no definitive understanding of the reasons for these stark differences, some of the likely 
+environmental factors potentially may include the following:  
+1)  Intensive, broad upwelling zones along the continental shelves off the eastern margins of the Pacific 
+appear to promote the competitive success of Pseudo-nitzschia species, and once firmly established 
+as a seed population, the increased nutrient flux into surface waters facilitates the generation of high 
+Pseudo-nitzschia biomass. By contrast, intensive upwelling zones are far more restricted in scale in 
+western Pacific nearshore waters, where the coastal oceanography is influenced more by enclosed 
+and semi-enclosed seas and periodic intensive riverine discharge (Table 3). 
+Table 3 Northeastern–northwestern Pacific general hydrological differences (modified from McKinnell and Dagg, 
+2010). 
+Northeastern Pacific Northwestern Pacific 
+Intensive upwelling (California Current System) Summer and winter monsoons, coastal upwelling during fall 
+months (northwestern portion of Region 19) 
+Freshwater input and oceanic eddies (e.g., in the Large freshwater input via Amur River and local upwellings 
+Alaska Current region) (Sea of Okhotsk). 
+ Inflows from the Kuroshio and Changjiang River (Yellow 
+and East China seas (Regions 20 and 21) 
+6 PICES Scientific Report No. 53 
+Stonik et al.  Overview 
+ The interannual variation of upwelling in the Russian waters of Region 19 is determined mainly by 
+the varying pressure of the Siberian High, which is a major center of action in the East Asian region 
+(Zhabin et al., 2017). Upwelling intensity is also influenced by the magnitude of the atmospheric 
+pressure gradient between the eastern part of the continent and the North Pacific Ocean. An increased 
+upwelling intensity is observed in years with a developed Siberian High. Accordingly, during a weak 
+Siberian High, the upwelling intensity in the northwestern portion of Region 19 declines. Intensive 
+upwelling events appear to facilitate the competitive success of Pseudo-nitzschia species. For this 
+reason, Zuenko and Rachkov (2015) hypothesize that the decrease in the abundance of P. multiseries 
+in the 1990s in the northwestern portion of Region 19 can be related to the long-term tendency of the 
+Siberian High and the summer monsoon to weaken during 1990–2015. 
+2)  The supply of macronutrients (N, P, Si) often is cited as a contributing factor to increasing 
+intracellular concentrations of DA in laboratory cultures (reviewed in Lelong et al., 2012), although 
+there is no consistent pattern for this relationship in coastal waters (e.g., Trainer et al., 2009a). Sea 
+surface concentrations of dissolved nutrients (N, P, Si) are higher in the northwestern Pacific Ocean 
+than in the northeastern region during winter, but are similar by mid-summer, reflecting a greater 
+nutrient drawdown (Fig. 2). In addition, given the importance of Si in building diatom cell walls, it 
+may be no coincidence that the Si/N drawdown ratio is greater in the northwestern Pacific than the 
+northeastern Pacific and that diatoms have a greater predominance along the Asian coast (Yasunaka 
+et al., 2014).  The success of toxic Pseudo-nitzschia and accumulation of cellular DA under nutrient 
+stress in the northeastern Pacific have been demonstrated in recent field studies (McCabe et al., 2016; 
+McKibben et al., 2017). Pseudo-nitzschia can grow and produce DA using various nitrogen sources 
+(nitrate, ammonium and urea; Armstrong et al., 2007).  Pseudo-nitzschia’s resilience is demonstrated 
+also in its ability to occupy the same ecological niche as flagellates (e.g., the massive euglenoid 
+bloom described in Trainer et al., 2009b). 
+ 
+Fig. 2  World Ocean Atlas 2013 annual climatology (Garcia et al., 2014). For silicate and nitrate concentrations 
+–1
+( µmol L ) see https://www.nodc.noaa.gov/OC5/woa13f/index.html. Contour interval = 5. 
+PICES Scientific Report No. 53  7 
+Overview  Stonik et al. 
+3)  Coastal waters of the northwestern Pacific obtain more dissolved micronutrients from riverine 
+discharge (Amur, Yangtze and others) than in the northeastern Pacific, and there is greater iron 
+enrichment in the west as a consequence the southward flow of the Oyashio Current enriched with 
+iron from the Sea of Okhotsk (Nishioka et al., 2011; Whitney, 2011). Areas with limiting iron 
+concentrations in the northeastern Pacific have been proposed to be sites where Pseudo-nitzschia 
+outcompete other phytoplankton and become highly toxic (Trainer et al., 2009b). There is evidence 
+for a direct linkage between the rate of DA production and limitation of cell growth by the 
+micronutrient Fe (Maldonado et al., 2002; Wells et al., 2005).  The more widely distributed riverine 
+iron inputs, generally broader continental shelves (thus iron input from marginal shelf sediments), 
+and higher rates of aerosol iron inputs (Fig. 3) in the northwestern Pacific region may all contribute to 
+reducing the rates of DA production, and thus retained intracellular DA concentrations (i.e., reduced 
+cell toxicity). 
+ 
+Fig. 3 Model of the distribution of the concentrations of iron dust in surface waters of the Pacific Ocean based on 
+real-world observations (modified from https://www.nasa.gov/topics/earth/features/modis_fluorescence_briefing.html, 
+Mike Behrenfeld, Oregon State University).  
+It is clear that frequent and intense Pseudo-nitzschia blooms cause high DA toxicity in shellfish and the 
+mortality of marine birds and mammals in the northeastern Pacific, and that despite the presence of 
+Pseudo-nitzschia species capable of DA production in the northwestern Pacific, sometimes reaching 
+–1
+bloom concentrations of >1 million cells L , no severe toxic episodes have been reported from the 
+northwestern Pacific. Part of this disparity may be related to the apparent dominance of only one highly 
+toxic species (P. multiseries) in the northwestern region vs. three primary species (P. multiseries, 
+P. australis, and P. cuspidata) in the northeastern Pacific, but it is far more likely that differences in the 
+frequencies and magnitude of these toxic bloom events are tied to underlying differences in 
+oceanographic conditions in ways that are not yet understood. Two challenges guide the way forward. 
+The first is to understand the fundamental limitations to the development of large blooms of toxigenic 
+Pseudo-nitzschia spp., vs. other diatom species, and how these drivers differ between the northeastern and 
+northwestern Pacific.  The second is to constrain the environmental circumstances that, once a Pseudo-
+8 PICES Scientific Report No. 53 
+Stonik et al.  Overview 
+nitzschia bloom develops, leads to increased intracellular retention of DA.  The North Pacific provides a 
+unique platform that, through collaboration among PICES member countries, can serve as a resource for 
+investigating the root mechanistic causes for toxic diatom blooms. 
+Acknowledgements 
+We thank Professor Shigeru Itakura for the Japan data used in Figure 1.  
+References 
+Ajani, P., Murray, S., Hallegraeff, G. and Lundholm, N. 2013. The diatom genus Pseudo-nitzschia 
+(Bacillariophyceae) in New South Wales, Australia: morphotaxonomy, molecular phylogeny, toxicity, and 
+distribution.  J. Phycol. 49: 765–785. 
+Alvarez, G., Uribe, E., Quijano-Scheggia, S., Lopez-Rivera, A., Marino, C. and Blanco, J. 2009. Domoic acid 
+production by Pseudo-nitzschia australis and Pseudo-nitzschia calliantha isolated from North Chile. 
+Harmful Algae 8: 938–945. 
+Armstrong-Howard, M.D., Cochlan, W.P., Ladizinski, N. and Kudela, R.M. 2007. Nitrogenous preference of 
+toxigenic Pseudo-nitzschia australis (Bacillariophyceae) from field and laboratory experiments. Harmful 
+Algae 6: 206–217. 
+Auro, M.E. 2007. Nitrogen dynamics and toxicity of the pennate diatom Pseudo-nitzschia cuspidata: a field 
+and laboratory study. M.Sc. Thesis. San Francisco State University, San Francisco, CA. 91 pp. 
+Baugh, K.A., Bush, J.M., Bill, B.D., Lefebvre, K.A. and Trainer, V.L. 2006. Estimates of specific toxicity in 
+several Pseudo-nitzschia species from the Washington coast, based on culture and field studies. Afr. J. Mar. 
+Sci. 28: 403–407. 
+Cho, E.S., Kotaki, Y. and Park, J.G. 2001. The comparison between toxic Pseudo-nitzschia multiseries (Hasle) 
+Hasle and non-toxic P. pungens (Grunow) Hasle isolated from Jinhae Bay, Korea. Algae 16: 275–285. 
+Doucette, G.J., King, K.L., Thessen, A.E. and Dortch, Q. 2008. The effect of salinity on domoic acid 
+production by the diatom Pseudo-nitzschia multiseries. Nova Hedwigia 133: 31–46. 
+Fukuyo, Y., Kodama, M., Omura, T., Furuya, K., Furio, E.F., Cayme, M., Lim, P.T., Dao, V.H., Kotaki, Y., 
+Matsuoka K., Iwataki M., Sriwoon R. and Lirdwitayaprasit, T. 2011. Ecology and oceanography of harmful 
+marine microalgae, pp. 23–48 in Coastal marine science in Southeast Asia edited by S. Nishida, M.D. 
+Fortes and N. Miyazaki, Terrapub, Tokyo. 
+Garcia, H., Locamini, R.A., Boyer, T.P., Antonov, J.I., Baranova, O.L., Zweng, M.M., Reagan, J.R. and 
+Johnson, D.R. 2014. World Ocean Atlas 2013, Volume 4: Dissolved Inorganic Nutrients (Phosphate, 
+Nitrate, Silicate), NOAA Atlas, NESDIS 76, edited by S. Levitus and A. Mishonov, 25 pp. Available at: 
+https://www.nodc.noaa.gov/OC5/WOA05F/woa05f.html. 
+Garrison, D.L., Conrad, S.M., Eilers, P.P. and Waldron, E.M. 1992. Confirmation of domoic acid production 
+by Pseudo-nitzschia australis (Bacillariophyceae) cultures. J. Phycol. 28: 604–607. 
+PICES Scientific Report No. 53  9 
+Overview  Stonik et al. 
+Guannel, M.L., Horner-Devine, M.C. and Rocap, G. 2011. Bacterial community composition differs with 
+species and toxigenicity of the diatom Pseudo-nitzschia. Aquat. Microb. Ecol. 64: 117–133. 
+Kotaki, Y., Koike, K., Sato, S., Ogata, T., Fukuyo Y. and Kodama, M. 1999. Confirmation of domoic acid 
+production of Pseudo-nitzschia multiseries isolated from Ofunato Bay, Japan. Toxicon 37: 677–682.  
+Lapworth, C., Hallegraeff, G.M.J. and Ajani, P.A. 2001. Identification of domoic acid-producing Pseudo-
+nitzschia species in Australian waters, pp. 38–41 in Harmful Algal Blooms 2000: Proceedings of the Ninth 
+International Conference on Harmful Algal Blooms edited by G.M. Hallegraeff, S.I. Blackburn, C.J. Bolch 
+and D. Lewis, Hobart, Australia. 
+Lee, J.H. and Baik, J.H. 1997. Neurotoxin-producing Pseudonitzschia multiseries (Hasle) Hasle, in the coastal 
+waters of Southern Korea. II. Production of domoic acid. Korean J. Phycol. 12: 31–38. 
+Lelong, A., Hegaret, H., Soudant, P. and Bates, S.S. 2012. Pseudo-nitzschia (Bacillariophyceae) species, 
+domoic acid and amnesic shellfish poisoning: revisiting previous paradigms. Phycologia 51: 168–216. 
+Lundholm, N., Hansen, P.J. and Kotaki, Y., 2004. Effect of pH on growth and domoic acid production by 
+potentially toxic diatoms of the genera Pseudo-nitzschia and Nitzschia. Mar. Ecol. Prog. Ser. 273: 1–15. 
+Maldonado, M.T., Hughes, M.P., Rue, E.L. and Wells, M.L. 2002. The effect of Fe and Cu on growth and 
+domoic acid production by Pseudo-nitzschia multiseries and Pseudo-nitzschia australis. Limnol. Oceanogr. 
+47: 515–526. 
+McCabe, R.M., Hickey, B.M., Kudela, R.M., Lefebvre, K.A., Adams, N.G., Bill, B.D., Gulland, F.M.D., 
+Thomson, R.E., Cochlan, W.P. and Trainer, V.L. 2016. An unprecedented coastwide toxic algal bloom 
+linked to anomalous ocean conditions. Geophys. Res. Lett. 43: 10,366–10,376.  
+McKibben, S.M., Peterson, W., Wood, A.M., Trainer, V.L., Hunter, M. and White, A.E. 2017. Climatic 
+regulation of the neurotoxin domoic acid. Proc. Nat. Acad. Sci. 114: doi:10.1073/pnas.1606798114 
+McKinnell, S.M. and Dagg, M.J. (Eds.) 2010. Marine Ecosystems of the North Pacific Ocean, 2003–2008. 
+PICES Special Publication, No. 4, 393 pp. 
+Nishioka, J., Ono, T., Saitoh, H., Sakaoka, K. and Yoshimura, T. 2011. Oceanic iron supply mechanisms 
+which support the spring diatom bloom in the Oyashio region, western subarctic Pacific. J. Geophys. Res. 
+116: doi: 10.1029/2010JC006321 
+ 
+Orlova, T.Yu., Stonik, I.V., Aizdaicher, N.A., Bates, S.S., Leger, C. and Fehling, J. 2008. Toxicity, 
+morphology and distribution of Pseudo-nitzschia calliantha, P. multistriata and P. multiseries 
+(Bacillariophyta) from the northwestern Sea of Japan. Botan. Mar. 51: 297–306. 
+Rhodes, L., White, D., Syhre, M. and Atkinson, M. 1996. Pseudo-nitzschia species isolated from New Zealand 
+coastal waters: domoic acid production in vitro and links with shellfish toxicity, pp. 155–158 in Harmful 
+and Toxic Algal Blooms: Seventh International Conference on Toxic Phytoplankton edited by T. 
+Yasumoto, Y. Oshima and Y. Fukuyo, Sendai, Japan, UNESCO. 
+Rhodes, L., Holland, P., Adamson, J., Selwood, A. and McNabb, P. 2004. Mass culture of New Zealand 
+isolates of Pseudo-nitzschia australis for production of a new isomer of domoic acid, pp. 125–127 in 
+Harmful Algae 2002 edited by K. Steidinger, J.H. Landsberg, C. Tomas and G.A. Vargo, Florida Fish and 
+Wildlife Conservation Commission, Florida Institute of Oceanography, and Intergovernmental 
+Oceanographic Commission of UNESCO, St. Petersburg, FL, USA. 
+10 PICES Scientific Report No. 53 
+Stonik et al.  Overview 
+Rowles, T., Hall, A., Baker, C.S., Brownell, B., Cipriano, F., Glibert, P., Gulland, F., Kirkpatrick, B., Paerl, H., 
+Schwacke, L., Simeone, C., Stimmelmayr, R., Suydam, R., Trainer, V.L. and Van Dolah, F.  2017. Report 
+of the workshop on Harmful Algal Blooms (HABs) and associated toxins. International Whaling 
+Commission Report SC/67A/REP/09. 22 pp. 
+Trainer, V.L., Hickey, B.M., Lessard, E.J., Cochlan, W.P., Trick, C.G., Wells, M.L., MacFadyen, A. and S.K. 
+Moore. 2009a. Variability of Pseudo-nitzschia and domoic acid in the Juan de Fuca eddy region and its 
+adjacent shelves.  Limnol. Oceanogr. 54: 289–308. 
+Trainer, V.L., Wells, M.L., Cochlan, W.P., Trick, C.G., Bill, B.D., Baugh, K.A., Beall, B.F., Herndon, J. and 
+Lundholm, N. 2009b. An ecological study of a massive bloom of toxigenic Pseudo-nitzschia cuspidata off 
+the Washington State coast. Limnol.Oceanogr. 54: 1461–1474. 
+Trainer, V.L., Bates, S.S., Lundholm, N., Thessen, A.E., Cochlan, W.P., Adams, N.G. and Trick, C.G. 2012. 
+Pseudo-nitzschia physiological ecology, phylogeny, toxicity, monitoring and impacts on ecosystem health. 
+Harmful Algae 14: 271–300.  
+Trimborn, S., Lundholm, N., Thoms, S., Richter, K.U., Krock, B., Hansen, P.J. and Rost, B. 2008. Inorganic 
+carbon acquisition in potentially toxic and non-toxic diatoms: the effect of pH-induced changes in seawater 
+carbonate chemistry. Physiol. Plant. 133: 92–105. 
+Wells, M., Trick, C.G., Cochlan W.P., Hughes, M.P. and Trainer V.L. 2005. Domoic acid: The synergy of 
+iron, copper, and the toxicity of diatoms. Limnol. Oceanogr. 50: 1908–1917. 
+Whitney, F.A. 2011. Nutrient variability in the mixed layer of the subarctic Pacific Ocean, 1987–2010. J. 
+Oceanogr. 67: 481–492. 
+Wingert, C. 2017. The effects of ocean acidification on growth, phytosynthesis, and domoic acid production by 
+the toxigenic diatom, Pseudo-nitzschia australis.  M.Sc. Thesis. San Francisco State University. 122 pp. 
+Yasunaka, S., Nojiri, Y., Nakaoka, S.I., Ono, T., Whitney, F.A. and Telszewski, M. 2014. Mapping of sea 
+surface nutrients in the North Pacific: Basin-wide distribution and seasonal to interannual variability. J. 
+Geophys. Res. 119: 7756–7771, doi: 10.1002/2014JC010318 
+Zhabin, I.A., Dmitrieva, E.V., Kelmatov, T.R. and Andreev, A.G. 2017. Effect of wind conditions on 
+variability of upwelling near the coast of Primorye (The northwestern part of the Sea of Japan). Meteorol. 
+Hydrol. 3: 58–67 (in Russian). 
+Zuenko, Yu.I. and Rachkov, V.I. 2015. Climatic changes of temperature, salinity and nutrients in the Amur 
+Bay of the Japan Sea. Izvestiya TINRO 183: 186–199 (in Russian with English abstract). 
+ 
+PICES Scientific Report No. 53  11 
+Japan  Kotaki et al. 
+3 Amnesic shellfish poisoning potential in Japan 
+1 2 3
+Yuichi Kotaki *, Setsuko Sakamoto and Ichiro Imai 
+1
+ School of Marine Biosciences, Kitasato University, Kitasato, Sagamihara, Japan  
+2
+ National Research Institute of Fisheries and Environment of Inland Sea, Japan Fisheries Research and  
+  Education Agency (FRA), Hiroshima, Japan 
+3
+ Graduate School of Fisheries Sciences, Hokkaido University, Hakodate, Hokkaido, Japan 
+* Current address: Fukushima College, Miyashiro, Fukushima , Japan 
+ 
+Monitoring domoic acid contamination in shellfish 
+Domoic acid (DA; Fig. 1) was first recognized as an amnesic shellfish poisoning (ASP) toxin in Canada 
+(Wright et al., 1989) and the causative organism was identified as Pseudo-nitzschia multiseries (formerly 
+Nitzschia pungens f. multiseries) (Bates et al., 1989). After this incident, monitoring systems were 
+established in Canada, U.S., and in some European countries so as to prevent further ASP incidents. The 
+Japanese government also took an interest in determining whether ASP occurs in Japan. The Fisheries 
+Agency started to investigate the possibility of shellfish as a vector of ASP in Japan. This investigation 
+was initiated by starting a series of projects coordinated through regional branches of the Fisheries 
+Research Institute and a few university teams, including Kitasato University.  
+ 
+Fig. 1 Structure of domoic acid (DA). 
+In order to determine the possibility of ASP occurrences in eastern Japan, the monitoring of DA in 
+shellfish began in Ofunato Bay in 1994. Five specimens of cultured scallops, Mizuhopecten yessoensis, 
+and mussels, Mytilus galloprovincialis, were collected from the Shizu station (Ofunato Bay, station A, 
+Fig. 2) monthly from April 1994 through February 1995. The digestive gland of scallops and edible part 
+of mussels were extracted with 50% methanol, then analyzed by HPLC with UV detection (242 nm) after 
+12 PICES Scientific Report No. 53 
+Kotaki et al.  Japan 
+purification through a Sep-Pack C18 cartridge (Quilliam et al., 1989). DA was detected from November 
+–1
+1994 to February 1995 (Table 1, Kotaki et al., 1996). Maximum toxin levels were 0.8 ?g g (January 
+–1
+1995) in scallops and 2.8 ?g g (November 1994) in mussels. These values were well below the 
+–1
+regulatory action level of 20 ?g g . This monitoring was performed monthly until 1997 and irregularly 
+thereafter but since that time, no DA has been detected in shellfish. 
+Japan 
+Pacific Ocean 
+Monitoring sites 
+OKB: A-E (net tow) 
+        : B (shellfish) 
+OFB: A-D (net tow) 
+       : A (shellfish) 
+Fig. 2 Map of the monitoring sites. Monitoring of DA in shellfish and Pseudo-nitzschia were performed only at the 
+Ofunato Bay station A (known for PSP toxins; Ogata et al., 1982). Monitoring of DA in shellfish after the 2011 
+tsunami was performed at Ofunato Bay station A and Okirai Bay station B. Monitoring sites OKB: A–E (net tow), 
+B (shellfish), OFB: A–D (net tow), A (shellfish). 
+ 
+Table 1 DA concentrations in shellfish collected from Ofunato Bay (from Kotaki et al., 1996). 
+Mussel  Scallop  
+1 –1 2 –1 3
+Date of collection (?g g ) (?g g ) 
+Nov. 16, 1994  2.8 0.3 
+Dec. 14, 1994  0.5 ND 
+Jan. 11, 1995  0.5 0.8 
+Feb. 15, 1995  1.2 ND 
+ND = not detected 
+1 
+Shellfish were collected from April, 1994 to February, 1995. 
+2 
+ Edible tissue was used for the analysis.
+3 
+Digestive gland was used for the analysis. 
+PICES Scientific Report No. 53  13 
+Japan  Kotaki et al. 
+Screening of domoic acid-producing diatoms 
+Screening for DA-producing Pseudo-nitzschia was also performed in Ofunato Bay in 1994. Pennate 
+diatoms were isolated from plankton net samples obtained at the same station (see Fig. 2) and cultured for 
+the detection of DA by HPLC-fluorescence analysis (Pocklington et al., 1990). DA was analyzed two 
+weeks after cells reached stationary growth, at about three to four weeks in culture, because it has been 
+shown that DA content increases in the late stationary growth phase for some species of Pseudo-nitzschia 
+(Bates et al., 1991). One out of 44 isolates showed a large peak identical to the known DA peak (Kotaki 
+et al., 1999). The strain was mass cultured and confirmed to produce DA by electrospray ionization mass-
+spectrometry (ESI/MS) and proton nuclear magnetic resonance (NMR). This isolate was morphologically 
+identified as P. multiseries, the same species as identified in the Canadian ASP incident. The distribution 
+of P. multiseries was assessed in Ofunato Bay and nearby Okirai Bay. All of the P. multiseries isolated 
+from these locations were confirmed to produce high levels of DA in culture experiments. The cells grew 
+–1 –1
+from 1,000 cells mL to approximately 100,000 cells mL in one week, reaching a maximum of 
+–1
+approximately 120,000 cells mL at day 12 and decreasing gradually thereafter until the last day of 
+culture (day 27; Fig. 3). DA did not increase much during the exponential growth phase. However, DA 
+content started to increase one week after reaching the stationary growth phase and suddenly increased 
+–1
+after two weeks in culture until the end of the culture, with a maximum DA concentration of 6.7 pg cell . 
+High DA content was observed only in the late stationary growth phase. 
+ 
+Fig. 3  Cell growth and DA production in Pseudo-nitzschia multiseries (Kotaki et al., 1999). 
+ 
+Domoic acid-producing diatoms other than P. multiseries 
+Ofunato Bay isolates of Pseudo-nitzschia were cultured for DA measurement using the same protocol as 
+for P. multiseries, followed by morphological identification. Using HPLC-fluorescence analyses, the 
+Pseudo-nitzschia species P. pseudodelicatissima, P. delicatissima, P. pungens, P. turgidula, 
+P. fraudulenta, P. cuspidata, P. subpacifica, P. subfraudulenta, P. heimii and two unidentified Pseudo-
+–1
+nitzschia-like pennate diatoms were confirmed to produce low levels of DA (< 1 pg cell ) (Kotaki, 
+2008). 
+14 PICES Scientific Report No. 53 
+Kotaki et al.  Japan 
+Monitoring after the 2011 Great East Japan Earthquake  
+A large tsunami that occurred following the 2011 Great East Japan Earthquake impacted Ofunato Bay and 
+Okirai Bay. The habitat of Pseudo-nitzschia and their association with bacterial assemblages may have 
+been altered in response to the tsunami. To estimate the ASP potential after this disaster, monitoring of 
+DA in scallops and mussels was performed every three months at one station in both bays in 2013, 2014 
+and 2015. At the same time, DA analysis was performed by HPLC with fluorescence detection on 
+plankton net samples towed twice from 20 m depth at five stations in Okirai Bay and 2 to 4 stations in 
+Ofunato Bay (Fig. 2). DA was not detected in any of the shellfish samples during the monitoring period. 
+However, DA was detected in the plankton net tow samples at concentrations (converted to 1 L of 
+–1 –1
+seawater equivalent) of 45–330 pg L (Ofunato Bay, September and October, 2013), 16–205 pg L 
+–1
+(Okirai Bay, June and October, 2013), 7–163 pg L (Ofunato Bay, Jun 2014 and January 2015), 17–154 
+–1 –1
+pg L (Okirai Bay, May, June and August 2014), 7–720 pg L (Ofunato Bay, September and December 
+–1
+2015) and 33–56 pg L (Okirai Bay, May 2015).  
+Representative positive samples collected in 2014 and 2015 were further purified by a Sep-Pak C18 
+cartridge and DA was confirmed by liquid chromatography/time-of-flight/tandem mass spectrometry 
+(LC-TOF MS/MS). An attempt was made to isolate Pseudo-nitzschia from each net sample. In 2013, 
+–1
+three P. multiseries isolates showed low DA content (a mean DA concentration of 0.64 ± 0.38 pg cell ) 
+in culture experiments. In 2014, one isolate of P. multiseries was established and showed high DA 
+–1 –1
+content after five weeks in culture (314 ng mL , 9.0 pg cell ). These results suggest that the origin of at 
+least some of the DA in plankton net samples was P. multiseries. These results showed that although 
+P. multiseries was present in both bays after the 2011 tsunami, this species did not bloom to high enough 
+concentrations for significant levels of DA to be accumulated by shellfish. The ASP potential in both 
+bays before and after the disaster appeared to be low. 
+Factors affecting DA production 
+The effects of nitrogen (NO + NO ), phosphate (PO ), silicate (SiO ), and dissolved iron on DA 
+3 2 4 2
+production in batch culture experiments were investigated under axenic and non-axenic conditions. As 
+shown in Fig. 4A, the growth of both axenic and non-axenic cultures was almost the same, reaching 
+stationary growth phase after ~10 days and maintaining the same cell concentrations until the end of the 
+culture experiment (37 days). However, DA production was very different between axenic and non-
+axenic cultures. In non-axenic cultures, moderate DA production was seen immediately after reaching 
+stationary phase and significant DA production was observed one week after reaching stationary growth 
+(Fig. 5B and C). Changes in the four nutrients described above were measured and their relationship with 
+DA production was assessed.  
+ 
+PICES Scientific Report No. 53  15 
+Japan  Kotaki et al. 
+  
+Fig. 4 Batch culture experiments on DA production by P. multiseries under axenic and non-axenic conditions.  
+(A) Control growth curves, (B) N (NO + NO ) treatments, (C) PO treatments (D) SiO treatments. 
+3 2 4 2
+(C)
+ 
+Fig. 5 Batch culture experiments on DA production by P. multiseries under axenic and non-axenic conditions.  
+(A) Control growth curves, (B) Concentrations of dissolved iron and DA under non-axenic conditions,   
+(C) Concentrations of dissolved iron and DA under axenic conditions. 
+16 PICES Scientific Report No. 53 
+Kotaki et al.  Japan 
+The changes in N and P did not appear to explain the difference in cellular DA content under axenic and 
+non-axenic conditions. Significant decreases of Si and dissolved iron were observed and were almost 
+depleted at 10 days both in axenic and non-axenic cultures. DA increased remarkably just after stationary 
+growth was reached in non-axenic culture, while DA increased slightly three weeks after reaching 
+stationary growth in axenic culture. This result shows the potential role of bacteria on DA production of 
+P. multiseries. The remaining question was whether depletion of silicate or iron was correlated with DA 
+production and associated with bacterial effects. The iron concentration in cells increased continuously 
+during the exponential growth phase in axenic and non-axenic cultures. After reaching the stationary 
+growth phase, iron concentrations did not increase but were maintained at the same level in the axenic 
+culture while iron concentrations increased continuously in the non-axenic culture (insoluble iron became 
+soluble and was taken into cells in non-axenic culture but not in axenic culture), indicating the possibility 
+that bacteria might help P. multiseries cells acquire insoluble iron, resulting in DA production (or 
+accumulation in the stationary phase when growth ceases).  
+More supporting data were obtained by a 3-fold decrease in DA production after the addition of a 1? 
+concentration of iron at 14 days.  Likewise, a 5- and 10-fold iron addition corresponded to the decrease in 
+DA but this decrease was not correlated with added EDTA-Fe (Kotaki et al., 2004). 
+As P. multiseries produced low levels of DA even under axenic conditions, intracellular bacteria were 
+confirmed by measurement of bacterial rRNA genes in P. multiseries cells (Kobayashi et al., 2003). 
+Amounts and species of bacteria appear to be important factors for the production of DA by P. multiseries. 
+Discussion 
+Monitoring of DA in shellfish and the screening of DA-producing diatoms were performed in Ofunato 
+Bay after the Canadian ASP incident, resulting in detection of a small amount of DA in scallops and blue 
+mussels. The pennate diatom P. multiseries was isolated and identified as the source of DA in shellfish 
+from Ofunato Bay and Okirai Bay. DA production was investigated in batch culture experiments, 
+showing that P. multiseries produces DA with a significant accumulation only in late stationary growth.  
+Conditions necessary for ASP occurrence are: 1) presence of highly toxic Pseudo-nitzschia such as 
+P. multiseries, 2) high abundance of toxic Pseudo-nitzschia, 3) sustenance of the bloom for more than 
+two weeks with low nutrient supply (stress), 4) uptake of toxic Pseudo-nitzschia by shellfish, and 
+5) consumption of the toxic shellfish by humans.  
+Very few bays in Japan satisfy the above conditions, which apparently is the reason why ASP has not 
+occurred, and the potential for ASP in Japan is low. Nine species of Pseudo-nitzschia isolated from 
+Ofunato Bay and confirmed to be DA producers do not seem to contribute to ASP occurrences because of 
+their very low toxin content. The National Government decided against continuing DA monitoring in 
+shellfish in Japan after several years of monitoring concluded without detection of DA in excess of the 
+–1
+regulatory limit (20 ?g g ). Environmental parameters related to ASP have not been measured in Japan 
+for the same reason. Monitoring of DA in shellfish and Pseudo-nitzschia were performed for a number of 
+years in Ofunato Bay and Okirai Bay after the East Japan tsunami in 2011. Monitoring of DA after this 
+tsunami gave the results as before: the ASP potential seems to be low in eastern Japan coastal areas.  
+DA production characteristics were further investigated in batch culture experiments using P. multiseries. 
+The results of these experiments are: 1) cellular DA increases significantly only in late stationary growth 
+PICES Scientific Report No. 53  17 
+Japan  Kotaki et al. 
+after nutrient depletion, 2) co-existing bacteria help facilitate DA production, 3) DA production appears 
+to correlate with the uptake of insoluble iron into the P. multiseries cells, 4) bacteria may help with 
+insoluble iron acquisition by P. multiseries cells.  
+How bacteria help P. multiseries cells acquire insoluble iron is a remaining problem to be solved in the 
+future. One possible idea is that bacteria make the siderophore-like DA or DA derivatives (Wells et al., 
+2005) to help P. multiseries to assimilate insoluble iron in iron-deficient waters. The comparison of 
+environmental parameters, including iron concentrations, will help to explain the immense differences in 
+DA problems faced by countries in the eastern versus western Pacific coastal areas.  
+References 
+Bates, S.S., Bird, C.J., deFreitas, A.S.W., Foxall, R., Gilgan, M., Hanic, L.A., Johnson, G.R., McCulloch, 
+A.W., Odense, P., Pocklington, R., Quilliam, M.A., Sim, P.G., Smith, J.C., SubbaRao, D.V., Todd, E.C. D., 
+Walter, J.A. and Wright, J.L.C. 1989. Pennate diatom Nitzschia pungens as the primary source of domoic 
+acid, a toxin in shellfish from eastern Prince Edward Island, Canada. Can. J. Fish. Aquat. Sci. 46: 1203–
+1215.  
+Bates, S.S., De Freitas, A.S.W., Milley, J.E., Pocklington, R., Quilliam, M.A., Smith, J.C. and Worms, J. 1991. 
+Controls on domoic acid production by the diatom Nitzschia pungens f. multiseries in culture: Nutrients and 
+irradiance. Can. J. Fish. Aquat. Sci. 48: 1136–1144.  
+Kobayashi, K., Kobiyama, A, Kotaki Y. and Kodama M. 2003. Possible occurrence of intracellular bacteria in 
+Pseudo-nitzschia multiseries, a causative diatom of amnesic shellfish poisoning. Fish. Sci. 69: 974–978. 
+Kotaki, Y. 2008. Ecobiology of amnesic shellfish toxin producing diatoms, pp. 383–396 in Seafood and 
+Freshwater Toxins – Pharmacology, Physiology, and Detection, Second Edition edited by L.M. Botana, 
+CRC Press, Taylor & Francis Group, New York. 
+Kotaki, Y., Koike, K., Sato, S., Ogata, T., Fukuyo, Y. and Kodama, M. 1996. Domoic acid production by an 
+isolate of Pseudo-nitzschia multiseries, a possible cause for the toxin detected in bivalves in Ofunato Bay, 
+Japan, pp. 151–154 in Harmful and Toxic Algal Blooms edited by T. Yasumoto, Y. Oshima and Y. Fukuyo, 
+Paris, Intergovermental Oceanographic Commission of UNESCO. 
+Kotaki, Y., Koike, K., Sato, S., Ogata, T., Fukuyo, Y. and Kodama, M. 1999. Confirmation of domoic acid 
+production of Pseudo-nitzschia multiseries isolated from Ofunato Bay, Japan. Toxicon 37: 677–682.  
+Kotaki Y., Takeda S., Kobayashi K. and Kodama M. 2004. Production mechanism of domoic acid by Pseudo-
+nitzschia multiseries – 2, p. 184. Abstracts of the Annual Meeting of Japanese Society of Fisheries Science, 
+Tokyo University of Marine Science and Technology, Tokyo (in Japanese). 
+Ogata, T., Kodama, M., Fukuyo, Y., Inoue, T., Kamiya, H., Matsuura, F., Sekiguchi, K. and Watanabe, S. 
+1982. The occurrence of Protogonyaulax spp. in Ofunato Bay, in association with the toxification of the 
+scallop Patinopecten yessoensis. Bull. Jap. Soc. Sci. Fish. 48: 563–566.  
+Pocklington, R., Milley, J.E., Bates, S.S., Bird, C.J., de Freitas, A.S.W. and Quilliam, M.A. 1990. Trace 
+determination of domoic acid in seawater and phytoplankton by high-performance liquid chromatography 
+of the fluorenylmethoxycarbonyl (FMOC) derivative. Int. J. Environ. Anal. Chem. 38: 351–368.  
+18 PICES Scientific Report No. 53 
+Kotaki et al.  Japan 
+Quilliam, M.A., Sim, P.G., McCulloch, A.W. and McInnes, A.G. 1989. High-performance liquid 
+chromatography of domoic acid, a marine neurotoxin, with application to shellfish and plankton. Int. J. 
+Environ. Anal. Chem. 36: 139–154.  
+Wells, M., Trick, C.G., Cochlan W.P., Hughes, M.P. and Trainer V.L. 2005. Domoic acid: The synergy of 
+iron, copper, and the toxicity of diatoms. Limnol. Oceanogr. 50: 1908–1917. 
+ 
+Wright, J.L.C., Boyd, R.D., de Frietas, A.S.W., Falk, M., Foxall, R.A., Jamieson, W.D., Laycock, M.V., 
+McCulloch, A.W., McInnes, A.G., Odense, P., Pathak, V.P., Quilliam, M.A., Ragan, M.A., Sim, P.G., 
+Thibault, P., Walter, J.A., Gilgan, M., Richard, D.J.A. and Dewar, D. 1989. Identification of domoic acid, a 
+neuroexcitatory amino acid, in toxic mussels from eastern Prince Edward Island. Can. J. Chem. 67: 481–490.  
+PICES Scientific Report No. 53  19 
+People’s Republic of China  Guo et al. 
+4 Pseudo-nitzschia blooms in China 
+1 1 1 2
+Hao Guo , Chunjiang Guan , Lin Yang and Douding Lu 
+1
+ National Marine Environmental Monitoring Center, Dalian, People’s Republic of China 
+2
+ Second Institute of Oceanography, State Oceanic Administration, Hangzhou, People’s Republic of China 
+Sixteen blooms of Pseudo-nitzschia (including co-occurrence with other species) have been recorded 
+since this species was first observed in 1987 along the Chinese coastline. The cumulative area in which 
+2
+these past blooms have been observed is 1,280 km .  Blooms dominated by Pseudo-nitzschia were 
+observed nine times and have not caused the death of marine life, or large economic losses. 
+Pseudo-nitzschia species 
+Pseudo-nitzschia delicatissima 
+There are four records of Pseudo-nitzschia delicatissima blooms along China’s coastline, with three of 
+them occurring in the East China Sea, in May, August, and September 2009 (Table 1). The recorded area 
+2
+of these three blooms was relatively small, with the largest area of only 25 km . However, in May 2009, 
+5 –1
+the bloom occurred together with Noctiluca scintillans, with a density of 2.0 ? 10 cells L and in August 
+2007, a Pseudo-nitzschia delicatissima bloom coincided with Gymnodinium catenatum in an area of 
+2
+about 400 km in Liaodong Bay in the Bohai Sea coastal area. The Pseudo-nitzschia delicatissima bloom 
+did not cause the death of marine life, or any other major disasters. 
+Table 1  Pseudo-nitzschia delicatissima blooms in China’s coastal areas.  
+Region Area 
+ 2
+Date Location code* (km ) Major components 
+Aug. 21–24, 2007 Liaodong Bay Huludao CN-02 400 Gymnodinium catenatum, 
+Bohai Sea Pseudo-nitzschia delicatissima 
+May 30, 2009 Ningde Beishuang Island CN-08 10 Noctiluca scintillans, Pseudo-
+East China Sea nitzschia delicatissima 
+Aug. 4–6, 2009 Fujian Huangqi Peninsula CN-08 25 Pseudo-nitzschia delicatissima 
+East China Sea 
+Sep. 1–7, 2009 Fujian Huangqi Peninsula CN-08 3 Pseudo-nitzschia delicatissima 
+East China Sea 
+*Region code locations are shown in the Harmful Algae Event Database (HAEDAT) website, 
+http://haedat.iode.org/browseGrids.php?countryID=7&mapOnly=1. 
+20 PICES Scientific Report No. 53 
+Guo et al. People’s Republic of China 
+Pseudo-nitzschia pungens 
+There have been nine blooms of Pseudo-nitzschia pungens in China’s coastal areas since 1987. Among 
+them, five events were observed from May to September 2008 (Table 2). Six cases of P. pungens blooms 
+2
+occurred in the East China Sea, with a cumulative area greater than 830 km . All these blooms occurred 
+together with other species, such as the diatoms Eucampia cornuta, Thalassiosira rotula, Skeletonema 
+costatum, and the dinoflagellates Prorocentrum donghaiense and Ceratium furca.  
+From May 23–24, 2008, Prorocentrum donghaiense dominated but co-occurred with P. pungens, 
+2
+resulting in a bloom of 500 km near Ningbo Youcai Island in the East China Sea. From September 10–
+2
+13, 2008, P. pungens dominated with Skeletonema costatum causing a bloom of 200 km with a density 
+7 –1
+of 6.37 ? 10 cells L in the Shengshan Island area. The density of Prorocentrum donghaiense was 2.45 
+6 –1 2
+? 10 cells L . Two cases of small-scale P. pungens blooms, with a total area of 1 and 6 km , occurred in 
+the Bohai Sea in September 2008 and 2010, coinciding once with a Skeletonema costatum bloom. In May 
+2
+2011, a P. pungens bloom of 20 km was recorded in the Yellow Sea . 
+These blooms of Pseudo-nitzschia pungens were nontoxic and did not cause serious ecological and 
+economic losses. 
+Table 2 Statistics of Pseudo-nitzschia pungens blooms in China’s coastal areas. 
+Region Area 
+2
+Date Position code* (km ) Major components 
+May 1987 Xiamen Baozhu Island CN-08  14 Eucampia cornuta, Pseudo-
+East China Sea nitzschia pungens 
+Late Aug., 2003 Xiangshan Damutu CN-07  1 Pseudo-nitzschia pungens, 
+East China Sea Prorocentrum donghaiense 
+May 23–24, 2008 Ningbo Youcai Island CN-07  500 Prorocentrum donghaiense, 
+East China Sea Pseudo-nitzschia pungens 
+June 10–14, 2008 Xiapu Sansha Bay CN-08  15 Pseudo-nitzschia pungens, 
+East China Sea Thalassiosira rotula 
+July 16–18, 2008 Daishan Dachangtu CN-07  100 Ceratium furca,  
+East China Sea Pseudo-nitzschia pungens  
+Sep. 5, 2008 Yantai Sishili Bay CN-05  1 Pseudo-nitzschia pungens 
+Bohai Sea 
+Sep. 10–13, 2008 Shengshan Island CN-07  200 Pseudo-nitzschia pungens, 
+East China Sea Skeletonema costatum 
+Sep. 6–10, 2010 CN-04  6 
+Yantai Mashanzhai Pseudo-nitzschia pungens 
+Bohai Sea Skeletonema costatum 
+May 23, 2011 Liaoning Donggang CN-01  20 Pseudo-nitzschia pungens  
+Yellow Sea 
+* Region code locations are shown in the Harmful Algae Event Database (HAEDAT) website, 
+http://haedat.iode.org/browseGrids.php?countryID=7&mapOnly=1 
+ 
+ 
+PICES Scientific Report No. 53  21 
+People’s Republic of China  Guo et al. 
+Newly recorded species of Pseudo-nitzschia in China 
+New species of Pseudo-nitzschia were recorded in June 2000, September 2001, and July 2008. All these 
+events were found near Shenzhen Bay, South China Sea. The scale of these blooms was small and did not 
+cause obvious harm (Table 3). The blooms were caused by a mixture of species. Together with Pseudo-
+nitzschia spp., the dominant species included Chaetoceros sp., Ceratium sp., Leptocylindrus danicus. 
+Table 3 Pseudo-nitzschia blooms of undetermined species in China’s coastal areas. 
+Region Area 
+2
+Date Location code* (km ) Major components 
+June 12, 2000 Shenzhen Bay CN-09 1.4  Chaetoceros sp., 
+South China Sea  Pseudo-nitzschia sp., 
+ Ceratium sp. 
+Sep. 16–20, 2001 Shenzhen Baguang CN-09 2  Leptocylindrus danicus, 
+South China Sea  Rhizosolenia fragilissima,  
+ Pseudo-nitzschia sp. 
+July 30–31, 2008 Shenzhen Baguang CN-09 5  Pseudo-nitzschia sp.,  
+South China Sea  Chaetoceros sp. 
+* Region code locations are shown in the Harmful Algae Event Database (HAEDAT) website, 
+http://haedat.iode.org/browseGrids.php?countryID=7&mapOnly=1 
+ 
+Research on Pseudo-nitzschia in China 
+Morphology and taxonomy 
+The earliest research on the genus Pseudo-nitzschia in China was in 1965, when two species, P. pungens 
+and P. delicatissima, were observed by microscope, but classified as the genus Nitzschia (Chin et al., 
+1965). Since then, 19 species of Pseudo-nitzschia have been identified and their distribution has been 
+monitored throughout Chinese coastal waters as shown in Table 4. 
+Ten Pseudo-nitzschia species were recently recorded in China and two P. sinica and P. micropora are 
+new species that previously have not been observed anywhere in the world. In addition, two new records 
+were described using morphological characteristics as well as a molecular phylogenetic tree based on 
+sequences of the internal transcribed spacer region (ITS1-5.8S-ITS2) of P. galaxiae Lundholm & 
+Moestrup and P. micropora Priisholm, Moestrup & Lundholm (Xu and Li, 2015). All strains of these two 
+new species showed no DA content using high performance liquid chromatography (HPLC). 
+  
+22 PICES Scientific Report No. 53 
+Guo et al. People’s Republic of China 
+Table 4 Pseudo-nitzschia species recently identified in China’s coastal areas. 
+ P. americana (Hasle) Fryxell 
+ P. australis Frenguelli 
+ P. brasiliana Lundholm Hasle & Frywell (new record) 
+ P. caciantha Lundholm, Moestrup & Hasle (new record) 
+ P. calliantha Lundholm, Moestrup & Hasle 
+ P. cuspidata (Hasle) Lundholm, Moestrup & Hasle 
+ P. delicatissima (Cleve) Heiden 
+ P. galaxiae Lundholm & Moestrup (new record) 
+ P. cf. lineola (Cleve) Hasle (new record) 
+ P. mannii Amato & Montresor (new record) 
+ P. micropora Priisholm, Moestrup & Lundholm (new record, new species) 
+ P. multiseries (Hasle) Hasle 
+ P. multistriata (Takano) Takano (new record) 
+ P. pseudodelicatissima (Hasle) Lundholm, Hasle & Moestrup 
+ P. pungens (Grunow & Cleve) Hasle 
+ P. sinica Qi & Wang (new record, new species) 
+ P. subfraudulenta (Hasle) Hasle (new record) 
+ P. subpacifica (Hasle) Hasle (new record) 
+ P. turgidula (Hustedt) Hasle 
+ 
+Pseudo-nitzschia pungens is a common, cosmopolitan species confined to coastal waters and has been 
+sometimes reported to produce DA, the causative agent of amnesic shellfish poisoning (ASP). Zhang et 
+al. (1994) studied the subspecific taxonomy of Nitzschia pungens (Grunow) from the Yellow Sea. The 
+samples were identified as Nitzschia pungens (Grunow f. pungens) but not N. pungens (Grunow f. 
+multiseries). Pseudo-nitzschia pungens is ubiquitous in China, and forms blooms along the Chinese coast 
+from north to south, in Dalian Bay, Jiaozhou Bay, Changjiang River Estuary, Xiamen Bay and Daya Bay. 
+It commonly occurs in all seasons, but especially in the summer and fall (L? and Qi, 1993; Zou et al., 
+1993; Qi et al., 1994). Li (2010) did more research on the morphology and taxonomy of the Pseudo-
+nitzschia genus in Chinese coastal waters and found that it formed two additional complexes: the 
+P. pseudodelicatissima and P. americana complexes. 
+Physiology and growth kinetics  
+Chen et al. (2002) studied the dynamics of Pseudo-nitzschia spp. and associated environmental factors in 
+Daya Bay which is a semi-closed gulf in the South China Sea that has been developed as a mariculture 
+base in Guangdong Province. Pseudo-nitzschia spp. are a common dominant species in this area. 
+Seasonal changes of Pseudo-nitzschia spp. as well as the influences of environmental factors (especially 
+nutrients) on the population dynamics were analyzed from July 1997 to June 1998. Chen et al. (2002) 
+observed the genus in the bay throughout the year, and noted that cell concentrations were highest in 
+PICES Scientific Report No. 53  23 
+People’s Republic of China  Guo et al. 
+spring and autumn.  Peak densities of Pseudo-nitzschia spp. were observed at temperatures ranging from 
+25.0–30.0 ? and salinity from 28.4–31.3‰. Dissolved inorganic nitrogen (DIN) and silicate were 
+abundant in the bay while dissolved inorganic phosphate (DIP) appeared to be the limiting factor. The 
+ratios of DIN, DIP, and Si are important for the growth of Pseudo-nitzschia and the optimal ranges of 
+N:P, Si:P, Si:N are 6.21–32.98, 59.67–119.71, 3.36–17.89, respectively. 
+L? et al. (2006) analyzed the effects of nitrogen, phosphorus and N:P ratios on the growth of P. pungens 
+collected and isolated from Daya Bay. Results showed that P. pungens is a nutrient-dependent species, 
+and its growth is stimulated by high levels of nitrogen and phosphorus. Therefore, the N:P ratio is another 
+important factor to affect the population growth. The optimal N:P ratio for the growth of P. pungens 
+ranges from 10–3. 
+Qin et al. (2014) compared physiological characteristics of alkaline phosphatase (AP) in P. pungens and 
+Aureococcus anophagefferens and showed that AP of P. pungens and A. anophagefferens was inducible 
+and that the expression of AP activity was co-regulated by DIP and particulate phosphorus. The response 
+of P. pungens to AP activity was more sensitive than that of A. anophagefferens. 
+Ecology and Pseudo-nitzschia blooms 
+Pseudo-nitzschia spp. can succeed at low temperatures due to their ability to obtain enough nutrients for 
+growth, compared to dinoflagellates.  Population densities and relationships between Pseudo-nitzschia, 
+phytoplankton and zooplankton were investigated daily from April to May, 2000, in Daya Bay (Chen et 
+al., 2005). At the beginning of survey, species composition and densities of the planktonic community 
+were low followed by the rapidly increasing growth of Pseudo-nitzschia with a maximum density of 2.93 
+6 –1
+? 10 cells L . Both P. pseudodelicatissima and P. pungens bloomed, and other diatoms and 
+dinoflagellates were also enriched during this bloom. The authors determined that Pseudo-nitzschia was 
+the most important component of the spring diatom bloom due to its competitive advantage over other 
+species. The effect of zooplankton (especially copepods) top-down control on Pseudo-nitzschia was not 
+significant because of reduced grazing pressure. This lack of grazing on Pseudo-nitzschia contributed to 
+its success in the study area. 
+ 
+Toxins and toxicology 
+Pseudo-nitzschia species, including P. pungens, P. cuspidata, P. multistriata, P. brasiliana, P. galaxiae 
+and P. micropora, isolated from the coast of China, showed either no measurable or only a trace of DA 
+using HPLC; Li et al., 2002). Recently, traces of DA have been measured in some shellfish samples but 
+not in seawater or freshwater (Table 5; Chen et al., 2001).  In May 2001, five species of shellfish samples 
+normally collected and consumed in the Dalian area (the Yellow Sea) were analyzed by capillary 
+electrophoresis with UV detection and only one species (Chlamys farreri) was found to contain DA  
+(Table 6). 
+  
+24 PICES Scientific Report No. 53 
+Guo et al. People’s Republic of China 
+ 
+ 
+Table 5 Analytical results of DA in shellfish using HPLC analysis (Chen et al., 2001). 
+Sample weight  DA  
+Sample (g) (?g/g) 
+ 10.5 
+Shrimp  0.50 
+Scapharca subcrenata #1 (blood clam)  9.0 Not detected 
+Scapharca subcrenata #2  8.0 Not detected 
+Scapharca subcrenata #3  10.0  0.57 
+Conch Shell #1  11.5  0.80 
+Conch Shell #2  9.5 Not detected 
+Scapharca subcrenata #4  16.0 Not detected 
+Panopea abrupta (geoduck)  11.6  8.14 
+Pteria margaritifera (clam)  14.2  4.04 
+Paphia undulate (clam)  9.7 Not detected 
+Meretrix meretrix L. (clam)  14.4  4.16 
+Ruditapes philippinarum (clam)  12.6  0.43 
+Cyclina sinensis (clam)  9.7 Not detected 
+Conch (n = 3)  10.3 Not detected 
+ 
+Table 6 Analysis of DA in shellfish using capillary electrophoresis with UV detection (Li et al., 2002). 
+DA 
+Sample  (?g/g) 
+Ruditapes philippinarum (clam) Not detected 
+Mytilus edulis (mussel) Not detected 
+Oyster Not detected 
+Callista chione (clam) Not detected 
+Chlamys farreri (scallop) 5.2 
+MUS-1 reference material 32.6 
+ 
+  
+PICES Scientific Report No. 53  25 
+People’s Republic of China  Guo et al. 
+Summary 
+1)  Sixteen cases of Pseudo-nitzschia blooms in China have been recorded from 1987 to the present, 
+often co-occurring with other species. 
+2
+2)  The cumulative area in which these past blooms have been observed is 1,280 km , and no death of 
+marine life, or large economic loss, due to Pseudo-nitzschia has occurred. 
+3)  Two or more Pseudo-nitzschia sp. may cause blooms in China, including P. delicatissima, 
+P. pungens, as well as other newly recorded Pseudo-nitzschia species. 
+4)  Some species of Pseudo-nitzschia in China may produce trace DA (but less than the regulatory limit 
+–1
+of 20 µg g ). 
+5)  Due to the potential threat of DA production among Pseudo-nitzschia species, it is suggested that 
+routine monitoring of these blooms should be intensified to protect seafood safety. 
+References 
+Chen, J.F., Xu, N., Wang, Z.H., Huang, W.J., Xie, L.C. and Qi, Y.Z. 2002. Dynamics of Pseudo-nitzschia spp. 
+and environmental factors in Daya Bay, the South China Sea. Acta Sci. Circum. 22: 743–748. 
+Chen, J.F., Qi Y.Z., Xu, N., Jiang, T.J. and Lv, S.H. 2005. Pseudo-nitzschia bloom and its ecological role in 
+the biological community in the Daya Bay, the South China Sea. Acta Oceanol. Sinica 27: 114–119. 
+Chen, X.P., Wang, C.B., Hu, J.M. and Lu, B. 2001. Determination of domoic acid in water and aquatic animals 
+by high performance liquid chromatography. J. Hygiene Res. 30: 247–248. 
+Chin, T.G., Chen, J.H., Ma, J.X. et al. 1965. Pelagic Diatoms in China Coastal Waters. Shanghai: Shanghai 
+Science and Technology Press, pp. 199–200. 
+Li, D.Z, Zhu, W.J., Song, W.B. and Lin, B.C. 2002. Capillary electrophoretic analysis of Amnesic Shellfish 
+Toxin - Domoic Acid. Chinese J. Chromatogr. 20: 125–128. 
+Li, Y., Ma, Y.Y. and L?, S.H. 2010. Morphological characteristics of Pseudo-nitzschia americana complex in 
+Daya Bay, China. Acta Hydrobiol. Sinica 34: 851–855. 
+Li, Y., L?, S.H., Nina L. et al. 2011. Diversity of species and ecological distribution of Pseudo-nitzschia in 
+coastal waters of Guangdong Province. p. 324. Book of Abstracts, 16th Academic Conference of Chinese 
+Society of Phycology. 
+L?, S.H., Qi, Y.Z, Qian, H.L. and Liang, S. 1993. Studies on phytoplankton and red tide organisms in 
+embayments on central Guangdong coast. II. Guanghai Bay. Mar. Sci. Bull. 12: 57–61. 
+L?, S.H., Chen, H.L. and He, Z.Q. 2006. The effects of different c(N)/c(P) ratios on the growth of Pseudo-
+nitzschia pungens. Ecol. Environ. 15: 697–701. 
+Ma, Y.Y. 2009. Taxonomic and ecological studies on Pseudo-nitzschia in coastal waters of Guangdong 
+Province. South China Normal University, Master’s Dissertation.  
+26 PICES Scientific Report No. 53 
+Guo et al. People’s Republic of China 
+Qi, Y.Z., L?, S.H., Qian, H.L. and Lang, S. 1994. Studies on phytoplankton and red tide organisms in 
+embayments on west Guangdong coast. V. Hailing Bay. J. Jinan University (Natural Science) 15: 151–155. 
+Qin, X.L., Ou, L.J. and L?, S.H. 2014. Comparative alkaline phosphatase physiological characteristics of 
+Pseudo-nitzschia pungens and Aureococcus anophagefferens. Ecol. Sci. 33: 1–6. 
+Xu, G.S. and Li, Y. 2015. Two new records of diatom genus Pseudo-nitzschia from Chinese waters and 
+analysis of their domoic acid production. J. Tropical Subtropical Bot. 23: 614–624. 
+Yang, J.X. 2007. Study on growth characteristics and toxin detection of four kinds of quasi-shaped algae in the 
+southeast coast of China. Doctoral dissertation, Xiamen University. 
+Zhang, C. and Zou, J.Z. 1994. Preliminary study on the subspecific taxonomy of Nitzschia pungens Grunow in 
+Chinese coastal waters. Oceanol. Limnol. Sin. 25: 216–218. 
+Zou, J.Z., Zhou, M.J. and Zhang, C. 1993. Ecological features of toxic Nitzschia pungens Grunow in Chinese 
+coastal waters, pp. 651–657 in Toxic Phytoplankton Blooms in the Sea edited by T.J. Smayda, and Y. 
+Shimizu, Elsevier, Amsterdam. 
+ 
+  
+PICES Scientific Report No. 53  27 
+Republic of Korea  Lim et al. 
+5 Temporal changes and toxicity of Pseudo-nitzschia species 
+1 1 2 1 1
+Weol-Ae Lim , Tae-Gyu Park , Jong-Gyu Park , Ka-Jeong Lee , Kwang-Soo Ha and  
+3
+Gregory J. Doucette 
+1 
+National Institute of Fisheries Science, Busan, Republic of Korea 
+2
+ Kunsan National University, Gunsan, Republic of Korea 
+3
+ Marine Biotoxins Program, NOAA/National Ocean Service, Charleston, SC, USA 
+Since the first occurrence of Pseudo-nitzschia blooms in Masan Bay, Korea, in 1975, these blooms have 
+been observed mostly in semi-closed bays (such as Jinhae, Deukryang). Since 1990, these blooms have 
+been observed in coastal waters (e.g., near Jinhae, coastal ports, mouth of Nak-dong River; Lee, 1994). 
+Despite observations of recurrent Pseudo-nitzschia blooms, amnesic shellfish poisoning (ASP) has not 
+yet been reported in Korea. Koh and Kwon (2002) reported no detectable domoic acid (DA) in one 
+gastropod species and 11 bivalve species which were sampled from May to December in 1999. 
+Nationwide shellfish poisoning monitoring performed by the National Institute of Fisheries Science 
+(NIFS) also showed that DA was rarely detected in Korean waters. DA has not been detected in any 
+shellfish sample since 2009 (Table 1). In Korea, Cochlodinium polykrikoides and some other 
+dinoflagellates are major research subjects as these harmful dinoflagellates are the primary causes of 
+massive fish mortality. Because Pseudo-nitzschia bloom events and bloom periods have gradually 
+decreased since the 1980s (Figs. 1 and 2), few studies have been conducted about boom dynamics and 
+DA production by Pseudo-nitzschia species in Korea.  
+–1
+Table 1  Concentrations of domoic acid (DA; µg g ) according to a nationwide shellfish toxin monitoring program 
+conducted by the National Institute of Fisheries Science (NIFS) from 2003–2015 in Korean waters. 
+ 
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 
+Month Jan-May Feb-Apr Jan Aug Mar Mar ND ND ND ND ND ND ND 
+Jan-May Jun Feb Aug Apr Mar        
+Jan-May Jun Feb Aug Aug Mar        
+DA 0.3–0.5 0.2–0.9 1.46–2.85 0.73–0.86 0.3–0.44 1.07–2.17 – – – – – – – 
+ND, not detected by high performance liquid chromatography (HPLC) 
+28 PICES Scientific Report No. 53 
+Lim et al. Republic of Korea 
+38
+37
+36
+35.1
+35
+34
+35
+125 126 127 128 129 130
+8
+5
+34.9
+6
+7
+Geoje 
+9
+Tongyeong 
+4
+3
+34.8
+11 1
+Namhae 
+2
+12
+10
+34.7
+34.6
+34.5
+127.9 128 128.1 128.2 128.3 128.4 128.5 128.6 128.7 128.8
+ 
+Fig. 1 Map showing the sampling stations in the study area. 
+ 
+ 
+Date 
+ 
+Fig. 2  Cell densities of Pseudo-nitzschia spp. in southeast coastal waters, Korea, from 1987–2014. 
+ 
+PICES Scientific Report No. 53  29 
+Pseudo-nitzschia spp. Cell number (cells/mL) 
+Republic of Korea  Lim et al. 
+Lee (1994) compared the morphological characteristics between Pseudo-nitzschia pungens f. multiseries 
+and P. pungens f. pungens sampled from 1974 to 1994 in the waters of southern Korea. Lee and Baik 
+–1
+(1997) isolated and cultured P. multiseries from the waters of southern Korea, and detected 1.03 pg cell 
+DA in stationary phase cultures. Pseudo-nitzschia multiseries was dominant from April to May at a 
+temperature range of 14.8°–19°C. 
+Park et al. (2009) reported that 13 Pseudo-nitzschia species (P. americana, P. brasiliana, P. caciantha, 
+P. calliantha, P. cuspidata, P. delicatissima, P. micropora, P. multiseries, P. multistriata, 
+P. pseudodelicatissima, P. pungens, P. subfraudulenta and P. subpacifica) appeared in southeastern 
+coastal waters in 2008 (Fig. 3). Only four species appeared in May, 12 species in September, and 
+5 species in November (Table 2).  
+Lim (2010) found that Pseudo-nitzschia cell density has fluctuated since 1987, with a possible decrease 
+(Fig. 2). Pseudo-nitzschia blooms were highly correlated with rainfall. Cell density increased when 
+silicate concentrations were high rather than when nitrogen and phosphorus concentrations were high. 
+High cell densities were frequently found in inner sea areas where an elevated inflow of fresh water from 
+land occurred. 
+ 
+Fig. 3  Pseudo-nitzschia species in southeastern coastal waters, Korea, in 2008. ETC indicates the species that do 
+not belong to any group. 
+ 
+  
+30 PICES Scientific Report No. 53 
+Lim et al. Republic of Korea 
+Table 2  Pseudo-nitzschia species detected in the coastal waters of Tongyeong, Korea. 
+2008 
+ 
+Taxon May Jun Jul Aug Sep Oct Nov 
+Pseudo-nitzschia americana + + + + + + + 
+P. brasiliana + + 
+     
+P. caciantha + + + + + 
+  
+P. calliantha + + + 
+    
+P. cuspidata + + + + + 
+  
+P. delicatissima + + + + + + 
+ 
+P. micropora + + + + 
+   
+P. multiseris + + + + 
+   
+P. multstriata + + + + + 
+  
+P. pseudodelicatissima + + 
+     
+P. pungens + + + + + + 
+ 
+P. subpacifica + + 
+     
+P. subfraudulenta + + 
+     
+Total number of species  4 6 8 10 13 7 5 
+ 
+Table 3 Field observation and cultures of Pseudo-nitzschia species in 2008 and 2009 (Lim, 2010). 
+Field strain Culture strain 
+Pseudo-nitzschia americana – 
+P. brasiliana  P. brasiliana 
+P. caciantha  P. caciantha 
+P. calliantha – 
+P. cuspidata – 
+P. delicatissima  P. delicatissima 
+P. fraudulenta – 
+P. micropora – 
+P. multiseris  P. multiseris 
+P. multstriata  P. multstriata 
+P. pseudodelicatissima – 
+P. pungens  P. pungens 
+P. subpacifica – 
+P. subfraudulenta – 
+–  P. mannii 
+–  P. americana 
+14 species  8 species 
+PICES Scientific Report No. 53  31 
+Republic of Korea  Lim et al. 
+Lim (2010) reported that 14 species of Pseudo-nitzschia were observed in the southern East Sea and 
+8 species were cultured in 2008 and 2009 (Table 3). The analysis of DA in seawater samples and cultures 
+showed that 3 species of Pseudo-nitzschia, P. calliantha, P. multiseries and P. multistriata, produced DA. 
+The concentrations of DA varied significantly throughout the year. The concentrations of DA were higher 
+in eutrophic inner sea areas than in shellfish farm areas, and varied among Pseudo-nitzschia species.   
+References 
+Koh, E.M. and Kwon, H.J. 2002. Screening of domoic acid, a marine neurotoxin, in Korean shellfishes. 
+Korean J. Food Sci. Technol. 34: 1130–1133. 
+Lee, J.H. 1994. Neurotoxic-producing diatom, Pseudonitzschia pungens Grunow f. multiseries Hasle, off the 
+coastal waters of southern Korea. I. Morphological features. Korean J. Phycol. 9: 125–134. 
+Lee, J.W and Baik, J.H. 1997. Neurotoxin-producing Pseudonitzschia multiseries (Hasle) Hasle, in the coastal 
+Waters of Southern Korea. II. Production of domoic acid. Kor. J. Phycology. 12: 31–38. 
+Lim, W.A. 2010. Toxic-phytoplankton monitoring. Report of NFRDI. 48 pp.  
+Park, J.G., Kim, E.K. and Lim, W.A. 2009. Potentially toxic Pseudo-nitzschia species in Tongyeong coastal 
+waters, Korea. J. Kor. Soc. Oceanogr. 14: 163–170.  
+ 
+  
+32 PICES Scientific Report No. 53 
+Stonik and Orlova Russian Federation 
+6 Pseudo-nitzschia bloom events in the Russian waters of the 
+Japan/East Sea 
+Inna V. Stonik and Tatiana Yu. Orlova 
+National Scientific Center of Marine Biology of the Far Eastern Branch of the Russian Academy of Sciences, 
+Vladivostok, Russia 
+ 
+Introduction 
+Pseudo-nitzschia monitoring in the northwestern Japan/East Sea has been conducted for over two decades 
+by the Center for Monitoring of Harmful Algal Blooms and Biotoxins, the National Scientific Center of 
+Marine Biology.  Phytoplankton species diversity and abundance have been studied since 1992 and 
+domoic acid (DA) concentrations in diatoms and bivalve samples have been quantified since 2007.  
+Pseudo-nitzschia is one of the most widespread and abundant microalgae groups capable of toxin 
+production in the Russian waters of the Japan/East Sea where nine Pseudo-nitzschia species have been 
+identified by light and electron microscopy (Stonik and Orlova, 2012). At least seven of these species 
+(P. calliantha, P. delicatissima, P. fraudulenta, P. multiseries, P. multistriata, P. pungens, P. seriata) are 
+known to produce DA in other parts of the world.  
+Pseudo-nitzschia bloom events 
+Blooms of P. calliantha, P. multiseries, P. multistriata and P. pungens have been observed in the Russian 
+coastal waters of the western North Pacific in the summer and autumn with abundances exceeding 
+–1
+1 million cells L and constituting 75–98% of the total phytoplankton density (Stonik et al., 2011a). The 
+most intensive Pseudo-nitzschia bloom events in Russian waters of the Japan/East Sea were registered 
+from 1992–1997 (Stonik et al., 2001).  On a decadal timescale, there has been a sharp decrease in 
+–1
+P. multiseries abundance (from 11.0 to 1.4 million cells L ) from 1992–2002, and a shift from 
+P. multiseries to P. calliantha and P. multistriata from 2002–2012 (Table 1).  For example, one of the 
+potentially toxic diatom blooms of the genus Pseudo-nitzschia was observed in October–November 2005 
+in the northeastern part of Amur Bay in the coastal waters of Vladivostok  with salinity ranging from 31–
+33.5‰ and water temperature from 6–12°Ñ. The peak of Pseudo-nitzschia m u ltistria ta /ñ a llia n th a cell 
+6 –1
+density (0.8·10 cells L ), recorded after heavy rains, was mainly caused by a massive bloom of P. 
+multistriata (67% of total density) and P. calliantha (9%). A negative correlation was found between 
+Pseudo-nitzschia spp. cell density and water salinity and NH concentration; a positive correlation was 
+4
+observed between diatom population density and water temperature (Stonik et al., 2012). 
+PICES Scientific Report No. 53  33 
+Russian Federation  Stonik and Orlova 
+Table 1  The most intensive Pseudo-nitzschia bloom events in the northwestern Japan/East Sea from 1992–2012. 
+Maximum 
+concentration 
+–1
+Species Date (cells L ) Condition 
+6
+P. multiseries June 1992 11·10 After heavy rainfalls at SST of 14.2–
+6 16.1°Ñ 
+ June 1993 1·10 
+6
+ September 2002 1.4·10 
+    
+6
+P. calliantha November 1997 2.7·10 SST of 5–6°Ñ and salinity of 34.5‰ 
+    
+5
+P. calliantha/fraudulenta October–November 2002 3.6·10 SST of 6–16°Ñ and salinity of 28.8–
+ 33.5‰ 
+    
+6
+P. multistriata/calliantha October–November 2005 0.8·10 SST temperature of 6–12°Ñ and salinity 
+of 31–33.5‰. The bloom event was 
+found after heavy rains. There was a 
+negative correlation between the diatom 
+abundance, water salinity, and 
+ammonium concentrations. There was a 
+positive correlation between diatom 
+abundance and water temperature. 
+    
+5
+P. multistriata September 2012 2.5·10 SST of 17.8–18°Ñ and salinity of 26.8–
+28 ‰. 
+    
+6
+P. calliantha November 2012 1.4·10 SST of 5–6°Ñ 
+After this bloom, samples of phytoplankton were collected on a routine basis from 2012–2015 in the 
+2
+Russian waters of the Japan/East Sea. The total abundance of Pseudo-nitzschia species varied from 3·10 
+6 –1
+to 1.4·10 cells L . The highest concentrations of toxigenic Pseudo-nitzschia species in Amur and Ussuri 
+6 –1
+bays reached 0.2–1.4·10 cells L , well above the European Union and Canadian threshold guidance 
+4 5 –1 5
+level (10 –10 cells L in Andersen, 1996). The density of toxic species exceeded the limit of 1·10 cells 
+–1 5 –1
+L on four occasions (2.5·10 cells L in September 2012 in northern Amur Bay, dominated by 
+6 –1 5
+P. multistriata; 1.2–1.4·10 cells L in November 2012 in Ussuri Bay, dominated by P. calliantha; 3·10 
+–1 5 –1
+cells L in November 2013 in Ussuri Bay, dominated by P. calliantha; 1.7·10 cells L in October 2015 
+in Usauri Bay, dominated by P. multistriata, Stonik, unpubl. data). 
+Regular fall blooms of toxigenic P. calliantha and P. multistriata were recorded in Ussuri Bay, 
+coinciding with a period when local wind-driven upwelling occurs (V.B. Lobanov, V.I. Il’ichev Pacific 
+Oceanological Institute, Far Eastern Branch of the Russian Academy of Sciences, pers. comm.).  
+  
+34 PICES Scientific Report No. 53 
+Stonik and Orlova Russian Federation 
+DA measurements in Pseudo-nitzschia laboratory cultures and bivalve 
+samples 
+In the summer and fall prior to 2002, Pseudo-nitzschia multiseries bloomed in Peter the Great Bay, with 
+6 –1
+cell abundances exceeding 10 cells L . Total DA was measured using high performance liquid 
+chromatography (HPLC) with a fluorenylmethoxycarbonyl derivative (Pocklington et al., 1990) in 
+“whole-culture” samples (cells plus medium) isolated during a P. multiseries bloom in 2002. Domoic acid 
+was found in stationary-phase (days 20–35) cultures of P. multiseries isolated from Peter the Great Bay 
+–1 –1
+during fall 2002 when concentrations varied from 180–5390 ng ml , equivalent to 2 to 21 pg cell , 
+which is in the range reported for other isolates of P. multiseries (Orlova et al., 2008). The Russian isolate 
+showed greater ability to produce DA over time in culture. The change in toxicity over time could be 
+related to changes in the bacterial composition in the diatom culture. A gamma proteobacterium 
+(tentatively identified as Alteromonas macleodii) was isolated from P. multiseries strain PM-02, and has 
+been shown to significantly enhance the DA concentration of an axenic culture of another strain of 
+P. multiseries (S.S. Bates, I. Kaczmarska, C. Leger, J. Ehrman and D.H. Green, unpublished data).  
+–1
+Concentrations of DA (up to 0.5 pg cell ), determined using the “ASP direct ELISA” kit (Biosense 
+Laboratories AS, Norway, AOAC official method 2006.02) were measured in cultures of P. calliantha, 
+P. delicatissima, P. multistriata and P. pungens (Stonik et al., 2011b; Stonik, unpublished data). The 
+monitoring of DA in shellfish collected from Peter the Great Bay during 2009–2013 showed that 
+concentrations in tissues of the bivalves Mytilus trossulus, Crenomytilus grayanus and Mizuhopecten 
+–1 –1
+yessoensis ranged from 0.01–0.3 mg kg , well below the permissible regulatory limit of 20 mg kg 
+(Stonik and Orlova, 2012). 
+In summary, to date there have been no economic or social impacts connected with toxigenic Pseudo-
+nitzschia blooms in Russian waters. However, the high concentrations of toxigenic Pseudo-nitzschia 
+species able to produce DA suggest a potential threat of future DA contamination in shellfish in the 
+northwestern Japan/East Sea.  
+References 
+Andersen, P. 1996. Design and implementation of some harmful algal monitoring systems.  IOC Technical 
+Series. No. 44, UNESCO.  110 pp.  
+Orlova, T.Yu., Stonik, I.V., Aizdaicher, N.A., Bates, S.S., Leger, C. and Fehling, J. 2008. Toxicity, 
+morphology and distribution of Pseudo-nitzschia calliantha, P. multistriata and P. multiseries 
+(Bacillariophyta) from the northwestern Sea of Japan. Botan. Mar. 51: 297–306. 
+Pocklington, R., Milley, J.E., Bates, S.S., Bird, C.J., de Freitas, A.S.W. and Quilliam, M.A. 1990. Trace 
+determination of domoic acid in seawater and phytoplankton by high-performance liquid chromatography 
+of the fluorenylmethoxycarbonyl (FMOC) derivative. Intl. J. Environ. Analyt. Chem. 38: 351–368. 
+Stonik, I.V. and Orlova, T.Yu. 2012. Population dynamics and toxicity of the diatom species of the genus 
+Pseudo-nitzschia in Peter the Great Bay, the northwestern part of the Sea of Japan, p. 311. Program and 
+Abstracts PICES-2012, Effects of natural and anthropogenic stressors in the North Pacific ecosystems: 
+Scientific challenges and possible solutions, October 12–21, 2012. Hiroshima, Japan. 
+ 
+PICES Scientific Report No. 53  35 
+Russian Federation  Stonik and Orlova 
+Stonik, I.V., Orlova, T.Yu. and Schevchenko, O.G. 2001. Morphology and ecology of the species of the genus 
+Pseudo-nitzschia (Bacillariophyta) from Peter the Great Bay, Sea of Japan. Russian J. Mar. Biol. 27: 362–366. 
+Stonik, I.V., Orlova, T.Yu. and Lundholm, N. 2011a. Diversity of Pseudo-nitzschia H. Peragallo from the 
+Western North Pacific.  Diatom Res. 26: 121–134. 
+Stonik, I.V., Orlova, T., Chikalovets, I.V., Chernikov, O.V. and Litvinova, N.G. 2011b. Diatoms from the 
+northwestern Sea of Japan as producers of domoic acid, p. 41. Abstracts of the 9th IST Asia Pacific 
+Meeting on Animal, Plant and Microbial Toxins, International Society on Toxinology (IST), September 4–
+8, 2011, Vladivostok, Russia.  
+Stonik, I.V., Orlova, T.Yu., Propp, L.N., Demchenko, N.L. and Skriptsova, A.V. 2012. An autumn bloom of 
+diatoms of the genus Pseudo-nitzschia H. Peragallo, 1900 in Amursky Bay, the Sea of Japan. Russian J. 
+Mar. Biol. 38: 211–217. 
+ 
+36 PICES Scientific Report No. 53 
+Northeastern Pacific Ocean Trainer et al. 
+7 Pseudo-nitzschia blooms in the northeastern Pacific Ocean 
+1 1 1 2 2
+Vera L. Trainer , Nicolaus G. Adams , Brian D. Bill , Daniel L. Ayres , Zachary R. Forster , 
+3 1 4
+Anthony Odell , Bich-Thuy Eberhart and Nicola Haigh 
+1
+ National Oceanic and Atmospheric Administration, National Marine Fisheries Service, Northwest Fisheries 
+  Science Center, Seattle, WA, USA 
+2
+ Washington Department of Fish and Wildlife, Willapa Bay Field Station, Ocean Park, WA, USA 
+3
+ Olympic Region Harmful Algal Bloom Monitoring Partnership, University of Washington Olympic Natural 
+   Resources Center, Forks, WA, USA 
+4
+ Harmful Algae Monitoring Program, Microthalassia Consultants Inc., Nanaimo, BC, Canada 
+Coastal managers became keenly aware of the possibility of amnesic shellfish poisoning (ASP) in the 
+northeastern Pacific region after sea lions and sea birds in Monterey Bay, California, showed symptoms 
+of this poisoning (also called domoic acid poisoning) after ingesting sardines and anchovies filled with 
+cells of Pseudo-nitzschia australis in 1991 (Scholin et al., 2000). Soon after this event, toxigenic Pseudo-
+nitzschia blooms were identified as a problem in Washington State after the first closure of the razor clam 
+fishery was announced in the same year. Harmful DA was identified after a shellfish manager from the 
+Washington State Department of Health (WDOH), collected razor clams at Long Beach, Washington, for 
+routine paralytic shellfish toxin testing.  When the shellfish homogenate was injected into a mouse at the 
+lab, unusual behavior not characteristic of paralytic shellfish poisoning was noticed, including scratching 
+behind the ear, a symptom of domoic acid (DA) poisoning. This observation was communicated to 
+Canadian scientists, who first described DA in 1987, as a new toxin produced by Pseudo-nitzschia.  The 
+shellfish sample was shipped to them for analysis, resulting in the confirmation of harmful levels of DA 
+in Washington State shellfish for the first time in 1991. 
+Since that year, DA closures have affected the commercial, recreational and tribal subsistence harvest of 
+shellfish, including blue mussels, razor clams and Dungeness crabs in Oregon, Washington State, and 
+British Columbia (BC), Canada, although the intensity and frequency of these closures vary spatially.  
+Shellfish monitoring for public health safety is conducted on a regular basis by the WDOH, the Oregon 
+Department of Agriculture, and the Canadian Shellfish Sanitation Program.  The analysis of razor clam 
+tissue for DA content (Fig. 1) at two representative Washington State coastal beaches (Kalaloch and Long 
+Beach; Fig. 2) from 1991–2017 illustrates the frequency of razor clam closure events.  Although toxic 
+razor clams are frequently present at the central (Kalaloch Beach) and southern (Long Beach) sites, the 
+level of toxicity varies, suggesting that physical processes impact bloom access to the coast from different 
+source regions (described below).  It is interesting to note that during 2007–2014, no DA closures 
+occurred on the Washington coast, but this non-bloom period was followed by the west coastwide 
+Pseudo-nitzschia bloom in 2015 that had the highest economic impact (~$100 million economic loss to 
+the Dungeness crab harvest alone; Lowther and Liddel, 2016) compared to previous toxic Pseudo-
+nitzschia events (McCabe et al., 2016). 
+PICES Scientific Report No. 53  37 
+Trainer et al.  Northeastern Pacific Ocean 
+ 
+ 
+Fig. 1  Historical DA in razor clams at Kalaloch and Long Beach, WA (locations shown in Fig. 2) from 1991–2017.  
+–1
+The regulatory action level of 20 ppm (or µg g ) is shown as a black horizontal line. 
+ 
+Fig. 2 Core phytoplankton sampling sites on the Washington coast monitored by the Olympic Region Harmful 
+Algal Bloom (ORHAB) partnership. 
+38 PICES Scientific Report No. 53 
+Northeastern Pacific Ocean Trainer et al. 
+In British Columbia, DA levels have generally been lower than in the U.S. northeastern Pacific Ocean, in 
+part due to the general lack of razor clams on the outer coast of BC. The first significant amount of DA 
+detected in shellfish was in razor clams from Haida Gwaii in April 1992, and Dungeness crab viscera in 
+western Vancouver Island inlets in August of the same year. Figure 3 shows the maximum monthly DA 
+(Canadian Food Inspection Agency data) in samples from four separate areas on the BC coast: Haida 
+Gwaii, West Coast Vancouver Island (WCVI), East Coast Vancouver Island (ECVI), and the Central 
+Coast (Fig. 4). DA levels in 1992 were the highest seen in B.C. to date; since 1995 shellfish from Haida 
+Gwaii sites, primarily razor clams, are most commonly found to be contaminated although there have 
+been distinct periods (spring 2002–winter 2004, spring 2008–spring 2012) where no DA was detected. In 
+spring 2015, unusually high levels of DA were seen in samples from WCVI, and in November of that 
+year, DA in mussel samples from ECVI were measured for the first time above the regulatory guidance 
+–1
+level (50.4 µg g , at Patricia Bay in Saanich Inlet). 
+ 
+Fig. 3 Domoic acid (DA) in shellfish samples in British Columbia, Canada, from 1992–2016; maximum values, 
+pooled by area and month. Data from Canadian Food Inspection Agency. 
+ 
+Fig. 4  DA monitoring areas in British Columbia, Canada. 
+PICES Scientific Report No. 53  39 
+Trainer et al.  Northeastern Pacific Ocean 
+Phytoplankton monitoring has been established to provide an early warning of harmful algal blooms 
+(HABs) in the northeastern Pacific Ocean including the Monitoring of Oregon’s Coast for Harmful Algae 
+(MOCHA), the Olympic Region HAB program (ORHAB, Washington State – for details on the ORHAB 
+program methods, see Appendix 3 and www.orhab.org), the Harmful Algae Monitoring Program 
+(HAMP, British Columbia, Canada), and the Southeast Alaska Tribal Toxins network (SEATT; 
+www.seator.org).  Phytoplankton monitoring is not required as part of U.S. regulatory testing, but has 
+been established through funding programs such as NOAA’s Monitoring and Event Response to HABs 
+(MERHAB), through a small fee paid by shellfish farmers, and through a surcharge for shellfish license 
+fees.  However, it has been difficult to maintain these important phytoplankton monitoring programs 
+without consistent funding. 
+Phytoplankton monitoring has helped scientists to establish the annual seasonality of Pseudo-nitzschia 
+blooms, the species and their abundance associated with the most toxic events, and the potential source 
+regions for these blooms.  In particular, the ORHAB program has a dataset of phytoplankton abundance 
+established in 2000, allowing for the analysis of annual patterns in Pseudo-nitzschia.  The beaches at 
+which phytoplankton samples are collected at least weekly by the Washington Department of Fish and 
+Wildlife, the University of Washington’s Olympic Natural Resource Center, the Quinault Indian Nation, 
+the Quileute Tribe and the Makah Tribe are shown in Figure 2.  In general, Pseudo-nitzschia blooms 
+occur in the spring and late summer, and are now known to originate from the source regions, Heceta 
+Bank and the Juan de Fuca Eddy.  The Pseudo-nitzschia species that have been present during the major 
+toxic events on the Washington coast since 1998, their total maximum abundance, and the clamming days 
+lost due to these events, are shown in Table 1.  Although several species have been observed, including 
+P. heimii, P. pungens, P. delicatissima, P. fraudulenta, P. seriata, P. lineola, and P. multiseries, the two 
+Pseudo-nitzschia species responsible for the major razor clam closures in Washington and Oregon are 
+P. cf. pseudodelicatissima (recently identified as P. cuspidata by scanning (SEM) or transmission (TEM) 
+electron microscopy; Lundholm et al., 2003) and P. australis.  Fewer Pseudo-nitzschia species have been 
+identified in BC waters. Forbes and Denman (1991) reviewed the distribution of P. pungens and 
+P. multiseries (as Nitzschia pungens f. pungens, and N. pungens f. multiseries) in samples taken from 
+1980–1988. Samples were analyzed with a light microscope, so differentiation between the two forms 
+was not possible; only one sample was examined using SEM, and in this sample P. f. pungens 
+outnumbered f. multiseries by 25-fold. These researchers reported P. seriata from WCVI sites. P. 
+australis and P. delicatissima have also been reported from Barkley Sound (WCVI; Taylor and Haigh, 
+1996), with P. australis more common in early summer, and P. delicatissima, with P. pungens, in late 
+summer and autumn. In 2015, Pseudo-nitzschia species seen in WCVI sites taking part in the Harmful 
+Algae Monitoring Program (HAMP, see http://www.microthalassia.ca/hamp/) were P. australis, P. 
+fraudulenta, P. pungens and P. cf. delicatissima. 
+ 
+  
+40 PICES Scientific Report No. 53 
+Northeastern Pacific Ocean Trainer et al. 
+ 
+Table 1 Description of historical DA closure events in Washington State (1998–2017). 
+Max DA Action 
+2
+Max. PN Dominant Other PN in clams (closure Clamming % days 
+1 –1
+Event Closure (cells L ) PN species species (ppm) period) days lost lost 
+6 3 64 
+Summer coastwide 17 ? 10 cf. psdeli heimii, pun  300 pre-season  116 
+1998 cancellation  
+5
+Spring southern 0.7 ? 10 aus pun  17 pre-season  1  7 
+2001 beaches cancellation  
+6
+Summer coastwide 4.3 ? 10 aus heimi, pun,  99 pre-season  268  85 
+2002 deli cancellation  
+6
+Summer Kalaloch 2.4 ? 10 cf. psdeli cusp, fraud,  25 season  23  16 
+2003 Beach pun, aus postponement, 
+cancellation  
+6
+Summer Kalaloch 4.8 ? 10 cf. psdeli fraud,  49 season  147  28 
+2004 Beach heimii, postponement,  
+cusp, deli, cancellation  
+pun 
+5
+Spring Long 2.0 ? 10 aus fraud  20 season  5  8 
+2005 Beach postponement,  
+cancellation 
+6
+Summer Kalaloch 9.3 ? 10 cf. psdeli –  38 no action,  0  0 
+2006 Beach outside razor 
+clam season 
+2007– No coastal razor clam toxicity 
+2014 
+ 
+6
+Spring coastwide 2.2 ? 10 aus psdeli,  169 in-season not  100 
+2015 heimii, closure scheduled 
+multi, 
+lineola, 
+fraud, pun 
+6
+Fall southern 2.7 ? 10 cusp (Sep), pun, multi,  29 season 156  69 
+2016 beaches  aus (Oct) deli postponement, 
+in-season 
+closure 
+4
+Spring southern 7.9 ? 10 aus pun 44 season 46  41 
+2017 beaches postponement, 
+in-season 
+closure 
+1
+ Season when event began. 
+2
+ PN = Pseudo-nitzschia.  Indicates maximum number of all Pseudo-nitzschia species.  
+3
+ Species abbreviations: psdeli = P. cf. pseudodelicassima; aus = P. australis; pun = P. pungens; heimii = P. heimii; 
+deli = P. delicatissima; lineola = P. lineola; cusp = P. cuspidata; fraud = P. fraudulenta; seriata = P. seriata 
+  
+PICES Scientific Report No. 53  41 
+Trainer et al.  Northeastern Pacific Ocean 
+A series of research cruises since 1997 has shown that toxic Pseudo-nitzschia blooms affecting the U.S. 
+Pacific Northwest originate from source regions in the northeastern Pacific, including Point 
+Conception/Santa Barbara Channel (California), Monterey Bay (California), Heceta Bank (Oregon), and 
+the Juan de Fuca Eddy (Washington/BC) (Fig. 5).  These “hotspot” sites form during late spring through 
+late summer and provide nutrients from upwelling and physical retention that enables phytoplankton 
+growth and maintenance.  Often, these features are visible by satellite as regions of high chlorophyll and 
+cooler upwelled water.  It has been shown that average cumulative upwelling (i.e., periods of moderate 
+upwelling followed by moderate storms) was observed in summers when the Juan de Fuca Eddy was 
+most retentive, and DA closures in coastal Washington occurred (compare Fig. 6 to Table 1).  In 1991, 
+1998, 2002, 2003, 2004, 2006 (through late June) and 2016 the cumulative upwelling index was 
+“average” compared to past years, shown in light gray (Fig. 6). In contrast, the 2015 springtime bloom 
+was delivered to the coast by the anomalously warm nutrient-depleted waters (nicknamed “the Blob”; see 
+description below), and a higher than average cumulative upwelling index was observed (Fig. 6, dotted 
+purple line). 
+ 
+Fig. 5 Particulate DA in the northeastern Pacific Ocean in the summer 1998.  Maximum concentrations of DA and 
+toxic species are indicated to the right of each toxic hotspot (redrawn from Trainer et al., 2001; Hickey and Banas, 
+2003). 
+42 PICES Scientific Report No. 53 
+Northeastern Pacific Ocean Trainer et al. 
+ 
+Fig. 6  Daily upwelling indices at 48°N, 125°W for 1991–2016 from May–September obtained from NOAA Pacific 
+Fisheries Environmental Lab (https://www.pfeg.noaa.gov/products/PFEL/modeled/indices/upwelling/upwelling.html).  
+Cumulative upwelling indices were derived by calculating a running total of the data for each year starting on May 1 
+and ending on September 30.  Colored lines represent years where DA events occurred on the coast of Washington 
+State and gray lines represent years where there were no DA events. 
+The successful transport of Pseudo-nitzschia from the hotspot sites to beaches is influenced by the 
+position and intensity of the Columbia River, the geographical boundary between Washington and 
+Oregon, with the greatest discharge of any North American river entering the Pacific.  During the 
+summer, or good-weather periods, the predominant direction of the Columbia River freshwater plume is 
+southward and during the winter, or storm periods, the primary direction is northward (Fig. 7).  However, 
+it can take days or even weeks for the Columbia River to respond to changing weather and at times the 
+plume is bi-directional.  This freshwater gradient often acts as a barrier to Pseudo-nitzschia transport to 
+the coast, sometimes resulting in higher concentrations of DA in shellfish at northern Washington State 
+beaches (see razor clam DA in 1998 at Kalaloch Beach compared to Long Beach, Fig. 1).  However, at 
+times, the plume can act as a conduit for Pseudo-nitzschia cell transport from Heceta Bank to the 
+Washington coast (Hickey et al., 2013), resulting in toxic clams at Long Beach, but not Kalaloch Beach 
+(Table 1; see spring 2017 closure at southern beaches only).   
+PICES Scientific Report No. 53  43 
+Trainer et al.  Northeastern Pacific Ocean 
+(a) (b) (c) 
+ 
+Fig. 7 Environmental conditions in the U.S. Pacific Northwest that transport Pseudo-nitzschia cells (a) southward 
+from the Juan de Fuca Eddy in summer/fall, or during good weather conditions, (b) during weak storms, or 
+downwelling-favorable wind reversals, and (c) in the late winter/spring during strong storms. Surface currents are 
+shown with arrows, clamming beaches in red, and green shading indicates freshwater from the Columbia River and 
+Juan de Fuca Strait. The Columbia River plume can act as a conduit or barrier. The offshore retentive sites, Juan de 
+Fuca Eddy and Heceta Bank, where harmful algal blooms typically initiate, are shown as yellow ovals (redrawn from 
+Fig. 9 in Hickey et al., 2013). 
+Data collected during five Ecology and Oceanography of Harmful Algal Blooms–Pacific Northwest 
+(ECOHAB PNW) cruises have allowed scientists to determine the environmental factors correlated with 
+toxic Pseudo-nitzschia blooms. These cruises confirmed that P. cf. pseudodelicatissima/cuspidata and 
+P. australis are the primary species responsible for toxic events in Washington State while P. multiseries 
+is also present at lower abundance (Table 2).  Environmental parameters consistently correlated with 
+Pseudo-nitzschia abundance and particulate DA (pDA) in both the whole cruise grid and the Juan de Fuca 
+Eddy region were Chl-a, and Si:P ratios  (Table 3).  However, it is important to remember that these 
+factors were coincident with Pseudo-nitzschia and pDA measurements and were not necessarily factors 
+that promoted the toxic blooms. In addition, the presence of pDA in the Juan de Fuca Eddy region 
+appears to be elevated in regions of reduced iron (Trainer et al., 2009); this finding is supported by 
+culture studies demonstrating linkage of DA with trace metal availability (Wells et al., 2005).  
+  
+44 PICES Scientific Report No. 53 
+Northeastern Pacific Ocean Trainer et al. 
+ 
+Table 2 Pseudo-nitzschia species, maximum total abundance, and toxicity observed in selected surface samples 
+collected during Ecology and Oceanography of Harmful Algal Blooms–Pacific Northwest (ECOHAB PNW) cruises. 
+Pseudo-nitzschia Pseudo-nitzschia species  pDA 
+–1
+Date Eddy or coast (cells L ) (%) (nM) 
+1
+June 4, 2003  coast  21,000 fraud (65) , pun (25), psdeli (5), aus (5); n = 20 1.26 
+June 4, 2003  coast  24,000 pun (48), fraud (28), deli (8), aus (16); n =25 1.48 
+June 14, 2003  eddy  8,000 pun (60), psdeli/deli (20), aus (17), multi (3); n = 121 0.33 
+June 15, 2003  eddy  5,000 pun (58), aus (26), multi (10), psdeli/deli (5); n = 165 0.05 
+Sep. 1, 2003  coast  324,000 heimii/fraud (96), aus (1), psdeli/deli (3); n = 290 0.01 
+Sep. 4, 2003  eddy  278,000 aus (97), psdeli/deli (2), heimii (1); n = 342 2.54 
+Sep. 8, 2003  eddy  69,000 psdeli/deli (57), aus (43); n = 21 0.41 
+Sep. 11, 2004  coast  250,000 psdeli/deli (99), fraud (1), multi; n = 269 0.21 
+2
+Sep. 10, 2004 tendril  67,000 psdeli/deli (98), fraud (2); n = 298 1.02 
+3
+Sep. 13, 2004  eddy  1,467,000 cusp (96) , fraud (2), pun (1), aus (1); n = 344 12.65 
+Sep. 14, 2004  eddy  1,900,000 cusp (99), aus, fraud; n = 402 16.42 
+Sep. 14, 2004  eddy  1,040,000 cusp (99), multi, aus, fraud; n = 233   7.65 
+Sep. 15, 2004  eddy  3,280,000 cusp (98), deli (1), pun (1); n = 177 20.25 
+July 19, 2005  coast  12,000 deli (58), pun (24), heimii (12), fraud (6); n = 17 0 
+July 22, 2005  eddy  5,333 multi (47), aus/fraud (27), psdeli/deli (11), pun (1); n = 73 0.09 
+Sep. 14, 2005  coast  299,231 cusp (99), heimii (1); n = 300 1.08 
+Sep. 15, 2005  coast  1,126,923 psdeli (92), heimii (7), fraud (1); n = 132 1.21 
+Sep. 15, 2005  coast  43,846 cusp (90), heimii (10); n = 78 1.17 
+Sep. 20, 2005  eddy  36,000 psdeli (98), heimii (2); n = 212 2.21 
+Sep. 19, 2005  eddy  1,429 pun (34), heimii (28), psdeli (36), multi (2); n = 61 0.19 
+Sep. 14, 2006  coast  73,846 psdeli/deli (49), heimii (43), fraud (5), multi (3); n = 139 0.04 
+Sep. 15, 2006  coast  388,462 psdeli/deli (83), heimii (15), fraud (3), pun (1); n = 238  0.02 
+Sep. 26, 2006  eddy  80,714 psdeli/deli (68), heimii (30), multi (1), lineola; n = 79 0 
+Sep. 27, 2006  eddy  50,769 psdeli/deli (65), heimii (35), lineola; n = 47 0.01 
+1
+ Species abbrevations:  P. fraudulenta = fraud, P. pungens = pun, P. cf. pseudodelicatissima = psdeli, P. australis = 
+aus, P. multiseries = multi, P. cuspidata = cusp, P. heimii = heimii, P. delicatissima = deli. Percentage of a species in 
+each sample is shown in parenthesis.  When no percentage is noted, the species is present at less than 1%.  
+2
+ A tendril is a patch of Pseudo-nitzschia ejected from the Juan de Fuca Eddy. 
+3
+ P. cuspidata was identified using transmission (TEM) and scanning (SEM) electron microscopy of samples 
+collected during the September 2004 ECOHAB PNW cruise, and subsequent cruises.  This is a new species resulting 
+from the recent separation of P. pseudodelicatissima into three species (Lundholm et al., 2003). Therefore, 
+P. cuspidata is not positively identified in samples prior to 2004 and the nomenclature psdeli is used. The species 
+psdeli/deli are grouped together when they cannot be distinguished by SEM (modified from Table 2 in Trainer et al., 
+2009). 
+ 
+PICES Scientific Report No. 53  45 
+Trainer et al.  Northeastern Pacific Ocean 
+Table 3 Spearman’s rho (rs) non-parametric correlation analyses for Pseudo-nitzschia (PN) and particulate domoic 
+acid (pDA) in Washington State and the Juan de Fuca Eddy region.  
+ 
+Offshore Washington State Eddy region 
+ 
+Pseudo-nitzschia Pseudo-nitzschia 
+(PN) pDA (PN) pDA 
+** ** 
+PN   1.00   0.55  1.00   0.59
+323 157
+** ** 
+pDA 0.49  1.00   0.49  1.00 
+564 274
+** ** ** * 
+Chl-a   0.52 0.19 0.46 0.20
+531 307 272 143
+* 
+Temp. –0.06 <0.01  0.03 –0.16
+579 323 286 157
+* * ** 
+Salinity   0.11  0.13 –0.10  0.21
+579 323 286 157
+** * 
+N –0.08  0.08 –0.21  0.25
+331 188 157 88
+* 
+P –0.10  0.03 –0.21  0.14
+286 165 127 72 
+* 
+Si –0.03  0.09 –0.14  0.26
+331 188 157 88
+* ** 
+N:P   0.05  0.19 –0.08  0.37
+283 163 124 70
+** * 
+N:Si –0.08  0.10 –0.25  0.25
+331 188 157 88
+** ** ** ** 
+Si:P   0.34  0.27 –0.39  0.42
+282 162 124 70
+* Correlation is significant at the 0.05 level. ** Correlation is significant at the 0.01 level. Correlations with pDA 
+(shaded) were calculated only using data at sites where Pseudo-nitzschia > 0. 
+Although toxigenic blooms of Pseudo-nitzschia have been demonstrated to initiate at offshore retentive 
+sites, the large coastwide bloom that impacted the entire northeastern Pacific region in spring 2015 
+challenged that paradigm.  During this event, the Blob, which approached the west coast of North 
+America, contained low abundances of Pseudo-nitzschia cells.  Brought to the coast by a series of storms, 
+these cells were met by a fresh supply of nutrients from upwelling.  The nutrient-starved Pseudo-nitzschia 
+from the Blob were able to quickly assimilate these upwelled nutrients and develop into a massive bloom 
+(McCabe et al., 2016).  In fact, attempts to collect zooplankton samples during cruises in April and May 
+2015 failed because large, healthy chains of Pseudo-nitzschia, up to 165 cells per chain, clogged 
+zooplankton nets (~200  µm mesh size).  The geographical extent of this Pseudo-nitzschia bloom and its 
+impacts on DA concentrations in rock crab, Dungeness crab, mussels, razor clams, sardines and 
+anchovies were unprecedented.  DA was measured even in the flesh of finfish, although at levels below 
+the regulatory limit.  Even more disturbing is the documented relationship of DA closure events with 
+warm water anomalies, including the Blob and El Ni?o events (McCabe et al., 2016; McKibben et al., 
+2017), suggesting that DA events may become more prevalent as surface waters continue to warm. 
+The economic impacts of DA events can be significant.  A study in coastal Washington by Dyson and 
+Huppert (2010) showed that a year-long closure of the recreational razor clam harvest resulted in almost 
+$25 million US in lost income, including over 400 jobs, lost wages and lost income for local businesses, 
+tourism and recreation.  In contrast, the 2015 coastwide bloom event resulted in a direct economic impact 
+to California alone of $48.3 million for Dungeness crab (representing 70% of the total estimated 
+46 PICES Scientific Report No. 53 
+Northeastern Pacific Ocean Trainer et al. 
+commercial value) and $376,000 for rock crab (representing 37% of the total estimated value) from 
+1
+November 2015 through June 2016 .  The 2015 closure of the recreational razor clam fishery resulted in 
+2
+at least a $40.3 million loss in tourist-related spending in Washington .  Oregon reported an estimated 
+$5.8 million loss. The total loss to Dungeness crab harvest alone was estimated at $100 million (Lowther 
+and Liddel, 2016).   
+However, these estimates do not include economic losses due to public perceptions of unsafe seafood 
+resulting from incomplete or insufficient information during this large bloom.  Education of coastal 
+communities about HABs, their toxins, the retention and release of toxins from seafood, the nutritional 
+value relative to the risk of low-level toxins in this seafood and the impacts of climate change on blooms, 
+is more important now than ever.  Efforts to study the large 2015 west coastwide bloom and its impact on 
+different communities will provide a resource to shellfish consumers and enable them to adapt and 
+become more resilient during future blooms.   
+Acknowledgements 
+We thank Dr. Stephanie Moore for assistance with the statistics in Table 3. 
+References 
+Dyson, K. and Huppert, D.D. 2010. Regional economic impacts of razor clam beach closures due to harmful 
+algal blooms (HABs) on the Pacific coast of Washington. Harmful Algae 9: 264–271. 
+Forbes, J.R. and Denman, K.L. 1991. Distribution of Nitzschia pungens in coastal waters of British Columbia. 
+Can. J. Fish. Aquat. Sci. 48: 960–967. 
+Hickey, B.M. and Banas, N.S. 2003. Oceanography of the U.S. Pacific Northwest coast and estuaries with 
+application to coastal ecology. Estuaries 26: 1010–1031. 
+Hickey, B.M., Trainer, V.L., Kosro, P.M., Adams, N.G., Connolly, T.P. Kachel, N.B. and Geier, S.L. 2013. A 
+springtime source of toxic Pseudo-nitzschia cells on razor clam beaches in the Pacific Northwest. Harmful 
+Algae 25: 1–14. 
+Lowther, A. and Liddel, M. (Eds.) 2016. Fisheries of the United States 2015, Current Fishery Statistics No. 
+2015, National Marine Fisheries Service, Office of Science and Technology, Silver Spring, MD, September 
+2016, 133 pp. 
+                                                           
+1
+ Letter from the governor of California, Mr. Edmund Brown, to Ms. Penny Pritzker, former U.S. Department 
+of Commerce Secretary, requesting a fishery resource disaster relief, dated February 9, 2016. 
+2
+ Congressional briefing by Dr. Mary Erickson, Former Director of the NOAA National Centers for Coastal 
+Ocean Science, November 2015 in Washington, DC. 
+PICES Scientific Report No. 53  47 
+Trainer et al.  Northeastern Pacific Ocean 
+Lundolm, N., Moestrop, O., Hasle, G.R. and Hoef-Emden, K. 2003. A study of the Pseudo-nitzschia 
+pseudodelicatissima/cuspidata complex (Bacillariophyceae): What is P. pseudodelicatissima? J. Phycol. 
+39: 797–813. 
+McCabe, R.M., Hickey, B.M., Kudela, R.M., Lefebvre, K.A., Adams, N.G., Bill, B.D., Gulland, F.M.D, 
+Thomson, R.E, Cochlan, W.P. and Trainer, V.L. 2016. An unprecedented coastwide toxic algal bloom 
+linked to anomalous ocean conditions. Geophys. Res. Lett. 43: 10,366–10,376. 
+McKibben, S.M., Peterson, W., Wood, A.M., Trainer, V.L., Hunter, M. And White, A.E. 2017. Climatic 
+regulation of the neurotoxin domoic acid. Proc. Nat. Acad. Sci. USA 114: 239–244. 
+Scholin, C.A., Gulland, F., Doucette, G.J., Benson, S., Busman, M., Chavez, F.P. Cordaro, J., DeLong, R., 
+DeVogelaere, A., Harvey, J., Haulena, M., Lefebvre, K., Lipwcomb, T., Loscutoff, S., Lowenstine, L.J., 
+Marin III, R., Miller, P.E., McLellan, W.A., Moeller, P.D.R., Powell, C.L., Rowles, T., Silvagni, P., Silver, 
+M., Spraker, T., Trainer, V.L. and VanDolah, F.M. 2000. Mortality of sea lions along the central California 
+coast linked to a toxic diatom bloom. Nature 403: 80–84. 
+Taylor, F.J.R. and Haigh, R. 1996. Spatial and temporal distributions of microplankton during the summers of 
+1992 – 1993 in Barkley Sound, British Columbia, with emphasis on harmful species. Can. J. Fish. Aquat. 
+Sci. 53: 2310–2322. 
+Trainer, V.L., Adams, N.G. and Wekell, J.C. 2001. Domoic acid-producing Pseudo-nitzschia species off the 
+U.S. west coast associated with toxification events, pp. 46–48 in Proceedings of the Ninth International 
+Conference on Harmful Algal Blooms edited by G.M. Hallegraeff, S.I. Blackburn, C.J. Bolch, and R.J. 
+Lewis, Intergovernmental Oceanographic Commission of UNESCO. 
+Trainer, V.L., Wells, M.L., Cochlan, W.P., Trick, C.G., Bill, B.D., Baugh, K.A., Beall, B.F., Herndon, J., 
+Lundholm, N. 2009. An ecological study of a massive bloom of toxigenic Pseudo-nitzschia cuspidata off 
+the Washington State coast. Limnol. Oceanogr. 54: 1461–1474. 
+Wells, M.L., Trick, C.G., Cochlan, W.P. Hughes, M.P. andTrainer, V.L. 2005. Domoic acid: The synergy of 
+iron, copper, and the toxicity of diatoms. Limnol Oceanogr. 50: 1908–1917. 
+ 
+48 PICES Scientific Report No. 53 
+Appendix 1  Biogeographic regions 
+Appendix 1  
+Biogeographic regions in the PICES Convention Area 
+ 
+  
+PICES Scientific Report No. 53  49 
+PICES-2016 Workshop  Appendix 2 
+Appendix 2  
+MEQ Workshop (W2) on “Conditions promoting extreme Pseudo-
+nitzschia events in the eastern Pacific but not the western Pacific” at 
+PICES-2016 
+ 
+Co-Convenors:   Vera L.Trainer (U.S.A.) and Polina Kameneva (Russia) 
+ 
+Abstract 
+ 
+There is clear evidence of contrasting occurrence and impacts of the toxin-producing diatom, Pseudo-
+nitzschia, between the western and eastern Pacific.  In 2015, a massive bloom spanning from California to 
+Alaska, had major impacts on the economic viability shellfish industry and on wildlife health.  In 
+contrast, Pseudo-nitzschia are not highly toxic and do not cause economic losses in the western Pacific. 
+These data provide a unique opportunity for east–west Pacific comparisons to identify and rank those 
+environmental factors that promote harmful algal bloom (HAB) success at different times. The recent 
+PICES-funded workshop on HABs and Climate Change emphasized the importance of studying such 
+extreme events to further our understanding of climate impacts. This workshop will focus on Pseudo-
+nitzschia—a diatom that historically had massive economic impacts in the eastern PICES member 
+countries, with low or no impacts in the western Pacific. The workshop foundation will be an extension of 
+the current dataset to the 1990s and earlier where available, with PICES participants pre-submitting 
+available data on: HAB species presence, maximum abundance, toxicity, optimal conditions for growth, 
+time of year, temperature range, salinity range, water clarity, nutrients, wind, river flow (flooding), and 
+upwelling indices.  
+ 
+3
+Speakers:  
+Inna V. Stonik (Invited) 
+Pseudo-nitzschia diversity, bloom events and their impacts in the North Pacific: An East-West comparison 
+Nicola Haigh 
+Pseudo-nitzschia species and domoic acid on the west coast of Vancouver Island, British Columbia, in 2015  
+  
+                                                           
+3
+ See http://meetings.pices.int/publications/presentations/PICES-2016#workshop2 for individual presentations. 
+50 PICES Scientific Report No. 53 
+Appendix 2  PICES-2016 Workshop 
+Yuichi Kotaki 
+Amnesic shellfish poisoning (ASP) potential in Japan  
+Vera L. Trainer 
+Pseudo-nitzschia and domoic acid on the US west coast: State of our knowledge and implications for the future 
+Meredith L. Elliott 
+Pseudo-nitzschia occurrence in the central California Current  
+William P. Cochlan 
+The effects of temperature and ocean acidification on the growth and toxicity of Pseudo-nitzschia australis 
+from the California Current upwelling system  
+Lin Yang 
+Pseudo-nitzschia harmful algal blooms (HAB) in the coast of China  
+Weol-Ae Lim 
+Temporal changes and toxicity of Pseudo-nitzschia species in Korean coastal waters  
+Tamara Russell 
+Pseudo-nitzschia spp. and domoic acid in the waters of Haida Gwaii, British Columbia: A summary of 
+occurrences and details on anthropogenic and environmental considerations  
+Devan Johnson 
+Pseudo-nitzschia species and domoic acid in southeast Vancouver Island, November 2015 to July 2016  
+Anthony Odell 
+Washington State Pacific coast Pseudo-nitzschia bloom of 2016  
+  
+  
+PICES Scientific Report No. 53  51 
+ORHAB sampling methods  Appendix 3 
+Appendix 3  
+Olympic Region Harmful Algal Bloom (ORHAB) partnership sampling 
+methods 
+1. Collect whole water and net tow samples twice weekly (March 1–October 31) and once weekly 
+(November 1–February 28).  The number of sample sites as well as sample frequency may be increased 
+when Pseudo-nitzschia (PN) and domoic acid (DA) are present. One L of whole water is filtered onto a 
+o
+Nucleopore HA filter (0.45 µm pore size) and frozen at –80 C until analyzed for particulate DA (pDA). 
+–1
+2. Count settled whole water samples for total PN.  When >50,000 large PN cells L or >1 million 
+–1
+small PN cells L are observed, State managers are notified that PN abundance is over the “action 
+level” and a test for particulate DA is performed as soon as possible using the Mercury Science 
+DAK-36 enzyme linked immunosorbent assay (ELISA).   If it is apparent from net tow samples that 
+PN abundance may be above the action level, samplers may run an ELISA for pDA prior to counting 
+PN from whole water which often need to be settled overnight. 
+–1
+3. If ELISA results for pDA are >200 ng L , state managers are notified and an ELISA is run on 
+shellfish samples (in Washington State, razor clam samples are the primary shellfish species analyzed 
+because they can retain DA for many months). Composite razor clam samples (a composite of 12 
+individual clams when possible) are analyzed for DA using ELISA.  If ELISA results show elevated 
+levels of DA in shellfish, additional tissue samples are also sent to the Public Health Lab for analysis 
+of DA by high-performance liquid chromatography (HPLC; the standard regulatory method).  
+4
+4. Mercury Science DA ELISAs allow individual particulate (cellular) DA filters to be tested in 
+duplicate in strips – up to ~12 individual samples per ELISA plate because a full standard curve is 
+5
+analyzed with each sample at a total cost of ~$250.  Biosense ELISA can also be used, but these cost 
+~$500 per plate for fewer samples. The Mercury Science ELISA is not Association of Analytical 
+Communities (AOAC) or Interstate Shellfish Sanitation Conference (ISSC) approved.  This method 
+is used to screen for DA; positive tests must be confirmed by approved regulatory methods for 
+detection of DA in shellfish.  Emergency closures can be enacted by using screening methods, while 
+reopening of shellfish beds after closure requires testing using approved methods. 
+5. Depending on the timing of the scheduled razor clam openers, the timing of the observed PN bloom 
+and the ability of the coastal ORHAB samplers to run immediate ELISA, pre-emptive closures may 
+be decided upon by the Washington State Department of Health and the Washington Department of 
+Fish and Wildlife.  However, this is rare.  Closures are enacted when a value of 20 ppm or greater in 
+razor clam is measured by HPLC. 
+                                                           
+4
+ http://www.mercuryscience.com/DA.html 
+5
+ https://www.abraxiskits.com/products/algal-toxins/ 
+52 PICES Scientific Report No. 53 
+ 
+Continued from inside back cover 
+Jamieson, G. and Zhang, C.-I. (Eds.)  2005.  Report of the nerka (Steller, 1743) in Relation to Marine Ecology. 
+Study Group on Ecosystem-Based Management Science PICES Sci. Rep. No. 41, 149 pp. 
+and its Application to the North Pacific.  PICES Sci. Takeda, S., Chai, F. and Nishioka, J. (Eds.) 2013.  Report of 
+Rep. No. 29, 77 pp. Working Group 22 on Iron Supply and its Impact on 
+Brodeur, R. and Yamamura, O. (Eds.)  2005.  Micronekton of Biogeochemistry and Ecosystems in the North Pacific 
+the North Pacific.  PICES Sci. Rep. No. 30, 115 pp. Ocean. PICES Sci. Rep. No. 42, 60 pp. 
+Takeda, S. and Wong, C.S. (Eds.)  2006.  Report of the 2004 Shaw, C.T., Peterson, W.T. and Sun, S. (Eds.) 2013.  Report 
+Workshop on In Situ Iron Enrichment Experiments in the of Working Group 23 on Comparative Ecology of Krill in 
+Eastern and Western Subarctic Pacific.  PICES Sci. Rep. 
+Coastal and Oceanic Waters around the Pacific Rim. 
+No. 31, 187 pp. PICES Sci. Rep. No. 43, 100 pp. 
+Miller, C.B. and Ikeda, T. (Eds.)  2006.  Report of the 2005 Abo, K., Burgetz, I. and Dumbauld, B. (Eds.) 2013. Report of 
+Workshop on Ocean Ecodynamics Comparison in the Working Group 24 on Environmental Interactions of 
+Subarctic Pacific.  PICES Sci. Rep. No. 32, 103 pp. Marine Aquaculture.  PICES Sci. Rep. No. 44, 122 pp. 
+Kruse, G.H., Livingston, P., Overland, J.E., Jamieson, G.S., Hollowed, A.B., Kim, S., Barange, M. and Loeng, H. (Eds.) 
+McKinnell, S. and Perry, R.I. (Eds.)  2006.  Report of the 2013. Report of the PICES/ICES Working Group on 
+PICES/NPRB Workshop on Integration of Ecological Forecasting Climate Change Impacts on Fish and Shellfish. 
+Indicators of the North Pacific with Emphasis on the PICES Sci. Rep. No. 45, 197 pp. 
+Bering Sea.  PICES Sci. Rep. No. 33, 109 pp. Ross, P.S. (Ed.) 2013. Report of the Study Group on Marine 
+Hollowed, A.B., Beamish, R.J., Okey, T.A. and Schirripa, Pollutants. PICES Sci. Rep. No. 46, 49 pp. 
+M.J. (Eds.) 2008.  Forecasting Climate Impacts on Future Trainer, V.L. and Yoshida, T. (Eds.) 2014. Proceedings of the 
+Production of Commercially Exploited Fish and Workshop on Economic Impacts of Harmful Algal Blooms 
+Shellfish. PICES Sci. Rep. No. 34, 101 pp. on Fisheries and Aquaculture. PICES Sci. Rep. No. 47, 
+Beamish, R.J. (Ed.)  2008.  Impacts of Climate and Climate 85 pp. 
+Change on the Key Species in the Fisheries in the North Kestrup, ?sa M., Smith, D.L. and Therriault, T.W. (Eds.) 
+Pacific. PICES Sci. Rep. No. 35, 217 pp. 2015. Report of Working Group 21 on Non-indigenous 
+Kashiwai, M. and Kantakov, G.A. (Eds.) 2009.  Proceedings of 
+Aquatic Species. PICES Sci. Rep. No. 48, 176 pp. 
+the Fourth Workshop on the Okhotsk Sea and Adjacent Curtis, J.M.R. (Ed.) 2015. Report of the Study Group on 
+Areas.   PICES Sci. Rep. No. 36, 305 pp. Biodiversity Conservation. PICES Sci. Rep. No. 49, 61 pp. 
+Jamieson, G., Livingston, P. and Zhang, C.-I. (Eds.)  2010.  Watanuki, Y., Suryan, R.M., Sasaki, H., Yamamoto, T., 
+Report of Working Group 19 on Ecosystem-based Hazen, E.L., Renner, M., Santora, J.A., O’Hara, P.D. and 
+Management Science and its Application to the North Sydeman, W.J. (Eds.) 2016. Spatial Ecology of Marine 
+Pacific.  PICES Sci. Rep. No. 37, 166 pp. Top Predators in the North Pacific: Tools for Integrating 
+Pakhomov, E. and Yamamura, O. (Eds.)  2010.  Report of the across Datasets and Identifying High Use Areas. PICES 
+Advisory Panel on Micronekton Sampling Intercalibration Sci. Rep. No. 50, 55 pp. 
+Experiment.  PICES Sci. Rep. No. 38, 108 pp. Uye, S.I. and Brodeur, R.D. (Eds.) 2016. Report of Working 
+Makino, M. and Fluharty, D.L. (Eds.) 2011. Report of the Group 26 on Jellyfish Blooms around the North Pacific 
+Study Group on Human Dimensions. PICES Sci. Rep.  Rim: Causes and Consequences. PICES Sci. Rep. No. 
+No. 39, 40 pp. 51, 212 pp. 
+Foreman, M.G. and Yamanaka, Y. (Eds.) 2011. Report of Makino. M. and Perry. R.I. (Eds.) 2017. Marine Ecosystems 
+Working Group 20 on Evaluations of Climate Change and Human Well-being: The PICES-Japan MAFF Project 
+Projections.  PICES Sci. Rep. No. 40, 165 pp. “MarWeB”.  PICES Sci. Rep. No. 52, 234 pp. 
+McKinnell, S.M., Curchitser, E., Groot, C., Kaeriyama, M. Trainer, V.L. (Ed.) 2017. Conditions promoting extreme 
+and Myers, K.W. 2012.  PICES Advisory Report on the Pseudo-nitzschia events in the eastern Pacific but not the 
+Decline of Fraser River Sockeye Salmon Oncorhynchus western Pacific. PICES Sci. Rep. No. 53, 52 pp. 
+ 
+ 
+ 
+ 
+PICES Scientific Reports 
+ 
+ 
+ 
+PICES SCIENTIFIC REPORTS 
+Hargreaves, N.B., Hunter, J.R., Sugimoto, T. and Wada, T. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2000.  
+ (Eds.) 1993.  Coastal Pelagic Fishes (Report of Working PICES-GLOBEC International Program on Climate Change 
+Group 3); Subarctic Gyre (Report of Working Group 6).  and Carrying Capacity:  Report of the 1999 MONITOR and 
+ 
+PICES Sci. Rep. No. 1, 130 pp. 
+REX Workshops, and the 2000 MODEL Workshop on 
+ 
+Talley, L.D. and Nagata, Y. (Eds.) 1995.  The Okhotsk Sea Lower Trophic Level Modelling.  PICES Sci. Rep. No. 15, 
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+and Oyashio Region (Report of Working Group 1).  148 pp. 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+PICES Sci. Rep. No. 2, 227 pp. Stehr, C.M. and Horiguchi, T. (Eds.) 2001.  Environmental 
+scientific content of these publications are not generally conducted. 
+Anonymous. 1995.  Report of the PICES-STA Workshop on Assessment of Vancouver Harbour Data Report for the 
+Monitoring Subarctic North Pacific Variability.  PICES PICES MEQ Practical Workshop.  PICES Sci. Rep. No. 
+ 
+Sci. Rep. No. 3, 94 pp. 16, 213 pp. 
+Printed copies of Scientific Reports are available upon request from 
+Hargreaves, N.B. (Ed.) 1996. Science Plan, Implementation Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2001.  
+ 
+Plan (Report of the PICES-GLOBEC International PICES-GLOBEC International Program on Climate Change 
+PICES Secretariat 
+Program on Climate Change and Carrying Capacity).  and Carrying Capacity:  Report of the 2000 BASS, MODEL, 
+P.O. Box 6000 
+PICES Sci. Rep. No. 4, 64 pp. MONITOR and REX Workshops, and the 2001 BASS/ 
+Sidney, British Columbia 
+LeBlond, P.H. and Endoh, M. (Eds.) 1996.  Modelling of the MODEL Workshop.  PICES Sci. Rep. No. 17, 125 pp. 
+Subarctic North Pacific Circulation (Report of Working Alexander, V., Bychkov, A.S., Livingston, P. and McKinnell, 
+Canada.  V8L 4B2 
+Group 7).  PICES Sci. Rep. No. 5, 91 pp. S.M. (Eds.) 2001.  Proceedings of the PICES/CoML/IPRC 
+E-mail:  secretariat@pices.int 
+Anonymous. 1996. Proceedings of the Workshop on the Workshop on “Impact of Climate Variability on Observation 
+ 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. and Prediction of Ecosystem and Biodiversity Changes in 
+ 
+6, 426 pp. the North Pacific”.  PICES Sci. Rep. No. 18, 210 pp. 
+On-line versions of PICES Scientific Reports can be found at: meetings.pices.int/publications/scientific-reports  
+Beamish, R.J., Hollowed, A.B., Perry, R.I., Radchenko, V.I., 
+Otto, R.S. and Jamieson, G.S. (Eds.) 2001.  Commercially 
+ 
+Yoo, S. and Terazaki, M. (Eds.) 1997.  Summary of the Important Crabs, Shrimps and Lobsters of the North 
+Workshop on Conceptual/Theoretical Studies and Model Pacific Ocean.  PICES Sci. Rep. No. 19, 79 pp. 
+ 
+Development and the 1996 MODEL, BASS and REX 
+Batchelder, H.P., McFarlane, G.A., Megrey, B.A., Mackas, 
+ 
+Task Team Reports.  PICES Sci. Rep. No. 7, 93 pp. D.L. and Peterson, W.T. (Eds.) 2002.  PICES-GLOBEC 
+ 
+Nagata, Y. and Lobanov, V.B. (Eds.) 1998.  Multilingual International Program on Climate Change and Carrying 
+ 
+Nomenclature of Place and Oceanographic Names in the 
+Capacity: Report of the 2001 BASS/MODEL, MONITOR 
+ 
+Region of the Okhotsk Sea.  PICES Sci. Rep. No. 8, 57 and REX Workshops, and the 2002 MODEL/REX 
+ 
+pp. (Reprint from MIRC Science Report, No. 1, 1998) Workshop.  PICES Sci. Rep. No. 20, 176 pp. 
+ Hollowed, A.B., Ikeda, T., Radchenko, V.I. and Wada, T. Miller, C.B. (Ed.) 2002.  PICES-GLOBEC International 
+(Organizers) 1998.  PICES Climate Change and Carrying Program on Climate Change and Carrying Capacity:  
+ 
+Capacity Workshop on the Development of Cooperative Report of the PICES 2002 Volunteer Observing Ship 
+ 
+Research in Coastal Regions of the North Pacific.  Workshop.  PICES Sci. Rep. No. 21, 38 pp. 
+ 
+PICES Sci. Rep. No. 9, 59 pp. Perry, R.I., Livingston, P. and Bychkov, A.S. (Eds.) 2002.  
+ 
+Freeland, H.J., Peterson, W.T. and Tyler, A. (Eds.) 1999.  PICES Science: The First Ten Years and a Look to the 
+ 
+Proceedings of the 1998 Science Board Symposium on Future.  PICES Sci. Rep. No. 22, 102 pp. 
+ The Impacts of the 1997/98 El Ni?o Event on the North Taylor, F.J.R. and Trainer, V.L. (Eds.) 2002.  Harmful Algal 
+Pacific Ocean and Its Marginal Seas.  PICES Sci. Rep. Blooms in the PICES Region of the North Pacific.  
+ 
+No. 10, 110 pp. PICES Sci. Rep. No. 23, 152 pp. 
+ 
+Dugdale, R.C., Hay, D.E., McFarlane, G.A., Taft, B.A. and Feely, R.A. (Ed.) 2003.  CO in the North Pacific Ocean (Working 
+2
+ 
+Yoo, S. (Eds.) 1999.  PICES-GLOBEC International Group 13 Final Report).  PICES Sci. Rep. No. 24, 49 pp. 
+ 
+Program on Climate Change and Carrying Capacity:  Aydin, K.Y., McFarlane, G.A., King, J.R. and Megrey, B.A. 
+ 
+Summary of the 1998 MODEL, MONITOR and REX (Eds.)  2003. PICES-GLOBEC International Program on 
+ Climate Change and Carrying Capacity:  The BASS/ 
+Workshops, and Task Team Reports.  PICES Sci. Rep. 
+No. 11, 88 pp. MODEL Report on Trophic Models of the Subarctic 
+ 
+Lobanov, V.B., Nagata, Y. and Riser, S.C. (Eds.) 1999.  Pacific Basin Ecosystems.  PICES Sci. Rep. No. 25, 93 pp. 
+ 
+Proceedings of the Second PICES Workshop on the McKinnell, S.M. (Ed.) 2004.  Proceedings of the Third 
+ 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. No. Workshop on the Okhotsk Sea and Adjacent Areas.  
+This report was developed under the guidance of the PICES Science Board and its Marine Environmental 
+12, 203 pp. PICES Sci. Rep. No. 26, 275 pp. 
+Quality Committee. The views expressed in this report are those of participating scientists under their 
+Kishi, M.J. (Ed.) 2004.  Report of the MODEL Task Team 
+Danchenkov, M.A., Aubrey, D.G. and Hong, G.H. 2000.  
+responsibilities. 
+Bibliography of the Oceanography of the Japan/East Sea.  Second Workshop to Develop a Marine Ecosystem Model 
+PICES Sci. Rep. No. 13, 99 pp. of the North Pacific Ocean including Pelagic Fishes. 
+ 
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. PICES Sci. Rep. No. 27, 49 pp. 
+ 
+Predation by Marine Birds and Mammals in the King, J.R. (Ed.)  2005.  Report of the Study Group on the 
+ 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. Fisheries and Ecosystem Responses to Recent Regime 
+This document should be cited as follows: 
+14, 168 pp. Shifts. PICES Sci. Rep. No. 28, 162 pp. 
+ 
+Trainer, V.L. (Ed.) 2017. Conditions Promoting Extreme Pseudo-nitzschia Events in the Eastern Pacific but not 
+the Western Pacific. PICES Sci. Rep. No. 53, 52 pp.  
+Continued on inside back page 
+PICES SCIENTIFIC REPORT No. 53,  2017
+ISBN  978-1-927797-25-9
+ISSN 1198-273X
+ 
+ 
+ 
+PICES SCIENTIFIC REPORT 
+PICES PUBLICATIONS 
+ 
+No. 53, 2017
+ 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+ 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+ 
+ 
+JOURNAL SPECIAL ISSUES – are peer-
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which reviewed publications resulting from symposia 
+document the administrative and scientific activities and Annual Meeting scientific sessions and 
+of the Organization, and its formal decisions, by workshops that are published in conjunction with 
+calendar year.   commercial scientific journals.   
+  
+PICES SCIENTIFIC REPORTS – include BOOKS – are peer-reviewed, journal-quality 
+proceedings of PICES workshops, final reports of publications of broad interest. 
+PICES expert groups, data reports and planning  
+reports. PICES PRESS – is a semi-annual newsletter 
+ providing timely updates on the state of the 
+PICES TECHNICAL REPORTS – are on-line ocean/climate in the North Pacific, with highlights of 
+reports published on data/monitoring activities that current research and associated activities of PICES. 
+require frequent updates.  
+ ABSTRACT BOOKS – are prepared for PICES 
+SPECIAL PUBLICATIONS – are products that Annual Meetings and symposia (co-)organized by 
+are destined for general or specific audiences. PICES. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conditions Promoting Extreme
+For further information on our publications, visit PICES at www.pices.int. 
+ 
+Pseudo-nitzschia Events in the Eastern Pacific 
+Front cover figure 
+ 
+but not the Western Pacific
+Clockwise from left:   Sign on a Washington State beach warning razor clam diggers of beach closures due 
+to dangerous levels of domoic acid in shellfish, a recreational razor clam harvester digging clams with a 
+“tube”, chains of Pseudo-nitzschia sampled off central California during a massive coastwide 2015 harmful 
+algal bloom, and a net filled with razor clams.     
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION

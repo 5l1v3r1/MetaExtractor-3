@@ -1,0 +1,3239 @@
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION
+PICES SCIENTIFIC REPORT  
+No. 46, 2014
+PICES SCIENTIFIC REPORT No. 46,  2014
+Report of the Study Group on  
+Marine Pollutants 
+ISBN  978-1-927797-10-5
+ISSN 1198-273X
+ 
+ 
+ 
+PICES PUBLICATIONS 
+ 
+ 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+ 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+ 
+ 
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which 
+document the administrative and scientific activities 
+of the Organization, and its formal decisions, by 
+calendar year.   
+ 
+PICES SCIENTIFIC REPORTS – include 
+proceedings of PICES workshops, final reports of 
+PICES expert groups, data reports and planning 
+reports. 
+ 
+PICES TECHNICAL REPORTS – are on-line 
+reports published on data/monitoring activities that 
+require frequent updates. 
+ 
+SPECIAL PUBLICATIONS – are products that 
+are destined for general or specific audiences. 
+ 
+JOURNAL SPECIAL ISSUES – are peer-
+reviewed publications resulting from symposia 
+and Annual Meeting scientific sessions and 
+workshops that are published in conjunction with 
+commercial scientific journals.   
+ 
+BOOKS – are peer-reviewed, journal-quality 
+publications of broad interest. 
+ 
+PICES PRESS – is a semi-annual newsletter 
+providing timely updates on the state of the 
+ocean/climate in the North Pacific, with highlights of 
+current research and associated activities of PICES. 
+ 
+ABSTRACT BOOKS – are prepared for PICES 
+Annual Meetings and symposia (co-)organized by 
+PICES. 
+ 
+ 
+ 
+For further information on our publications, visit the PICES website at www.pices.int. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Front cover figure 
+ 
+A killer whale (Orcinus orca) breaching in the waters offshore from a paper mill in Malaspina Strait, near 
+the northern part of the Strait of Georgia, British Columbia (photo credit: Graeme Ellis, DFO, Pacific 
+Biological Station). 
+ 
+ 
+PICES SCIENTIFIC REPORTS 
+ 
+ 
+ 
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+scientific content of these publications are not generally conducted. 
+ 
+Printed copies of Scientific Reports are available upon request from 
+ 
+PICES Secretariat 
+P.O. Box 6000 
+Sidney, British Columbia 
+Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int 
+ 
+ 
+On-line versions of PICES Scientific Reports can be found at  
+www.pices.int/publications/scientific_reports/default.aspx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report was developed under the guidance of the PICES Science Board and its Marine Environmental 
+Quality Committee. The views expressed in this report are those of participating scientists under their 
+responsibilities. 
+ 
+ 
+ 
+This document should be cited as follows: 
+ 
+Ross, P.S. (Ed.)  2014.  Report of the Study Group on Marine Pollutants.  PICES Sci. Rep. No. 46, 49 pp. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PICES Scientific Report No. 46 
+2014 
+ 
+ 
+ 
+ 
+ 
+ 
+Report of the Study Group on 
+Marine Pollutants 
+ 
+ 
+ 
+ 
+ 
+ 
+Edited by 
+Peter S. Ross 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2014 
+Secretariat / Publisher 
+North Pacific Marine Science Organization (PICES) 
+P.O. Box 6000, Sidney, B.C., V8L 4B2, Canada  
+E-mail:  secretariat@pices.int  
+www.pices.int 
+   
+  
+   
+ 
+ 
+ 
+Contents 
+ 
+ 
+Executive Summary ........................................................................................................................................................... v 
+ 
+1 Introduction ................................................................................................................................................................. 1 
+2 Pollutant Priorities ...................................................................................................................................................... 3 
+2.1 Persistent bioaccumulative and/or toxic contaminants ...................................................................................... 3 
+2.2 Hydrocarbons ..................................................................................................................................................... 4 
+2.3 Metals or elements of concern ........................................................................................................................... 4 
+2.4 Microplastics and marine debris ........................................................................................................................ 5 
+2.5 Biological pollution ........................................................................................................................................... 5 
+3 Pollutant Indicators ..................................................................................................................................................... 7 
+3.1 Status and trends of pollutants over space and time ........................................................................................... 7 
+3.2 Pollutant-related risks and effects in biota ......................................................................................................... 8 
+3.3 Pollutant-related risks and effects in humans ..................................................................................................... 8 
+4 Method Development, Sharing and Inter-calibration for Marine Pollution Research and Monitoring:  
+Opportunities for PICES ........................................................................................................................................... 11 
+4.1 Analytical techniques ....................................................................................................................................... 11 
+4.2 Study designs ................................................................................................................................................... 11 
+5 Collaborative Opportunities with Other International Organizations ....................................................................... 13 
+6 Conclusions and Recommendations ......................................................................................................................... 15 
+7 References ................................................................................................................................................................. 19 
+8 Appendices ............................................................................................................................................................... 21 
+8.1 Study Group on Marine Pollutants Terms of Reference ................................................................................. 21 
+8.2 Study Group on Marine Pollutants membership ............................................................................................. 22 
+8.3 Detailed national feedback by PICES member countries ................................................................................ 24 
+8.4 Topic Session/workshop summaries and reports from past Annual Meetings ................................................. 27 
+8.5 PICES Press article .......................................................................................................................................... 46 
+ 
+ 
+  
+ 
+ 
+ 
+   
+  
+PICES Scientific Report No. 46  v 
+ 
+ 
+ 
+Executive Summary 
+ 
+ 
+The Study Group on Marine Pollutants (SG-MP, 2011–2013) brought together participation and feedback 
+from all six PICES member countries.  This report reflects the Terms of Reference established for the SG-MP 
+in 2011.   
+ 
+Following a kickoff workshop on “Pollutants in a changing ocean: Refining indicator approaches in support 
+of coastal management” at PICES-2011 (Khabarovsk, Russia), the SG-MP has since convened a workshop on 
+“Traditional seafoods of coastal aboriginal communities in the North Pacific” at PICES-2013 (Nanaimo, 
+Canada) and two Topic Sessions on “Environmental contaminants in marine ecosystems: Seabirds and marine 
+mammals as sentinels of ecosystem health” at PICES-2012 (Hiroshima, Japan) and “Status, trends and effects 
+of pollutants in coastal ecosystems: Implications for wildlife and humans” at PICES-2013.   
+ 
+Despite some variations in the priorities of member countries, there was broad agreement on a list of important 
+marine pollution issues for the North Pacific Ocean.  The expressed support of multilateral groups with shared 
+interests, including ICES (International Council for the Exploration of the Sea), GESAMP (Group of Experts 
+on Scientific Aspects of Marine Pollution) and NOWPAP (Northwest Pacific Action Plan), provides a basis for 
+collaborative efforts in the future.   
+ 
+Based on SG-MP recommendations, a new Working Group on Emerging Topics in Marine Pollution was 
+established to build on the foundation of past and current activities regarding marine pollution in the North 
+Pacific.  This Working Group plans to convene several Topic Sessions and workshops at PICES Annual 
+Meetings during 2014–2016, which is expected to lead to three special issues in international peer-reviewed 
+journals, and to make a contribution to the next PICES North Pacific Ecosystem Status Report. 
+ 
+ 
+ 
+ 
+   
+   
+ 
+Section 1  Introduction 
+PICES Scientific Report No. 46   1 
+  
+ 
+ 
+ 
+ 
+1 Introduction 
+ 
+ 
+During a workshop on “Pollutants in a changing 
+ocean: Refining indicator approaches in support of 
+coastal management” held at PICES-2011 in 
+Khabarovsk, Russia (see Appendices 8.4 and 8.5), 
+participants recommended to the Marine Environmental 
+Quality Committee (MEQ) that a Study Group on 
+Marine Pollutants be established to identify 
+opportunities for a revitalized PICES interest in this 
+topic area.  The proposal was supported by MEQ 
+and Science Board and subsequently approved by 
+Governing Council.  In order to allow its parent 
+committee, MEQ, time to re-align its Action Plan 
+with PICES’ integrative science program, FUTURE, 
+and for the SG-MP to follow suit for making 
+recommendations, the mandate of the Study Group 
+was extended in 2012 to a second year.  This report 
+summarizes the discussions carried out by the SG-
+MP in support of its Terms of Reference (Appendix 
+8.1) during 2011–2013. 
+ 
+Marine pollution is widely considered to be one of 
+the main threats from human activities to the world’s 
+oceans.  Contaminants may enter the ocean through 
+direct, point source releases (ships, municipal waste 
+water effluent, industrial discharges, and accidental 
+spills), or through indirect, non-point source means 
+(atmospheric deposition, river discharges, and 
+terrestrial runoff).  
+ 
+Some of the ‘hot topics’ pertaining to marine 
+pollution in the North Pacific Ocean include: 
+• Long-range transport and deposition of atmospheric 
+pollutants, 
+• Catastrophic and episodic pollutant releases, 
+• Effects of climate change on pollutant transport, 
+fate and effects, 
+• Oil spills, oil and gas exploration, 
+• Maritime transportation management (emissions, 
+antifoulants, and ballast water), 
+• Seafood safety (risk-benefit), 
+• Biomagnification of pollutants in food webs, 
+• Marine debris and  microplastics, 
+• Aquaculture, 
+• Radiation, 
+• ‘Pathogen pollution’ from agricultural runoff and 
+municipal waste effluent. 
+ 
+While the term ‘contaminant’ describes the release 
+of a substance from human activities into the 
+environment, the term ‘pollutant’ is typically used 
+when the contaminant impacts the health of biota or 
+humans.  Since the ‘poison is in the dose’, the extent 
+to which any one contaminant elicits adverse effects 
+depends on the sensitivity of the organism in 
+question and the concentration of the contaminant in 
+its habitat. 
+ 
+The use, release, and/or disposal of approximately 
+100,000 chemicals on the global market has direct 
+implications for the health of the world’s oceans 
+since they represent the ultimate ‘sinks’ for 
+anthropogenic pollutants.  While risk assessments 
+and/or technical documentation provide decision 
+makers in national governments with elementary 
+chemical, physical, and toxicological information in 
+support of national regulations, there is very little 
+information on the fate and effects of chemicals in 
+the marine environment.  This underscores the 
+distinct need for research, and for information sharing, 
+in the area of marine pollution in the North Pacific. 
+ 
+While monitoring of specific contaminants entering 
+the ocean typically reflects the need to assess the 
+adequacy of regulations or compliance with discharge 
+permits, research tends to be carried out by scientists 
+in support of a management question, the needs of a 
+granting agency, or a government priority.  However, 
+curiosity has often created the impetus for research 
+pursued by individual investigators. 
+ 
+This report does not provide a comprehensive 
+overview of all pollution issues that are relevant to 
+the PICES community.  However, it does give input 
+to the broader PICES community on: 
+Introduction  Section 1   
+2  PICES Scientific Report No. 46 
+• some of the priority pollutants in the North 
+Pacific Ocean as identified by scientists from 
+PICES’ six member countries. 
+• some of the promising indicator approaches or 
+‘sentinel species’ that are being used within the 
+PICES community, or elsewhere, and could be 
+used more widely across PICES member 
+countries. 
+• some of the opportunities to share technical 
+information on logistical, analytical, and/or field 
+study methods in support of improved and/or 
+standardized methodologies that could be used by 
+all PICES member countries. 
+ 
+Feedback from national representatives of the six 
+PICES member countries (Appendix 8.2) throughout 
+2011–2013 (Appendix 8.3) provided the basis for 
+this document. Deliberations were used to answer 
+the points above, and to identify activities and 
+opportunities for PICES to build on its marine 
+pollution capacity, alone or in partnership with 
+select international organizations.  A framework 
+document prepared prior to PICES-2012 in 
+Hiroshima served as a basis for a one-day SG-MP 
+meeting (see Appendix 8.4). Participants at this 
+meeting strengthened and clarified the framework 
+for the report, drafted and annotated final draft text 
+for the report, and developed proposals for 
+consideration by MEQ and Science Board.  Further 
+discussions during 2012–2013 culminated in a final 
+meeting at PICES-2013 in Nanaimo, Canada.  The 
+ultimate objective of the SG-MP was to design a 
+proposal (plan) for future PICES activities related to 
+marine pollution. 
+ 
+ 
+  
+Section 2  Pollutant Priorities 
+PICES Scientific Report No. 46  3 
+ 
+ 
+ 
+ 
+2 Pollutant Priorities 
+ 
+ 
+The diversity of contaminants entering the ocean 
+from human activities makes it necessary to 
+summarize and prioritize contaminants by broad 
+category.  While SG-MP members from each PICES 
+member country provided slightly divergent lists of 
+top pollutant concerns, there was broad agreement 
+on a basic list of common interests in the North 
+Pacific Ocean.  There was also tacit recognition that 
+contaminants are not measured in environmental 
+matrices simply to describe their presence, absence, 
+or trends but more importantly because they can 
+present risks to the health of wildlife and/or humans. 
+ 
+The evaluation of status, trends, and effects of 
+different pollutants of concern in the North Pacific 
+Ocean provides ecosystem-based information in 
+support of chemical regulations, source control, 
+seafood consumption guidelines or advisories, and 
+fisheries management.  The ultimate goal of marine 
+pollution research and monitoring is to reduce the 
+release of pollutants that can affect commercial and 
+recreational fisheries, endangered wildlife, and 
+human health.  Major categories of pollutants in the 
+North Pacific include the following. 
+ 
+2.1 Persistent bioaccumulative and/or toxic 
+contaminants  
+Definition  
+Persistent bioaccumulative and/or toxic (PBT) 
+chemicals, consisting of both ‘legacy pollutants’ and 
+‘emerging pollutants’, represent a group of 
+substances that are not easily degraded, accumulate 
+in organisms, and exhibit an acute or chronic 
+toxicity.  They may, therefore, pose serious concerns 
+for human and environmental health.  
+Context  
+Many PBT compounds are also semi-volatile, a 
+property which permits these compounds to vaporise, 
+undergo long-range transport through air and water, 
+and finally deposit far from their point of release, 
+such as a neighbouring country, the open ocean, 
+polar regions, and alpine environments.  Because of 
+these features, PBTs are considered a major global 
+environmental concern.  While the Stockholm 
+Convention facilitated the development of national 
+regulations which have reduced the concentrations 
+of many ‘legacy’ pollutants, the persistence of these 
+pollutants means that many continue to present risks 
+to biota.  Research is also needed to document the 
+trends and effects of many unregulated ‘emerging 
+pollutants’. PICES member countries will all benefit 
+from an ocean-wide approach to examine priority 
+marine pollutants. 
+Relevance  
+Contamination of the marine environment by PBT 
+substances degrades the integrity of valuable 
+ecosystem components and threatens seafood safety. 
+PBT substances have been shown to accumulate in 
+abiotic matrices in coastal areas adjacent to sources, 
+amplify in high trophic level organisms (some fish, 
+seabirds and marine mammals), and in commercially 
+available invertebrates and fish. The accumulation of 
+PBT substances in marine organisms has been 
+shown to cause mutation, cancer, endocrine disruption, 
+immunosuppression and developmental abnormalities. 
+Study in the Pacific region  
+Monitoring of PBT substances in coastal environments 
+is carried out by individual nations, with few 
+examples of information sharing or international 
+cooperation in the North Pacific Ocean.  
+ 
+Important PBT pollutants of concern identified by 
+SG-MP members were:  
+• Polychlorinated biphenyls (PCBs), 
+• Organochlorine pesticides, 
+• Dioxins/furans, 
+• Organic flame retardants (PBDEs, HBCD), 
+• Perfluorinated compounds, 
+• Current-use pesticides and formulants, 
+Pollutant Priorities  Section 2 
+4  PICES Scientific Report No. 46 
+• Antifoulants (organotins, creosote, wood preser-
+vatives, copper, zinc pyrithione, irgarol), 
+• Pharmaceuticals and personal care products 
+(PPCPs).   
+ 
+2.2 Hydrocarbons  
+Definition  
+Organic compounds are comprised of hydrogen and 
+carbon, and usually do not contain an oxygen atom. 
+Hydrocarbons are classified into two main groups 
+according to chemical structure: aliphatics and 
+aromatics.  
+Context  
+Hydrocarbons are the primary components of 
+petroleum such as crude oil and fuel, sometimes 
+derived from coal.  Alkane, the main aliphatic 
+hydrocarbon, is very abundant in petroleum and 
+susceptible to microbial degradation in marine 
+environments. There are fewer aromatic hydrocarbons 
+than aliphatics in petroleum. However, aromatic 
+hydrocarbons are more resistant to microbial 
+degradation such that some recalcitrant aromatic 
+hydrocarbons remain in marine environments for 
+prolonged periods of time.  There are two groups of 
+polycyclic aromatic hydrocarbons (PAHs) according 
+to their origins: petrogenic and pyrogenic. 
+Hydrocarbon contamination in marine environments 
+is considered an index of human activity. PAHs are 
+regarded as mid- or long-range (trans-boundary) 
+transport air pollutants. 
+Relevance 
+Some aromatic hydrocarbons are known to exert 
+adverse effects in aquatic biota, and some high 
+molecular weight PAHs such as benzo(a)pyrene are 
+known to be potent carcinogens.  Concentrations of 
+PAHs in sediments can readily exceed sediment 
+quality guidelines near industrial centers (e.g., 
+harbours, sewage outfalls, steel works, and 
+petroleum refineries). 
+Study in the Pacific region:  
+PAHs are studied in some locations by PICES 
+member countries, but there exist no multi-national 
+or international monitoring networks or programs in 
+the North Pacific region.  PAH measurements are 
+carried out following oil spills.  
+ 
+A number of approaches to measuring the thousands 
+of naturally-occurring and anthropogenic PAHs 
+exist, but Study Group members categorized the 
+determination of PAHs as follows: 
+• Pyrogenic and petrogenic PAHs (e.g., 16 U.S. 
+EPA PAHs and alkylated PAHs), 
+• Total petroleum hydrocarbons (TPHs) as a bulk 
+indicator during spills. 
+ 
+2.3 Metals or elements of concern  
+Definition  
+A number of elements have been identified that may 
+pose risks to the health of marine biota or humans.  
+These include metals such as mercury (Hg), lead (Pb) 
+and cadmium (Cd), which occur naturally in marine 
+food webs but can reach harmful levels through both 
+natural processes (e.g., Cd in shellfish due to 
+geology and upwelling; methyl-Hg in high trophic 
+level biota from biomagnification) and human 
+activities (e.g., Hg due to release from coal-fired 
+generating stations). 
+Context  
+Metals/elements.  
+Relevance  
+High levels of certain elements can present a risk to 
+some wildlife and humans. Depending on the 
+element, these risks can be attributed to point 
+sources or activities, feeding ecology (e.g., filter-
+feeders which can concentrate some elements), 
+specific tissues (some elements are concentrated in 
+the liver or other organs), or high trophic levels 
+(such as the amplification of methyl-Hg in marine 
+food webs). 
+Study in the Pacific region 
+Important elements of concern identified by Study 
+Group members were:  
+• Mercury (Hg) and methyl-Hg, 
+• Lead (Pb), 
+• Cadmium (Cd), 
+• Radionuclides. 
+  
+Section 2  Pollutant Priorities 
+PICES Scientific Report No. 46  5 
+2.4 Microplastics and marine debris 
+Definition  
+These ‘structural pollutants’ may be defined as any 
+manufactured or processed solid waste material 
+(typically inert) that enters the marine environment 
+from any source (marine litter, floatables) (Coe and 
+Rogers, 1997).  Microplastics are small plastic 
+marine debris less than 1 or 5 mm in size (depending 
+on criteria for size definition).  Microplastics are 
+either intentionally manufactured (‘primary 
+microplastics’, e.g., pellets, scrubbers, and abrasives) 
+or result from the breakdown of larger items 
+(‘secondary microplastics’, e.g., plastic fragments, 
+fibers and sheets). 
+Context  
+Marine debris, especially microplastics, is a global 
+concern, as it transcends national boundaries and can 
+lead to trans-Pacific movement.  Plastic debris in the 
+ocean is persistent and is expected to last for 
+hundreds of years.  The global production of plastics 
+is increasing, suggesting that the North Pacific may 
+face increasing pressures from plastic pollution. 
+Relevance  
+Marine debris causes direct adverse effects on a 
+variety of marine animals (seabirds, marine 
+mammals, sea turtles, and fish) by entanglement and 
+ingestion.  While ‘macroplastics’ can cause obvious 
+and lethal effects, microplastics present a more 
+poorly understood risk to biota.  Microplastics may 
+be ingested and may contain absorbed toxic 
+chemicals and additives.  There is increasing 
+evidence of the occurrence of microplastics in 
+various marine animals, from invertebrates to marine 
+mammals, including seafood stuffs (mussel, crab 
+and fish stomachs).  In addition, marine debris can 
+transport non-indigenous species across the ocean. 
+Marine debris, including microplastics, currently 
+causes visible and tangible socio-economic impacts 
+by affecting tourism, the fisheries industry, maritime 
+safety, and ecosystem services. 
+Study in the Pacific region  
+The identification of the ‘North Pacific Garbage 
+Patch’ highlights the pan-Pacific nature of this 
+problem.  There are increasing numbers of reports 
+about marine debris in coastal areas of the Pacific, 
+but few documenting microplastics.  There exist no 
+multi-lateral or international efforts to document or 
+track marine debris or microplastics trends or effects 
+in the North Pacific Ocean. 
+ 
+2.5 Biological pollution  
+Definition  
+Because of the high population density in some parts 
+of the North Pacific Rim, coastal environments face 
+a variety of pollution problems involving marine 
+organisms, e.g., bacteria contamination which is 
+mostly caused by fecal coliform, and harmful algal 
+blooms caused by eutrophication which may lead to 
+human health risk by shellfish toxins.  
+Context  
+Fecal coliform is commonly used as an indicator of 
+fecal contamination, more specifically of E. coli 
+which is an indicator microorganism for other 
+pathogens that may be present in feces.  
+ 
+Eutrohpication is caused mainly by excess nutrients, 
+with the two most important kinds being nitrogen 
+and phosphorus.  
+ 
+In shellfish, five groups of toxins have been 
+distinguished: paralytic shellfish toxins causing 
+paralytic shellfish poisoning (PSP), diarrhetic 
+shellfish toxins causing diarrhetic shellfish 
+poisoning (DSP), amnesic shellfish toxins causing 
+amnesic shellfish poisoning (ASP), neurotoxic 
+shellfish toxins causing neurotoxic shellfish 
+poisoning (NSP), and azaspiracid shellfish toxins 
+causing azaspiracid shellfish poisoning (AZP).  All 
+these toxins have been recorded to cause mortality in 
+people consuming shellfish.  
+Relevance  
+High concentrations of fecal coliform can harm 
+marine environments and the human dimension (e.g., 
+aquaculture, recreational beaches).  Large quantities 
+of fecal coliform bacteria in coastal areas, especially 
+in bathing areas and coastal resorts, may indicate a 
+higher risk of pathogens being present in the 
+waterbody.  Some waterborne pathogenic diseases 
+that may coincide with fecal coliform contamination 
+include ear infections, dysentery, typhoid fever, viral 
+and bacterial gastroenteritis, and hepatitis A.  The 
+Pollutant Priorities  Section 2 
+6  PICES Scientific Report No. 46 
+presence of fecal coliform tends to affect humans 
+more than it does aquatic organisms, though not 
+exclusively.  Therefore, it is a compulsory indicator 
+monitored for beach and coastal recreation areas.  
+ 
+Although nutrients are essential for organisms to live, 
+too much in the ocean, especially in the coastal area, 
+e.g., a bay, can cause some problems.  In the North 
+Pacific Rim, excess amounts of nitrogen and 
+phosphorus are the main cause of the poor health of 
+the oceans, e.g., eutrophication or algal blooms. 
+Some species of harmful algal blooms can produce 
+shellfish toxins, which can not only do harm to 
+marine biota, e.g., mussels, scallops, crabs, and fish 
+but can also pose a risk to human health via the 
+seafood containing the toxins, resulting in adverse 
+social and economic effects for coastal communities. 
+Study in the Pacific region  
+In the PICES member countries, fecal coliform has 
+to be monitored in bathing areas and coastal 
+recreational areas.  Nutrients, especially nitrogen 
+and phosphorus, are the most important items for the 
+regular monitoring program, and shellfish toxins 
+have to be assayed to ensure the safety of seafood. 
+Biological pollutants of potential concern include: 
+• Fecal coliform, 
+• Nutrients, 
+• Shellfish toxins. 
+ 
+  
+Section 3  Pollutant Indicators  
+PICES Scientific Report No. 46  7 
+ 
+ 
+ 
+3 Pollutant Indicators  
+ 
+ 
+Indicators of pollution represent approaches to 
+pollution research and monitoring that are practical, 
+relevant, scientifically defensible, and cost-effective. 
+The choice of indicator varies with the pollutant(s) 
+being targeted.  They can provide an effective 
+integrated message to managers (e.g., response to 
+regulations, source control, remediation, risk-based 
+evaluation of seafood safety, general ecosystem 
+indicators).  While a variety of matrices supply 
+measures of environmental contamination (air, water, 
+sediments), indicators give broader context, e.g., 
+toxicological, physiological, ecological, health. SG-
+MP members reviewed some of the indicator 
+approaches that are being used in some countries, 
+but could also be applied more broadly in support of 
+data sharing in PICES. 
+ 
+3.1 Status and trends of pollutants over space 
+and time 
+ 
+Water is both a route of exposure to organisms and a 
+transport pathway for pollutants.  As a matrix or 
+medium, water can be limited due to the dilution of, 
+for example, hydrophobic pollutants, leading to low 
+concentrations and analytical challenges.  Recent 
+studies of both persistent organic contaminants and 
+specific current-use pesticides have reported net 
+deposition to the North Pacific (Ding et al., 2007; 
+Cai et al., 2012). 
+ 
+Sediments are habitat for infauna and other benthic 
+organisms, a sink/reservoir for many pollutants, and 
+a route of exposure.  Sediments are valuable for 
+indicating both recent localized accumulation of 
+contaminants, and through use of cores, temporal 
+trends from long-term deposition.  Sediments have 
+been used to demonstrate the increased deposition of 
+PAHs to the East China Sea (Guo et al., 2006). 
+Sediment cores have shown the long-term history of 
+PCB and PBDE contamination to the Salish Sea 
+(Johannessen et al., 2008). 
+ 
+Air is a pathway of dispersion and transport as well 
+as a potential route of exposure for many pollutants. 
+Air sampling is valuable for documenting episodic 
+events due to fast dispersion and transport time and 
+short sampling periods.  Recent examples have 
+documented outflow of organic pollutants from 
+sources in Asia and deposition to the North Pacific 
+(Primbs et al., 2007) or to the Arctic.  
+ 
+Shellfish are effective accumulators and integrators 
+of pollutants adhered to particles suspended and 
+transported in the water column.  Therefore, they 
+indicate specific particle-bound pollutants such as 
+PAHs, other organic pollutants, and heavy metals. 
+Recent studies have made effective use of mussels 
+and other shellfish to show temporal trends of heavy 
+metals in coastal and open waters of the Northwest 
+Pacific (Kavun et al., 2002; Kovekovdova et al., 2006). 
+ 
+Marine mammals are often long-lived top predators, 
+with large habitat needs and can, therefore, serve as 
+sentinels of marine food web contamination (Ross et 
+al., 2000).  Recent studies of harbour seals have 
+revealed declining temporal trends in a number of 
+flame retardant contaminants, reflecting response to 
+regulations (Ross et al., 2013).  
+ 
+Seabirds are widely distributed, feeding on a range 
+of marine organisms from zooplankton to fish, and 
+so can effectively sample pollutant accumulation in 
+different components of the marine environment. 
+They can also be active biotransporters of pollutants. 
+A variety of recent studies have reported temporal 
+and spatial trends of organic pollutants and heavy 
+metals in marine birds from the North Pacific 
+(Harris et al., 2003; Ueno et al., 2003; Finklestein et 
+al., 2006).  
+ 
+Fish, due to their biodiversity and economic value, 
+contribute extensively to marine ecosystem services. 
+Fish integrate contaminants over the full range of 
+benthic to pelagic compartments and can act as 
+biotransport vectors from marine to terrestrial 
+ecosystems.  Many recent studies have used fish as 
+bioindicators of organic and inorganic pollutants 
+(Boyarova et al., 2004; Cullon et al., 2009; 
+Lukyanova, 2013).  
+Pollutant Indicators  Section 3 
+8  PICES Scientific Report No. 46 
+    
+Benthos, such as polychaetes or crustaceans, 
+accumulate pollutants mainly from detritus in 
+sediments.  Thus, they indicate/reflect the pollution 
+in sediments. They are also important in benthic–
+pelagic coupling processes through being eaten by 
+other marine organisms such as flatfish.  
+ 
+Seaweeds accumulate heavy metals effectively in 
+their cell walls and can be used for site-specific 
+monitoring of local contamination from mining and 
+other natural and anthropogenic sources (Khristoforova 
+and Kozhenkova, 2002; Khristoforova and Chernova, 
+2005; Kozhenkova et al., 2012).  
+ 
+Microplastics are plastic particles from industrial 
+feed stock for plastic products or degraded plastics 
+discharged along with human activities.  Although 
+they are considered as pollutants themselves, their 
+persistence in the marine environment and their 
+capacity to attract hydrophobic pollutants enable 
+them to serve as an indicator of pollutant transfer in 
+the North Pacific.  Recent studies demonstrate the 
+ability to monitor PCBs, DDTs, and HCHs 
+worldwide, including the North Pacific (Ogata et al., 
+2009; Andrady, 2011). 
+ 
+3.2 Pollutant-related risks and effects in biota 
+ 
+Evidence of specific effects of contaminants from 
+subtle early-warning molecular responses to 
+population- or community-level impacts leading to 
+loss of ecosystem stability, productivity, diversity, 
+and other services include the following.  
+ 
+Shellfish have been extensively used in, for example, 
+Mussel Watch programs to test for levels of both 
+pollutants and endpoints such as metabolic 
+disturbances, e.g., oxidative stress, and formation of 
+DNA adducts (Choi et al., 2010; Lukyanova et al., 
+2009).  
+ 
+Marine mammals have some of the highest levels of 
+persistent contaminants found in the world’s animals. 
+While the complex contaminant mixtures to which 
+marine mammals are exposed make it difficult to 
+identify effects attributed to single chemicals, 
+carefully controlled studies have observed PCB-
+related effects in free-ranging harbour seals, ringed 
+seals and killer whales using cellular and molecular 
+techniques (Mos et al., 2006; Routti et al., 2010; 
+Buckman et al., 2011). Life history-based modelling 
+techniques have described the PCB risks to long-
+lived marine mammals wherein killer whales from 
+the Northeast Pacific will not be ‘protected’ from the 
+adverse effects of PCBs until the end of the 21
+st
+ 
+Century (Hickie et al., 2007). 
+ 
+Seabirds and aquatic counterparts have been widely 
+used to study the effects of persistent bio-
+accumulative and toxic (PBT) compounds on biota. 
+Endpoints investigated range from molecular 
+biomarkers such as induction of specific P450 
+enzymes to critical life history parameters, 
+reproduction and survival, and even population 
+stability (Sanderson et al., 1994; Harris et al., 2003). 
+ 
+Fish, especially flatfish, given their ecologic and 
+commercial importance, have been extensively 
+researched for the effects of pollutants.  Endpoints 
+include molecular biomarkers, neoplasia, endocrine 
+disruption, reproduction, survival and population 
+stability, including commercially important species, 
+and subsequent impacts on fisheries and coastal 
+communities.  
+ 
+Benthos have been used extensively to assess the 
+extent of organically rich conditions.  For example, 
+specific polychaete species become abundant in such 
+conditions.  In meiobenthic communities, copepods 
+are more vulnerable than nematodes to low oxygen 
+and higher concentration of PCBs. 
+ 
+3.3 Pollutant-related risks and effects in humans  
+ 
+The North Pacific supplies food for many people, 
+with coastal and aboriginal communities relying on 
+seafood much more heavily than other segments of 
+the population. While seafoods provide an important 
+source of nutrients, they also represent a dietary 
+source of contaminants of potential concern.  This 
+implies the need for an evaluation of both risks and 
+benefits associated with the various foods consumed. 
+Protecting these aquatic foods from contamination is 
+in the best interest of people or populations that 
+depend heavily on fish and other seafood. 
+ 
+The general population  
+While contaminants (notably those with PBT 
+properties) are found in all foods, aquatic foods can 
+have higher contaminant concentrations compared to 
+terrestrial foods.  This is due to the preferential 
+partitioning into the lipids of aquatic food webs and 
+the food web-based amplification of many persistent 
+contaminants.  Studies have documented adverse 
+Section 3  Pollutant Indicators 
+PICES Scientific Report No. 46  9 
+effects in humans, but typically such reports have 
+been limited to occupation and/or accidental 
+exposures.  
+ 
+Vulnerable communities or segments of the population 
+Some segments of the general population or some 
+communities are at increased risk of heightened 
+exposure to persistent contaminants.  Neonates are 
+typically exposed to higher levels of persistent 
+contaminants than adults at a time when they are 
+most sensitive.  Studies have found that PCBs and 
+related compounds are associated with ‘small for 
+gestational age’ at birth, disruption of endocrine 
+systems, reduced immune function, lasting spatio-
+motoral skills deficits, and reduced I.Q. in the more 
+exposed individuals (Koopman-Esseboom et al., 
+1996, 1997).  In addition, some communities with 
+individuals who consume large quantities of 
+seafoods have been shown to be more contaminated 
+and to exhibit increased frequencies of adverse 
+health outcomes (Jacobson and Jacobson, 1996). 
+These communities can include coastal populations, 
+sportfishers, recreational fishers, and immigrant 
+communities. 
+ 
+Aboriginal communities 
+The surprising discovery in the 1980s that Canada’s 
+Inuit people in the Far North were some of the 
+world’s most contaminated people underscored the 
+capacity of chemicals to undergo long-range 
+transport and the special vulnerability of people who 
+consume large quantities of fish and marine 
+mammals (Dewailly et al., 1989).  
+  
+ 
+ 
+ 
+  
+Section 4  Method Development  
+PICES Scientific Report No. 46  11 
+ 
+ 
+ 
+4 Method Development, Sharing and Inter-calibration for Marine 
+Pollution Research and Monitoring: Opportunities for PICES  
+ 
+ 
+4.1 Analytical techniques 
+ 
+There exists a variety of means of detecting and 
+quantifying trace amounts of chemicals, biological 
+markers and measures of individual or population 
+health.  However, there is an urgent need to improve 
+comparability across studies and laboratories.  Some 
+examples where such a need is evident include: 
+• Standardized methods to characterize and quantify 
+microplastics, 
+• Inter-laboratory calibration exercises for chemical 
+analysis, 
+• Sediment chemistry normalization techniques, 
+• Hydrocarbon fingerprinting, 
+• Biomarkers for exposure and effect (e.g., 
+imposex from organotins, endocrine disruption in 
+fish and wildlife), 
+• Pathogen identification (biological pollution, 
+bacterial source tracking), 
+• New approaches to considering the cumulative 
+risks associated with complex mixtures (humans 
+and wildlife). 
+4.2  Study designs 
+ 
+There exists a variety of field methodologies, survey 
+designs or sampling regimes that generate new 
+insight into ocean pollution.  However, there is a 
+distinct need to adopt Pacific-wide approaches in 
+order to improve comparability of results, as well as 
+new approaches to evaluating the cumulative 
+impacts of pollution: 
+• New risk assessment approaches for wildlife 
+using data from environmental media (water, 
+sediment, prey), 
+• A North Pacific monitoring program (e.g., 
+International Pellet Watch, U.S. Mussel Watch, 
+passive air and water samplers, seabird eggs and 
+feathers, marine mammal blubber), 
+• Sampling of marine mammals and seabirds using 
+non-destructive techniques, 
+• Looking at confounding factors in study design 
+and how to avoid them, 
+• Improvement of ship-based sampling techniques, 
+especially air, 
+• Development of a rapid response strategy 
+(equipment, personnel, protocol). 
+  
+ 
+   
+ 
+  
+Section 5  Collaborative Opportunities 
+PICES Scientific Report No. 46  13 
+ 
+ 
+ 
+5 Collaborative Opportunities with Other International 
+Organizations  
+ 
+ 
+Two international organizations, ICES (International 
+Council on the Exploration of the Sea) and GESAMP 
+(Group of Experts on the Study and Assessment of 
+Marine Pollution) have thus far indicated an interest 
+in the outcomes of the SG-MP. NOWPAP (Northwest 
+Action Plan) has also shown an interest in possible 
+collaboration. Joint activities (topic sessions, workshops, 
+inter-laboratory calibration exercises, and integrated 
+assessments) between PICES and other organizations 
+will provide leveraging and added value.  Current 
+expert groups and activities on marine pollution for 
+ICES include: 
+• WG on Marine Litter (WG-ML; proposed for 2014),  
+• WG on Biological Effects of Contaminants (WGBEC),  
+• WG on Marine Chemistry  (MCWG),  
+• WG on Marine Sediments (WGMS), 
+• WG on Pathogens and Diseases of Marine 
+Organisms (WGDMO), 
+• SCICOM Steering Group on Human Impacts on 
+the Environment (SSGHIE), 
+• Integrated assessments on ecosystems (5 regional 
+WGs),  
+GESAMP provides independent assessment of global 
+datasets, advising the UN and sponsors, and identifying 
+new and emerging chemicals (foresight). GESAMP 
+efforts usually involve expert groups in a 3-year term. 
+These currently include: 
+• WG 1: EHS Working Group (evaluating the transport 
+of hazardous substances), 
+• WG 34 on Ballast Water, 
+• WG 37 on Mercury and Its Compounds (metal 
+inputs, distribution and fate, particularly Hg), 
+• WG 38 on Atmospheric Input of Chemicals to the 
+Ocean (open ocean; nutrients, dust and iron; ship 
+emissions; CO
+2
+ drawdown/acidification), 
+• WG 39 on Global Trends in Pollution of Coastal 
+Ecosystems (history of ocean pollution through 
+sediment cores (IAEA dated cores; may expand to 
+corals, mussels, etc. using laser ablation), 
+• WG 40 on Sources, Fate and Effects of Micro-
+plastics in the Marine Environment – A Global 
+Assessment. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+Section 6  Conclusions and Recommendations 
+PICES Scientific Report No. 46  15 
+ 
+ 
+ 
+6 Conclusions and Recommendations 
+ 
+ 
+While the SG-MP pondered some of the many 
+pollution concerns in the North Pacific, the members 
+concluded that it would be worth targeting a few 
+selected topics for examination.  In this light, the 
+SG-MP proposed to establish a new Expert Group 
+on Emerging Topics in Marine Pollution (EG-ETMP) 
+in order to provide leadership on this topic in PICES 
+by convening a series of Topic Sessions and 
+workshops, by organizing special issues in 
+international peer-reviewed journals, and by 
+contributing to the next PICES North Pacific 
+Ecosystem Status Report.  The active engagement of 
+all six PICES member countries throughout the two 
+years of activities convened by the SG-MP suggests 
+that there exists broad support for this new Expert 
+Group, the proposal of which is provided below. 
+ 
+General objectives 
+ 
+Pollution can adversely affect the health and 
+abundance of marine biota, especially in densely-
+populated coastal areas.  The downstream socio-
+economic consequences can be significant, with 
+numerous examples of consumption advisories, 
+commercial fishery closures, commercial trade 
+interdictions and diminished aboriginal access to 
+food resources around the North Pacific Ocean.  The 
+protection of ecosystem health and services requires 
+an ability to detect emerging pollutant issues before 
+serious adverse impacts arise.  Regulations, policies 
+and other management actions resulting from marine 
+pollution research in the past have led to dramatic 
+declines in environmental concentrations of a number 
+of harmful pollutants, subsequently improving the 
+health of marine biota.  
+ 
+The proposed EG-ETMP will provide leadership on 
+emerging pollution issues to the PICES community, 
+reporting through the MEQ Committee.  The group 
+will convene a series of timely Topics Sessions and 
+workshops, and coordinate special issues in 
+international peer-reviewed journals.  The EG-
+ETMP will ensure the continued availability of 
+expertise on marine pollutants within PICES, and 
+deliver guidance to the FUTURE Advisory Panels 
+(notably AP-AICE and AP-SOFE).  The group will 
+collaborate with other PICES expert groups in co-
+convening activities or compiling data.  Importantly, 
+the proposed EG will address the question identified 
+in the FUTURE Science Plan “How do human 
+activities affect coastal ecosystems and how are 
+societies affected by changes in these ecosystems?”  
+ 
+Terms of Reference 
+ 
+1. Document and profile emerging marine pollution 
+issues in the North Pacific Ocean within the 
+PICES community by:  
+a. convening Topic Sessions and workshops on 
+new and emerging pollutants and pollution 
+issues; 
+b. coordinating a series of special issues in 
+international peer-reviewed journals based on 
+Topic Sessions.  
+2. Compile data on pollution indicators describing 
+spatial and temporal status, trends and impacts in 
+the North Pacific Ocean in support of a 
+contribution to the next edition of the PICES 
+North Pacific Ecosystem Status Report.  
+3. Strengthen partnerships to deliver Topic 
+Sessions/workshops and to publish special issues 
+with: 
+a. other PICES expert groups, especially those 
+identified in the FUTURE Science Plan; 
+b. other multilateral organizations, including the 
+International Council for the Exploration of 
+the Sea (ICES), the Joint Group of Experts on 
+the Scientific Aspects of Marine Environ- 
+mental Protection (GESAMP), and the 
+Northwest Pacific Action Plan (NOWPAP). 
+4. Contribute to FUTURE by publishing a final 
+report summarizing results of Expert Group 
+deliberations.
+ 
+ 
+  
+Conclusions and Recommendations  Section 6 
+16  PICES Scientific Report No. 46 
+Proposed activities 2014–2016  
+ 
+The Expert Group on Emerging Topics in Marine 
+Pollution will engage in specific activities that will 
+identify contaminants of emerging concern, 
+prioritize pollutants from the many sources, and 
+assess the relative importance of pollutants among 
+other natural and anthropogenic stressors.  Members 
+will contribute to discussions and strategic planning 
+with the MEQ Committee as well as through other 
+PICES expert groups.  The proposed group will 
+build on the success of a number of activities carried 
+out by the SG-MP, including two workshops (2011, 
+Khabarovsk: Pollutants in a changing ocean: 
+Refining indicator approaches in support of coastal 
+management and 2013, Nanaimo: Traditional 
+seafoods of coastal aboriginal communities in the 
+North Pacific: Insight into food, social and 
+ceremonial uses at Snuneymux’w First Nation in 
+Nanaimo, British Columbia) and two Topic Sessions 
+(2012, Hiroshima: Environmental contaminants in 
+marine ecosystems: Seabirds and marine mammals 
+as sentinels of ecosystem health; 2013, Nanaimo: 
+Status, trends and effects of pollutants in coastal 
+ecosystems: Implications for wildlife and humans). 
+The proposal for establishing this Expert Group will 
+benefit from the current support of ICES and 
+GESAMP. 
+ 
+Topic Sessions at PICES Annual Meetings 
+• 2014: Marine debris in the North Pacific Ocean: 
+source, transport, fate and effects of macro- and 
+micro-plastics (solicit expert input from WG 29 
+on the role of ocean currents in shaping marine 
+debris transport and fate; co-sponsored by 
+NOWPAP, GESAMP and ICES); 
+• 2015: Indicators of emerging marine pollution 
+issues in the North Pacific Ocean (co-convene a 
+session with WG 28 on multiple stressors, WG 
+30 on radiation, and S-HD, and with support of 
+AP-SOFE, AP-AICE and AP-MBM); 
+• 2016: Sources, transport and fate of hydrocarbons 
+in the marine environment, including oil spills, 
+vessel emissions, long-range transport (co-
+convene a session with partners to be determined, 
+and with support of AP-AICE). 
+ 
+Meetings/Workshops 
+• 2014: EG-ETMP meeting, data compilation; 
+• 2015: Indicators of emerging marine pollution 
+issues in the North Pacific Ocean (co-convene a 
+data compilation workshop with WG 28, and 
+with support of AP-MBM); 
+• 2016: Oil spill monitoring and characterization 
+(co-convene a workshop with the Korean Institute 
+of Ocean Science and Technology (KIOST)). 
+ 
+Special journal issues 
+• 2015:  Marine debris in the North Pacific; 
+• 2016:  North Pacific pollution indicators; 
+• 2017:  Sources, transport and fate of hydrocarbons 
+in the North Pacific.   
+ 
+Compilation of data for marine pollution 
+Compiled data for marine pollution indicators and 
+findings will be delivered to multiple PICES expert 
+groups, in particular to AP-SOFE, in support of the 
+next North Pacific Ecosystem Status Report. 
+ 
+The Expert Group will directly address the following 
+questions of the FUTURE program: 
+3. How do human activities affect coastal ecosystems 
+and how are societies affected by changes in these 
+ecosystems? 
+3.1 What are the dominant anthropogenic pressures 
+in coastal marine ecosystems and how are they 
+changing?  
+• By characterizing emerging pollution priorities in 
+the North Pacific Ocean. 
+ 
+3.2 How are these anthropogenic pressures and 
+climate forcings, including sea level rise, affecting 
+nearshore and coastal ecosystems and their inter-
+actions with offshore and terrestrial systems? 
+• By documenting the impacts of emerging 
+pollutants in the North Pacific Ocean, especially 
+in coastal environments, and in a changing ocean 
+environment. 
+ 
+3.3 How do multiple anthropogenic stressors interact 
+to alter the structure and function of the systems, and 
+what are the cumulative effects? 
+• By collaborating with other expert groups to 
+document importance of marine pollution relative 
+to multiple stressors.  
+ 
+3.4 What will be the consequences of projected 
+coastal ecosystem changes and what is the 
+predictability and uncertainty of forecasted changes? 
+• By developing approaches to pollutant indicators 
+that account for climate variability and change. 
+Section 6  Conclusions and Recommendations 
+PICES Scientific Report No. 46  17 
+• By characterizing changing pollution risks as 
+climate changes. 
+ 
+3.5 How can we effectively use our understanding 
+of coastal ecosystem processes and mechanisms to 
+identify the nature and causes of ecosystem changes 
+and to develop strategies for sustainable use? 
+• By prioritizing pollutant sources and types in 
+support of source control, regulations and best 
+practices. 
+• By translating compiled data and findings 
+through the PICES North Pacific Ecosystem 
+Status Report to formats that are understandable 
+to the general public and a wider audience.  
+ 
+Proposed membership* 
+ 
+Recommended Co-Chairmen:  
+Peter S. Ross (Canada)  
+Won Joon Shim (Korea)  
+Olga Lukyanova (Russia) 
+ 
+Proposed members:   
+John Elliott (Canada) 
+Zhengguo Cui (China) 
+Zijun Xu (China)     
+Ziwei Yao (China) 
+Shigeru Itakura (Japan) 
+Hideaki Maki (Japan)    
+Sang Hee Hong (Korea)     
+Hyo-Bang Moon (Korea) 
+Mikhail Simokon (Russia)   
+Joel Baker (USA) 
+Staci Simonich (USA) 
+Gina Ylitalo (USA) 
+_______________ 
+*The additional members for new Expert Group on 
+Emerging Topics in Marine Pollution will be 
+designated by each PICES member country based on 
+their expertise related to the new EG topics. 
+ 
+ 
+ 
+  
+Section 7  References 
+PICES Scientific Report No. 46  19 
+ 
+ 
+ 
+7 References 
+ 
+Andrady, A.L. 2011. Microplastics in the marine environment. 
+Mar. Pollut. Bull. 62: 1596–1605. 
+Boyarova, M.D., Syasina, I.G., Prikhodko, U.V. and 
+Lukyanova, O.N. 2004. Chlorinated hydrocarbons in 
+marine organisms from Peter the Great Bay (Sea of 
+Japan). Environ. Chem. 13: 117–124 (in Russian). 
+Buckman, A.H., Veldhoen, N., Ellis, G., Ford, J.K.B., 
+Helbing, C.C. and Ross, P.S. 2011. PCB-associated 
+changes in mRNA expression in killer whales (Orcinus 
+orca) from the NE Pacific Ocean. Environ. Sci. 
+Technol. 45: 10,194–10,202. 
+Cai, M., Ma, Y., Xie, Z., Zhong, G., Moller, A., Yang, H., 
+Sturm, R., He, J., Ebinghaus, R. and Meng, X.-Z. 2012. 
+Distribution and air-sea exchange of organochlorine 
+pesticides in the North Pacific and the Arctic. J. 
+Geophys. Res. 117: 2156–2202. 
+Choi, H.G., Moon, H.B., Choi, M., Yu, J. and Kim, S.S. 
+2010. Mussel Watch program for organic contaminants 
+along the Korean coast, 2001–2007. Environ. Monitor. 
+Assess. 169: 473–485.  
+Coe, J.M. and Rogers, D.B. (Eds.) 1997. Marine Debris: 
+Sources, Impacts, and Solutions. Springer Series on 
+Environmental Management. Springer-Verlag, NY. 
+ISBN 0-387-94759-0, 432 pp.  
+Cullon, D.L., Yunker, M.B., Alleyne, C., Dangerfield, N.J., 
+O’Neill, S., Whiticar, M.J. and Ross, P.S. 2009. 
+Persistent organic pollutants in chinook salmon 
+(Onchorhynchus tshawytscha): Implications for 
+resident killer whales of British Columbia and adjacent 
+waters. Environ. Toxicol. Chem. 28: 148–161. 
+Dewailly, E., Nantel, A., Weber, J.P. and Meyer, F. 1989. 
+High levels of PCBs in breast milk of Inuit women 
+from Arctic Quebec. Bull. Environ. Contam. Toxicol. 
+43: 641–646. 
+Ding, X., Wang. X.-M., Xie, Z.-Q., Xhiang, C.-H., Mai, 
+B.-X., Sun, L.G., Zheng, M., Sheng, G.-Y. and Fu. J.M. 
+2007. Atmospheric hexachlorocyclohexanes in the 
+North Pacific Ocean and the adjacent Arctic region: 
+Spatial patterns, chiral signatures, and sea-air exchanges. 
+Environ. Sci. Technol. 41: 5204–5209. 
+Finkelstein, M., Keitt, B.S., Croll, D.A., Tershy, B., Walter, 
+M., Rodriguez-Pastor, S., Anderson, D.J., Sievert, P.R. 
+and Smith, D.R. 2006. Albatross species demonstrate 
+regional differences in North Pacific marine 
+contamination. Ecol. Appl. 16: 678–686. 
+Guo, Z., Lin, T., Zhang, G., Yang, Z. and Fang, M. 2006. 
+High resolution depositional records in the central 
+continental shelf mud of the East China Sea. Environ. 
+Sci. Technol. 40: 5304–5311. 
+Harris, M.L., Wilson, L.K., Norstrom, R.J. and Elliott, J.E. 
+2003. Egg concentrations polychlorinated dibenzo-p-
+dioxins and dibenzofurans in double-crested 
+(Phalacrocorax auritus) and pelagic (P. pelagicus) 
+comorants from the Strait of Georgia, Canada, 1973–
+1998. Environ. Sci. Technol. 37: 822–831. 
+Hickie, B.E., Ross, P.S., Macdonald, R.W. and Ford, 
+J.K.B. 2007. Killer whales (Orcinus orca) face 
+protracted health risks associated with lifetime 
+exposure to PCBs. Environ. Sci. Technol. 41: 6613–
+6619. 
+Jacobson, J.L. and Jacobson, S.W. 1996. Intellectual 
+impairment in children exposed to PCBs in utero. New 
+England J. Med. 335: 783–789. 
+Johannessen, S.C., Macdonald, R.W., Wright, C.A., Burd, 
+B., Shaw, D.P. and van Roodselaar, A. 2008. Joined by 
+geochemistry, divided by history: PCBs and PBDEs in 
+Strait of Georgia sediments. Mar. Environ. Res. 66 
+Suppl: S112–S120. 
+Kavun, V.Ya., Shulkin, V.M. and Khristoforova, N.K. 2002. 
+Metal accumulation in mussels of the Kuril Islands, 
+North-West Pacific Ocean. Mar. Envir. Res. 53: 219–
+226. 
+Khristoforova, N.K. and Chernova, E.N. 2005. Comparison 
+of the content of heavy metals in brown algae and 
+seagrasses. Doklady Biol. Sci. 400: 61–63. 
+Khristoforova, N.K. and Kozhenkova, S.I. 2002. The use 
+of the brown algae Sargassum spp. in heavy metal 
+monitoring of the marine environment near 
+Vladivostok, Russia. Ocean Polar Res. 24: 325–329. 
+Koopman-Esseboom, C., Weisglas-Kuperus, N., de Ridder, 
+M.A.J., van der Paauw, C.G., Tuinstra, L.G.M.T. and 
+Sauer, P.J.J. 1996. Effects of polychlorinated biphenyl/ 
+dioxin exposure and feeding type on infants’ mental 
+and psychomotor development. Pediatrics 97: 700–706. 
+Koopman-Esseboom, C., Huisman, M., Touwen, B.C., 
+Boersma, R.R., Brouwer, A., Sauer, P.J.J. and 
+Weisglas-Kuperus, N. 1997. Newborn infants diagnosed 
+as neurologically abnormal with relation to PCB and 
+dioxin exposure and their thyroid hormone status. Dev. 
+Med. Child Neurol. 39: 785.  
+Kovekovdova, L.T., Simokon, M.V. and Kiku D.P. 2006. 
+Toxic elements in commercial hydrobionts of the north 
+west of Japan Sea coastal waters. Vop. Rybolov 
+(Fisheries Proc.) 7: 185–190. 
+Kozhenkova, S.I., Khristoforova, N.K. and Chernova, E.N. 
+2012. Long-term monitoring of sea water pollution by 
+heavy metals in northern primorye with the use of 
+brown algae. Russian J.  Ecology 31: 211–215. 
+Lukyanova, O. 2013. Persistent Organic Pollutants in 
+Marine Ecosystems in Russian Far East: Sources, 
+Transport, Biological Effects. LAP Lambert Academic 
+Publishing, 105 pp. 
+References  Section 7 
+20  PICES Scientific Report No. 46 
+Lukyanova, O.N., Cherkashin, S.A., Nigmatulina, L.V., 
+Chernyaev, A.P., Veideman, E.L., Ireykina, S.A. and 
+Pryazhevskaya, T.S. 2009. Integral chemical-
+ecological assessment of the state of Ussuri Bay (the 
+Sea of Japan). Water Resour. 36: 586–593. 
+Mos, L., Morsey, B., Jeffries, S.J., Yunker, M.B., Raverty, 
+S., De Guise, S. and Ross, P.S. 2006. Chemical and 
+biological pollution contribute to the immunological 
+profiles of free-ranging harbor seals. Environ. Toxicol. 
+Chem. 25: 3110–3117. 
+Ogata, Y., Takada, H., Mizukawa, K., Hirai, H., Iwasa, S., 
+Endo, S., Mato, Y., Saha, M., Okuda, K., Nakashima, 
+A., Murakami, M., Zurcher, N., Booyatumanondo, R., 
+Zakaria, M.P., Dung, L.Q., Gordon, M., Miguez, C., 
+Suzuki, S., Moore, C., Karapanagioti, H.K., Weerts, S., 
+McClurg, T., Burres, E., Smith, W., Van Velkenburg, 
+M., Lang, J.S., Lang, R.C., Laursen, D., Danner, B., 
+Stewardson, N. and Thompson, R.C. 2009. 
+International Pellet Watch: Global monitoring of 
+persistent organic pollutants (POPs) in coastal waters. 
+1. Initial phase data on PCBs, DDTs, and HCHs. Mar. 
+Pollut. Bull. 58: 1437–1446. 
+Primbs, T., Simonich, S., Schmedding, D., Wilson, G., 
+Jaffe, D., Takami, A., Kato, S., Hatakeyama, S. and 
+Kajii, Y. 2007. Atmospheric outflow of anthropogenic 
+semivolatile organic compounds from East Asia in 
+spring 2004. Environ. Sci. Technol. 41: 3551–3558. 
+Ross, P., Ellis, G.M., Ikonomou, M.G., Barrett-Lennard, 
+L.G. and Addison, R.F. 2000. High PCB concentrations 
+in free-ranging Pacific killer whales, Orcinus orca: 
+Effects of age, sex and dietary preference. Mar. Pollut. 
+Bull. 40: 504–515. 
+Ross, P.S., Noël, M., Lambourn, D., Dangerfield, N., 
+Calambokidis, J. and Jeffries, S. 2013. Declining 
+concentrations of persistent PCBs, PBDEs, PCDEs, 
+and PCNs in harbor seals (Phoca vitulina) from the 
+Salish Sea. Prog. Oceanogr. 115: 160–170. 
+Routti, H., Arukwe, A., Jenssen, B.M., Letcher, R.J., 
+Nyman, M., Bäckman, C. and Gabrielsen, G.W. 2010. 
+Comparative endocrine disruptive effects of 
+contaminants in ringed seals (Phoca hispida) from 
+Svalbard and the Baltic Sea. Comp. Biochem. Physiol. 
+Part C. Toxicol. Pharmacol. 152: 306–312. 
+Sanderson, J.T., Norstrom, R.J., Elliot, J.E., Hart, L.E., 
+Cheng, K.M. and Bellward, G.D. 1994. Biological 
+effects of polychlorinated dibenzo-p-dioxins, dibenzo-
+furans, and biphenyls in double-crested cormorant 
+chicks (Phalacrocorax auritus). J. Toxicol. Environ. 
+Health 41: 247–265. 
+Ueno, D., Inoue, S., Ikeda, K., Tanaka, H.,Yamada, H. and 
+Tanabe, S. 2003. Specific accumulation of PCBs and 
+organochlorine pesticides in Japanese squid as a 
+bioindicator. Environ. Pollut. 125: 227–235. 
+ 
+ 
+  
+Section 8  Appendices 
+PICES Scientific Report No. 46  21 
+ 
+ 
+ 
+8 Appendices 
+ 
+ 
+8.1 Study Group on Marine Pollutants Terms of Reference  
+ 
+ 
+Statement of Purpose 
+ 
+The purpose of the Study Group on Marine Pollutants (SG-MP) is to identify novel or promising approaches 
+to monitoring pollutant trends over space and time, and to evaluate impacts on biota at the population level.  
+The Study Group will establish a list of priority substances and pollutant indicators in PICES member 
+countries using a series of case studies (e.g., microplastics in seawater, seabird egg monitoring for persistent 
+organic pollutants (POPs) over time; risk-based ranking of complex pollutant mixtures in sediments).  This 
+will help identify those methods or approaches that would benefit from harmonization (e.g., characterization of 
+heterogeneous microplastic content in seawater or biota), and improve data delivery and scientific advice to 
+managers and stakeholders. 
+ 
+While the SG-MP will focus on impacts to biota, linkages will be established with those efforts that describe 
+socio-economic impacts of pollution (e.g., fisheries closures, consumption guidelines, impacts on endangered 
+species, special vulnerability of coastal and indigenous peoples).  Input from regional and international bodies 
+such as ICES (International Council for the Exploration of the Sea), GESAMP (Joint Group of Experts on the 
+Scientific Aspects of Marine Environmental Protection) and NOWPAP (Northwest Pacific Action Plan), will 
+increase efficiencies and the scientific value of the SG-MP outcome. 
+ 
+The establishment of the SG-MP is consistent with the FUTURE Science Plan component 3 (How do human 
+activities affect coastal ecosystems and how are societies affected by changes in these ecosystems?), and 
+contributes insight into the structure, function and resilience of ecosystems as in components 1 and 2.  This 
+will allow a critical evaluation of highly complex pollutant mixtures, clarify priority concerns in the North 
+Pacific, and provide a platform to assess the relative importance of pollutants compared to other stressors. 
+ 
+Terms of Reference  
+ 
+1. Identify novel or promising approaches to operational marine pollution assessment in PICES member 
+countries by:  
+ a. establishing a list of priority pollutant concerns for each of the PICES member countries;  
+ b. identifying useful indicators of status, trends and effects; and  
+ c. identifying those issues or methods that would benefit from harmonization.  
+2. Identify interactions within PICES scientific committees and expert groups that will complement the Study 
+Group and will be consistent with the ecosystem approach espoused by FUTURE.  
+3. Explore potential partnerships with other professional or multilateral organizations (e.g., ICES, GESAMP, 
+NOWPAP) which could lead to joint activities (working group, sessions, publications), improve 
+efficiencies and strengthen scientific outcomes.  
+4. Develop recommendations for a possible PICES expert group on marine pollutants.  
+ 
+  
+Appendices  Section 8 
+22  PICES Scientific Report No. 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.2 Study Group on Marine Pollutants membership 
+ 
+ 
+Canada
+ 
+Peter S. Ross (Chairman) 
+Director, Ocean Pollution Science Program 
+Vancouver Aquarium 
+ 
+ 
+ 
+ 
+P.O. Box 3232 
+Vancouver, BC, V6B 3X8 
+Canada 
+E-mail: Peter.Ross@Vanaqua.org 
+ 
+ 
+ 
+Japan
+ 
+Shigeru Itakura 
+National Research Institute of Fisheries and 
+   Environment of Inland Sea, FRA  
+2-17-5 Maruishi  
+Hatsukaichi, Hiroshima 739-0452 
+Japan  
+E-mail: itakura@affrc.go.jp
+ 
+ 
+ 
+ 
+ 
+People’s Republic of China 
+ 
+Zhengguo Cui 
+Yellow Sea Fisheries Research Institute  
+Chinese Academy of Fishery Sciences  
+106 Nanjing Rd.  
+Qingdao, Shandong 266071 
+People’s Republic of China 
+E-mail: cuizg@ysfri.ac.cn  
+ 
+Zijun Xu 
+North China Sea Environmental Monitoring Center  
+North China Sea Branch of SOA  
+22 Fushun Rd.  
+Qingdao, Shandong 266000 
+People’s Republic of China  
+E-mail: zjxu77@gmail.com 
+ 
+Ziwei Yao 
+National Marine Environmental Monitoring Center 
+SOA  
+42 Linghe St., Shahekou District  
+Dalian, Liaoning 116023 
+People’s Republic of China  
+E-mail: zwyao@nmemc.gov.cn 
+ 
+ 
+ 
+ 
+Section 8  Appendices 
+PICES Scientific Report No. 46  23 
+Republic of Korea 
+ 
+Sang Hee Hong  
+Korea Institute of Ocean Science and Technology 
+(KIOST)  
+Jangmok 391  
+Geoje-shi 656-834 
+Republic of Korea  
+E-mail: shhong@kiost.ac 
+ 
+Hyo-Bang Moon 
+Department of Environmental Marine Sciences  
+Hanyang University  
+55 Hanyangdaehak-ro, Sangnok-gu  
+Ansan, Kyeonggi-do 426-791 
+Republic of Korea  
+E-mail: hbmoon@hanyang.ac.kr 
+ 
+Won Joon Shim 
+Oil and POPs Research Group  
+Korea Institute of Ocean Science and Technology 
+(KIOST)  
+Jangmok 391 
+Geoje-shi 656-834 
+Republic of Korea  
+E-mail: wjshim@kordi.re.kr
+ 
+ 
+Russia 
+ 
+Olga N. Lukyanova 
+Laboratory of Applied Ecology and Ecotoxicology  
+Pacific Research Institute of Fisheries and 
+   Oceanography (TINRO-Center)  
+4 Shevchenko Alley  
+Vladivostok, Primorsky Kray 690950 
+Russia  
+E-mail: onlukyanova@tinro.ru 
+ 
+ 
+ 
+Mikhail Simokon 
+Pacific Research Institute of Fisheries and 
+   Oceanography (TINRO-Center)  
+4 Shevchenko Alley 
+Vladivostok, Primorsky Kray 690091 
+Russia  
+E-mail: simokon@tinro.ru
+United States of America 
+ 
+Joel Baker 
+Center for Urban Waters  
+University of Washington  
+326 East D St.  
+Tacoma, WA 98421 
+USA  
+E-mail: jebaker@uw.edu 
+ 
+Staci Simonich 
+Department of Environmental and Molecular  
+   Toxicology  
+Oregon State University  
+1007 Agriculture and Life Sciences Building  
+Corvallis, OR 97331-7301 
+USA  
+E-mail: staci.simonich@oregonstate.edu
+ 
+ 
+Ex-officio member from NOWPAP 
+Vladimir M. Shulkin 
+Pacific Geographical Institute, FEB RAS  
+7 Radio St.  
+Vladivostok, Primorsky Kray 690041 
+Russia  
+E-mail: shulkin@tig.dvo.ru 
+ 
+ 
+Appendices  Section 8 
+ 
+24  PICES Scientific Report No. 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.3 Detailed national feedback by PICES member countries 
+ 
+ 
+Below are detailed country-by-country responses from which summaries in sections 2, 3, and 4 were produced. 
+ 
+Q1: Pollutant priorities  
+ 
+Canada: 
+• Persistent organic pollutants (e.g., PCBs, PBDEs, HBCD, PFOA) as per Stockholm Convention, 
+• Emerging POPs (e.g., deca BDE, HBCD, replacement flame retardants), 
+• Mercury (Hg; methyl-Hg), 
+• Petroleum hydrocarbons, 
+• Microplastics. 
+ 
+China: 
+• Nutrients (nitrate, nitrite, ammonia, phosphate, silica in water column; N:P ratio, N:Si ratio), 
+• Total petroleum hydrocarbons (TPHs): TPHs in water column and sediments, 
+• Fecal pollution in recreational waters (E. coli, fecal coliform, and Enterococcus in seawater), 
+• Shellfish toxins: PSP, DSP, ASP, Ciguatera fish poisoning, etc.  
+ 
+Japan: 
+• PBDEs, 
+• HBCDs, 
+• TBT, 
+• HBCD. 
+ 
+Korea: 
+• Organochlorine compounds (especially PCBs and DDTs), 
+• Brominated flame retardants (especially PBDEs and HBCD), 
+• Perfluorinated compounds (especially PFOA and HBCD), 
+• Microplastics.  
+ 
+Russia: 
+• POPs, 
+• Hydrocarbons, 
+• Microplastics and other marine debris, 
+• Heavy metals (Cd, Pb). 
+ 
+USA: 
+• Combustion-derived contaminants (PAHs, PCDDs, PCDFs, Hg and other metals, 
+• Episodic events (e.g., large-scale fires, oil spills, tsunamis), 
+• Marine debris including microplastics. 
+  
+Section 8  Appendices 
+PICES Scientific Report No. 46  25 
+Q2: Indicators 
+ 
+Canada: 
+• Eggs of fish-eating birds (storm petrels, alcids, cormorants), feathers, regurgitate, blood, 
+• Marine mammal (harbour seals) biopsies (skin/blubber), 
+• Sediment (surficial, sediment cores). 
+ 
+China: 
+• Shellfish monitoring for organotins (mussels and oysters), 
+• PAH fingerprints in sediments, 
+• Antibiotics and antibiotic resistance in marine aquaculture waters and sediments, and in the harvested product, 
+• PBDEs in environmental media. 
+ 
+Japan: 
+• Contaminant measurements in sediments. 
+ 
+Korea: 
+POPs: 
+Concentrations and congener patterns of POPs and biomarker (e.g., EROD activity) responses in the following 
+marine organisms: 
+• Mussels or oysters, 
+• Fish (livers and muscles), 
+• Seabirds (eggs, feather and livers), 
+• Marine mammals (Cetacean: minke whale, common dolphin, finless porpoise and seals/blubbers and livers). 
+ 
+Microplastics: 
+Abundance of microplastics (< 1 mm) and mesoplastics (> 1 mm, < 25 mm) in the following matrices: 
+• Stranded-line on shore, 
+• Microlayer at sea, 
+• Subtidal sediments, 
+• Marine organisms (visceral mass of bivalves and stomachs of fish and sea birds). 
+ 
+Russia: 
+• Shellfish, 
+• Fish (flatfish), 
+• Marine mammals and seabirds, 
+• Sediments. 
+ 
+USA: 
+• Shipboard measurements to research magnitude of the flux of chemicals to the Pacific Ocean, as well as 
+characterize their spatial distribution, 
+• Development of indicators or study designs aimed at monitoring or characterizing episodic events, 
+• No standardised methods currently available for microplastics characterization. 
+ 
+  
+Appendices  Section 8 
+ 
+26  PICES Scientific Report No. 46 
+Q3: Methods 
+ 
+Canada:  
+• Characterization and quantification of microplastics in seawater, zooplankton, other biota (fish, seabirds, 
+marine mammals), 
+• New approaches to characterizing risks to wildlife from contaminants in environmental media (prey, water, 
+sediments) and in new chemicals (regulatory scrutiny).  
+ 
+China: 
+• Biomarkers for organotins, 
+• Fingerprint or source identification methods for PAHs in the marine environment. Identification of PAHs 
+other than the 16 USEPA PAHs,   
+• Development of an indicator for the identification of pathogenic organism identification resulting from 
+fecal pollution, 
+• Capacity building and inter-calibration exercises for analytical methods. 
+ 
+Japan: 
+• Methods to normalize concentrations in sediments (such as total organic carbon, median diameter), 
+• Methods to assess risks of PBDEs or HBCDs to marine organisms. 
+ 
+Korea: 
+POPs: 
+• Methods to collect samples from marine mammals, including live capture and release with biopsies or dart 
+biopsies, 
+• Methods to collect samples from seabird eggs, preen gland oil, etc.  
+• Analytical methods for multi-residue contaminants and (or) their metabolites, 
+• Development of a POPs monitoring program (or network) in the North Pacific region. 
+ 
+Microplastics: 
+• Size classification and nomenclature of small plastics, 
+• Sampling method of microplastics on shore and at sea, 
+• Separation, isolation and identification methods of microplastics, 
+• Analytical methods of POPs on and in microplastics, 
+• Indicators of microplastic pollution, 
+• Establishment of a microplastic monitoring program (or network) in the North Pacific region. 
+ 
+Russia: 
+• North Pacific monitoring program, 
+• Sampling marine mammals and seabirds using non-destructive techniques, 
+• Methods to collect samples and avoid confounding factors in the field, 
+• Standardized methods to characterize and quantify microplastics. 
+ 
+USA: 
+• Improved methods to sample air pollutants (on ships) and avoid contamination from ship emissions of 
+combustion by-products, 
+• A strategy of pre-deployed sampling equipment and trained personnel assembled in ‘rapid response teams’ 
+to assess acute impacts of episodic events, 
+• Standardised sampling/assessment methodologies for marine debris, both large and small.  Methods needed 
+to assess debris sources, ages of debris (weathering), and impacts. 
+ 
+Section 8  Appendices 
+PICES Scientific Report No. 46  27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.4 Topic Session/workshop summaries and reports from past Annual Meetings 
+ 
+ 
+PICES Twentieth Annual Meeting, October 14–23, 2011, Khabarovsk, Russia ................................................ 28 
+PICES Twenty-first Annual Meeting, October 12–21, 2012, Hiroshima, Japan ................................................ 32 
+PICES Twenty-second Annual Meeting, October 11–20, 2013, Nanaimo, Canada ........................................... 38 
+ 
+Appendices  Section 8 
+28  PICES Scientific Report No. 46 
+PICES Twentieth Annual Meeting (PICES-2011) 
+October 14–23, 2011 
+Khabarovsk, Russia 
+ 
+ 
+Summary of Scientific Sessions and Workshops 
+ 
+ 
+ 
+MEQ Workshop (W3)  
+Pollutants in a changing ocean: Refining indicator approaches in support of coastal management 
+ 
+October 14, 2011 
+ 
+Co-sponsored by: GESAMP, ICES and IOC 
+ 
+Co-Convenors: Kris Cooreman (ICES/Belgium), Peter Kershaw (GESAMP/UK), Olga Lukyanova 
+(PICES/Russia) and Peter Ross (PICES/Canada) 
+ 
+Background 
+ 
+Many anthropogenic pollutants impact marine environmental quality, with coastal zones being particularly 
+vulnerable. Persistent organic pollutants (POPs) are a concern because they magnify in food webs and present 
+health risks to humans and wildlife.  Other chemicals are less persistent, but may nonetheless impact the health 
+of biota.  While some pollution indicators are ensconced into monitoring and management regimes in different 
+nations over space and time, new pollutant concerns may not yet be captured by existing protocols.  These 
+include “micro-plastics”, the breakdown products of debris and other forms of structural pollutants, which can 
+clog the gills of invertebrates and fish, and asphyxiate seabirds and marine mammals.  In addition, these micro-
+plastics may adsorb some of the other chemical contaminants and transfer them to marine organisms.  This 
+workshop reviewed ways in which chemical and structural pollutants enter the marine environment, are 
+transported through ocean currents and/or biological transport, and impact marine biota.  The workshop 
+reviewed several examples of pollution indicators used by different nations, as a basis for improving and/or 
+expanding indicator approaches in the North Pacific Ocean.  These examples also critically evaluate the extent 
+to which changing baselines (e.g., climate variability) may impact on source/transport/fate processes and 
+effects on biota, and recommend means of improving the utility and reliability of current indicator/ monitoring 
+approaches in a changing world.   
+ 
+The objectives of this workshop were to: 
+(1) Critically review 3–5 examples of currently used indicators of marine contamination in different PICES 
+member countries (e.g., shellfish monitoring of PAHs, metals, persistent organic pollutants, fecal bacteria; 
+POPs in seabird eggs and marine mammals); list advantages and disadvantages for each, and describe 
+management/policy linkages; Consider the influence of changing climate on indicator performance and ways 
+to address this. 
+(2) Review emergent pollutant concerns and in particular, examine the topic of plastics and micro-plastics as 
+structural pollutants and as mechanisms for the transfer of contaminants to marine biota; examine existing 
+and/or new opportunities to establish indicator approaches to plastic pollution, and review sampling and 
+analytical methods. 
+(3) From these applied examples/case studies, identify opportunities for future PICES activities on the topic of 
+marine pollution: 
+ evaluate feasibility of establishing Study Group on Marine Contaminants, including terms of reference, 
+membership, and deliverables; 
+ describe the scope of PICES/FUTURE activities that focus on contaminants in the North Pacific marine 
+environment; 
+Section 8  Appendices 
+PICES Scientific Report No. 46  29 
+ update and revise MEQ Action Plan elements on marine contaminants; 
+ identify potential interactions with IOC/ICES/GESAMP/NOWPAP/NOAA programs that focus on 
+contaminants in the marine environment. 
+ 
+Summary of Workshop 
+ 
+Dr. Peter Kershaw (United Kingdom) described the mandate and activities of the United Nations-sponsored 
+Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection (GESAMP), which 
+provides expert advice on priority topics, as well as assessments of regional and global environmental concerns. 
+One activity that is relevant to PICES is the GESAMP effort to identify pollution indicators for the United 
+Nations Transboundary Waters Assessment Programme (TWAP) in groundwater, rivers, lakes, Large Marine 
+Ecosystems (LMEs) and open oceans.  In addition, GESAMP has a number of Working Groups that are active 
+in relevant areas, including ‘mercury, cadmium and lead’ (WG37), ‘the historical inputs of contaminants into 
+coastal ecosystems’ (WG39), ‘source, fate and effects of micro-plastics in the marine environment’ (WG40). 
+In addition, a new Correspondence Group is being established to evaluate the ‘biomagnification of pollutants 
+in top predators’.  
+ 
+Dr. Kris Cooreman (Belgium) described the aim within the ICES realm for integrated science in support of 
+management. Dr Cooreman stressed that fisheries regulations were ineffectual when the root causes of reduced 
+fish stocks are unrelated to fishing.  In addition to a recent example of a population-level impact related to a 
+single chemical (the antifoulant tributyltin and reduced shrimp stocks), other European examples include the 
+effects of PCBs and DDT on reproduction and health of seabirds and marine mammals.  A long history of 
+interest in the area of marine pollution positions ICES well to partner with PICES on subjects of mutual 
+interest into the future. 
+ 
+Dr. Joel Baker (USA) led discussions and activities on the topic of micro-plastics, which provided a basis for 
+the field trip on the Amur River the following day.  This pollutant category encompasses a wide variety of 
+types, sizes, shapes, colours and origins for ‘structural pollutants’, highlighting the need for improved 
+standardization of assessment methods.  Major challenges, and hence opportunities for collaboration in the 
+North Pacific, include: methods to detect and quantify, distribution over space, and effects on biota (including 
+invertebrates, fish, turtles, seabirds and marine mammals). 
+ 
+Dr. Annamalai Subramanian (Japan) delivered an overview of POPs and metals in the Asia-Pacific region.  
+The concentrations of different contaminants of concern have been quantified in some of the hundreds of 
+invertebrate, fish, seabird and marine mammal species for which samples have been stored at the 
+Environmental Specimen Bank for Global Monitoring at Ehime University, Japan.  Results reveal widespread 
+environmental responses to the use, disposal and regulation of many of the POPs.  Of note was the influence of 
+the biology of the species selected on the contaminant message: sessile mussels provided evidence of ‘local’ 
+contamination, while migratory albatross and northern fur seals provided a more regional or ‘global’ 
+contaminant signal. 
+ 
+Local participants, including Olga Lukyanova, Mikhail Simokon and Vasiliy Tsygankov, described some of 
+the priority concerns along the coastline of the Russian Far East and adjacent waters.  While human population 
+density is relatively low in this region, there exist concerns about offshore oil and gas exploration and 
+development in the Sea of Okhotsk, metals related to local industrial activity, radioactive releases, and POPs 
+and biological pollutants from global sources. 
+ 
+Workshop Recommendations 
+ 
+To recommend establishing a one-year Study Group on Marine Pollutants to: 
+ Identify novel approaches to operational marine pollution assessment by developing a list of priority 
+pollutant concerns in each PICES nation; identifying indicators of status, trends and effects; harmonizing 
+Appendices  Section 8 
+30  PICES Scientific Report No. 46 
+methods to evaluate their effects on biota; and describing case studies which illustrate the effectiveness of 
+indicators in informing the success of remedial actions. 
+ Identify interactions within PICES scientific committees and expert groups that will complement the SG-
+MP, and be consistent with FUTURE. 
+ Explore potential partnerships with other organizations which could lead to joint activities, improve 
+efficiencies and strengthen scientific outcomes. 
+ Develop recommendations for a PICES expert group on marine pollutants. 
+ 
+List of papers 
+ 
+Oral presentations 
+Peter J. Kershaw (Invited) 
+Pollution indicators in the marine environment – A GESAMP perspective 
+Kris Cooreman, Roel Smolders, Yves Verhaegen, Koen Parmentier, Patrick Roose and Guy Smagghe (Invited) 
+Building expert knowledge to reach integrated scientific advice for marine management 
+Annamalai Subramanian and Shinsuke Tanabe (Invited) 
+Contamination by persistent organic pollutants in the Asia-Pacific region 
+Joel E. Baker, Julie Masura, Gregory Foster and Courtney Arthur (Invited) 
+Abundance, distribution, sources and potential implication of microplastic particles in coastal waters of the North Pacific region 
+ 
+Poster presentations 
+Natalia Pichugina and Vladimir Goryachev 
+The radioactive pollution of hydrobionts at the place of nuclear accident in the Chazhma Bay, the Japan Sea 
+Vasiliy Yu. Tsygankov, Margarita D. Boyarova, Peter A. Tyupeleev and Olga N. Lukyanova 
+Persistent organic pollutants (POPs) and mercury (Hg) in organs of the grey whale (Eschrichtius robustus) from the Bering Sea 
+Mikhail V. Simokon and Lidiya T. Kovekovdova 
+Mercury in the bottom sediments of Peter the Great Bay (Japan/East Sea) 
+Mikhail V. Simokon 
+Environmental pollution monitoring of Far Eastern Seas 
+Zou Ya-Rong, Zou Bin and Liang Chao 
+Multiple index marine oil spill information extraction research 
+Zou Ya-Rong, Zou Bin and Liang Chao 
+Using the SAR to analyze marine oil spill polarization characteristics 
+ 
+ 
+ 
+Extracted from: 
+ 
+2011 Report of the Marine Environmental Quality Committee 
+ 
+ 
+AGENDA ITEM 6  
+Proposed Study Group on Marine Pollutants (SG-MP)  
+Drs. Olga Lukyanova and Peter Ross convened workshop (W3) on “Pollutants in a changing ocean: Refining 
+indicator approaches in support of coastal management” at PICES-2011) with contributed support from 
+GESAMP, ICES, and IOC.  The workshop included presentations by 4 invited speakers, a series of brief 
+“power-talks”, discussions sessions, and presentation of 6 posters. During the workshop, participants discussed 
+the role and scope of international collaborative work on the issue of marine pollutants and contaminants, and 
+developed a proposal for a Study Group to report through the MEQ Committee.  It is widely recognized that 
+pollution of the North Pacific marine environment has affected fish and wildlife in some regions at the 
+population level, and has led to socio-economic impacts such as commercial fishing closures, barriers to 
+commercial trade, and restrictions on seafood consumption.  Improving approaches to pollution assessments 
+among PICES member countries may help to alleviate many of these problems, and could better inform 
+Section 8  Appendices 
+PICES Scientific Report No. 46  31 
+managers and stakeholders in addressing emerging pollution issues.  The purpose of the proposed Study Group 
+is to identify novel or promising approaches to monitoring pollutant trends over space and time, and to 
+evaluate impacts on biota at the population level.  The Study Group will establish a list of priority substances 
+and pollutant indicators in PICES member countries using a series of case studies (e.g., microplastics in 
+seawater, seabird egg monitoring for POPs over time; risk-based ranking of complex pollutant mixtures in 
+sediments).  This will help identify those methods or approaches that would benefit from harmonization (e.g., 
+characterization of heterogeneous microplastic content in seawater or biota), and improve data delivery and 
+scientific advice to managers and stakeholders.   
+Appendices  Section 8 
+32  PICES Scientific Report No. 46 
+PICES Twenty-first Annual Meeting (PICES-2012) 
+October 12–21, 2012 
+Hiroshima, Japan 
+ 
+ 
+Summary of Scientific Sessions and Workshops 
+ 
+ 
+BIO/MEQ Topic Session (S6)  
+Environmental contaminants in marine ecosystems: Seabirds and marine mammals as sentinels of 
+ecosystem health  
+ 
+October 17, 2012 
+ 
+Co-sponsored by: JSPS 
+ 
+Co-convenors: Peter Ross (Canada), Hideshige Takada (Japan) and Yutaka Watanuki (Japan) 
+ 
+Background 
+ 
+Urban and industrial developments in the world’s coastal regions have led to the release of a large number of 
+pollutants (heavy metals, POPs, plastics, oils, radioactive substances) into the marine environment.  In some 
+cases, these have detrimental effects on variety of marine resources in coastal and offshore areas. It is 
+increasingly important to identify sources, subsequent transport through marine physical systems and resulting 
+spatial patterns of these anthropogenic stressors.  Compared to river-lake systems, knowledge of anthropogenic 
+stressors in marine systems is less understood due to difficulties with detection over wide areas and in offshore 
+regions.  As top predators, such as many marine mammals and seabirds, bio-magnify some of these pollutants, 
+these organisms can be used as bio-indicators of coastal, marine and/or food web contamination.  The utility of 
+these ‘sentinels’ was discussed at the PICES-2011 MEQ Workshop. This session:  1) identified spatial patterns 
+and geographic areas of concern (high concentrations) of pollutants or other stressors in the PICES region 
+using bio-indicator species, 2) examined mechanisms of transport, and ultimate disposition, of contaminants in 
+marine ecosystems, and 3) discussed health risks for certain predators and human consumers.  Review papers, 
+case studies, and innovative methods papers on anthropogenic stressors in marine predators were invited, as 
+well as papers that distinguished between the effects of natural and anthropogenic stressors.  In particular, 
+studies linking predator habitat use with spatial aspects of stressors in the environment and in predators were 
+encouraged.  
+ 
+Summary of presentations 
+ 
+Ten talks (5 from Japan, 2 from Canada, 1 from Korea, 1 from Russia, and 1 from UK,) and 4 posters (all from 
+Russia) were given.  Spatial patterns and interannual changes in POPs (Persistent Organic Pollutants), 
+including PCBs, DDTs, HCHs, and PBDs in marine birds and some terrestrial birds were presented, and their 
+usefulness as bio-indicators were discussed.  A common theme among many of the presentations was the need 
+to consider age and the trophic level as important factors when evaluating and comparing contaminants levels 
+among species or populations.  Case studies of monitoring marine debris ashore and POPs in plastic pellets 
+were also presented.  Forty to 50 people, including bird and mammal researchers, geochemists, and 
+biochemists attended the session and gave useful discussion.  The co-convenors discussed the potential for a 
+review paper on the usefulness and limitation of marine birds and mammals as indicators of marine pollutants, 
+and the spatial patterns of POPs shown by them in the PICES region. 
+ 
+ 
+  
+Section 8  Appendices 
+PICES Scientific Report No. 46  33 
+List of papers 
+ 
+Oral presentations 
+Andy Sweetman, John Crosse, Richard Shore, Gloria Pereira and Kevin Jones (Invited) 
+Long term trends in PBDE concentrations in gannet (Morus bassanus) eggs from two UK colonies  
+Rei Yamashita, Hideshige Takada, Mai Miyazaki, Takashi Yamamoto, Akinori Takahashi, Maki Yamamoto, Philip N. 
+Trathan and Yutaka Watanuki (Invited) 
+Persistent organic pollutants (POPs) in preen gland oils from streaked shearwaters reflect exposure in overwintering areas  
+Sang Hee Hong, Gi Myung Han, Won Joon Shim, Sung Yong Ha and Nak Won Heo 
+Concentrations and profiles of persistent organic pollutants (POPs) in birds collected from an urbanized coastal region of South 
+Korea  
+Annamalai Subramanian and Shinsuke Tanabe 
+Developing Asian countries as sources of pollutants to the Asia-Pacific region  
+John E. Elliott, Kyle H. Elliott, Melanie F. Guigueno, Laurie K. Wilson, Sandi Lee and Abde Idrissi (Invited) 
+Seabirds are indicators of persistent contaminants in the marine environment: Examples from the Pacific Coast of Canada  
+Peter S. Ross 
+Persistent Organic Pollutants (POPs) in marine mammals: Harmless chemicals or lingering poisons?  
+Vasiliy Yu. Tsygankov, Margarita D. Boyarova, Anna A. Lukashkina, Peter A. Tyupeleev, Ilya А. Shcherbakov, Yuri V. 
+Prikhodko and Olga N. Lukyanova 
+Marine mammals as bioindicators of persistent toxic substance (PTS) contamination in Russian Subarctic marine ecosystems  
+Atsuo Ito, Rei Yamashita, Hideshige Takada, Takashi Yamamoto, Kozue Shiomi, Carlos Zavalaga, Takuya Abe, Shinichi 
+Watanabe, Maki Yamamoto, Katsufumi Sato, Hiromi Kohno, Ken Yoda, Tomohiko Iida and Yutaka Watanuki 
+POPs in the preen gland oil of streaked shearwaters breeding on the islands in Japan reflect marine pollution in western North 
+Pacific  
+Atsuhiko Isobe, Shin’ichiro Kako and Etsuko Nakashima (Invited) 
+Marine/beach plastic litter as a transport vector of pollutants  
+Kosuke Tanaka, Hideshige Takada, Rei Yamashita and Yutaka Watanuki (Invited) 
+Marine plastics: Monitoring matrix for persistent organic pollutants (POPs) and carrier of POPs to seabirds  
+ 
+Poster presentations 
+Andrey S. Neroda, Vasily F. Mishukov, Vladimir A. Goryachev, Denis V. Simonenkov and Anna A. Goncharova 
+Radioactive isotopes in atmospheric aerosols over Russia and the Sea of Japan following the nuclear accident at Fukushima nr. 1 
+Daiichi nuclear power station in March 2011 
+Tatiana Chizhova, Pavel Tishchenko, Liubov Kondratieva and Takuya Kawanishi 
+Polycyclic aromatic hydrocarbon (PAH) distribution in the Amur River estuary 
+Yulia Koudryashova, Natalia Prokuda, Natalia Khodorenko, Tatiana Chizhova and Pavel Tishchenko 
+PAHs in sediments of rivers of the Primorsky Region, Far East of Russia 
+Mikhail V. Simokon 
+Ecological risk evaluation of metals in the coastal areas of Peter the Great Bay, Japan/East Sea 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+Appendices  Section 8 
+34  PICES Scientific Report No. 46 
+Report of the Study Group on Marine Pollutants 
+ 
+ 
+The Study Group on Marine Pollutants (SG-MP Endnote 1) met at PICES-2012 on October 12, 2012, in 
+Hiroshima, Japan, to finalize its report to the MEQ Committee and to formulate recommendations for future 
+PICES activities.  A draft of the Study Group report comprised input on research needs and priorities for the 
+North Pacific Ocean, and identified opportunities for future collaboration.  The SG-MP brought together 
+participation and feedback from all six PICES member countries, and built on the successful workshop held at 
+PICES-2011 in Khabarovsk, Russia. 
+ 
+The SG-MP: 
+i) identified pollution priorities for the North Pacific Ocean,  
+ii) proposed a selection of indicator (sentinel) approaches to pollution research and monitoring,  
+iii) recommended efforts to carry out inter-laboratory calibration and method sharing, and 
+iv) identified several existing or proposed multi-lateral or professional partnerships.  
+ 
+While the SG-MP noted variation in the responses (priorities) of PICES member countries, there was broad 
+agreement on a common working list of important marine pollution topics for the North Pacific Ocean.  These 
+included: 
+i) identification of priority pollutants (persistent, bioaccumulative and toxic pollutants; hydrocarbons; 
+metals, elements and radionuclides; microplastics; biological pollutants);  
+ii) evaluation of useful and relevant indicator approaches to assessing ocean pollution (water/air/sediments; 
+marine mammals and seabirds; fish; benthos; seaweeds; plastics);  
+iii) identification of inter-laboratory method calibration opportunities and study design sharing; and  
+iv) multilateral collaboration opportunities (ICES, GESAMP, NOWPAP, SETAC).  
+ 
+Indicators of pollution can provide an effective integrated message to managers (e.g., response to regulations, 
+source control, remediation, risk-based evaluation of seafood safety, general ecosystem indicators).  
+ 
+Based on input of the six PICES member countries during the 2011–2012 year, and deliberations during the 
+2012 meeting at Hiroshima, the SG-MP proposed three activities to PICES (MEQ Committee):  
+i) establish a new Section on Emerging Topics in Marine Pollution (S-ETMP) (SG-MP Endnote 2);  
+ii) convene a ½-day Topic Session at PICES-2013 (Nanaimo, Canada) on “Status, trends and effects of 
+pollutants in coastal ecosystems: Implications for wildlife and humans” (SG-MP Endnote 3);   
+iii) organize a workshop/field trip on “Traditional seafoods of the Snuneymux’w First Nation: Insight into 
+food, social and ceremonial uses” (SG-MP Endnote 4) to be hosted at the local aboriginal community 
+during PICES-2013. 
+ 
+ 
+SG-MP Endnote 1 
+SG-MP participation list 
+ 
+Members  
+ 
+Sang Hee Hong (Korea) 
+Shigeru Itakura (Japan) 
+Olga Lukyanova (Russia) 
+Peter S. Ross (Canada, Chairman) 
+Won Joon Shim (Korea) 
+Mikhail Simokon (Russia) 
+Staci Simonich (USA) 
+Zijun Xu (China) 
+Observers 
+ 
+Karin Baba (Japan) 
+John Elliott (Canada) 
+Yochiro Ishibashi (Japan) 
+Sangjin Lee (NOWPAP) 
+Hideaki Maki (Japan) 
+Vasiliy Tsygankov (Russia)
+ 
+Section 8  Appendices 
+PICES Scientific Report No. 46  35 
+SG-MP Endnote 2 
+Proposal to establish a new Section on Emerging Topics in Marine Pollution 
+ 
+The Study Group on Marine Pollutants proposes a new PICES Section on Emerging Topics in Marine 
+Pollution that will provide an expert platform for the timely discussion of new pollution issues and priorities in 
+the North Pacific Ocean.  Marine pollution priorities vary over space and time, and as a function of human and 
+industrial activities.  In some cases, marine pollution can affect the socio-economic well-being of coastal 
+communities by reducing the availability of safe and abundant seafoods, affecting the health of endangered 
+species, and/or negatively impacting the value of the ecotourism sector.  The protection of ecosystem health 
+and services requires rapid and sensitive means to detect emerging pollutant issues before serious adverse 
+impacts arise.  Regulations and/or other management actions resulting from marine pollution research in the 
+past has led to dramatic declines in environmental concentrations of a number of harmful pollutants, 
+subsequently improving the health of marine biota.  This Section will work with the MEQ and FIS committees 
+and provide a leadership role in the provision of advice, and the planning of special sessions and workshops.  
+The Section will identify new contaminants of concern, clarify priority pollutant concerns, and assess the 
+relative importance of pollutants among other natural and anthropogenic stressors. 
+ 
+The establishment of this Section will ensure the continued availability of expertise on marine pollutants 
+within PICES, and deliver guidance to the FUTURE Advisory Panels (AICE, COVE and SOFE). Since 
+climate change is affecting the transport, fate and effects of marine pollutants, this Section will also be of value 
+to other committees, working groups and sections.  Importantly, the proposed Section will address the question 
+identified in the FUTURE Science Plan “How do human activities affect coastal ecosystems and how are 
+societies affected by changes in these ecosystems?” 
+ 
+Terms of Reference 
+ 
+1. Identify emerging marine pollutants in the North Pacific Ocean by: 
+a. convening timely Topic Sessions and workshops on new and emerging pollutants and pollution issues; 
+b. identifying useful indicators of status, trends and effects; and 
+c. providing ecosystem-based advice to PICES Sections, Working Groups and Advisory Panels, 
+especially those identified in the FUTURE Science Plan (AICE, COVE and SOFE). 
+2. Establish partnerships with other professional or multilateral organizations (e.g., ICES, GESAMP, 
+NOWPAP and SETAC). 
+3. Conduct joint activities (working group, sessions, publications) with other parties. 
+4. Design and/or conduct special projects on emerging marine pollutants. 
+ 
+Proposed Co-Chairmen:  Olga Lukyanova (Russia), Peter S. Ross (Canada), Joel Baker (USA) 
+ 
+Proposed membership: 
+John Elliot (Canada) 
+Zhengguo Cui (China) 
+Zijun Xu (China) 
+Ziwei Yao (China) 
+Shigeru Itakura (Japan) 
+Hideaki Maki (Japan) 
+Sang Hee Hon (Korea) 
+Hyo-Bang Moon (Korea) 
+Won Joon Shim (Korea) 
+Michail Simokon (Russia) 
+Staci Simonich (USA) 
+Gina Ylitalo (USA) 
+ 
+ 
+Appendices  Section 8 
+36   PICES Scientific Report No. 46 
+SG-MP Endnote 3 
+Proposal for a ½-day Topic Session on “Status, trends and effects of pollutants in coastal ecosystems: 
+Implications for wildlife and humans” at PICES-2013 
+ 
+Marine pollutants can impact the quality and/or abundance of invertebrates, fish, and wildlife. In addition, the 
+contamination of seafood can diminish the viability of commercial species and/or deliver potentially harmful 
+contaminants to human consumers.  While pollutant topics vary geographically, a number of priority pollutants 
+are common throughout the northern hemisphere.  This session will highlight a number of practical approaches 
+to assessing the status, trends and effects of emerging and/or priority pollutants in the PICES region, as well as 
+examples from other parts of the world.  Some of these approaches are presently being used as indicators of 
+marine environmental quality in some jurisdictions.  Examples include the ‘Mussel Watch’ program for 
+monitoring metals and persistent organic pollutants (POPs), spatial and temporal trends in POPs in seabird 
+eggs, and effects of POPs and hydrocarbons on the health of marine biota.  Some of these efforts have proven 
+very useful in revealing improvements to marine ecosystem health subsequent to the implementation of 
+regulations, including the dramatic declines in PCB, DDT, dioxin and organotin levels and associated effects. 
+Nevertheless, a number of pollutant concerns are emerging, such as replacement flame retardants, 
+pharmaceuticals, and current use pesticides.  Characterizing the status, trends and effects of marine pollutants 
+in coastal ecosystem components can provide cost-effective means to guide regulations, source control and/or 
+remediation strategies that will ultimately protect ecosystem health and services. 
+ 
+Sponsoring Committee/Program: MEQ, FUTURE 
+ 
+Co-convenors: Olga Lukyanova (Russia) and Won Joon Shim (Korea) 
+ 
+Invited speakers: TBD 
+ 
+ 
+SG-MP Endnote 4 
+Proposal for a 1-day Workshop and field trip on “Traditional seafoods of coastal aboriginal communities 
+in the North Pacific: Insight into food, social and ceremonial uses at  
+Snuneymux’w First Nation in Nanaimo, British Columbia” at PICES-2013 
+Seafoods are integral part of the nutritional, social and cultural fabric of many aboriginal communities 
+inhabiting coastal regions of the North Pacific Ocean. The Snuneymux’w First Nation in Nanaimo, British 
+Columbia, is home to 1,200 residents who have relied heavily on seafoods for thousands of years.  Despite 
+now living in an urban environment with ready access to supermarket foods, it has been recently estimated that 
+the average individual from this aboriginal community consumes 12 to 15 times as much seafood as the 
+average Canadian.  Much of this is harvested locally by native fishers.  Community members routinely express 
+concerns about the quality and quantity of their local seafoods.  It is becoming increasingly evident that the 
+availability of nutritious and uncontaminated seafoods is important for food, social and ceremonial purposes in 
+this other coastal communities in BC.  This workshop will bring together local members of the Snuneymux’w 
+First Nation and PICES participants, and provide an invaluable opportunity for sharing, learning and teaching 
+about the importance of traditional seafoods to this aboriginal community.  The workshop will involve 
+discussions on science and traditional ecological knowledge. 
+This workshop is open to any participant attending the 2013 PICES Annual Meeting, but a maximum capacity 
+is set at 45 persons.  The workshop will be of interest to persons working on issues of marine stewardship, 
+marine resource management, seafoods, and local cultures.  Local practices, culture and traditions of First 
+Nations will be showcased at this workshop, with additional input from resource persons from other 
+communities.  The workshop will feature:  
+ cultural welcome and prayer from representative of the Chief-in-Council, Snuneymux’w First Nation;  
+ song and drum opening from local community members;  
+ teachings from local community elders on marine resource management and sustainable harvesting;  
+Section 8  Appendices 
+PICES Scientific Report No. 46  37 
+ discussions on the role of traditional ecological knowledge (TEK) in a science-driven world (a panel of 
+elders and scientists will be invited to prepare 4 × 15 minute talks, followed by discussions);  
+ a tour of the local seashore south of Nanaimo where practical demonstrations will take place on techniques 
+to harvest seaweeds, shellfish and other seafoods;  
+ preparation of lunch foods using traditional aboriginal cooking techniques including a pit-cook and 
+bentwood box; lunch and snacks comprising locally and seasonally-available foods as prawns, oysters, sea 
+urchins, salmon, halibut, and a variety of crops and plants. 
+Sponsoring Committee: MEQ 
+ 
+Facilitator:  Peter Ross (Canada) and local aboriginal community members 
+ 
+Appendices  Section 8 
+38   PICES Scientific Report No. 46 
+PICES Twenty-second Annual Meeting (PICES-2013) 
+October 11–20, 2013 
+Nanaimo, Canada 
+ 
+ 
+Summary of Scientific Sessions and Workshops 
+ 
+ 
+MEQ Workshop (W7)  
+Traditional seafoods of coastal aboriginal communities in the North Pacific: Insight into food, social and 
+ceremonial uses at Snuneymux’w First Nation in Nanaimo, British Columbia  
+ 
+October 11, 2013 
+ 
+Co-Convenors: Peter Ross (Canada) and local community members 
+ 
+ 
+Background 
+ 
+A one-day PICES workshop (W7) on indigenous seafoods was held in the traditional territory of the 
+Snuneymux’w First Nation near Nanaimo, British Columbia (BC), on Friday October 11, 2013.  The workshop 
+touched on aspects of marine stewardship, marine resource management, seafoods, and local aboriginal 
+culture.  Seafoods are an integral part of the nutritional, social and cultural fabric of aboriginal communities 
+inhabiting coastal regions of the North Pacific Ocean.  The Snuneymux’w First Nation in Nanaimo is home to 
+1,200 residents who have relied heavily on seafoods for thousands of years.  Despite now living in an urban 
+environment with ready access to supermarket foods, it has been recently estimated that the average individual 
+from this aboriginal community consumes 12 to 15 times as much seafood as the average Canadian.  Much of 
+this is harvested locally by native fishers.  Community members routinely express concerns about the quality 
+and quantity of their local seafoods.  It is becoming increasingly evident that the availability of nutritious and 
+uncontaminated seafoods is important for food, social and ceremonial purposes in this other coastal 
+communities in BC. 
+ 
+Summary of Workshop 
+ 
+The morning session took place at the Vancouver Island University First Nations Shq’aqpthut (‘Gathering 
+Place’; http://www.viu.ca/gatheringplace/gallery.aspx).  This session featured an opening prayer and song by 
+Geraldine Manson, the Vancouver Island University elder-in-residence from Snuneymux’w.  Geraldine 
+described the importance of seafoods to her community, and recounted stories told by her parents and 
+grandparents on topics of harvesting, cooking and stewardship.  Geraldine then introduced Gary Manson, also 
+an elder from Snuneymux’w.  Gary described the historical importance of the Nanaimo River estuary for 
+shellfish, crab and chum salmon harvesting.  He also talked about the annual journey by canoe over the Strait 
+of Georgia to the Fraser River for sockeye salmon harvesting.  The importance of Gary’s role as elder 
+‘knowledge keeper’ for the Snumeymux’w was evident in the afternoon when he led workshop participants on 
+a tribal canoe journey over to salmon petroglyphs at Jack Point across the estuary. 
+ 
+John Rampanen, “naas-a-thluk”, then narrated his family history in the Nuu-chah-nulth Nation – Ahousaht and 
+Tla-o-qui-aht territories.  John is an advocate for traditional foods and medicine. He combines traditional 
+ecological knowledge with contemporary approaches and is dedicated to providing a strong sense of 
+traditionally-oriented understanding and knowledge amongst First Nations youth and non-Native community 
+partners.  With a background in traditional medicinal practices, healthcare, counseling and indigenous foods, 
+John has redeveloped a presence on his traditional territory (located on the western coast of Vancouver Island) 
+where he now lives with his growing family. 
+ 
+Section 8  Appendices 
+PICES Scientific Report No. 46  39 
+After the tribal canoe journey, some workshop members feasted on tasty smoked and barbequed chum salmon 
+at Snuneymux’w beach hosted by Paul Wyse-Seward and Chris Good.  The success of the workshop was due 
+to the kind assistance of Vancouver Island University (Geraldine Manson, Michele Patterson, Grant Murray, 
+Cathy Fee and students), Snuneymux’w First Nation (Gary Manson, Chris Good, Paul Wyse-Seward and 
+Theodore Barker), and the entire staff of the PICES Secretariat. 
+ 
+ 
+ 
+A one-day workshop on traditional seafoods was held at the PICES-2013 in Nanaimo.  Clockwise from top left: 
+Geraldine Manson, a Snuneymux’w Elder-in-Residence at Vancouver Island University opened the workshop with 
+heartfelt prayer, song and stories; a visit to nearby petroglyphs highlighted the historical importance of chum 
+salmon to the Snuneymux’w; John Rampanen described the strong inter-relationship between marine life and his 
+communities on the west coast of Vancouver Island; some workshop participants got some exercise paddling a tribal 
+canoe from downtown Nanaimo to Jack Point, where Gary Manson described the cultural importance of the 
+‘salmon ceremony’ at this site; a visit to a local smokehouse poignantly underscored the importance of chum salmon 
+to the Snuneymux’w.  Photo credits: Cathy Fee and Peter S. Ross. 
+ 
+ 
+  
+Appendices  Section 8 
+40   PICES Scientific Report No. 46 
+MEQ/FUTURE Topic Session (S3) 
+Status, trends and effects of pollutants in coastal ecosystems: Implications for wildlife and humans 
+ 
+October 16, 2013 
+ 
+Co-Convenors: Olga Lukyanova (Russia) and Won Joon Shim (Korea) 
+ 
+Invited Speakers:  
+Sandra O’Neill (NWFSC, NOAA, USA)  
+Lorrie Rea (University of Alaska Fairbanks, USA) 
+ 
+Background 
+ 
+Marine pollutants can impact the quality and/or abundance of invertebrates, fish, and wildlife.  In addition, the 
+contamination of seafood can diminish the viability of commercial species and/or deliver potentially harmful 
+contaminants to human consumers.  While pollutant topics vary geographically, a number of priority pollutants 
+are common throughout the northern hemisphere.  This session highlighted a number of practical approaches 
+to assessing the status, trends and effects of emerging and/or priority pollutants in the PICES region, as well as 
+examples from other parts of the world.  Some of these approaches are presently being used as indicators of 
+marine environmental quality in some jurisdictions.  Examples include the ‘Mussel Watch’ program for 
+monitoring metals and persistent organic pollutants (POPs), spatial and temporal trends in POPs in seabird 
+eggs, and effects of POPs and hydrocarbons on the health of marine biota.  Some of these efforts have proven 
+very useful in revealing improvements to marine ecosystem health subsequent to the implementation of 
+regulations, including the dramatic declines in PCB, DDT, dioxin and organotin levels and associated effects.  
+Nevertheless, a number of pollutant concerns are emerging, such as replacement flame retardants, 
+pharmaceuticals, and current use pesticides.  Characterizing the status, trends and effects of marine pollutants 
+in coastal ecosystem components can provide cost-effective means to guide regulations, source control and/or 
+remediation strategies that will ultimately protect ecosystem health and services. 
+ 
+Summary of presentations 
+ 
+Session S3 was held on Wednesday, October 16, 2013 (half day).  It was launched with two invited speakers, 
+Sandra O’Neill (Washington Department of Fish and Wildlife, USA) and Lorrie Rea (University of Alaska 
+Fairbanks, USA) and included other 6 oral presentations, 14 posters, and time for discussion. Approximately 
+30 to 40 people, including marine and geochemists, marine biologists, and bird and mammal researchers 
+attended the session and provided useful comments. 
+ 
+The session covered a wide spectrum of pollutants (persistent organic pollutants, polycyclic aromatic 
+hydrocarbons, tributyltin, mercury, arsenic, microplastics and infective human enteric virus) in the Pacific 
+region from all six PICES member countries.  There are on-going marine chemical pollution issues which 
+affect salmon and stellar sea lion populations. O’Neill et al. found that the tissue residue levels and 
+composition of persistent organic pollutants were distinctly different among five Pacific salmon species, 
+depending their dwelling region, migratory route and diet.  Rea et al. showed that Steller sea lions in the 
+western Aleutian Islands had an apparent elevation in mercury and discussed its possible relationship with 
+population decline in specific region.  Simokon et al. reported on arsenic pollution originating from land-based 
+activity in the coastal ecosystems of Far Eastern Seas. Polycyclic aromatic hydrocarbons contamination and 
+their possible source and input pathways after the great tsunami in Japan were presented by Maki et al. 
+Effective reduction of tributyltin levels in water and biota as well as its effects on marine organism was 
+evaluated by Shim et al. after the implementation of total ban on tributyltin based antifouling paints in Korea. 
+It could be a good example of proper management of marine chemical pollutants.  A new emerging pollutant, 
+microplastics in the marine environment in coastal British Columbia, was revealed by Desforges et al.  An 
+abundance of floating microplastics showed an obvious gradient from the coast to the open ocean.  Watanuki 
+et al. presented on a monitoring technique using feathers of tracked seabirds for investigating the spatial pattern 
+of marine pollution was presented. Fan (Fan and Ming) discussed infective human enteric virus contamination 
+Section 8  Appendices 
+PICES Scientific Report No. 46  41 
+and its risk assessment in surface seawater of Bohai Bay, China, and demonstrated that it is required to manage 
+pathogen pollution.  Poster presentations included microplastic pollution and its biological effects, 
+spatiotemporal distribution of persistent organic pollutants and heavy metals. Through this session, presenters 
+and audience agreed that there is still a variety of marine pollution issues to be dealt with in the Pacific region. 
+Legacy and emerging persistent organic pollutants and heavy metals and marine debris including microplastics 
+are high priority issues and topics in the Pacific.  There is a growing need to address these pollution issues in 
+the North Pacific region through an expert group.  Based on the proposal of the Study Group of Marine 
+Pollutants (SG-MP), a new Working Group on Emerging Topics in Marine Pollution (WG-ETMP/WG 31) 
+was established under the direction of the Marine Environmental Quality Committee during the Annual Meeting.  
+ 
+ 
+List of Papers 
+ 
+Oral presentations 
+Sandra O’Neill, Gina Ylitalo, David Herman and James West (Invited) 
+Persistent organic pollutant fingerprints in five Pacific salmon species (Oncorhynchus spp.): Evidence of distinct contaminant 
+sources associated with their marine distribution and feeding  
+Lorrie D. Rea, J. Margaret Castellini, Lucero Correa, Brian S. Fadely, Vladimir N. Burkanov and Todd M. O’Hara 
+(Invited) 
+Some maternal Steller sea lion diets elevate fetal mercury concentrations in the western Aleutian Island area of population 
+decline  
+Yutaka Watanuki, Ai Yamashita, Mayumi Ishizuka, Yoshinori Ikenaka, Shouta M.M. Nakayama, Chihiro Ishii, Takashi 
+Yamamoto, Motohiro Ito, Tomohiro Kuwae and Philip N. Trathan 
+Feathers of tracked seabirds reveal a spatial pattern of marine pollution  
+Mikhail V. Simokon, Lidia T. Kovekovdova and Denis P. Kiku 
+Arsenic in the coastal ecosystems of Far Eastern Seas  
+Won Joon Shim, Nam Sook Kim, Sang Hee Hong, Gi Myung Han and Sung Yong Ha 
+An almost successful story of TBT regulation to protect the coastal environments of Korea 
+Hideaki Maki, Gen Kanaya, Shin-Ichi Fukuchi,Kazuki Miura, Hisao Sasaki, Nobuyuki Tanaka, Nobuo Chiba and Osamu 
+Nishimura 
+Petrogenic and pyrogenic PAHs contamination in the sediments in Tohoku coastal seas, Japan by the great tsunami on 3.11.2011 
+Jean-Pierre Desforges, Moira Galbraith, Neil Dangerfield and Peter Ross 
+Microplastics in the marine environment in coastal British Columbia 
+Jingfeng Fan and Hongxia Ming 
+The contamination and risk assessment of infective human enteric viruses in surface seawater from Bohai Bay, China  
+ 
+ 
+Poster presentations 
+Sangjin Lee 
+NOWPAP activities addressing marine litter  
+Young Kyoung Song, Won Joon Shim, Mi Jang, Sang Hee Hong and Gi Myung Han 
+Ship paint as a new input source of floating microplastics in surface microlayer  
+Chunjiang Guan, Fengao Lin and Jingfeng Fan 
+A public questionnaire survey of oil spill in 7.16 Dalian New Port 
+Dong-Woon Hwang, Pyoung-Joong Kim, Minkyu Choi, In-Seok Lee, Sook-Yang Kim and Hee-Gu Choi 
+Temporal trend and spatial distribution of trace metals in coastal sediment of Korean peninsula 
+Jung-Hoon Kang, Oh-Youn Kwon, Kyun-Woo Lee and Won Joon Shim 
+Marine floating microplastics around Geoje Bay in the Southern Sea of Korea 
+Kyun-Woo Lee, Jung-Hoon Kang and Won Joon Shim 
+Toxicity of micro polystyrene particle for marine copepod Tigriopusjaponicus 
+Yanin Limpanont, Kwang-Sik Choi, Hyun-Ki Hong and Chang-Keun Kang 
+Histopathology of Manila clams Ruditapes philippinarum surveyed in Korean waters 
+Guangshui Na, Zihao Lu, Wanru Zhang, Hui Gao, Jinqiu Du, Zhen Wang, Yaqi Cai, Ziwei Yao and Chuanlin Huo 
+Occurrence and distribution of five types of antibiotics and antibiotic-resistant Escherichia coli in Liao River estuary, China 
+Jianguo Du, Zhao Jiayi and Chen Bin 
+Assessing ecological risks of heavy metals to marine organisms by species sensitivity distributions
+Appendices  Section 8 
+42   PICES Scientific Report No. 46 
+Report of the Study Group on Marine Pollutants 
+ 
+ 
+The Study Group on Marine Pollutants (SG-MP; 2011–2013) met for its final business meeting under the 
+chairmanship of Dr. Peter Ross in Nanaimo, Canada, on Saturday, October 12, 2013 (see SG-MP Endnote 1 
+for list of participants).  This ½-day meeting followed the workshop (W7) on “Traditional seafoods of the 
+Snuneymux’w First Nation in Nanaimo, BC: Insight into food, social and ceremonial uses”.  
+ 
+At the meeting participants reviewed past activities of the SG-MP and  
+i)  made changes to complete the SG-MP final report for submission to MEQ for approval;  
+ii)  made changes to the proposal for a new Section on Emerging Topics in Marine Pollution (later 
+recommended as a Working Group by Science Board; SG-MP Endnote 2).  Included in the list of plans for 
+the proposed Section were Topic Sessions and workshops, which will lead to special journal issues and a 
+contribution to the 3
+rd
+ PICES North Pacific Status Report during the period 2014–2016;  
+iii)  finalized a proposal for a Topic Session on “Marine debris in the ocean: Sources, transport, fate and 
+effects of macro- and micro-plastics” (SG-MP Endnote 3) for PICES-2014 in Yeosu, Korea (to be co-
+sponsored by NOWPAP, GESAMP and ICES).   
+ 
+ 
+ 
+SG-MP Endnote 1 
+SG-MP participation list
+ 
+Members  
+ 
+Peter S. Ross (Canada, Chairman) 
+Shigeru Itakura (Japan) 
+Won Joon Shim (Korea) 
+Staci Simonich (USA) 
+Mikhail Simokon (Russia) 
+Zijun Xu (China) 
+ 
+ 
+ 
+Observers 
+ 
+Hideaki Maki (Japan) 
+Karin Baba (Japan)
+ 
+SG-MP Endnote 2 
+Proposal for a Section on Emerging Topics in Marine Pollution (S-ETMP) 
+ 
+General objectives 
+ 
+Pollution can adversely affect the health and abundance of marine biota, especially in densely-populated 
+coastal areas.  The downstream socio-economic consequences can be significant, with numerous examples of 
+consumption advisories, commercial fishery closures, commercial trade interdictions and diminished 
+aboriginal access to food resources around the North Pacific Ocean.  The protection of ecosystem health and 
+services requires an ability to detect emerging pollutant issues before serious adverse impacts arise. 
+Regulations, policies and other management actions resulting from marine pollution research in the past have 
+led to dramatic declines in environmental concentrations of a number of harmful pollutants, subsequently 
+improving the health of marine biota.  
+ 
+This proposed Section will provide leadership on emerging pollution issues to the PICES community, 
+reporting through the MEQ Committee.  The S-ETMP will convene a series of timely Topics Sessions and 
+workshops, and coordinate special issues in international peer-reviewed journals.  The Section will ensure the 
+continued availability of expertise on marine pollutants within PICES, and deliver guidance to the FUTURE 
+Advisory Panels (notably AICE and SOFE).  The Section will collaborate with other PICES expert groups in 
+co-convening activities or compiling data.  Importantly, the Section will address the question identified in the 
+Section 8  Appendices 
+PICES Scientific Report No. 46   43 
+FUTURE Science Plan “How do human activities affect coastal ecosystems and how are societies affected by 
+changes in these ecosystems?”  
+ 
+Terms of Reference 
+ 
+1. Document and profile emerging marine pollution issues in the North Pacific Ocean within the PICES 
+community by:  
+a. Convening Topic Sessions and workshops on new and emerging pollutants and pollution issues; 
+b. Coordinating a series of special issues in international peer-reviewed journals based on topic sessions; 
+and  
+c. Contributing to the next edition of the PICES North Pacific Ecosystem Status Report by compiling 
+data describing spatial and temporal trends for pollution indicators in the North Pacific Ocean.  
+2. Strengthen partnerships to deliver Topic Sessions/workshops and to publish special issues with: 
+a. Other PICES expert groups, especially those identified in the FUTURE Science Plan. 
+b. Other multilateral organizations, including the International Council for the Exploration of the Sea 
+(ICES), the Joint Group of Experts on the Scientific Aspects of Marine Environmental Protection 
+(GESAMP), and the Northwest Pacific Action Plan (NOWPAP). 
+ 
+Proposed activities 2014–2019 (3 yr + 3 yr) 
+ 
+The Section on Emerging Topics in Marine Pollution will engage in specific activities that will identify 
+contaminants of emerging concern, prioritize pollutants from the many sources, and assess the relative 
+importance of pollutants among other natural and anthropogenic stressors.  Members will contribute to 
+discussions and strategic planning with the MEQ Committee as well as through other PICES expert groups.  
+The S-ETMP will build on the success of a number of activities carried out by the SG-MP, including two 
+workshops (2011, Khabarovsk: Pollutants in a changing ocean: Refining indicator approaches in support of 
+coastal management and 2013, Nanaimo: Traditional seafoods of coastal aboriginal communities in the North 
+Pacific: Insight into food, social and ceremonial uses at Snuneymux’w First Nation in Nanaimo, British 
+Columbia) and two Topic Sessions (2012, Hiroshima: Environmental contaminants in marine ecosystems: 
+Seabirds and marine mammals as sentinels of ecosystem health; 2013, Nanaimo: Status, trends and effects of 
+pollutants in coastal ecosystems: Implications for wildlife and humans).  The proposal for establishing a S-
+ETMP will benefit from the current support of ICES and GESAMP. 
+ 
+Topic Sessions at PICES Annual Meetings 
+ 2014: Marine debris in the North Pacific Ocean: source, transport, fate and effects of macro- and micro-
+plastics (solicit expert input from WG 29 on the role of ocean currents in shaping marine debris transport 
+and fate; co-sponsored by NOWPAP, GESAMP and ICES); 
+ 2015: Indicators of emerging marine pollution issues in the North Pacific Ocean (co-convene a session 
+with WG 28 on multiple stressors, WG 30 on radiation, and S-HD, and with support of AP-SOFE, AP-
+AICE and AP-MBM); 
+ 2016: Sources, transport and fate of hydrocarbons in the marine environment, including oil spills, vessel 
+emissions, long-range transport  (co-convene a session with partners to be determined, and with support of 
+AP-AICE);  
+ 2017: Climate influences on pollutant transport, fate and effects in the North Pacific Ocean (co-convene a 
+session with S-CCME on climate variability and change, and with support of AP-COVE); 
+ 2018: Seafood safety in the Pacific Ocean: Risks vs benefits (co-convene a session with WG 30 on 
+radiation, S-HAB on natural toxins, and S-HD, and with support of AP-AICE). 
+ 
+Meetings/Workshops 
+ 2014: S-ETMP meeting, data compilation; 
+ 2015: Indicators of emerging marine pollution issues in the North Pacific Ocean (co-convene a data 
+compilation workshop with WG 28, and with support of AP-MBM); 
+Appendices  Section 8  
+44   PICES Scientific Report No. 46 
+ 2016: Oil spill monitoring and characterization (co-convene a workshop with the Korean Institute of 
+Ocean Science and Technology (KIOST), and with support of AP-AICE); 
+ 2017: Status and trend of marine pollution in the coasts of North Pacific rim (co-convene a data 
+compilation workshop with NOWPAP, and with support of AP-MBM); 
+ 2018: Monitoring and assessment of marine pollution in the coasts of North Pacific rim (co-convene a 
+data compilation workshop with NOWPAP, and with support of AP-MBM). 
+ 
+Special journal issues 
+ 2015:  Marine debris in the North Pacific; 
+ 2016:  North Pacific pollution indicators; 
+ 2017:  Sources, transport and fate of hydrocarbons in the North Pacific;   
+ 2018:  Climate–pollutant interactions in the North Pacific; 
+ 2019:  Seafood safety in the North Pacific. 
+ 
+Compilation of data for marine pollution 
+Compiled data for marine pollution indicators and findings will be delivered to multiple PICES expert groups, 
+in particular to AP-SOFE, in support of the North Pacific Ecosystem Status Report ~2016/17. 
+ 
+The S-ETMP will directly address the following questions of the FUTURE program: 
+3. How do human activities affect coastal ecosystems and how are societies affected by changes in these 
+ecosystems? 
+3.1  What are the dominant anthropogenic pressures in coastal marine ecosystems and how are they changing?  
+• By characterizing emerging pollution priorities in the North Pacific Ocean. 
+ 
+3.2  How are these anthropogenic pressures and climate forcings, including sea level rise, affecting nearshore 
+and coastal ecosystems and their interactions with offshore and terrestrial systems? 
+• By documenting the impacts of emerging pollutants in the North Pacific Ocean, especially in coastal 
+environments, and in a changing ocean environment. 
+ 
+3.3  How do multiple anthropogenic stressors interact to alter the structure and function of the systems, and 
+what are the cumulative effects? 
+• By collaborating with other expert groups to document importance of marine pollution relative to 
+multiple stressors.  
+ 
+3.4  What will be the consequences of projected coastal ecosystem changes and what is the predictability and 
+uncertainty of forecasted changes? 
+• By developing approaches to pollutant indicators that account for climate variability and change. 
+• By characterizing changing pollution risks as climate changes. 
+ 
+3.5  How can we effectively use our understanding of coastal ecosystem processes and mechanisms to 
+identify the nature and causes of ecosystem changes and to develop strategies for sustainable use? 
+• By prioritizing pollutant sources and types in support of source control, regulations and best practices. 
+• By translating compiled data and findings through the PICES North Pacific Status Report to formats 
+that are understandable to the general public and a wider audience.  
+ 
+Proposed membership* 
+ 
+Recommended Co-Chairmen: Olga Lukyanova (Russia), Peter S. Ross (Canada), Won Joon Shim (Korea), 
+Staci Simonich (USA)  
+ 
+  
+Section 8  Appendices 
+PICES Scientific Report No. 46   45 
+Proposed members:   
+John Elliott (Canada) 
+Zhengguo Cui (China) 
+Zijun Xu (China)     
+Ziwei Yao (China) 
+Shigeru Itakura (Japan) 
+Hideaki Maki (Japan) 
+Sang Hee Hong (Korea) 
+Hyo-Bang Moon (Korea) 
+Mikhail Simokon (Russia) 
+Joel Baker (USA)      
+Gina Ylitalo (USA) 
+_______________ 
+*The additional members for the proposed Section on Emerging Topics in Marine Pollution will be designated by 
+each PICES member country based on their expertise related to the Section topics. 
+ 
+ 
+ 
+SG-MP Endnote 3 
+Proposal for a 1-day MEQ Topic Session on  
+“Marine debris in the Ocean: Sources, transport, fate and effects of macro- and micro-plastics”  
+at PICES-2014 
+ 
+Co-Convenors:  Won Joon Shim (Korea), Peter S. Ross (Canada), Olga Lukyanova (Russia), Sangjin Lee 
+(NOWPAP), Peter Kershaw (GESAMP), Jesus Manuel Gago Piñeiro (Spain)  
+ 
+Marine debris is increasingly recognized as a threat to biota in the ocean, which can have a range of socio-
+economic impacts from coastal areas to the open ocean.  The majority of marine debris consists of synthetic 
+polymers, or ‘plastics’, which readily float on the ocean surface or are suspended in the water column.  
+Microplastics may be attributed to the intentional manufacture of commercial products or the fragmentation of 
+plastic products.  They can increase the bioavailable fraction of marine litter and act as a vector for the delivery 
+of intrinsic or adsorbed toxic chemicals to exposed biota.  Floating, submerged and beached debris have been 
+documented in marginal seas and the adjacent coastal zone of the North Pacific Ocean.  In addition, the North 
+Pacific Ocean Gyre is known to accumulate floating debris in what has become known as the “Great Pacific 
+Garbage Patch”.  Marine debris represents trans-boundary pollution which can also deliver associated 
+chemicals and invasive organisms to regions far removed from source.  The objective of this session is to 
+present status and trend information for marine plastic debris pollution and its environmental consequences in 
+the PICES region.  Papers are invited that assess macro- or micro-plastic debris 1) hotspots in the PICES 
+region, 2) source and input pathways, 3) long-range transport, 4) role as sink or source of associated toxic 
+chemicals, and 5) biological and ecological effects.  Recommendations on how to address growing problems 
+associated with marine debris will be also considered. 
+  
+Appendices  Section 8  
+46   PICES Scientific Report No. 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.5 PICES Press article  
+ 
+ 
+PICES-2011 Workshop on “Trends in Marine Contaminants and their Effects in a Changing Ocean”  
+PICES Press, Vol. 20, No. 1, Winter 2012  .............................................................................................. 47 
+ 
+ 
+  
+Section 8  Appendices 
+PICES Scientific Report No. 46   47 
+PICES-2011 Workshop on “Trends in Marine Contaminants  
+and their Effects in a Changing Ocean” 
+ 
+by Peter S. Ross and Olga Lukyanova 
+ 
+The sheer number of contaminants entering the North 
+Pacific Ocean from a combination of point and non-point 
+sources provides a daunting backdrop to those concerned 
+with the protection of aquatic biota.  However, this did not 
+deter the 16 participants at the workshop on “Trends in 
+marine contaminants and their effects in a changing ocean: 
+Refining indicator approaches in support of coastal 
+management”, who spent a productive day discussing 
+topics related to the workshop theme, and a day sampling 
+for microplastics on the Amur River.  This workshop, co-
+sponsored by GESAMP (Joint Group of Experts on the 
+Scientific Aspects of Marine Environmental Protection) 
+and ICES (International Council for the Exploration of the 
+Sea), was held on October 14, 2011, in conjunction with 
+the 2011 PICES Annual Meeting in Khabarovsk, Russia. 
+ 
+The workshop agenda included four invited presentations.  
+Representatives from GESAMP and ICES delivered 
+concise insight into their concerns, priorities, and activities.  
+Dr. Peter Kershaw (Centre for Environment, Fisheries and 
+Aquaculture Science, UK) described the mandate and 
+activities of the UN-sponsored GESAMP, which is also 
+supported by IMO, FAO, IOC-UNESCO, WMO, IAEA, 
+UNEP and UNIDO.  GESAMP provides expert advice on 
+priority topics, as well as assessments of regional and 
+global environmental concerns.  One major activity of 
+relevance to PICES is reflected in GESAMP efforts to 
+identify and apply pollution indicators for the UN 
+Transboundary Waters Assessment Programme (TWAP) in 
+five categories: groundwater, rivers, lakes, Large Marine 
+Ecosystems (LMEs) and open oceans.  GESAMP currently 
+has a number of Working Groups that are active in such 
+areas as “mercury, cadmium and lead” (WG 37), “the 
+historical inputs of contaminants into coastal ecosystems” 
+(WG 39), and “source, fate and effects of microplastics in 
+the marine environment” (WG 40).  In addition, a new 
+Correspondence Group is being established to evaluate the 
+“biomagnification of pollutants in top predators”.  This 
+concern for the scale of pollution impacts on the marine 
+environment is shared by the general public (Fig. 1). 
+ 
+Dr. Kris Cooreman (Institute for Agricultural and Fisheries 
+Research, Belgium) described the aim within the ICES 
+realm for integrated science in support of management.  He 
+stressed that fisheries regulations were ineffectual when the 
+root causes of reduced fish stocks are unrelated to fishing, 
+and presented one case study on the decades-long decline 
+in the abundance of shrimp (Crangon crangon) which had 
+been attributed to overfishing.  However, recent research 
+suggests that the extensive contamination of coastal 
+sediments in Europe by the antifoulant chemical tributyltin  
+ 
+Fig. 1 Over 10,000 people respond: “When you are thinking about the 
+coastline or the sea, what are the three most important matters 
+that come to mind?” (http://www.CLAMER.eu). 
+ 
+(TBT) historically used on vessel hulls caused reduced 
+growth and survival of shrimp.  In addition to this example 
+of a population-level impact related to a single chemical, 
+other European examples include the effects of PCBs (poly-
+chlorinated biphenyls) and DDT (dichlorodiphenyl-
+trichloroethane) on reproduction and health of seabirds and 
+marine mammals.  A long history of interest in the area of 
+marine pollution positions ICES extremely well to partner 
+with PICES on subjects of mutual interest into the future. 
+ 
+Dr. Joel Baker (Center for Urban Waters, University of 
+Washington, U.S.A.) presented an overview on the emerging 
+microplastics concern, which provided a basis for the field 
+trip on the Amur River the next day (see photos).  This one 
+pollutant category encompasses a very wide variety of 
+types, sizes, shapes, colours and origins for this “structural 
+pollutant”, highlighting the need for standardized 
+assessment methods.  “Microplastics” may be defined as 
+any solid material < 5 mm that is primarily composed of 
+synthetic polymers, but may also be considered from a 
+practical perspective to be larger than 330 µm so as to be 
+compatible with ichthyoplanktonic surveys.  Microplastics 
+include both primary (produced intentionally for consumer 
+products) and secondary (generated by disintegration of 
+larger materials) materials.  Major challenges, and hence 
+opportunities for collaboration in the North Pacific, are: 
+methods to detect and quantify, distribution over space, and 
+effects on biota (including invertebrates, fish, turtles, 
+seabirds and marine mammals).  Evidence of impact today 
+is largely limited to the visually obvious macroplastics 
+which have caused mortality in some stranded turtles, 
+seabirds, and marine mammals. 
+ 
+Dr. Annamalai Subramanian (Ehime University, Japan) 
+delivered an overview of persistent organic pollutants 
+(POPs) and metals in the Asia-Pacific region.  Dedicated 
+sampling from multiple species over the past three decades 
+has been carried out through the Environmental Specimen 
+Bank for Global Monitoring at his university.  Contaminants  
+Appendices  Section 8 
+48   PICES Scientific Report No. 46 
+ 
+ 
+ 
+ 
+A field trip to the Amur River near Khabarovsk on October 15, 2011, provided an opportunity for some of the workshop participants to conduct surface 
+tows for microplastics from a small craft.  Shown here clockwise, starting at top is the sampling platform, participants decanting microplastic samples 
+from the plankton net on shore, workshop members examining samples using a dissecting microscope in the laboratory of the Khabarovsk Branch of 
+Pacific Research Fisheries Centre, Russian Federal Agency on Fisheries, and Drs. Joel Baker and Olga Lukyanova with 330 µm mesh plankton net prior 
+to deployment.  Photos by A. Subramanian, P.S. Ross and O. Lukyanova. 
+ 
+have been determined for some of the many hundreds of 
+invertebrate, fish, seabird and marine mammal species for 
+which samples have been collected and preserved over time 
+and space.  Results reveal widespread environmental 
+responses to the use, disposal and subsequent regulation of 
+many of the POPs.  Mussels have been utilized as sessile 
+indicators of coastal pollution by POPs and metals 
+throughout Asia.  Albatross have been used to provide an 
+integrated measure of POPs along their migratory corridor.  
+Northern fur seals reveal improvements in the way of 
+reductions in the concentrations of some POPs over time. 
+ 
+Russian scientists, including Olga Lukyanova, Mikhail 
+Simokon and Vasiliy Tsygankov, provided insight into some 
+of the priority concerns along the coastline of the Russian 
+Far East and adjacent waters.  While human population 
+density is relatively low in this region, there exist concerns 
+about offshore oil and gas exploration and development in 
+the Sea of Okhotsk, metals related to local industrial activity, 
+radioactive releases, and POPs and biological pollutants 
+from global sources. 
+ 
+Because of the complexity of marine pollution issues in the 
+North Pacific Ocean, workshop participants were focussed 
+on defining concepts and strategies that would lead to 
+pragmatic indicators.  It was agreed that a series of basic 
+concepts should be used to identify contaminant indicators 
+that could be shared among PICES member countries.  In 
+Section 8  Appendices 
+PICES Scientific Report No. 46   49 
+this way, the indicator must: 
+ involve a species (e.g., mussels) or matrix (e.g., 
+sediment) which is well understood; 
+ involve a pollutant or class of pollutants for 
+which analytical methods are available; 
+ provide the best available science to 
+management; 
+ provide insight into spatial and temporal 
+changes; 
+ have linkages to a risk of adverse effects; 
+ be responsive to regulations; 
+ be able to identify emerging contaminant 
+concerns; 
+ be cost-effective. 
+ 
+Since there exists no single indicator which can 
+adequately capture all contaminant concerns, 
+workshop participants acknowledged the need for a 
+suite of indicators which could capture different 
+contaminant types including, for example, persistent, 
+bioaccumulative contaminants (e.g., POPs) in seabird 
+eggs or marine mammals, metals and radionuclides 
+in mussels, hydrocarbons in flatfish, and plastics in 
+seawater.  Several regional examples from researchers 
+in different PICES member countries were cited as 
+examples to build on, where opportunities to improve 
+analytical techniques, exchange samples, collect new 
+samples, and/or exchange expertise were considered. 
+ 
+During the next year, a new PICES Study Group on 
+Marine Pollutants (SG-MP) will operate under the 
+aegis of the Marine Environmental Quality (MEQ) Committee to 
+identify novel approaches to operational marine pollution 
+assessment with the aim of: establishing a list of priority 
+pollutants; identifying indicators of status, trends and effects; 
+harmonizing methods to evaluate impacts on biota; and describing 
+case studies which demonstrate the effectiveness of indicators to 
+inform the success of remedial actions.  This effort will create 
+opportunities for PICES scientists to participate in a renewal of 
+the pollution topic and to identify emerging concerns, technologies 
+and concepts into the FUTURE. 
+ 
+ 
+Following the workshop on marine pollution indicators, some workshop 
+participants went on an excursion on the Amur River to collect microplastics under 
+the guidance of Dr. Joel Baker (third from the left).  Photo by O. Lukyanova 
+ 
+  
+Dr. Peter S. Ross (peter.s.ross@dfo-mpo.gc.ca) is a Research Scientist with Fisheries and Oceans Canada (DFO) at the Institute of 
+Ocean Sciences in Sidney, British Columbia, and Adjunct Professor at Simon Fraser University and the University of Victoria.  Peter is 
+an ecotoxicologist specializing in marine mammals.  He conducts research on source, transport, fate and effects of environmental 
+contaminants in Canada and internationally.  Within PICES, Peter serves on the Advisory Panel on Marine Birds and Mammals and the 
+Study Group on Maine Pollutants.  He is also frequent participant at the meetings of the Marine Environmental Quality Committee. 
+Dr. Olga Lukyanova (onlukyanova@tinro.ru) is a Research Biologist at the Pacific Research Fisheries Centre (TINRO-Centre) in 
+Vladivostok, Russia.  Olga conducts research on marine pollution and its effects on biota in the Russian zone of Far Eastern seas in the 
+North Pacific.  She is wearing multiple hats within PICES being a member of the Section on Harmful Algal Blooms, Section on Human 
+Dimensions of Marine Systems, Working Group on Development of Ecosystem Indicators to Characterize Ecosystem Responses to 
+Multiple Stressors and Study Group on Marine Pollutants. 
+Continued from inside back cover 
+Jamieson, G. and Zhang, C.-I. (Eds.)  2005.  Report of the 
+Study Group on Ecosystem-Based Management Science 
+and its Application to the North Pacific.  PICES Sci. 
+Rep. No. 29, 77 pp. 
+Brodeur, R. and Yamamura, O. (Eds.)  2005.  Micronekton of 
+the North Pacific.  PICES Sci. Rep. No. 30, 115 pp. 
+Takeda, S. and Wong, C.S. (Eds.)  2006.  Report of the 2004 
+Workshop on In Situ Iron Enrichment Experiments in the 
+Eastern and Western Subarctic Pacific.  PICES Sci. Rep. 
+No. 31, 187 pp. 
+Miller, C.B. and Ikeda, T. (Eds.)  2006.  Report of the 2005 
+Workshop on Ocean Ecodynamics Comparison in the 
+Subarctic Pacific.  PICES Sci. Rep. No. 32, 103 pp. 
+Kruse, G.H., Livingston, P., Overland, J.E., Jamieson, G.S., 
+McKinnell, S. and Perry, R.I. (Eds.)  2006.  Report of the 
+PICES/NPRB Workshop on Integration of Ecological 
+Indicators of the North Pacific with Emphasis on the 
+Bering Sea.  PICES Sci. Rep. No. 33, 109 pp. 
+Hollowed, A.B., Beamish, R.J., Okey, T.A. and Schirripa, 
+M.J. (Eds.) 2008.  Forecasting Climate Impacts on Future 
+Production of Commercially Exploited Fish and 
+Shellfish. PICES Sci. Rep. No. 34, 101 pp. 
+Beamish, R.J. (Ed.)  2008.  Impacts of Climate and Climate 
+Change on the Key Species in the Fisheries in the North 
+Pacific. PICES Sci. Rep. No. 35, 217 pp. 
+Kashiwai, M. and Kantakov, G.A. (Eds.) 2009.  Proceedings of 
+the Fourth Workshop on the Okhotsk Sea and Adjacent 
+Areas.   PICES Sci. Rep. No. 36, 305 pp. 
+Jamieson, G., Livingston, P. and Zhang, C.-I. (Eds.)  2010.  
+Report of Working Group 19 on Ecosystem-based 
+Management Science and its Application to the North 
+Pacific.  PICES Sci. Rep. No. 37, 166 pp. 
+Pakhomov, E. and Yamamura, O. (Eds.)  2010.  Report of the 
+Advisory Panel on Micronekton Sampling Intercalibration 
+Experiment.  PICES Sci. Rep. No. 38, 108 pp. 
+Makino, M. and Fluharty, D.L. (Eds.) 2011. Report of the 
+Study Group on Human Dimensions. PICES Sci. Rep.  
+No. 39, 40 pp. 
+Foreman, M.G. and Yamanaka, Y. (Eds.) 2011. Report of 
+Working Group 20 on Evaluations of Climate Change 
+Projections.  PICES Sci. Rep. No. 40, 165 pp. 
+McKinnell, S.M., Curchitser, E., Groot, C., Kaeriyama, M. 
+and Myers, K.W. 2012.  PICES Advisory Report on the 
+Decline of Fraser River Sockeye Salmon Oncorhynchus 
+nerka (Steller, 1743) in Relation to Marine Ecology. 
+PICES Sci. Rep. No. 41, 149 pp. 
+Takeda, S., Chai, F. and Nishioka, J. (Eds.) 2013.  Report of 
+Working Group 22 on Iron Supply and its Impact on 
+Biogeochemistry and Ecosystems in the North Pacific 
+Ocean. PICES Sci. Rep. No. 42, 60 pp. 
+Shaw, C.T., Peterson, W.T. and Sun, S. (Eds.) 2013.  Report 
+of Working Group 23 on Comparative Ecology of Krill in 
+Coastal and Oceanic Waters around the Pacific Rim. 
+PICES Sci. Rep. No. 43, 100 pp. 
+Abo, K., Burgetz, I. and Dumbauld, B. (Eds.) 2013. Report of 
+Working Group 24 on Environmental Interactions of 
+Marine Aquaculture.  PICES Sci. Rep. No. 44, 122 pp. 
+Hollowed, A.B., Kim, S., Barange, M. and Loeng, H. (Eds.) 
+2013. Report of the PICES/ICES Working Group on 
+Forecasting Climate Change Impacts on Fish and Shellfish. 
+PICES Sci. Rep. No. 45, 197 pp. 
+Ross, P.S. (Ed.) 2013. Report of the Study Group on Marine 
+Pollutants. PICES Sci. Rep. No. 46, 49 pp. 
+ 
+ 
+ 
+Continued on inside back page 
+PICES Scientific Reports 
+ 
+ 
+Hargreaves, N.B., Hunter, J.R., Sugimoto, T. and Wada, T. 
+(Eds.) 1993.  Coastal Pelagic Fishes (Report of 
+Working Group 3); Subarctic Gyre (Report of Working 
+Group 6).  PICES Sci. Rep. No. 1, 130 pp. 
+Talley, L.D. and Nagata, Y. (Eds.) 1995.  The Okhotsk Sea 
+and Oyashio Region (Report of Working Group 1).  
+PICES Sci. Rep. No. 2, 227 pp. 
+Anonymous. 1995.  Report of the PICES-STA Workshop 
+on Monitoring Subarctic North Pacific Variability.  
+PICES Sci. Rep. No. 3, 94 pp. 
+Hargreaves, N.B. (Ed.) 1996. Science Plan, Implementation 
+Plan (Report of the PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity).  
+PICES Sci. Rep. No. 4, 64 pp. 
+LeBlond, P.H. and Endoh, M. (Eds.) 1996.  Modelling of 
+the Subarctic North Pacific Circulation (Report of 
+Working Group 7).  PICES Sci. Rep. No. 5, 91 pp. 
+Anonymous. 1996. Proceedings of the Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. 
+No. 6, 426 pp. 
+Beamish, R.J., Hollowed, A.B., Perry, R.I., Radchenko, 
+V.I., Yoo, S. and Terazaki, M. (Eds.) 1997.  Summary 
+of the Workshop on Conceptual/Theoretical Studies and 
+Model Development and the 1996 MODEL, BASS and 
+REX Task Team Reports.  PICES Sci. Rep. No. 7,  
+93 pp. 
+Nagata, Y. and Lobanov, V.B. (Eds.) 1998.  Multilingual 
+Nomenclature of Place and Oceanographic Names in 
+the Region of the Okhotsk Sea.  PICES Sci. Rep. No. 
+8, 57 pp. (Reprint from MIRC Science Report, No. 1, 
+1998) 
+Hollowed, A.B., Ikeda, T., Radchenko, V.I. and Wada, T. 
+(Organizers) 1998.  PICES Climate Change and 
+Carrying Capacity Workshop on the Development of 
+Cooperative Research in Coastal Regions of the North 
+Pacific.  PICES Sci. Rep. No. 9, 59 pp. 
+Freeland, H.J., Peterson, W.T. and Tyler, A. (Eds.) 1999.  
+Proceedings of the 1998 Science Board Symposium on 
+The Impacts of the 1997/98 El Niño Event on the North 
+Pacific Ocean and Its Marginal Seas.  PICES Sci. Rep. 
+No. 10, 110 pp. 
+Dugdale, R.C., Hay, D.E., McFarlane, G.A., Taft, B.A. and 
+Yoo, S. (Eds.) 1999.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Summary of the 1998 MODEL, MONITOR and REX 
+Workshops, and Task Team Reports.  PICES Sci. Rep. 
+No. 11, 88 pp. 
+Lobanov, V.B., Nagata, Y. and Riser, S.C. (Eds.) 1999.  
+Proceedings of the Second PICES Workshop on the 
+Okhotsk Sea and Adjacent Areas.  PICES Sci. Rep. 
+No. 12, 203 pp. 
+Danchenkov, M.A., Aubrey, D.G. and Hong, G.H. 2000.  
+Bibliography of the Oceanography of the Japan/East 
+Sea.  PICES Sci. Rep. No. 13, 99 pp. 
+Hunt, G.L. Jr., Kato, H. and McKinnell, S.M. (Eds.) 2000. 
+Predation by Marine Birds and Mammals in the 
+Subarctic North Pacific Ocean.  PICES Sci. Rep. No. 
+14, 168 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2000.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 1999 MONITOR and 
+REX Workshops, and the 2000 MODEL Workshop on Lower 
+Trophic Level Modelling.  PICES Sci. Rep. No. 15, 148 pp. 
+Stehr, C.M. and Horiguchi, T. (Eds.) 2001.  Environmental 
+Assessment of Vancouver Harbour Data Report for the 
+PICES MEQ Practical Workshop.  PICES Sci. Rep. No. 
+16, 213 pp. 
+Megrey, B.A., Taft, B.A. and Peterson, W.T. (Eds.) 2001.  
+PICES-GLOBEC International Program on Climate Change 
+and Carrying Capacity:  Report of the 2000 BASS, MODEL, 
+MONITOR and REX Workshops, and the 2001 
+BASS/MODEL Workshop.  PICES Sci. Rep. No. 17, 125 pp. 
+Alexander, V., Bychkov, A.S., Livingston, P. and McKinnell, 
+S.M. (Eds.) 2001.  Proceedings of the PICES/CoML/IPRC 
+Workshop on “Impact of Climate Variability on 
+Observation and Prediction of Ecosystem and Biodiversity 
+Changes in the North Pacific”.  PICES Sci. Rep. No. 18, 
+210 pp. 
+Otto, R.S. and Jamieson, G.S. (Eds.) 2001.  Commercially 
+Important Crabs, Shrimps and Lobsters of the North Pacific 
+Ocean.  PICES Sci. Rep. No. 19, 79 pp. 
+Batchelder, H.P., McFarlane, G.A., Megrey, B.A., Mackas, 
+D.L. and Peterson, W.T. (Eds.) 2002.  PICES-GLOBEC 
+International Program on Climate Change and Carrying 
+Capacity: Report of the 2001 BASS/MODEL, MONITOR 
+and REX Workshops, and the 2002 MODEL/REX 
+Workshop.  PICES Sci. Rep. No. 20, 176 pp. 
+Miller, C.B. (Ed.) 2002.  PICES-GLOBEC International 
+Program on Climate Change and Carrying Capacity:  
+Report of the PICES 2002 Volunteer Observing Ship 
+Workshop.  PICES Sci. Rep. No. 21, 38 pp. 
+Perry, R.I., Livingston, P. and Bychkov, A.S. (Eds.) 2002.  
+PICES Science: The First Ten Years and a Look to the 
+Future.  PICES Sci. Rep. No. 22, 102 pp. 
+Taylor, F.J.R. and Trainer, V.L. (Eds.) 2002.  Harmful Algal 
+Blooms in the PICES Region of the North Pacific.  PICES 
+Sci. Rep. No. 23, 152 pp. 
+Feely, R.A. (Ed.) 2003.  CO
+2
+ in the North Pacific Ocean 
+(Working Group 13 Final Report).  PICES Sci. Rep. No. 
+24, 49 pp. 
+Aydin, K.Y., McFarlane, G.A., King, J.R. and Megrey, B.A. 
+(Eds.)  2003. PICES-GLOBEC International Program on 
+Climate Change and Carrying Capacity:  The BASS/ 
+MODEL Report on Trophic Models of the Subarctic Pacific 
+Basin Ecosystems.  PICES Sci. Rep. No. 25, 93 pp. 
+McKinnell, S.M. (Ed.) 2004.  Proceedings of the Third 
+Workshop on the Okhotsk Sea and Adjacent Areas.  PICES 
+Sci. Rep. No. 26, 275 pp. 
+Kishi, M.J. (Ed.) 2004.  Report of the MODEL Task Team 
+Second Workshop to Develop a Marine Ecosystem Model 
+of the North Pacific Ocean including Pelagic Fishes. 
+PICES Sci. Rep. No. 27, 49 pp. 
+King, J.R. (Ed.)  2005.  Report of the Study Group on the 
+Fisheries and Ecosystem Responses to Recent Regime 
+Shifts. PICES Sci. Rep. No. 28, 162 pp. 
+ 
+ 
+PICES SCIENTIFIC REPORTS 
+ 
+ 
+ 
+Published since 1993, the PICES Scientific Report series includes proceedings of PICES workshops, final 
+reports of PICES expert groups, data reports and reports of planning activities.  Formal peer reviews of the 
+scientific content of these publications are not generally conducted. 
+ 
+Printed copies of Scientific Reports are available upon request from 
+ 
+PICES Secretariat 
+P.O. Box 6000 
+Sidney, British Columbia 
+Canada.  V8L 4B2 
+E-mail:  secretariat@pices.int 
+ 
+ 
+On-line versions of PICES Scientific Reports can be found at  
+www.pices.int/publications/scientific_reports/default.aspx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report was developed under the guidance of the PICES Science Board and its Marine Environmental 
+Quality Committee. The views expressed in this report are those of participating scientists under their 
+responsibilities. 
+ 
+ 
+ 
+This document should be cited as follows: 
+ 
+Ross, P.S. (Ed.)  2014.  Report of the Study Group on Marine Pollutants.  PICES Sci. Rep. No. 46, 49 pp. 
+NORTH   PACIFIC   MARINE   SCIENCE   ORGANIZATION
+PICES SCIENTIFIC REPORT  
+No. 46, 2014
+PICES SCIENTIFIC REPORT No. 46,  2014
+Report of the Study Group on  
+Marine Pollutants 
+ISBN  978-1-927797-10-5
+ISSN 1198-273X
+ 
+ 
+ 
+PICES PUBLICATIONS 
+ 
+ 
+The North Pacific Marine Science Organization (PICES) was established by an international convention 
+in 1992 to promote international cooperative research efforts to solve key scientific problems in the North 
+Pacific Ocean. 
+ 
+PICES regularly publishes various types of general, scientific, and technical information in the following 
+publications: 
+ 
+ 
+PICES ANNUAL REPORTS – are major 
+products of PICES Annual Meetings which 
+document the administrative and scientific activities 
+of the Organization, and its formal decisions, by 
+calendar year.   
+ 
+PICES SCIENTIFIC REPORTS – include 
+proceedings of PICES workshops, final reports of 
+PICES expert groups, data reports and planning 
+reports. 
+ 
+PICES TECHNICAL REPORTS – are on-line 
+reports published on data/monitoring activities that 
+require frequent updates. 
+ 
+SPECIAL PUBLICATIONS – are products that 
+are destined for general or specific audiences. 
+ 
+JOURNAL SPECIAL ISSUES – are peer-
+reviewed publications resulting from symposia 
+and Annual Meeting scientific sessions and 
+workshops that are published in conjunction with 
+commercial scientific journals.   
+ 
+BOOKS – are peer-reviewed, journal-quality 
+publications of broad interest. 
+ 
+PICES PRESS – is a semi-annual newsletter 
+providing timely updates on the state of the 
+ocean/climate in the North Pacific, with highlights of 
+current research and associated activities of PICES. 
+ 
+ABSTRACT BOOKS – are prepared for PICES 
+Annual Meetings and symposia (co-)organized by 
+PICES. 
+ 
+ 
+ 
+For further information on our publications, visit the PICES website at www.pices.int. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Front cover figure 
+ 
+A killer whale (Orcinus orca) breaching in the waters offshore from a paper mill in Malaspina Strait, near 
+the northern part of the Strait of Georgia, British Columbia (photo credit: Graeme Ellis, DFO, Pacific 
+Biological Station). 
