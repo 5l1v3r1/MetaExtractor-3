@@ -118,7 +118,8 @@ public class Main {
                     _name.matches("(.*)Areas(.*)") ||
                     _name.matches("(.*)areas(.*)") ||
                     _name.matches("(.*)E-mail(.*)") ||
-                    _name.matches("(.*)e-mail(.*)")
+                    _name.matches("(.*)e-mail(.*)") ||
+                    _name.matches("(.*)www(.*)")
                     ) {
                 continue;
             }
@@ -159,7 +160,7 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-        String infile = args.length > 0 ? args[0] : "D:\\projects\\Java\\MetadataExtraction\\resources\\reports\\20.pdf";
+        String infile = args.length > 0 ? args[0] : "D:\\projects\\Java\\MetadataExtraction\\resources\\reports\\53.pdf";
 
         PDFToTXT pdftotxt = new PDFToTXT();
         try {
