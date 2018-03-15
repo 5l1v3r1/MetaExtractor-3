@@ -141,20 +141,38 @@ public class Main {
     public static void getTitle(String[] lines) {
         Pattern p0 = Pattern.compile("ISBN");
         Pattern p1 = Pattern.compile("ISSN");
-        int test = 0;
+        Pattern spaces = Pattern.compile("(\\s*)");
+
+        Pattern year = Pattern.compile("[0-9]{4}");
+        boolean isYear = false;
+        boolean isTitle = false;
         for (int i = 0; i < lines.length; ++i) {
+            Matcher sm = spaces.matcher(lines[i]);
+            if (sm.matches()) {
+                if (isTitle) {
+                    break;
+                }
+                continue;
+            }
+
+            Matcher sy = year.matcher(lines[i]);
+            if (sy.find() && !isYear) {
+                isYear = true;
+                continue;
+            }
+
+            if (!isYear) {
+                continue;
+            }
             Matcher m0 = p0.matcher(lines[i]);
             Matcher m1 = p1.matcher(lines[i]);
             boolean b0 = m0.find();
             boolean b1 = m1.find();
             if (b0 || b1) {
-                test++;
-                continue;
-            } else {
-                System.out.print(lines[i]+"\n");
-            }
-            if (test >= 2) {
                 break;
+            } else {
+                isTitle = true;
+                System.out.print(lines[i]+"\n");
             }
         }
     }
